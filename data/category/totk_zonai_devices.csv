@@ -1,0 +1,28 @@
+﻿id,es-419,en-GB,fr-CA,ko,ja,ru,nl,it,de,zh,zh-Hant,fr,es,en
+SpObj_BalloonEnvelope_A_01,Globo aerostático,Balloon,Montgolfière,열기구,熱気球,Воздушный шар,Heteluchtballon,Aeroglobo,Heißluftballon,热气球,熱氣球,Montgolfière,Globo aerostático,Balloon
+SpObj_Beamos_A_01,Fotocéfalo,Beam Emitter,Lance-laser,광선 머리,光線の頭,Лазер,Laserkanon,Fotocefalo,Laserwerfer,光线头,光線頭,Lance-laser,Fotocéfalo,Beam Emitter
+SpObj_Cannon_A_01,Cañón,Cannon,Canon,대포,大砲,Пушка,Kanon,Cannone,Kanone,大炮,大炮,Canon,Cañón,Cannon
+SpObj_Cart_A_01,Transportador,Cart,Convoyeur,수레,台車,Тележка,Platte kar,Vettore,Transporter,平台车,平台車,Convoyeur,Transportador,Cart
+SpObj_Chaser_A_01,Autotransportador,Homing Cart,Convoyeur autoguidé,추적 수레,追跡台車,Автономный бот,Doelzoekend voertuig,Vettore automatico,Automatik-Transporter,追踪平台车,追蹤平台車,Convoyeur autoguidé,Autotransportador,Homing Cart
+SpObj_ControlStick_A_01,Timón,Steering Stick,Gouvernail,조종간,操縦桿,Штурвал,Stuurtoestel,Cloche,Lenkelement,操纵杆,操縱桿,Gouvernail,Timón,Steering Stick
+SpObj_CookSetOnFire_A_01,Cacerola portátil,Portable Pot,Marmite de voyage,휴대 냄비,携帯鍋,Переносной казан,Reiskookpan,Pentolone portatile,Reisekochtopf,便携锅,便攜鍋,Marmite de voyage,Cacerola portátil,Portable Pot
+SpObj_ElectricBoxGenerator,Electrocéfalo,Shock Emitter,Lance-foudre,뇌룡의 머리,雷龍の頭,Шокер,Bliksemwerper,Elettrocefalo,Blitzwerfer,雷龙头,雷龍頭,Lance-foudre,Electrocéfalo,Shock Emitter
+SpObj_EnergyBank_A_01,Batería extra,Battery,Batterie,스페어 배터리,スペアバッテリー,Батарея,Batterij,Batteria di scorta,Ersatzbatterie,备用电池,備用電池,Batterie de rechange,Batería extra,Battery
+SpObj_EnergyBank_A_02,Superbatería extra,Big Battery,Batterie haute capacité,대용량 배터리,大容量バッテリー,Расширенная батарея,Extra krachtige batterij,Superbatteria di scorta,Hochleistungsbatterie,大容量电池,大容量電池,Batterie haute capacité,Superbatería extra,Big Battery
+SpObj_FastWheel_A_01,Rueda pequeña,Small Wheel,Roulette,작은 타이어,小さなタイヤ,Маленькое колесо,Klein wiel,Ruota piccola,Rädchen,小轮胎,小輪胎,Roulette,Rueda pequeña,Small Wheel
+SpObj_SwitchWheel_B_01,Rueda grande,Big Wheel,Roue,커다란 타이어,大きなタイヤ,Большое колесо,Groot wiel,Ruota grande,Rad,大轮胎,大輪胎,Roue,Rueda grande,Big Wheel
+SpObj_FlameThrower_A_01,Igneocéfalo,Flame Emitter,Lance-flamme,화룡의 머리,火龍の頭,Огнемет,Vlammenwerper,Ignicefalo,Flammenwerfer,火龙头,火龍頭,Lance-flamme,Igneocéfalo,Flame Emitter
+SpObj_FlashLight_A_01,Foco,Light,Projecteur,라이트,ライト,Прожектор,Lamp,Luce,Scheinwerfer,灯,燈,Projecteur,Foco,Light
+SpObj_FloatingStone_A_01,Bloque flotante,Hover Stone,Plateforme lévitante,부유석,浮遊石,Летающий камень,Zweefsteen,Pietra fluttuante,Schwebestein,浮游石,浮遊石,Plateforme lévitante,Bloque flotante,Hover Stone
+SpObj_GolemHead_A_01,Cabeza de gólem,Construct Head,Tête de Golem,골렘의 머리,ゴーレムの頭,Голова голема,Zonoïdekop,Testa di golem,Konstruktkopf,魔像的头部,魔像的頭部,Tête de Golem,Cabeza de gólem,Construct Head
+SpObj_LiftGeneratorWing_A_01,Planeador,Wing,Planeur,날개,翼,Параплан,Draagvleugel,Aliante,Gleiter,翼,翼,Planeur,Planeador,Wing
+SpObj_WaterPump_A_01,Hidrante,Hydrant,Déverseur,소화전,放水柱,Гидрант,Brandkraan,Idrante,Hydrant,放水栓,放水栓,Déverseur,Hidrante,Hydrant
+SpObj_LightMirror_A_01,Espejo,Mirror,Miroir,거울,鏡,Отражатель,Spiegel,Specchio,Spiegel,镜子,鏡子,Miroir,Espejo,Mirror
+SpObj_Pile_A_01,Estaca,Stake,Pieu,말뚝,杭,Кол,Staak,Paletto,Pfosten,桩,樁,Pieu,Estaca,Stake
+SpObj_Rocket_A_01,Cohete,Rocket,Propulseur,로켓,ロケット,Ракета,Raket,Razzo,Rakete,火箭,火箭,Propulseur,Cohete,Rocket
+SpObj_SlipBoard_A_01,Deslizador,Sled,Glisseur,썰매,ソリ,Сани,Slee,Slitta,Schlitten,滑橇,滑橇,Glisseur,Deslizador,Sled
+SpObj_SnowMachine_A_01,Criocéfalo,Frost Emitter,Lance-glace,빙룡의 머리,氷龍の頭,Морозитель,Vrieswindwerper,Criocefalo,Frostwerfer,冰龙头,冰龍頭,Lance-glace,Criocéfalo,Frost Emitter
+SpObj_SpringPiston_A_01,Resorte,Spring,Ressort,스프링,バネ,Пружина,Veer,Molla,Sprungfeder,弹簧,彈簧,Ressort,Resorte,Spring
+SpObj_TiltingDoll_A_01,Estabilizador,Stabilizer,Balancier,오뚝이,おきあがりこぼし,Неваляшка,Wiebelpop,Sempreinpiedi,Stehaufmännchen,不倒翁,不倒翁,Ramponeau,Tentetieso,Stabilizer
+SpObj_TimerBomb_A_01,Bomba de tiempo,Time Bomb,Bombe à retardement,타이머 폭탄,タイマーバクダン,Часовая бомба,Tijdbom,Bomba a orologeria,Zeitbombe,计时炸弹,計時炸彈,Bombe à retardement,Bomba con temporizador,Time Bomb
+SpObj_WindGenerator_A_01,Turbina,Fan,Turbine,선풍기,扇風機,Пропеллер,Blazer,Turbina,Ventilator,风扇机,風扇機,Turbine,Turbina,Fan

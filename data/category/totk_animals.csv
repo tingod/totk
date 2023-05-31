@@ -1,0 +1,93 @@
+﻿id,es-419,en-GB,fr-CA,ko,ja,ru,nl,it,de,zh,zh-Hant,fr,es,en
+GameRomHorse,Caballo,Horse,Cheval,말,馬,Лошадь,Paard,Cavallo,Pferd,马,馬,Cheval,Caballo,Horse
+GameRomHorse00L,Caballo gigante,Giant Horse,Cheval géant,거대한 말,巨馬,Огромная лошадь,Reuzenpaard,Cavallo gigante,Riesenpferd,巨马,巨馬,Cheval géant,Caballo gigante,Giant Horse
+GameRomHorseZelda,Caballo blanco,White Horse,Cheval blanc,백마,白馬,Белая лошадь,Wit paard,Cavallo bianco,Schimmel,白马,白馬,Cheval blanc,Caballo blanco,White Horse
+GameRomHorse01L,Caballo gigante blanco,Giant White Stallion,Cheval blanc géant,거대한 백마,巨躯の白馬,Огромная белая лошадь,Wit reuzenpaard,Cavallo bianco gigante,Riesenschimmel,巨身白马,巨身白馬,Cheval blanc géant,Caballo gigante blanco,Giant White Stallion
+GameRomHorseGold,Caballo dorado,Golden Horse,Cheval doré,황금마,金色馬,Золотая лошадь,Gouden paard,Cavallo dorato,Goldenes Pferd,金色马,金色馬,Cheval doré,Caballo dorado,Golden Horse
+GameRomHorseBone,Stalcaballo,Stalhorse,Staldestrier,스탈호스,スタルホース,Сталлошадь,Skeletpaard,Stal-lone,Stalpferd,骷髅马,骷髏馬,Staldestrier,Caballo esquelético,Stalhorse
+GameRomHorse00S,Burro,Donkey,Âne,당나귀,ロバ,Осел,Ezel,Asino,Esel,驴,驢,Âne,Burro,Donkey
+Animal_Sunazarashi_A,Morsa del desierto,Sand Seal,Morse des sables,모래표범,スナザラシ,Песчаный котик,Woestijnwalrus,Foca delle sabbie,Sandrobbe,沙海象,沙海象,Morse des sables,Morsa del desierto,Sand Seal
+Animal_SunazarashiSP_C,Morselia,Patricia,Madame Patricia,패트리샤,パトリシアちゃん,Патриция,Patricia,Papizia,Patrizia,帕特丽夏,帕特麗夏,Madame Patricia,Morselia,Patricia
+Animal_Squirrel_A,Ardilla huraña,Bushy-Tailed Squirrel,Écureuil dresse-panache,큰꼬리다람쥐,オタテリス,Пышнохвостая белка,Stuifstaarteekhoorn,Scoiattolo codafolta,Frechhörnchen,尾立松鼠,尾立松鼠,Écureuil dresse-panache,Ardilla,Bushy-Tailed Squirrel
+Animal_Boar_A,Jabalí forestal,Woodland Boar,Sanglier sylvestre,숲멧돼지,モリイノシシ,Лесной кабан,Wild zwijn,Cinghiale silvano,Waldschwein,森林野猪,森林野豬,Sanglier sylvestre,Jabalí común,Woodland Boar
+Animal_Boar_B,Jabalí bocarroja,Red-Tusked Boar,Sanglier à crocs rouges,붉은이멧돼지,キバアカイノシシ,Краснозубый кабан,Everzwijn,Cinghiale zannerosse,Rotzahneber,赤獠野猪,赤獠野豬,Sanglier à crocs rouges,Jabalí negro,Red-Tusked Boar
+Animal_WildGoat_A,Cabra trepacumbres,Mountain Goat,Chèvre à dos noir,등검은염소,セグロヤギ,Горная коза,Berggeit,Capra vellonero,Schwarzrückenziege,黑背山羊,黑背山羊,Chèvre à dos noir,Cabra silvestre,Mountain Goat
+Animal_Goat_A,Cabra doméstica,White Goat,Chèvre blanche,흰염소,シロヤギ,Белая коза,Witte geit,Capra bianca,Weiße Ziege,白山羊,白山羊,Chèvre blanche,Cabra doméstica,White Goat
+Animal_Deer_A,Ciervo montés,Mountain Buck,Cerf des montagnes,산사슴,ヤマシカ,Горный олень,Hert,Cervo montano,Berghirsch,山鹿,山鹿,Cerf des montagnes,Ciervo,Mountain Buck
+Animal_Doe_A,Cierva montesa,Mountain Doe,Biche des montagnes,산사슴(암컷),ヤマシカ（雌）,Горная олениха,Ree,Cerva montana,Berghirschkuh,山鹿（雌）,山鹿（雌）,Biche des montagnes,Cierva,Mountain Doe
+Animal_Bull_A,Búfalo de agua,Water Buffalo,Buffle des marais,습원물소,シツゲンスイギュウ,Болотный буйвол,Waterbuffel,Bufalo di palude,Sumpfbüffel,湿地水牛,濕地水牛,Buffle des marais,Búfalo,Water Buffalo
+Animal_Cow_A,Vaca de Hatelia,Hateno Cow,Vache d'Elimith,하테노소,ハテノウシ,Хатенская корова,Hateno-koe,Mucca di Finterra,Hateno-Kuh,哈特诺牛,哈特諾牛,Vache d'Elimith,Vaca de Hatelia,Hateno Cow
+Animal_Sheep_A,Oveja esteparia,Highland Sheep,Mouton des plateaux,고원양,コウゲンヒツジ,Горная овца,Hooglandschaap,Montone dell'altopiano,Hochlandschaf,高原羊,高原羊,Mouton des plateaux,Oveja,Highland Sheep
+Animal_Fox_A,Zorro campestre,Grassland Fox,Renard des plaines,평원여우,ヘイゲンギツネ,Луговая лиса,Steppevos,Volpe di pianura,Steppenfuchs,平原狐,平原狐,Renard des plaines,Zorro común,Grassland Fox
+Animal_Fox_B,Zorro albo,Snowcoat Fox,Renard neigeux,눈색여우,ユキイロギツネ,Полярная лиса,Poolvos,Volpe delle nevi,Schneefuchs,雪狐,雪狐,Renard neigeux,Zorro de las nieves,Snowcoat Fox
+Animal_Wolf_A,Lobo taimés,Maraudo Wolf,Loup brigand,산적늑대,サンゾクオオカミ,Волк-разбойник,Roverswolf,Lupo razziatore,Räuberwolf,山贼狼,山賊狼,Loup brigand,Lobo común,Maraudo Wolf
+Animal_Wolf_B,Coyote del yermo,Wasteland Coyote,Coyote Assek,황무지코요테,カラカラコヨーテ,Койот кара-кара,Woestijncoyote,Coyote arsur,Wüstenkojote,荒原土狼,荒原土狼,Coyote Assek,Coyote,Wasteland Coyote
+Animal_Wolf_C,Lobo patablanca,Cold-Footed Wolf,Loup des neiges,설원늑대,セツゲンオオカミ,Снежный волк,Poolwolf,Lupo delle nevi,Schneewolf,雪原狼,雪原狼,Loup des neiges,Lobo de las nieves,Cold-Footed Wolf
+Animal_Elk_A,Alce de Tabanta,Tabantha Moose,Orignal de Tabanta,타반타엘크,タバンタヘラジカ,Табантский лось,Tabantha-eland,Alce di Colbacco,Tabanta-Elch,塔邦挞驼鹿,塔邦撻駝鹿,Élan de Tabanta,Alce de Tabanta,Tabantha Moose
+Animal_Pao_A,Gondon,Dondon,Gondon,동고,ドンゴ,Донго,Dondon,Dogon,Dongo,咚构,咚構,Gondon,Gondon,Dondon
+Animal_Bear_A,Oso melívoro,Honeyvore Bear,Ours mellivore,벌잡이곰,ハチクイグマ,Медовый медведь,Honingbeer,Orso del miele,Honigbär,食蜂熊,食蜂熊,Ours mellivore,Oso común,Honeyvore Bear
+Animal_Bear_B,Oso garrablanca,Grizzlemaw Bear,Ours empereur,황제큰곰,コウテイヒグマ,Гризли,Grizzlybeer,Orso imperatore,Kaiserbär,帝灰熊,帝灰熊,Ours empereur,Oso emperador,Grizzlemaw Bear
+Animal_Dog_A,Pastor hyliano,Hylian Retriever,Chien Hylien,하일리아견,ハイリア犬,Хайлийская собака,Hyliaanse retriever,Cane Hylia,Hyrule-Hund,海利亚猎犬,海利亞獵犬,Chien hylien,Perro hyliano,Hylian Retriever
+Animal_RupeeRabbit_A,Rupinejo,Blupee,Rumy,루미,ルミー,Руми,Blupee,Rupiglio,Rumi,卢咪,盧咪,Rumy,Rupinejo,Blupee
+Enemy_CaveMaster_000,Fantasmo,Bubbulfrog,Elusis,마요이,マヨイ,Пещерная пипа,Bubbul-kikker,Rospettro,Mayoi,魔犹伊,魔猶伊,Elusis,Fantasmo,Bubbulfrog
+Animal_LittleBird_A,Gorrión común,Common Sparrow,Moineau ordinaire,평범한 참새,タダスズメ,Обыкновенный воробей,Mus,Passero comune,Spatz,普雀,普雀,Moineau ordinaire,Gorrión común,Common Sparrow
+Animal_LittleBird_B,Gorrión rojizo,Red Sparrow,Moineau carné,붉은참새,ベニイロスズメ,Красный воробей,Roodmus,Passero rosso,Rotspatz,红雀,紅雀,Moineau carné,Gorrión rojizo,Red Sparrow
+Animal_LittleBird_C,Gorrión azulado,Blue Sparrow,Moineau bleu vague,푸른물결참새,アオナミスズメ,Синеволный воробей,Watermus,Passero blu,Blauspatz,青波雀,青波雀,Moineau bleu vague,Gorrión azulado,Blue Sparrow
+Animal_LittleBird_D,Gorrión multicolor,Rainbow Sparrow,Moineau pentacolore,오색참새,ゴシキスズメ,Радужный воробей,Tropenmus,Passero arcobaleno,Buntspatz,五彩雀,五彩雀,Moineau pentacolore,Gorrión multicolor,Rainbow Sparrow
+Animal_LittleBird_E,Gorrión cobrizo,Sand Sparrow,Moineau fouisseur,모래파기참새,スナホリスズメ,Песчаный воробей,Woestijnmus,Passero della sabbia,Wühlspatz,沙雀,沙雀,Moineau fouisseur,Gorrión cobrizo,Sand Sparrow
+Animal_LittleBird_F,Gorrión dorado,Golden Sparrow,Moineau doré,금빛참새,コガネスズメ,Золотой воробей,Bergmus,Passero dorato,Goldspatz,金雀,金雀,Moineau doré,Gorrión dorado,Golden Sparrow
+Animal_Pigeon_A,Paloma común,Wood Pigeon,Pigeon commun,평범한 비둘기,ナミバト,Волнистый голубь,Houtduif,Piccione delle onde,Wiesentaube,凡鸽,凡鴿,Pigeon commun,Paloma común,Wood Pigeon
+Animal_Pigeon_B,Paloma arcoíris,Rainbow Pigeon,Pigeon arc-en-ciel,무지개비둘기,ニジイロバト,Радужный голубь,Tropenduif,Piccione arcobaleno,Regenbogentaube,虹鸽,虹鴿,Pigeon arc-en-ciel,Paloma arcoíris,Rainbow Pigeon
+Animal_Ptarmigan_B,Paloma lumbre,Hotfeather Pigeon,Pigeon flamboyant,화염비둘기,カエンバト,Огненный голубь,Vuurduif,Colomba del fuoco,Feuertaube,火焰鸽,火焰鴿,Pigeon flamboyant,Paloma roja,Hotfeather Pigeon
+Animal_Ptarmigan_A,Paloma nival,White Pigeon,Pigeon immaculé,순백비둘기,マシロバト,Белый голубь,Witte duif,Colomba bianca,Schneetaube,白鸽,白鴿,Pigeon immaculé,Paloma blanca,White Pigeon
+Animal_SkyPigeon_A,Paloma parda,Accented Pigeon,Pigeon rustique,이색비둘기,モノバト,Моноголубь,Mono-duif,Protopiccione,Mono-Taube,单色鸽,單色鴿,Pigeon rustique,Paloma parda,Accented Pigeon
+Animal_Crow_A,Cuervo risquero,Mountain Crow,Corbeau des montagnes,산까마귀,ヤマガラス,Горная ворона,Kraai,Corvo montano,Bergkrähe,山鸦,山鴉,Corbeau des montagnes,Cuervo,Mountain Crow
+Animal_WildDuck_A,Pato pechiverde,Bright-Chested Duck,Canard à taches blanches,흰점오리,シラホシガモ,Пятнистая утка,Witborsteend,Anatra pezzata,Fleckente,白星鸭,白星鴨,Canard à taches blanches,Pato,Bright-Chested Duck
+Animal_Heron_A,Garza azulada,Blue-Winged Heron,Aigrette à ailes bleues,푸른날개왜가리,アオバサギ,Синекрылая цапля,Zilverreiger,Airone azzurro,Blaufederreiher,青羽鹭,青羽鷺,Aigrette à ailes bleues,Garza azulada,Blue-Winged Heron
+Animal_Heron_B,Garza rosada,Pink Heron,Aigrette rose,분홍왜가리,モモイロサギ,Красноголовая цапля,Roze reiger,Airone rosa,Pfirsichreiher,桃鹭,桃鷺,Aigrette rose,Garza rosada,Pink Heron
+Animal_Hawk_A,Halcón paramero,Islander Hawk,Faucon à queue rayée,줄무늬독수리,シマオタカ,Островной сокол,Havik,Falco isolano,Inselfalke,岛鹰,島鷹,Faucon à queue rayée,Halcón,Islander Hawk
+Animal_Gull_A,Gaviota,Seagull,Mouette marine,바다갈매기,ウミカモメ,Морская чайка,Meeuw,Gabbiano,Seemöwe,海滨鸥,海濱鷗,Mouette marine,Gaviota,Seagull
+Animal_SkyGull_A,Gaviota celeste,Cloud Seagull,Mouette nébuleuse,운해갈매기,ウンカイカモメ,Заоблачная чайка,Wolkenmeeuw,Gabbiano delle nubi,Wolkenmöwe,云海鸥,雲海鷗,Mouette nébuleuse,Gaviota celeste,Cloud Seagull
+Animal_Cassowary_A,Avestruz de Eldin,Eldin Ostrich,Autruche d'Ordinn,올딘타조,オルディンダチョウ,Элдинский страус,Eldin-struisvogel,Struzzo di Oldin,Eldin-Strauß,奥尔汀鸵鸟,奧爾汀鴕鳥,Autruche d'Ordinn,Avestruz de Eldin,Eldin Ostrich
+Animal_SkyCassowary_A,Avestruz de los bosques,Forest Ostrich,Autruche sylvestre,삼림타조,シンリンダチョウ,Лесной страус,Bosstruisvogel,Struzzo dei boschi,Waldstrauß,森林鸵鸟,森林鴕鳥,Autruche sylvestre,Avestruz de los bosques,Forest Ostrich
+Animal_Kokko_A,Cuco,Cucco,Cocotte,꼬꼬,コッコ,Кокко,Cucco,Coccò,Huhn,咕咕鸡,咕咕雞,Cocotte,Cuco,Cucco
+Item_FishGet_A,Lubina de Hyrule,Hyrule Bass,Perche d'Hyrule,하이랄배스,ハイラルバス,Хайрульский окунь,Hyrule-baars,Aspio Hyrule,Hyrulebarsch,海拉鲁鲈鱼,海拉魯鱸魚,Perche d'Hyrule,Lubina de Hyrule,Hyrule Bass
+Item_FishGet_B,Lubina longeva,Hearty Bass,Perche max,맥스배스,マックスバス,Чудо-окунь,Hartenbaars,Aspio vivax,Maxi-Barsch,生命鲈鱼,生命鱸魚,Perche max,Lubina vivaz,Hearty Bass
+Item_FishGet_L,Lubina peregrina,Staminoka Bass,Perche enduro,원기배스,ガンバリバス,Бодрый окунь,Energiebaars,Aspio vigor,Ausdauerbarsch,精力鲈鱼,精力鱸魚,Perche enduro,Lubina vigorosa,Staminoka Bass
+Item_FishGet_I,Salmón ardoroso,Hearty Salmon,Saumon max,맥스연어,マックスサーモン,Чудо-семга,Hartenzalm,Salmone vivax,Maxi-Lachs,生命鲑鱼,生命鮭魚,Saumon max,Salmón vivaz,Hearty Salmon
+Item_FishGet_C,Trucha nevada,Chillfin Trout,Truite glagla,썰렁송어,ヒンヤリマス,Морозная форель,IJsforel,Trota gelida,Frostforelle,冰冷鳟鱼,冰冷鱒魚,Truite glagla,Trucha gélida,Chillfin Trout
+Item_FishGet_J,Trucha termal,Sizzlefin Trout,Truite piment,따끈따끈송어,ポカポカマス,Жар-форель,Warmteforel,Trota ignea,Glutforelle,暖暖鳟鱼,暖暖鱒魚,Truite piment,Trucha ígnea,Sizzlefin Trout
+Item_FishGet_D,Trucha contracorriente,Voltfin Trout,Truite volt,찌릿찌릿송어,ビリビリマス,Грозовая форель,Schokforel,Trota scossa,Zitterforelle,酥麻鳟鱼,酥麻鱒魚,Truite volt,Trucha electro,Voltfin Trout
+Item_FishGet_X,Trucha sigilosa,Stealthfin Trout,Truite silencio,은밀송어,シノビマス,Тишь-форель,Schaduwforel,Trota fugace,Schleichforelle,潜行鳟鱼,潛行鱒魚,Truite silencio,Trucha sigilosa,Stealthfin Trout
+Item_FishGet_E,Carpa alfa,Mighty Carp,Carpe lame,칼날잉어,ツルギゴイ,Клинковый сазан,Steekkarper,Carpa spada,Schwertkarpfen,大剑鲤鱼,大劍鯉魚,Carpe lame,Carpa recia,Mighty Carp
+Item_FishGet_H,Carpa acorazada,Armored Carp,Carpe armo,갑옷잉어,ヨロイゴイ,Латный сазан,Schildkarper,Carpa corazzata,Rüstungskarpfen,铠甲鲤鱼,鎧甲鯉魚,Carpe armo,Carpa robusta,Armored Carp
+Item_FishGet_Z,Carpa tricolor,Sanke Carp,Carpe tricolore,달록잉어,サンケゴイ,Карп санке,Driekleurige karper,Carpa tricolore,Dreifarb-Karpfen,三色鲤鱼,三色鯉魚,Carpe tricolore,Carpa tricolor,Sanke Carp
+Item_FishGet_AA,Arowana arcaico,Ancient Arowana,Arowana ancien,고대아로와나,ムカシアロワナ,Древняя аравана,Eeuwenoude arowana,Antico arowana,Uralter Arowana,远昔骨舌鱼,遠昔骨舌魚,Arowana ancien,Arowana arcaico,Ancient Arowana
+Item_FishGet_AC,Pez cavernario luminoso,Glowing Cave Fish,Troglodus lumos,조명동굴어,アカリホラウオ,Пещерный вспышник,Glimgrotvis,Cavernario luminoso,Leucht-Höhlenfisch,光亮霍拉鱼,光亮霍拉魚,Troglodus lumos,Pez cavernario luminoso,Glowing Cave Fish
+Item_FishGet_F,Besugo guerrero,Mighty Porgy,Daurade lame,칼날도미,ツルギダイ,Клинковый пагр,Zwaardsnapper,Orata spada,Schwertschnapper,大剑鲷鱼,大劍鯛魚,Daurade lame,Dorada recia,Mighty Porgy
+Item_FishGet_G,Besugo óseo,Armored Porgy,Daurade armo,갑옷도미,ヨロイダイ,Латный пагр,Schildsnapper,Orata corazzata,Rüstungsschnapper,铠甲鲷鱼,鎧甲鯛魚,Daurade armo,Dorada robusta,Armored Porgy
+Item_FishGet_M,Caracol aguzado,Sneaky River Snail,Escargot silencio,은밀우렁이,シノビタニシ,Улитка-тихоход,Sluipslak,Lumaca silente,Schleichschnecke,潜行田螺,潛行田螺,Escargot silencio,Caracol sigiloso,Sneaky River Snail
+Item_InsectGet_K,Cangrejo tenaz,Razorclaw Crab,Crabe lame,칼날게,ツルギガニ,Клинковый краб,Wapenkrab,Granchio spadaccino,Schwertkrabbe,大剑螃蟹,大劍螃蟹,Crabe lame,Cangrejo recio,Razorclaw Crab
+Item_InsectGet_O,Cangrejo roqueño,Ironshell Crab,Crabe armo,갑옷게,ヨロイガニ,Латный краб,Pantserkrab,Granchio corazzato,Rüstungskrabbe,铠甲螃蟹,鎧甲螃蟹,Crabe armo,Cangrejo robusto,Ironshell Crab
+Item_InsectGet_Z,Cangrejo inquieto,Bright-Eyed Crab,Crabe enduro,원기게,ガンバリガニ,Бодрый краб,Krachtkrab,Granchio podista,Ausdauerkrabbe,精力螃蟹,精力螃蟹,Crabe enduro,Cangrejo vigoroso,Bright-Eyed Crab
+Animal_Insect_F,Hada,Fairy,Fée,요정,妖精,Фея,Fee,Fata,Fee,妖精,妖精,Fée,Hada,Fairy
+Animal_Insect_N,Mariposa invernal,Winterwing Butterfly,Papillon glagla,썰렁호랑나비,ヒンヤリアゲハ,Морозная бабочка,Sneeuwvlinder,Farfalla del gelo,Frostflügler,冰冷凤蝶,冰冷鳳蝶,Papillon glagla,Mariposa gélida,Winterwing Butterfly
+Animal_Insect_Q,Mariposa estival,Summerwing Butterfly,Papillon piment,따끈따끈호랑나비,ポカポカアゲハ,Жар-бабочка,Vlamvlinder,Farfalla del sole,Glutflügler,暖暖凤蝶,暖暖鳳蝶,Papillon piment,Mariposa ígnea,Summerwing Butterfly
+Animal_Insect_R,Mariposa nubarrón,Thunderwing Butterfly,Papillon volt,찌릿찌릿호랑나비,ビリビリアゲハ,Грозовая бабочка,Bliksemvlinder,Farfalla saetta,Zitterflügler,酥麻凤蝶,酥麻鳳蝶,Papillon volt,Mariposa electro,Thunderwing Butterfly
+Animal_Insect_AB,Mariposa chimenea,Smotherwing Butterfly,Papillon ignifus,방염호랑나비,ヒケシアゲハ,Пожарная бабочка,Doofvlinder,Farfalla ignifuga,Löschflügler,耐火凤蝶,耐火鳳蝶,Papillon ignifus,Mariposa ignífuga,Smotherwing Butterfly
+Animal_Insect_C,Libélula del frescor,Cold Darner,Libellule glagla,썰렁왕잠자리,ヒンヤリヤンマ,Морозная стрекоза,Sneeuwlibel,Libellula del gelo,Frostlibelle,冰冷蜻蜓,冰冷蜻蜓,Libellule glagla,Libélula gélida,Cold Darner
+Animal_Insect_T,Libélula cálida,Warm Darner,Libellule piment,따끈따끈왕잠자리,ポカポカヤンマ,Жар-стрекоза,Vuurlibel,Libellula del sole,Glutlibelle,暖暖蜻蜓,暖暖蜻蜓,Libellule piment,Libélula ígnea,Warm Darner
+Animal_Insect_I,Libélula nimbo,Electric Darner,Libellule volt,찌릿찌릿왕잠자리,ビリビリヤンマ,Грозовая стрекоза,Schoklibel,Libellula saetta,Zitterlibelle,酥麻蜻蜓,酥麻蜻蜓,Libellule volt,Libélula electro,Electric Darner
+Animal_Insect_H,Grillo vagabundo,Restless Cricket,Sauterelle enduro,원기메뚜기,ガンバリバッタ,Бодрый сверчок,Energiesprinkhaan,Cavalletta vigor,Ausdauerschrecke,精力蚱蜢,精力蚱蜢,Sauterelle enduro,Grillo vigoroso,Restless Cricket
+Animal_Insect_G,Escarabajo recio,Bladed Rhino Beetle,Scarabée lame,칼날장수풍뎅이,ツルギカブト,Клинковый жук,Zwaardneushoornkever,Scarabeo spadaccino,Schwertkäfer,大剑独角仙,大劍獨角仙,Scarabée lame,Escarabajo recio,Bladed Rhino Beetle
+Animal_Insect_P,Escarabajo pétreo,Rugged Rhino Beetle,Scarabée armo,갑옷장수풍뎅이,ヨロイカブト,Латный жук,Harnaskever,Scarabeo corazzato,Rüstungskäfer,铠甲独角仙,鎧甲獨角仙,Scarabée armo,Escarabajo robusto,Rugged Rhino Beetle
+Animal_Insect_AA,Escarabajo obrero,Energetic Rhino Beetle,Scarabée enduro,원기장수풍뎅이,ガンバリカブト,Бодрый жук,Krachtkever,Scarabeo aitante,Ausdauerkäfer,精力独角仙,精力獨角仙,Scarabée enduro,Escarabajo vigoroso,Energetic Rhino Beetle
+Animal_Insect_E,Luciérnaga del sosiego,Sunset Firefly,Luciole de la sérénité,고요반딧불이,シズカホタル,Тихий светлячок,Stiltevuurvlieg,Lucciola silente,Schleichwürmchen,静静萤火虫,靜靜螢火蟲,Luciole de la sérénité,Luciérnaga sigilosa,Sunset Firefly
+Animal_Insect_AI,Luciérnaga de las tinieblas,Deep Firefly,Luciole de l'ombre,어둠반딧불이,ヤミホタル,Темнячок,Vale vuurvlieg,Lucciola d'ombra,Düsterwürmchen,暗萤火虫,闇螢火蟲,Luciole de l'ombre,Luciérnaga de las tinieblas,Deep Firefly
+Animal_Insect_A,Rana escurridiza,Hot-Footed Frog,Grenouille tempo,고고개구리,ゴーゴーガエル,Прыть-лягушка,Sprintkikker,Rana lesta,Spurtkröte,速速青蛙,速速青蛙,Grenouille tempo,Rana rauda,Hot-Footed Frog
+Animal_Insect_B,Rana duradera,Tireless Frog,Grenouille vigueur,활력개구리,ガッツガエル,Живучая лягушка,Boostkikker,Rana tosta,Fitkröte,毅力青蛙,毅力青蛙,Grenouille vigueur,Rana briosa,Tireless Frog
+Animal_Insect_AG,Rana escaladora,Sticky Frog,Grenouille adhésio,접착개구리,ハリツキガエル,Цепкая квакша,Kleefkikker,Rana scalatrice,Klammerkröte,贴贴青蛙,貼貼青蛙,Grenouille adhésio,Rana adherente,Sticky Frog
+Animal_Insect_S,Lagarto corretón,Hightail Lizard,Lézard tempo,고고도마뱀,ゴーゴートカゲ,Прыть-ящерица,Haasthagedis,Lucertola velox,Spurtechse,速速蜥蜴,速速蜥蜴,Lézard tempo,Lagarto raudo,Hightail Lizard
+Animal_Insect_M,Lagarto milvidas,Hearty Lizard,Lézard max,맥스도마뱀,マックストカゲ,Чудо-ящерица,Hartjeshagedis,Lucertola vivax,Maxi-Echse,生命蜥蜴,生命蜥蜴,Lézard max,Lagarto vivaz,Hearty Lizard
+Animal_Insect_X,Lagarto humero,Fireproof Lizard,Lézard ignifus,방염도마뱀,ヒケシトカゲ,Пожарная ящерица,Doofhagedis,Lucertola focus,Löschechse,耐火蜥蜴,耐火蜥蜴,Lézard ignifus,Lagarto ignífugo,Fireproof Lizard
+Animal_Insect_AH,Lagarto trepador,Sticky Lizard,Lézard adhésio,접착도마뱀,ハリツキトカゲ,Цепкая ящерица,Kleefhagedis,Lucertola scalatrice,Klammerechse,贴贴蜥蜴,貼貼蜥蜴,Lézard adhésio,Lagarto adherente,Sticky Lizard

@@ -1,0 +1,111 @@
+﻿id,es-419,en-GB,fr-CA,ko,ja,ru,nl,it,de,zh,zh-Hant,fr,es,en
+Enemy_Chuchu_Junior,Chuchu,Chuchu,Chuchu,츄츄,チュチュ,Чучу,Chuchu,Chuchu,Schleim,丘丘,丘丘,Chuchu,Chuchu,Chuchu
+Enemy_Chuchu_Fire_Junior,Chuchu ígneo,Fire Chuchu,Chuchu de feu,파이어 츄츄,ファイアチュチュ,Огненный чучу,Vuur-Chuchu,Chuchu di fuoco,Feuer-Schleim,火丘丘,火丘丘,Chuchu de feu,Chuchu ígneo,Fire Chuchu
+Enemy_Chuchu_Ice_Junior,Chuchu gélido,Ice Chuchu,Chuchu de glace,아이스 츄츄,アイスチュチュ,Ледяной чучу,IJs-Chuchu,Chuchu di ghiaccio,Eis-Schleim,冰丘丘,冰丘丘,Chuchu de glace,Chuchu gélido,Ice Chuchu
+Enemy_Chuchu_Electric_Junior,Chuchu eléctrico,Electric Chuchu,Chuchu électrique,일렉트로 츄츄,エレキチュチュ,Грозовой чучу,Elektro-Chuchu,Chuchu elettrico,Elektro-Schleim,电丘丘,電丘丘,Chuchu électrique,Chuchu eléctrico,Electric Chuchu
+Enemy_Keese,Keese,Keese,Chauve-souris,키이스,キース,Кус,Keese,Pipistrello,Flederbeißer,蝙蝠,蝙蝠,Chauve-souris,Keese,Keese
+Enemy_Keese_Fire,Keese de fuego,Fire Keese,Chauve-souris de feu,파이어 키이스,ファイアキース,Огненный кус,Vuur-Keese,Pipistrello igneo,Feuer-Flederbeißer,火蝙蝠,火蝙蝠,Chauve-souris de feu,Keese de fuego,Fire Keese
+Enemy_Keese_Ice,Keese de hielo,Ice Keese,Chauve-souris de glace,아이스 키이스,アイスキース,Ледяной кус,IJs-Keese,Pipistrello glaciale,Eis-Flederbeißer,冰蝙蝠,冰蝙蝠,Chauve-souris de glace,Keese de hielo,Ice Keese
+Enemy_Keese_Electric,Keese eléctrico,Electric Keese,Chauve-souris électrique,일렉트로 키이스,エレキース,Грозовой кус,Elektro-Keese,Pipistrello elettrico,Elektro-Flederbeißer,电蝙蝠,電蝙蝠,Chauve-souris électrique,Keese eléctrico,Electric Keese
+Enemy_Octarock,Octorok acuático,Water Octorok,Octoflot,워터 옥타,水オクタ,Водный осьминос,Water-Octorok,Octacqua,Wasser-Oktorok,水八爪怪,水八爪怪,Octoflot,Octorok acuático,Water Octorok
+Enemy_Octarock_Forest,Octorok forestal,Forest Octorok,Octobuisson,포레스트 옥타,森オクタ,Лесной осьминос,Woud-Octorok,Octocespo,Wald-Oktorok,森八爪怪,森八爪怪,Octofourré,Octorok forestal,Forest Octorok
+Enemy_Octarock_Stone,Octorok pétreo,Rock Octorok,Octopierre,록 옥타,岩オクタ,Скальный осьминос,Steen-Octorok,Octosasso,Fels-Oktorok,岩八爪怪,岩八爪怪,Octopierre,Octorok pétreo,Rock Octorok
+Enemy_Octarock_Snow,Octorok gélido,Snow Octorok,Octoneige,스노 옥타,雪オクタ,Снежный осьминос,Sneeuw-Octorok,Octoneve,Schnee-Oktorok,雪八爪怪,雪八爪怪,Octoneige,Octorok gélido,Snow Octorok
+Enemy_Octarock_Desert,Octorok del tesoro,Treasure Octorok,Octocoffre,트레저 옥타,宝オクタ,Осьминос-кладовик,Schatkist-Octorok,Octoscrigno,Schatz-Oktorok,宝八爪怪,寶八爪怪,Octocoffre,Octorok del tesoro,Treasure Octorok
+Enemy_Wizzrobe_Fire,Wizzrobe de fuego,Fire Wizzrobe,Sorcier de feu,파이어 위즈로브,ファイアウィズローブ,Огненный чаромант,Vuur-Wizzrobe,Sciamanix del fuoco,Feuer-Pyromagus,火焰长袍魔法师,火焰長袍魔法師,Sorcier de feu,Invocantis de fuego,Fire Wizzrobe
+Enemy_Wizzrobe_Ice,Wizzrobe de hielo,Ice Wizzrobe,Sorcier de glace,아이스 위즈로브,アイスウィズローブ,Ледяной чаромант,IJs-Wizzrobe,Sciamanix del ghiaccio,Eis-Pyromagus,冰雪长袍魔法师,冰雪長袍魔法師,Sorcier de glace,Invocantis de hielo,Ice Wizzrobe
+Enemy_Wizzrobe_Electric,Wizzrobe eléctrico,Electric Wizzrobe,Sorcier électrique,일렉트로 위즈로브,エレキウィズローブ,Грозовой чаромант,Elektro-Wizzrobe,Sciamanix elettrico,Elektro-Pyromagus,电击长袍魔法师,電擊長袍魔法師,Sorcier électrique,Invocantis eléctrico,Electric Wizzrobe
+Enemy_Wizzrobe_Fire_Senior,Wizzrobe abrasador,Meteo Wizzrobe,Sorcier brasero,메테오 위즈로브,メテオウィズローブ,Метеор-чаромант,Meteoor-Wizzrobe,Sciamanix delle meteore,Meteor-Pyromagus,陨石长袍魔法师,隕石長袍魔法師,Sorcier brasero,Invocantis abrasador,Meteo Wizzrobe
+Enemy_Wizzrobe_Ice_Senior,Wizzrobe glacial,Blizzrobe,Sorcier blizzaro,프리즈 위즈로브,フリーズウィズローブ,Чаромант мороза,Sneeuwstorm-Wizzrobe,Sciamanix delle bufere,Polar-Pyromagus,冰冻长袍魔法师,冰凍長袍魔法師,Sorcier blizzaro,Invocantis glacial,Blizzrobe
+Enemy_Wizzrobe_Electric_Senior,Wizzrobe fulminante,Thunder Wizzrobe,Sorcier fulguro,볼트 위즈로브,ボルトウィズローブ,Чаромант грома,Bliksem-Wizzrobe,Sciamanix folgorante,Blitz-Pyromagus,雷电长袍魔法师,雷電長袍魔法師,Sorcier fulguro,Invocantis fulminante,Thunder Wizzrobe
+Enemy_LikeLike_Plane,Like like,Like Like,Like Like,조아조아,ライクライク,Щитоед,Like Like,Like like,Raubschleim,莱克莱克,萊克萊克,Like like,Like like,Like Like
+Enemy_LikeLike_Fire,Like ígneo,Fire Like,Pyrolike,파이어 조아,ファイアライク,Огненный щитоед,Vuur-Like,Like igneo,Feuer-Raubschleim,火焰莱克,火焰萊克,Pyrolike,Like ígneo,Fire Like
+Enemy_LikeLike_Ice,Like gélido,Ice Like,Cryolike,아이스 조아,アイスライク,Ледяной щитоед,IJs-Like,Like glaciale,Eis-Raubschleim,冰雪莱克,冰雪萊克,Cryolike,Like gélido,Ice Like
+Enemy_LikeLike_Electric,Like eléctrico,Shock Like,Électrolike,일렉트로 조아,エレキライク,Грозовой щитоед,Elektro-Like,Like elettrico,Elektro-Raubschleim,电击莱克,電擊萊克,Électrolike,Like eléctrico,Shock Like
+Enemy_LikeLike_Crack,Like pétreo,Rock Like,Litholike,바위 조아,ロックライク,Скальный щитоед,Steen-Like,Like roccioso,Fels-Raubschleim,岩石莱克,岩石萊克,Litholike,Like pétreo,Rock Like
+Enemy_Treant_Broadleaf,Árbol impostor,Evermean,Tronc-peur,데그보그,デグボグ,Декубука,Evermean,Falsalbero,Bluffbaum,巨霸柏古,巨霸柏古,Tronc-peur,Árbol impostor,Evermean
+Enemy_Toby_Junior,Aerocuda,Aerocuda,Kakuda,카쿠다,カックーダ,Какуда,Aerocuda,Kakuda,Kakuda,卡库达,卡庫達,Kakuda,Aerocuda,Aerocuda
+Enemy_Zombie_Junior,Gibdo,Gibdo,Gibdo,기브도,ギブド,Гибдо,Gibdo,Ghibdo,Gibdo,吉波得,吉波得,Gibdo,Gibdo,Gibdo
+Enemy_Zombie_Boss_Junior,Gibdo alado,Moth Gibdo,Gibdo ailé,모스기브도,モスギブド,Крылатый гибдо,Mot-Gibdo,Ghibdo alato,Lepido-Gibdo,魔斯吉波得,魔斯吉波得,Gibdo ailé,Gibdo alado,Moth Gibdo
+Enemy_Bokoblin_Junior,Bokoblin,Bokoblin,Bokoblin,보코블린,ボコブリン,Бокоблин,Bokoblin,Boblin,Bokblin,波克布林,波克布林,Bokoblin,Bokoblin,Bokoblin
+Enemy_Bokoblin_Middle,Bokoblin azul,Blue Bokoblin,Bokoblin bleu,블루 보코블린,青ボコブリン,Синий бокоблин,Blauwe Bokoblin,Boblin blu,Blauer Bokblin,蓝色波克布林,藍色波克布林,Bokoblin bleu,Bokoblin azul,Blue Bokoblin
+Enemy_Bokoblin_Senior,Bokoblin negro,Black Bokoblin,Bokoblin noir,블랙 보코블린,黒ボコブリン,Черный бокоблин,Zwarte Bokoblin,Boblin nero,Schwarzer Bokblin,黑色波克布林,黑色波克布林,Bokoblin noir,Bokoblin negro,Black Bokoblin
+Enemy_Bokoblin_Bone_Junior,Stalkoblin,Stalkoblin,Stalbokoblin,스탈 보코블린,スタルボコブリン,Сталкоблин,Skelet-Bokoblin,Stalboblin,Stalbokblin,骷髅波克布林,骷髏波克布林,Stalbokoblin,Bokoblin esquelético,Stalkoblin
+Enemy_Bokoblin_Dark,Bokoblin plateado,Silver Bokoblin,Bokoblin d'argent,실버 보코블린,白銀ボコブリン,Серебряный бокоблин,Zilveren Bokoblin,Boblin d'argento,Silberner Bokblin,白银波克布林,白銀波克布林,Bokoblin d'argent,Bokoblin plateado,Silver Bokoblin
+Enemy_Bokoblin_Boss_Junior,Gran bokoblin,Boss Bokoblin,Chef Bokoblin,보스보코블린,ボスボコブリン,Бокобосс,Bokoblin-baas,Capo boblin,Bossbok,首领波克布林,首領波克布林,Chef boko,Gran bokoblin,Boss Bokoblin
+Enemy_Bokoblin_Boss_Middle,Gran bokoblin azul,Blue Boss Bokoblin,Chef Bokoblin bleu,블루 보스보코블린,青ボスボコブリン,Синий бокобосс,Blauwe Bokoblin-baas,Capo boblin blu,Blauer Bossbok,蓝色首领波克布林,藍色首領波克布林,Chef boko bleu,Gran bokoblin azul,Blue Boss Bokoblin
+Enemy_Bokoblin_Boss_Senior,Gran bokoblin negro,Black Boss Bokoblin,Chef Bokoblin noir,블랙 보스보코블린,黒ボスボコブリン,Черный бокобосс,Zwarte Bokoblin-baas,Capo boblin nero,Schwarzer Bossbok,黑色首领波克布林,黑色首領波克布林,Chef boko noir,Gran bokoblin negro,Black Boss Bokoblin
+Enemy_Bokoblin_Boss_Dark,Gran bokoblin plateado,Silver Boss Bokoblin,Chef Bokoblin d'argent,실버 보스보코블린,白銀ボスボコブリン,Серебряный бокобосс,Zilveren Bokoblin-baas,Capo boblin d'argento,Silberner Bossbok,白银首领波克布林,白銀首領波克布林,Chef boko d'argent,Gran bokoblin plateado,Silver Boss Bokoblin
+Enemy_Moriblin_Junior,Moblin,Moblin,Moblin,모리블린,モリブリン,Моблин,Moblin,Grublin,Moblin,莫力布林,莫力布林,Moblin,Moblin,Moblin
+Enemy_Moriblin_Middle,Moblin azul,Blue Moblin,Moblin bleu,블루 모리블린,青モリブリン,Синий моблин,Blauwe Moblin,Grublin blu,Blauer Moblin,蓝色莫力布林,藍色莫力布林,Moblin bleu,Moblin azul,Blue Moblin
+Enemy_Moriblin_Senior,Moblin negro,Black Moblin,Moblin noir,블랙 모리블린,黒モリブリン,Черный моблин,Zwarte Moblin,Grublin nero,Schwarzer Moblin,黑色莫力布林,黑色莫力布林,Moblin noir,Moblin negro,Black Moblin
+Enemy_Moriblin_Bone_Junior,Stalmoblin,Stalmoblin,Stalmoblin,스탈 모리블린,スタルモリブリン,Сталмоблин,Skelet-Moblin,Stalgrublin,Stalmoblin,骷髅莫力布林,骷髏莫力布林,Stalmoblin,Moblin esquelético,Stalmoblin
+Enemy_Moriblin_Dark,Moblin plateado,Silver Moblin,Moblin d'argent,실버 모리블린,白銀モリブリン,Серебряный моблин,Zilveren Moblin,Grublin d'argento,Silberner Moblin,白银莫力布林,白銀莫力布林,Moblin d'argent,Moblin plateado,Silver Moblin
+Enemy_Lizalfos_Junior,Lizalfos,Lizalfos,Lézalfos,리잘포스,リザルフォス,Заврофос,Lizalfos,Lizalfos,Echsalfos,蜥蜴战士,蜥蜴戰士,Lézalfos,Lizalfos,Lizalfos
+Enemy_Lizalfos_Middle,Lizalfos azul,Blue Lizalfos,Lézalfos bleu,블루 리잘포스,青リザルフォス,Синий заврофос,Blauwe Lizalfos,Lizalfos blu,Blauer Echsalfos,蓝色蜥蜴战士,藍色蜥蜴戰士,Lézalfos bleu,Lizalfos azul,Blue Lizalfos
+Enemy_Lizalfos_Senior,Lizalfos negro,Black Lizalfos,Lézalfos noir,블랙 리잘포스,黒リザルフォス,Черный заврофос,Zwarte Lizalfos,Lizalfos nero,Schwarzer Echsalfos,黑色蜥蜴战士,黑色蜥蜴戰士,Lézalfos noir,Lizalfos negro,Black Lizalfos
+Enemy_Lizalfos_Bone_Junior,Stalizalfos,Stalizalfos,Stalézalfos,스탈 리잘포스,スタルリザルフォス,Сталзаврофос,Skelet-Lizalfos,Stallizalfos,Stalechsalfos,骷髅蜥蜴战士,骷髏蜥蜴戰士,Stalézalfos,Lizalfos esquelético,Stalizalfos
+Enemy_Lizalfos_Fire,Lizalfos ígneo,Fire-Breath Lizalfos,Lézalfos de feu,화염 리잘포스,火吹きリザルフォス,Огнедышащий заврофос,Vuur-Lizalfos,Lizalfos igneo,Feuer-Echsalfos,喷火蜥蜴战士,噴火蜥蜴戰士,Lézalfos de feu,Lizalfos ígneo,Fire-Breath Lizalfos
+Enemy_Lizalfos_Ice,Lizalfos gélido,Ice-Breath Lizalfos,Lézalfos de glace,얼음 리잘포스,雹吐きリザルフォス,Заврофос-ледоплюй,IJs-Lizalfos,Lizalfos glaciale,Eis-Echsalfos,吐雹蜥蜴战士,吐雹蜥蜴戰士,Lézalfos de glace,Lizalfos gélido,Ice-Breath Lizalfos
+Enemy_Lizalfos_Electric,Lizalfos eléctrico,Electric Lizalfos,Lézalfos électrique,마비 리잘포스,シビレリザルフォス,Грозовой заврофос,Elektro-Lizalfos,Lizalfos elettrico,Elektro-Echsalfos,电麻蜥蜴战士,電麻蜥蜴戰士,Lézalfos électrique,Lizalfos eléctrico,Electric Lizalfos
+Enemy_Lizalfos_Dark,Lizalfos plateado,Silver Lizalfos,Lézalfos d'argent,실버 리잘포스,白銀リザルフォス,Серебряный заврофос,Zilveren Lizalfos,Lizalfos d'argento,Silberner Echsalfos,白银蜥蜴战士,白銀蜥蜴戰士,Lézalfos d'argent,Lizalfos plateado,Silver Lizalfos
+Enemy_Horablin_Junior,Horroblin,Horriblin,Trogloblin,호러블린,ホラブリン,Хорроблин,Horriblin,Obbroblin,Horrorblin,霍拉布林,霍拉布林,Trogloblin,Horroblin,Horriblin
+Enemy_Horablin_Middle,Horroblin azul,Blue Horriblin,Trogloblin bleu,블루 호러블린,青ホラブリン,Синий хорроблин,Blauwe Horriblin,Obbroblin blu,Blauer Horrorblin,蓝色霍拉布林,藍色霍拉布林,Trogloblin bleu,Horroblin azul,Blue Horriblin
+Enemy_Horablin_Senior,Horroblin negro,Black Horriblin,Trogloblin noir,블랙 호러블린,黒ホラブリン,Черный хорроблин,Zwarte Horriblin,Obbroblin nero,Schwarzer Horrorblin,黑色霍拉布林,黑色霍拉布林,Trogloblin noir,Horroblin negro,Black Horriblin
+Enemy_Horablin_Dark,Horroblin plateado,Silver Horriblin,Trogloblin d'argent,실버 호러블린,白銀ホラブリン,Серебряный хорроблин,Zilveren Horriblin,Obbroblin d'argento,Silberner Horrorblin,白银霍拉布林,白銀霍拉布林,Trogloblin d'argent,Horroblin plateado,Silver Horriblin
+Enemy_Lynel_Junior,Centaleón,Lynel,Centaléo,라이넬,ライネル,Левр,Lynel,Lynel,Leune,莱尼尔,萊尼爾,Lynel,Centaleón,Lynel
+Enemy_Lynel_Middle,Centaleón azul,Blue-Maned Lynel,Centaléo bleu,푸른 갈기의 라이넬,青髪のライネル,Сизогривый левр,Blauwe Lynel,Lynel blu,Blauer Leune,蓝鬃莱尼尔,藍鬃萊尼爾,Lynel bleu,Centaleón azul,Blue-Maned Lynel
+Enemy_Lynel_Senior,Centaleón blanco,White-Maned Lynel,Centaléo blanc,하얀 갈기의 라이넬,白髪のライネル,Белогривый левр,Witte Lynel,Lynel bianco,Weißer Leune,白鬃莱尼尔,白鬃萊尼爾,Lynel blanc,Centaleón blanco,White-Maned Lynel
+Enemy_Lynel_Dark,Centaleón plateado,Silver Lynel,Centaléo d'argent,실버 라이넬,白銀のライネル,Серебряный левр,Zilveren Lynel,Lynel d'argento,Silberner Leune,白银莱尼尔,白銀萊尼爾,Lynel d'argent,Centaleón plateado,Silver Lynel
+Enemy_Zonau_Robot_Junior,Gólem recluta,Soldier Construct I,Golem soldat,병정 골렘,兵隊ゴーレム,Голем-рядовой ГР-1,Zonoïdesoldaat 1.0,Golem soldato,Alpha-Kriegerkonstrukt,兵队魔像,兵隊魔像,Golem soldat,Gólem recluta,Soldier Construct I
+Enemy_Zonau_Robot_Middle,Gólem soldado,Soldier Construct II,Golem caporal,병정 골렘(중등),兵隊ゴーレム(中等),Голем-рядовой ГР-2,Zonoïdesoldaat 2.0,Golem caporale,Beta-Kriegerkonstrukt,兵队魔像（中等）,兵隊魔像（中等）,Golem caporal,Gólem soldado,Soldier Construct II
+Enemy_Zonau_Robot_Senior,Gólem cabo,Soldier Construct III,Golem sergent,병정 골렘(상등),兵隊ゴーレム(上等),Голем-рядовой ГР-3,Zonoïdesoldaat 3.0,Golem sergente,Gamma-Kriegerkonstrukt,兵队魔像（上等）,兵隊魔像（上等）,Golem sergent,Gólem cabo,Soldier Construct III
+Enemy_Zonau_Robot_Dark,Gólem sargento,Soldier Construct IV,Golem major,병정 골렘(특등),兵隊ゴーレム(特等),Голем-рядовой ГР-4,Zonoïdesoldaat 4.0,Golem maresciallo,Delta-Kriegerkonstrukt,兵队魔像（特等）,兵隊魔像（特等）,Golem major,Gólem sargento,Soldier Construct IV
+Enemy_Zonau_Golem_Junior,Gólem brigada,Captain Construct I,Golem lieutenant,대장 골렘,隊長ゴーレム,Голем-капитан ГК-1,Zonoïdeofficier 1.0,Golem capitano,Alpha-Elitekonstrukt,队长魔像,隊長魔像,Golem lieutenant,Gólem brigada,Captain Construct I
+Enemy_Zonau_Golem_Middle,Gólem teniente,Captain Construct II,Golem capitaine,대장 골렘(중등),隊長ゴーレム(中等),Голем-капитан ГК-2,Zonoïdeofficier 2.0,Golem maggiore,Beta-Elitekonstrukt,队长魔像（中等）,隊長魔像（中等）,Golem capitaine,Gólem teniente,Captain Construct II
+Enemy_Zonau_Golem_Senior,Gólem capitán,Captain Construct III,Golem commandant,대장 골렘(상등),隊長ゴーレム(上等),Голем-капитан ГК-3,Zonoïdeofficier 3.0,Golem colonnello,Gamma-Elitekonstrukt,队长魔像（上等）,隊長魔像（上等）,Golem commandant,Gólem capitán,Captain Construct III
+Enemy_Zonau_Golem_Dark,Gólem coronel,Captain Construct IV,Golem colonel,대장 골렘(특등),隊長ゴーレム(特等),Голем-капитан ГК-4,Zonoïdeofficier 4.0,Golem generale,Delta-Elitekonstrukt,队长魔像（特等）,隊長魔像（特等）,Golem colonel,Gólem coronel,Captain Construct IV
+Enemy_CDungeon_Practice,Gólem brigada especial,Training Construct,Golem supérieur spécial,특무대장 골렘,特務隊長ゴーレム,Спецголем-капитан,Speciale zonoïdeofficier,Golem capitano speciale,Elitekonstrukt-Spezialmodell,特务队长魔像,特務隊長魔像,Golem supérieur spécial,Gólem brigada especial,Training Construct
+Enemy_Zonau_BlockMaster_Junior,Gólem cúbico,Flux Construct I,Golemax,블록 골렘,ブロックゴーレム,Блокоголем БГ-1,Blokzonoïde 1.0,Golemax,Alpha-Blockkonstrukt,方块魔像,方塊魔像,Golemax,Gólem cúbico,Flux Construct I
+Enemy_Zonau_BlockMaster_Middle,Gran gólem cúbico,Flux Construct II,Golemax amélioré,블록 골렘(중등),ブロックゴーレム(中等),Блокоголем БГ-2,Blokzonoïde 2.0,Golemax avanzato,Beta-Blockkonstrukt,方块魔像（中等）,方塊魔像（中等）,Golemax amélioré,Gran gólem cúbico,Flux Construct II
+Enemy_Zonau_BlockMaster_Senior,Gólem cúbico supremo,Flux Construct III,Golemax ultime,블록 골렘(상등),ブロックゴーレム(上等),Блокоголем БГ-3,Blokzonoïde 3.0,Golemax blindato,Gamma-Blockkonstrukt,方块魔像（上等）,方塊魔像（上等）,Golemax ultime,Gólem cúbico supremo,Flux Construct III
+Enemy_Assassin_Junior,Miembro del clan Yiga,Yiga Footsoldier,Sous-fifre Yiga,이가단 구성원,イーガ団 構成員,Бандит Ига,Yiga-bendelid,Scagnozzo degli Yiga,Yiga-Novize,依盖队 成员,依蓋隊 成員,Sous-fifre yiga,Esbirro del clan Yiga,Yiga Footsoldier
+Enemy_Assassin_Middle,Oficial del clan Yiga,Yiga Blademaster,Officier Yiga,이가단 간부,イーガ団 幹部,Головорез Ига,Yiga-elitesoldaat,Pezzo grosso degli Yiga,Yiga-Offizier,依盖队 干部,依蓋隊 幹部,Officier yiga,Oficial del clan Yiga,Yiga Blademaster
+Enemy_Assassin_Senior,Maestro Kogg,Master Kohga,Le grand Kohga,코가님,コーガ様,Главарь Кога,Kohga,Maestro Koga,Koga,可盖大人,可蓋大人,Le grand Kohga,Maestro Kogg,Master Kohga
+Enemy_Golem_Little,Minutalus,Stone Pebblit,Tilhorok,돌록,イシロック,Каменный глыбыш,Steen-Pebblit,Sassettorok,Ishirok,岩石人,岩石人,Tilhorok,Litorok,Stone Pebblit
+Enemy_Golem_Little_Fire,Minutalus basáltico,Igneo Pebblit,Migrok,불꽃록,マクロック,Пламенный глыбыш,Vuur-Pebblit,Magmettorok,Magrok,熔岩人,熔岩人,Migrok,Lavarok,Igneo Pebblit
+Enemy_Golem_Little_Ice,Minutalus glacial,Frost Pebblit,Givrok,얼음록,カチロック,Морозный глыбыш,IJs-Pebblit,Glaciettorok,Glarok,冰岩人,冰岩人,Givrok,Gelirok,Frost Pebblit
+Enemy_Golem_Junior,Talus,Stone Talus,Lithorok,바위록,イワロック,Каменный глыбник,Steen-Talus,Sassorok,Iwarok,岩石巨人,岩石巨人,Lithorok,Petrarok,Stone Talus
+Enemy_Golem_Middle,Talus luminoso,Stone Talus (Luminous),Lithorok nox,바위록(야광),イワロック(夜光),Фосфолитовый глыбник,Steen-Talus (lichtgevend),Sassorok (lumisera),Leuchtender Iwarok,岩石巨人（夜光）,岩石巨人（夜光）,Lithorok nox,Petrarok luminoso,Stone Talus (Luminous)
+Enemy_Golem_Senior,Talus poco común,Stone Talus (Rare),Lithorok rare,바위록(레어),イワロック(希少),Редкий глыбник,Steen-Talus (zeldzaam),Sassorok (raro),Seltener Iwarok,岩石巨人（稀有）,岩石巨人（稀有）,Lithorok rare,Petrarok poco común,Stone Talus (Rare)
+Enemy_Golem_Fort_A,Talus fortificado,Battle Talus,Lithorok fortifié,하우스록,イエロック,Фортовый глыбник,Strijd-Talus,Sassorok fortificato,Biwarok,岩家巨人,岩家巨人,Lithorok fortifié,Petrarok fortificado,Battle Talus
+Enemy_Golem_Fire,Talus basáltico,Igneo Talus,Magrok,마그록,マグロック,Пламенный глыбник,Vuur-Talus,Magmarok,Magmarok,熔岩巨人,熔岩巨人,Magrok,Magmarok,Igneo Talus
+Enemy_Golem_Ice,Talus glacial,Frost Talus,Cryorok,꽁꽁록,ガチロック,Морозный глыбник,IJs-Talus,Glaciarok,Glacirok,冰岩巨人,冰岩巨人,Cryorok,Glaciarok,Frost Talus
+Enemy_Giant_Junior,Hinox,Hinox,Hinox,히녹스,ヒノックス,Хинокс,Hinox,Hinox,Hinox,西诺克斯,西諾克斯,Hinox,Hinox,Hinox
+Enemy_Giant_Middle,Hinox azul,Blue Hinox,Hinox bleu,블루 히녹스,青ヒノックス,Синий хинокс,Blauwe Hinox,Hinox blu,Blauer Hinox,蓝色西诺克斯,藍色西諾克斯,Hinox bleu,Hinox azul,Blue Hinox
+Enemy_Giant_Senior,Hinox negro,Black Hinox,Hinox noir,블랙 히녹스,黒ヒノックス,Черный хинокс,Zwarte Hinox,Hinox nero,Schwarzer Hinox,黑色西诺克斯,黑色西諾克斯,Hinox noir,Hinox negro,Black Hinox
+Enemy_Giant_Bone,Stalhinox,Stalnox,Stalhinox,스탈 히녹스,スタルヒノックス,Сталнокс,Skelet-Hinox,Stalhinox,Stalhinox,骷髅西诺克斯,骷髏西諾克斯,Stalhinox,Hinox esquelético,Stalnox
+Enemy_Sandworm,Moldora,Molduga,Moldarquor,몰드래고,モルドラジーク,Молдора,Molduga,Moldenottera,Moldora,莫尔德拉吉克,莫爾德拉吉克,Moldarquor,Moldora,Molduga
+Enemy_Drake_Fire,Gleeok flamígero,Flame Gleeok,Griock des flammes,화염 그리오크,火炎グリオーク,Огненный глиок,Vuur-Gleeok,Griock igneo,Flammen-Griock,火焰古栗欧克,火焰古慄歐克,Griock des flammes,Griock flamígero,Flame Gleeok
+Enemy_Drake_Ice,Gleeok glacial,Frost Gleeok,Griock des glaces,빙설 그리오크,氷雪グリオーク,Морозный глиок,IJs-Gleeok,Griock glaciale,Frost-Griock,冰雪古栗欧克,冰雪古慄歐克,Griock des glaces,Griock glacial,Frost Gleeok
+Enemy_Drake_Electric,Gleeok eléctrico,Thunder Gleeok,Griock électrique,뇌전 그리오크,雷電グリオーク,Громовой глиок,Elektro-Gleeok,Griock elettrico,Donner-Griock,雷电古栗欧克,雷電古慄歐克,Griock électrique,Griock eléctrico,Thunder Gleeok
+Enemy_Drake_Mix,Gleeok real,King Gleeok,Roi Griock,킹 그리오크,キンググリオーク,Король глиоков,Gleeok-koning,Re griock,Griock-König,古栗欧克王,古慄歐克王,Roi griock,Griock real,King Gleeok
+Enemy_Mogurudo_Baby_Junior,Minianuronte,Little Frox,Minitracien,코가마,コガーマ,Когарма,Kleine Frox,Granfibio cucciolo,Minigama,小迦马,小迦馬,Minitracien,Minianuronte,Little Frox
+Enemy_Mogurudo_Junior,Anuronte,Frox,Gigatracien,데그가마,デグガーマ,Дегугарма,Frox,Granfibio,Gigama,巨霸迦马,巨霸迦馬,Gigatracien,Anuronte,Frox
+Enemy_Mogurudo_Middle,Anuronte oscuro,Obsidian Frox,Gigatracien anthracite,흑요의 데그가마,黒曜デグガーマ,Обсидиановая дегугарма,Donkere Frox,Granfibio scuro,Obsidian-Gigama,黑曜巨霸迦马,黑曜巨霸迦馬,Gigatracien anthracite,Anuronte oscuro,Obsidian Frox
+Enemy_Mogurudo_Senior,Anuronte albo,Blue-White Frox,Gigatracien opalin,창백의 데그가마,白蒼デグガーマ,Сизая дегугарма,Wit-blauwe Frox,Granfibio chiaro,Kristall-Gigama,白苍巨霸迦马,白蒼巨霸迦馬,Gigatracien opalin,Anuronte albo,Blue-White Frox
+Enemy_Dragon_Fire,Eldra,Dinraal,Ordrac,올드래곤,オルドラ,Динраль,Dinraal,Oldra,Eldra,奥尔龙,奧爾龍,Ordrac,Elden,Dinraal
+Enemy_Dragon_Ice,Naydra,Naydra,Nedrac,넬드래곤,ネルドラ,Нейдра,Naydra,Neldra,Naydra,聂尔龙,聶爾龍,Nedrac,Nayen,Naydra
+Enemy_Dragon_Electric,Farodra,Farosh,Rordrac,필로드래곤,フロドラ,Фарош,Farosh,Firodra,Farodra,费罗龙,費羅龍,Rordrac,Faren,Farosh
+Enemy_DungeonBoss_Rito,Gelminus,Colgera,Glagayla,프리즈게이라,フリザゲイラ,Мрозгера,Colgera,Criogayla,Frosgeira,急冻盖拉,急凍蓋拉,Glagayla,Gelminus,Colgera
+Enemy_MiddleBoss_Goron,Ilvagia,Moragia,Angania,일바지아,イルバジア,Ильвазия,Moragia,Ilvarub,Ilvazia,伊尔巴基亚,伊爾巴基亞,Angania,Ilvagia,Moragia
+Enemy_DungeonBoss_Goron,Gohma rocoso,Marbled Gohma,Lithogohma,볼드고마,ボルドゴーマ,Гранитная гхома,Steen-Gohma,Gohma roccioso,Boldo Gohma,巨砾哥马,巨礫哥馬,Lithogohma,Gohma rocoso,Marbled Gohma
+Enemy_LikeLike_Tar,Like fangoso,Sludge Like,Like de vase,진흙 조아,ヘドロライク,Слизистый щитоед,Slijk-Like,Like melmoso,Schlamm-Raubschleim,淤泥莱克,淤泥萊克,Like de vase,Like fangoso,Sludge Like
+Enemy_DungeonBoss_Zora,Fangorok,Mucktorok,Octopoulpos,옥타코스,オクタコス,Слизьминос,Mucktorok,Octokos,Oktokos,八爪怪章,八爪怪章,Octopoulpos,Fangorok,Mucktorok
+Enemy_DungeonBoss_Gerudo,Reina gibdo,Queen Gibdo,Reine Gibdo,퀸 기브도,クィンギブド,Королева гибдо,Gibdo-koningin,Regina ghibdo,Gibdo-Königin,吉波得女王,吉波得女王,Reine gibdo,Reina gibdo,Queen Gibdo
+Enemy_DungeonBoss_Zonau,Gólem corrupto,Seized Construct,Golem corrompu,빼앗긴 골렘,奪われしゴーレム,Захваченный голем,Bezeten zonoïde,Golem corrotto,Gestohlenes Konstrukt,被夺之魔像,被奪之魔像,Golem corrompu,Gólem corrupto,Seized Construct
+Enemy_PhantomGanon,Ganon fantasma,Phantom Ganon,Fantôme de Ganon,팬텀 가논,ファントムガノン,Ганон-фантом,Fantoom-Ganon,Spettro Ganon,Phantom-Ganon,幻影加侬,幻影加儂,Fantôme de Ganon,Ganon fantasma,Phantom Ganon
+Enemy_Ganondorf,"Ganondorf, el rey demonio",Demon King Ganondorf,"Ganondorf, roi démon",마왕 가논돌프,魔王ガノンドロフ,Король демонов Ганондорф,Demonenkoning Ganondorf,Re dei demoni Ganondorf,Dämonenkönig Ganondorf,魔王加侬多夫,魔王加儂多夫,"Ganondorf, roi démon","Ganondorf, el rey demonio",Demon King Ganondorf
+Enemy_Ganondorf_Miasma,"Ganondorf, el rey demonio (2.ª forma)",Demon King Ganondorf (2nd Form),"Ganondorf, roi démon (2ͤ forme)",마왕 가논돌프(제2형태),魔王ガノンドロフ(第二形態),Король демонов (второй облик),Demonenkoning Ganondorf (2e vorm),Re dei demoni Ganondorf (forma 2),Dämonenkönig Ganondorf (2. Form),魔王加侬多夫（第二形态）,魔王加儂多夫（第二形態）,"Ganondorf, roi démon (2ͤ forme)","Ganondorf, el rey demonio (2.ª forma)",Demon King Ganondorf (2nd Form)
+Enemy_Dragon_Darkness,Dragón negro,Demon Dragon,Dragon noir,흑룡,黒龍,Черный дракон,Demonendraak,Drago oscuro,Schwarzdrache,黑龙,黑龍,Dragon noir,Dragón negro,Demon Dragon
+Enemy_Dragon_Light_001,Dragón blanco,Light Dragon,Dragon blanc,백룡,白龍,Белый дракон,Lichtdraak,Drago eburneo,Weißdrache,白龙,白龍,Dragon blanc,Dragón blanco,Light Dragon

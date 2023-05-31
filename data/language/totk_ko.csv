@@ -1,0 +1,2387 @@
+﻿type,category,item_id,item_name,item_description
+bows,Bows and Arrows,Weapon_Bow_001,여행자의 활,여행자가 사용하는 자그마한 호신용 활화살이 있으면 떨어져 있는 적을 공격할 수 있다
+bows,Bows and Arrows,Weapon_Bow_002,병사의 활,전투용으로 공격력을 높인 활보다 큰 대미지를 입힐 수 있다나무로 만들어져 불이 붙으면 타 버린다
+bows,Bows and Arrows,Weapon_Bow_003,가시 보코활,"동물의 뼈를 동여매 강화시킨 보코활거친 제작법이긴 하지만 가볍고 다루기 쉽다내구성이 늘었으며, 사격 위력 또한 올랐다"
+bows,Bows and Arrows,Weapon_Bow_004,보코활,보코블린이 사용하는 간소한 활나뭇가지에 활시위를 달았을 뿐이라사격 위력은 그다지 기대할 수 없다
+bows,Bows and Arrows,Weapon_Bow_006,리잘보우,리잘포스가 만든 목제 활커다란 생선 뼈를 조합해 제작되었고단순한 목제 활보다 파괴력이 높다
+bows,Bows and Arrows,Weapon_Bow_009,라이넬의 활,라이넬이 쓰는 투박한 금속제의 활복수의 화살을 동시에 쏠 수 있다날쌔게 움직이는 적을 맞히기에 최적화되었다
+bows,Bows and Arrows,Weapon_Bow_011,강화 리잘보우,금속으로 손잡이를 강화한 리잘보우활 본체엔 물가에 나는 잘 휘는 나뭇가지를사용하였으며 얕볼 수 없는 사격 성능을 지녔다
+bows,Bows and Arrows,Weapon_Bow_013,숲에 사는 자의 활,코로그족이 인간을 위해 제작했다고 전해지는 활잘 휘어지는 목재와 튼튼한 풀로 제작되어간소한 외양과 달리 한 번에 여러 발을 쏠 수 있다
+bows,Bows and Arrows,Weapon_Bow_014,조라의 활,"조라족이 고기잡이 등에 사용하는 활사격 성능은 그리 좋지 않지만 특수한 금속으로제작되어, 보기보다 내구성이 뛰어나다"
+bows,Bows and Arrows,Weapon_Bow_015,겔드의 활,"겔드족이 사용하는 섬세한 장식의 활넓은 사막에서의 사냥이나 전투 시, 먼 곳을저격할 수 있도록 심혈을 기울여 제작되었다"
+bows,Bows and Arrows,Weapon_Bow_016,제비의 활,리토족이 일반적으로 사용하는 활공중 사격에 적합하다. 활시위를 정교하게 만들어보통 활보다 조금 더 빠르게 활시위를 당길 수 있다
+bows,Bows and Arrows,Weapon_Bow_017,매의 활,리토족의 명장이 제작한 세련된 활공중전에 출중한 리토의 전사가 즐겨 사용한다일반적인 활보다 재빨리 활시위를 당길 수 있다
+bows,Bows and Arrows,Weapon_Bow_026,야수왕의 활,보다 정교하게 만들어진 라이넬의 활본체뿐 아니라 활시위까지 강인한 금속으로 제작돼평범한 인간은 활시위를 당기는 것조차 버겁다
+bows,Bows and Arrows,Weapon_Bow_027,용골 보코활,화석의 뼈를 조합해 강화시킨 보코활보코블린 나름대로 엄선한 소재로제작한 모양인지 상당한 사격 성능을 지녔다
+bows,Bows and Arrows,Weapon_Bow_028,참수리의 활,영걸 리발이 쓰던 희대의 명궁질풍 같은 빠르기로 이 활을 쏘는 리발에게공중전에서 대적할 수 있는 이는 없었다고 전해진다
+bows,Bows and Arrows,Weapon_Bow_029,일심의 활,"시커족에서 전해져 내려오는 활정신을 통일하여 이 활을 쏘면, 먼 곳의 적도가까이 있는 것처럼 쏠 수 있다고 전해진다"
+bows,Bows and Arrows,Weapon_Bow_030,강철 리잘보우,리잘포스 중에서도 활에 능한 개체만이 쓰는 활강화를 위해 금속이 다량 사용되었으며그만큼 무겁지만 내구성도 높은 편
+bows,Bows and Arrows,Weapon_Bow_032,야수신의 활,데스마운틴 정상에서 채집되는 특수한 금속으로제작된 라이넬의 강철 활. 복수로 쏘아지는 화살은위력이 엄청나며 두꺼운 갑옷도 종이처럼 꿰뚫는다
+bows,Bows and Arrows,Weapon_Bow_033,근위의 활,대재앙에 대한 대책으로 시커족이 제작한 활고대 기술을 사용한 시험작에 가까운 무기로높은 공격력과 속사성을 지녔지만 내구력이 낮다
+bows,Bows and Arrows,Weapon_Bow_035,기사의 활,하이랄 성의 기사들이 사용했던 활다루기 편해서 안정된 사격이 가능하다금속제라 내구성도 뛰어나다
+bows,Bows and Arrows,Weapon_Bow_036,왕가의 활,하이랄 기사 중에서도 특히 궁술이특출난 이에게 하이랄 왕이 하사한 활화려한 디자인이 눈을 끌지만 사격 성능도 뛰어나다
+bows,Bows and Arrows,Weapon_Bow_038,나무 활,소형 동물을 사냥하기 위해 제작된 목제 활몬스터와 싸우기엔 불안하다
+bows,Bows and Arrows,Weapon_Bow_040,이연궁,이가단 안에서도 궁술이 특기인 구성원이 쓰는 활적의 숨통을 확실하게 끊어 놓기 위해한 번에 두 발의 화살이 발사되도록 고안되었다
+bows,Bows and Arrows,Weapon_Bow_072,황혼의 활,예로부터 하이랄 왕가에 전해지는 활황혼의 몬스터와 싸운 공주가 썼다고 전해지며발사된 화살은 강한 위력과 긴 사거리를 자랑한다
+bows,Bows and Arrows,Weapon_Bow_101,조나니움 활,사격 시에 에너지를 소비하는 조나우족의 활시위를 당겨 힘을 모으고 있었던 시간에 따라소비 에너지와 화살의 비거리가 증가한다
+bows,Bows and Arrows,Weapon_Bow_104,골렘의 활,대장 골렘이 장비한 활간단한 구조지만 불에 타지 않는 소재로 만들어져나무로 만든 활처럼 불에 타는 일은 없다
+bows,Bows and Arrows,Weapon_Bow_105,튼튼한 골렘의 활,대장 골렘이 장비한 튼튼한 활고온에서 불에 타지 않는 것뿐만 아니라 활의 강도도더 강해져 한층 강한 화살을 쏠 수 있게 되었다
+bows,Bows and Arrows,Weapon_Bow_106,강력한 골렘의 활,대장 골렘이 장비한 강력한 활불에 타지 않는 특징을 유지한 채로 구조가 복잡해졌다시위가 매우 질겨 어중간한 힘으로는 당길 수도 없다
+bows,Bows and Arrows,Weapon_Bow_107,낡은 나무 활,오래된 나무 활동물을 사냥하기 위해 제작된 것으로위력은 강하지 않다
+bows,Bows and Arrows,Weapon_Bow_166,마왕의 활,마왕이 애용했던 마궁소유자의 힘에 따라 다른 성능을 발휘한다하트 최대치가 많을수록 공격력이 상승한다
+weapons,Weapons,Weapon_Lsword_001,여행자의 양손검,각지를 여행하는 모험가가 애용한 양손검몬스터와의 전투에선 그 중량을 이용해서적이 장비한 방패를 날릴 수 있다
+weapons,Weapons,Weapon_Lsword_002,병사의 양손검,전투용으로 개량된 양손검다루기 쉽도록 경량화되어 있어모으기 공격 시 스태미나 소비를 억제한다
+weapons,Weapons,Weapon_Lsword_003,기사의 양손검,하이랄을 지키는 기사 중에서도 특히 높은 역량을지닌 자가 사용하던 대검. 남은 하트가 1개 이하일 때강력한 공격을 펼칠 수 있다
+weapons,Weapons,Weapon_Lsword_019,모리블린의 뼈,"팔만 남아도 계속 움직이는 모리블린의 뼈길고 굵은 뼈는 무기로 사용하기에 충분한타격력을 지녔지만, 굉장히 물러 잘 망가진다"
+weapons,Weapons,Weapon_Lsword_020,녹슨 양손검,오랜 시간 방치되어 녹이 슨 대검무기로 쓸 수는 있지만 내구성이 낮아조금만 휘둘러도 간단히 망가져 버린다
+weapons,Weapons,Weapon_Lsword_024,왕가의 양손검,하이랄 왕가의 직속 부대에 하사된 대검강력한 공격을 할 수 있어 회피 저스트 시러시 공격이 강력해지는 특성을 지녔다
+weapons,Weapons,Weapon_Lsword_027,조라의 대검,조라족이 특수한 금속을 사용하여 제작한 대검조라는 창을 선호하기 때문에 많이 쓰이진 않지만물에 젖으면 높은 공격력을 발휘한다
+weapons,Weapons,Weapon_Lsword_029,겔드의 양손검,겔드족 중에서도 검술이 뛰어난 자가 장비한 대검끝에 소재를 붙이면 검이 부서지기 쉬워지는 대신그 힘을 한계까지 끌어내는 특성을 지녔다
+weapons,Weapons,Weapon_Lsword_036,돌 크러셔,단단하고 두꺼운 금속으로 제작된 고론의 양손검날이 서지 않아 베는 맛은 전혀 없지만강도와 중량이 상당해 채굴하는 데 적합하다
+weapons,Weapons,Weapon_Lsword_038,배의 노,어선에 비치되어 있는 도구본디 무기는 아니지만 호신용으론 사용 가능하다물에 강한 목재로 제작되어 제법 튼튼하다
+weapons,Weapons,Weapon_Lsword_041,잔심의 장도,시커족에게만 전해져 내려오는 외날 검전통적인 기술로 정성스레 제련되어정신을 집중하고 휘두르면 진공의 날을 쏠 수 있다
+weapons,Weapons,Weapon_Lsword_045,밭의 괭이,흙을 파내고 밭을 가는 데 쓰이는 농기구밭일을 감당하게끔 튼튼히 만들어졌으며사용법에 따라선 충분히 무기가 된다
+weapons,Weapons,Weapon_Lsword_047,근위의 양손검,시커족이 고대 기술의 정수를 모아 제작한 대검내구성 문제가 있지만 부서질 것 같을 때엄청난 공격력을 발휘하는 특성을 지녔다
+weapons,Weapons,Weapon_Lsword_051,빅부메랑,양손으로 휘둘러야 할 만큼 거대한 부메랑사냥용이었지만 전투용으로 개량되었으며휘어진 안쪽에 날이 있다. 굉장히 다루기 어렵다
+weapons,Weapons,Weapon_Lsword_054,거암 크러셔,영걸 다르케르가 쓰던 최고의 강도를 자랑하는 대검다르케르는 이 대검을 가볍게 휘둘렀지만인간이 다루기엔 상당한 숙련을 필요로 한다
+weapons,Weapons,Weapon_Lsword_057,황혼의 대검,먼 옛날 하이랄 왕국에전해 내려왔다는 도신이 얇은 대검신비로운 흰 빛을 내뿜고 있다
+weapons,Weapons,Weapon_Lsword_059,빅고론도,고론의 명장이 시간을 넘어 여행했던 용사를 위해만들었다고 전해지는 전설적인 검명장의 기술이 빛나는 발군의 날카로움을 가졌다
+weapons,Weapons,Weapon_Lsword_060,귀신의 대검,달이 추락하는 세계의 용사가 갖고 있었다고전해지는 이형의 대검. 이 검을 손에 든 자는귀신같은 전투 솜씨를 보인다고 한다
+weapons,Weapons,Weapon_Lsword_101,조나니움 대검,조나니움을 소재로 사용한 조나우족의 커다란 검조나우 기어나 조나우 문명의 소재를 붙이면평소보다 공격력이 약간 상승하는 특성을 지녔다
+weapons,Weapons,Weapon_Lsword_103,굵은 봉,"커다란 나무를 잘라 만든 봉그렇게 단단하지는 않지만, 끝이 무겁기에휘두르면 방패를 튕겨 낼 수 있다"
+weapons,Weapons,Weapon_Lsword_106,여행자의 양손검,각지를 여행하는 모험가가 애용한 양손검녹슬어서 베는 맛은 그다지 없지만적이 들고 있는 방패를 날려 버릴 수 있다
+weapons,Weapons,Weapon_Lsword_108,튼튼한 굵은 봉,튼튼한 나무를 잘라 만든 단단한 봉삐뚤게 성장한 굵은 가지는보기와는 다르게 내구력이 높다
+weapons,Weapons,Weapon_Lsword_109,울퉁불퉁한 굵은 봉,나무뿌리에 가까운 부분을 잘라 만든 봉건조시켜 경도가 증가하였으며나무라고 생각되지 않을 만큼 공격력이 높다
+weapons,Weapons,Weapon_Lsword_112,병사의 양손검,성의 병사용으로 얇고 가볍게 제작된 금속 양손검가벼워서 휘둘러도 쉽게 지치지 않아모으기 공격 시 스태미나 소비를 억제한다
+weapons,Weapons,Weapon_Lsword_113,기사의 양손검,성을 지키는 기사가 쓰던 양손검. 소중한 것을지키고자 하는 마음에 반응해 남은 하트가1개 이하일 때 강력한 공격을 펼칠 수 있다
+weapons,Weapons,Weapon_Lsword_114,잔심의 장도,날이 부식된 외날 대검녹슬어서 베는 맛은 떨어지지만정신을 집중하고 휘두르면 진공의 날을 쏠 수 있다
+weapons,Weapons,Weapon_Lsword_124,왕가의 양손검,왕가 직속 부대에 하사되었던 대검. 다루기 어렵지만숙련된 사용자에 맞춰 조정돼 있어회피 저스트 시 러시 공격이 강력해진다
+weapons,Weapons,Weapon_Lsword_127,조라의 대검,도신이 녹슬어 버린 조라족의 대검물에 젖으면 높은 공격력을 발휘하는 특수한금속이 사용되어 물가에서 싸우는 데 적합하다
+weapons,Weapons,Weapon_Lsword_129,겔드의 양손검,도신이 녹슬어 버린 겔드족의 대검검 끝에 힘을 담기 쉬워 검의 내구력을 희생해붙인 소재의 힘을 한계까지 끌어낼 수 있다
+weapons,Weapons,Weapon_Lsword_136,돌 크러셔,본래 그 중량을 살려 상대를 타격해서쓰러뜨리는 것이 주였던 무기. 녹슬긴 했지만바위를 부수고 채굴하는 데 적합하다
+weapons,Weapons,Weapon_Lsword_147,근위의 양손검,근위 기사를 위해 만들어진 프로토타입 양손검특수 기술로 제련된 금속이 사용되어 내구력이 낮지만부서질 것 같을 때 엄청난 공격력을 발휘한다
+weapons,Weapons,Weapon_Lsword_161,마법의 대지팡이,신비한 힘이 조금 느껴지는 커다란 지팡이고대 마술사가 이 지팡이를 사용하여보석에 잠든 힘을 깨웠다고 전해진다
+weapons,Weapons,Weapon_Lsword_163,튼튼한 조나니움 대검,조나니움으로 제작된 조나우족의 튼튼한 대검조나우 기어나 조나우 문명의 소재를 붙이면평소보다 공격력이 상승하는 특성을 지녔다
+weapons,Weapons,Weapon_Lsword_164,강력한 조나니움 대검,조나니움으로 만든 조나우족의 강력한 대검조나우 기어나 조나우 문명의 소재를 붙이면평소보다 공격력이 크게 상승하는 특성을 지녔다
+weapons,Weapons,Weapon_Lsword_166,독기의 철퇴,불길함을 상징하는 광기로 가득 찬 철퇴강력한 일격으로 대상을 흔적도 없이 해치운다이 철퇴를 지닌 자는 몸이 독기에 서서히 잠식된다
+weapons,Weapons,Weapon_Lsword_168,굵은 봉,커다란 나무에서 잘라 낸 굵은 봉그렇게 단단하지는 않지만 끝이 무거워서휘둘렀을 때의 위력은 그럭저럭 큰 편이다
+weapons,Weapons,Weapon_Lsword_174,빅부메랑,망가져 버린 거대한 부메랑원래 사냥할 때 쓰던 물건이라 다루기 매우 어렵다잘 던지면 사용자 곁으로 돌아온다
+weapons,Weapons,Weapon_Spear_001,여행자의 창,여행자가 늑대와 같은 야생 동물로부터몸을 지키기 위해 휴대했던 호신용 창손에 쥐기 쉽고 사용감이 좋다
+weapons,Weapons,Weapon_Spear_002,병사의 창,성의 병사가 사용하던 장창. 실력이 뛰어난 자가사용하면 자유자재로 쓸 수 있으며모으기 공격을 재빠르게 사용할 수 있다
+weapons,Weapons,Weapon_Spear_003,기사의 창,무기에 숙련된 기사를 위해 제작된 창도끼 같은 창 머리가 특징으로 남은 하트가1개 이하일 때 강력한 공격을 펼칠 수 있다
+weapons,Weapons,Weapon_Spear_021,녹슨 창,"먼 옛날, 기사가 사용했을 거라 짐작되는 녹슨 창오랫동안 방치되어 비바람을 맞은 탓인지창 머리에 흠집이 많고 내구성이 낮다"
+weapons,Weapons,Weapon_Spear_022,밭의 쇠스랑,건초를 효율적으로 모으기 위한 농기구누구든 쓸 수 있도록 가볍게 제작됐다4개로 갈라진 끝부분은 제법 날카롭다
+weapons,Weapons,Weapon_Spear_024,왕가의 창,"알현의 방 등, 성안의 중요한 장소를 지키는임무를 수행하던 기사에게 하사되었던 창회피 저스트 시 러시 공격이 강력해지는 특성을 지녔다"
+weapons,Weapons,Weapon_Spear_025,숲에 사는 자의 창,코로그족이 인간을 위해 제작했다고 전해지는 창가볍고 튼튼한 나무를 재료로 썼으며 창끝에 터지는열매를 붙이면 그 특성을 계속 활용할 수 있다
+weapons,Weapons,Weapon_Spear_027,조라의 창,조라족이 일반적으로 사용한 창. 고기잡이 외에도침입자로부터 마을을 지키기 위해 싸울 때도 쓰였다물에 젖으면 높은 공격력을 발휘한다
+weapons,Weapons,Weapon_Spear_029,겔드의 창,겔드족 병사가 주로 쓰는 창창끝에 소재를 붙이면 창에 큰 부담을 주는 대신그 힘을 한계까지 끌어내는 특성을 지녔다
+weapons,Weapons,Weapon_Spear_030,투척 창,투척에 특화된 특수한 창창끝과 손잡이의 균형을 잡아보통 창보다 멀리 던질 수 있게 설계되었다
+weapons,Weapons,Weapon_Spear_032,날개깃의 창,리토족 병사가 쓰는 창하늘을 날며 쓸 수 있으며 계속 찌를 때마다큰 바람을 발생시키는 특성을 지녔다
+weapons,Weapons,Weapon_Spear_036,나무 대걸레,바닥 청소에 꼭 필요한 청소 도구장인이 손수 만들어 튼튼하다무기로도 어느 정도 쓸 수 있다
+weapons,Weapons,Weapon_Spear_038,어부의 작살,주로 대형 물고기를 잡을 때 쓰는 도구. 날카롭고뾰족한 끝을 가져 무기로도 사용 가능하다이걸로 생선을 잡을 수 있어야 어부라 할 수 있다
+weapons,Weapons,Weapon_Spear_047,근위의 창,시커족이 고대 기술을 활용해 제작한 창내구력이 낮지만 부서질 것 같을 때엄청난 공격력을 발휘하는 특성을 지녔다
+weapons,Weapons,Weapon_Spear_050,광린의 창,영걸 미파가 애용하던 우아한 명창치유가 특기였던 미파는창술도 일류였다고 전해진다
+weapons,Weapons,Weapon_Spear_101,조나니움 창,조나니움을 소재로 사용한 조나우족의 창창끝에 조나우 기어나 조나우 문명의 소재를 붙이면평소보다 공격력이 약간 상승하는 특성을 지녔다
+weapons,Weapons,Weapon_Spear_103,장봉,나뭇가지를 잘라 만든 긴 봉곧게 뻗은 형태를 살려찌르는 무기로 사용할 수 있다
+weapons,Weapons,Weapon_Spear_106,여행자의 창,여행자가 호신용으로 들고 다니는 일반적인 창녹슬어서 찌르는 맛이 좋지 않지만초보자도 다루기 쉬운 형태로 만들어져 있다
+weapons,Weapons,Weapon_Spear_108,튼튼한 장봉,길게 뻗은 튼튼한 봉. 크게 비틀리지 않은 나뭇가지는찌르는 힘을 전달하기 쉽고 수목의 단단한부분을 골라서 잘라 냈기에 내구력이 높다
+weapons,Weapons,Weapon_Spear_109,울퉁불퉁한 장봉,갈라져 나온 부분의 끝을 잘라 만든 장봉절단면이 울퉁불퉁해서 닿으면 아프기 때문에일반적인 봉보다 공격력이 높다
+weapons,Weapons,Weapon_Spear_112,병사의 창,성의 병사용으로 경량화된 금속 창가볍고 다루기 편해서모으기 공격을 재빠르게 사용할 수 있다
+weapons,Weapons,Weapon_Spear_113,기사의 창,성의 기사용으로 제작된 창. 왕국과 성을 지키는기사도 정신으로 인해 남은 하트가 1개 이하일 때강력한 공격을 펼칠 수 있다
+weapons,Weapons,Weapon_Spear_124,왕가의 창,성의 중요한 장소를 지키는 기사에게 하사된 창능숙하게 다루려면 남다른 기량이 필요하지만회피 저스트 시 러시 공격이 강력해진다
+weapons,Weapons,Weapon_Spear_125,숲에 사는 자의 창,창끝이 녹슬어 버린 코로그족의 창생명력이 넘쳐흘러 창끝에 터지는 열매를 붙이면그 특성을 계속 활용할 수 있다
+weapons,Weapons,Weapon_Spear_127,조라의 창,도신이 녹슬어 버린 조라족의 창물에 강한 특수한 금속을 사용했기에물에 젖으면 높은 공격력을 발휘한다
+weapons,Weapons,Weapon_Spear_129,겔드의 창,도신이 녹슬어 버린 겔드족의 창끝에 힘을 모으기 쉬워 소재를 붙이면 창의 부담이커지는 대신 그 힘을 한계까지 끌어낼 수 있다
+weapons,Weapons,Weapon_Spear_132,날개깃의 창,도신이 녹슬어 버린 리토족 병사의 창창끝이 특이하게 생겼으며 빠르게 찌르면큰 바람을 발생시킨다
+weapons,Weapons,Weapon_Spear_147,근위의 창,근위 기사가 사용한 프로토타입 창. 특수 금속이 쓰여내구력이 낮고 다루기 어렵지만 부서질 것 같을 때엄청난 공격력을 발휘하는 특성을 지녔다
+weapons,Weapons,Weapon_Spear_161,마법의 장지팡이,희미하게 마력을 띠고 있는 긴 지팡이고대 마술사가 보석의 힘을 끌어내기 위해서제사용 도구로 이용했다고 전해진다
+weapons,Weapons,Weapon_Spear_163,튼튼한 조나니움 창,조나우족이 사용하던 튼튼한 창. 내구력이 뛰어나며조나우 기어나 조나우 문명의 소재를 붙이면평소보다 공격력이 상승하는 특성을 지녔다
+weapons,Weapons,Weapon_Spear_164,강력한 조나니움 창,조나니움을 소재로 사용한 조나우족의 강력한 창창끝에 조나우 기어나 조나우 문명의 소재를 붙이면평소보다 공격력이 크게 상승하는 특성을 지녔다
+weapons,Weapons,Weapon_Spear_166,독기의 창,보기만 해도 몸이 움츠러드는 무시무시한 분위기의 창일격에 영혼을 베어 낸다고 전해지며이 창을 지닌 자는 몸이 독기에 서서히 잠식된다
+weapons,Weapons,Weapon_Spear_168,장봉,나뭇가지를 잘라 만든 긴 봉곧게 뻗은 형태를 살려찌르는 무기로 사용할 수 있다
+weapons,Weapons,Weapon_Spear_173,투척 창,날 끝이 녹슬어 버린 투척용 창날카롭지는 않지만 던지는 데 적합한 무게 중심과밸런스를 유지하고 있어 멀리 던질 수 있다
+weapons,Weapons,Weapon_Sword_001,여행자의 검,주로 위험한 야생 동물에 대한 방비용으로하이랄 전역에서 사용되던 검. 쉽게 망가지진않지만 몬스터를 상대하기엔 조금 불안하다
+weapons,Weapons,Weapon_Sword_002,병사의 검,과거 하이랄 성을 지키던 병사가 쓰던 검몬스터도 상대할 수 있을 만큼 날카롭다모으기 공격을 재빠르게 사용할 수 있다
+weapons,Weapons,Weapon_Sword_003,기사의 검,하이랄 성의 기사들이 쓰던 검남은 하트가 1개 이하일 때강력한 공격을 펼칠 수 있다
+weapons,Weapons,Weapon_Sword_019,보코블린의 뼈,떨어져 나가도 계속 움직이는 섬뜩한 팔뼈별로 주머니에 넣어 두고 싶지 않다오래돼 약화된 상태라 금방 망가진다
+weapons,Weapons,Weapon_Sword_020,리잘포스의 뼈,죽어도 계속 움직이는 스탈 리잘포스의 뼈휘두르면 무기로 쓸 수 있으나 쉽게 망가진다등에 메고 있을 때 움직여서 신경 쓰인다…
+weapons,Weapons,Weapon_Sword_021,녹슨 검,"먼 옛날, 이름 있는 검사가사용했을 것으로 추정되는 녹슨 한손검어떻게든 쓸 순 있지만 금방 망가져 버린다"
+weapons,Weapons,Weapon_Sword_022,나무 국자,수프를 뜨거나 재료를 볶을 때 쓰는 요리 도구단단한 나무를 깎아 만들었기 때문에이걸로 맞으면 꽤나 아프다
+weapons,Weapons,Weapon_Sword_024,왕가의 검,눈부신 공적을 세운 기사에게하이랄 왕가에서 하사한 검. 회피 저스트 시러시 공격의 위력이 강력해지는 특성을 지녔다
+weapons,Weapons,Weapon_Sword_025,숲에 사는 자의 검,코로그족이 인간을 위해 제작했다고 전해지며 목재로만들어져 주로 호신용으로 사용되는 검. 터지는 열매를검 끝에 붙이면 그 특성을 계속 활용할 수 있다
+weapons,Weapons,Weapon_Sword_027,조라의 검,얇은 도신과 조라족 특유의 장식이 특징인 검물에 젖으면 높은 공격력을 발휘하는 특성을 지녀물 만난 조라 같은 검이라고도 불렸다
+weapons,Weapons,Weapon_Sword_029,겔드의 나이프,겔드 지방에서 가장 흔하게 사용되던 검소재를 붙이면 검에 큰 부하가 걸리는 대신그 힘을 한계까지 끌어내는 특성을 지녔다
+weapons,Weapons,Weapon_Sword_031,날개깃의 검,리토족이 사용하던 양날검. 공중에서 재빠르게공격하기 쉽도록 제작되어 휘두르면큰 바람을 일으키는 특성을 지녔다
+weapons,Weapons,Weapon_Sword_041,잔심의 단도,시커족의 전통적인 외날 검유례를 볼 수 없는 좁은 검신과 날카로움을 지녀일반 검보다 습격의 위력이 상승하는 특성을 지녔다
+weapons,Weapons,Weapon_Sword_043,횃불,불을 붙이면 계속해서 타오르는 횃불집어 넣으면 불이 꺼지므로다시 한번 붙여야 한다
+weapons,Weapons,Weapon_Sword_044,나뭇가지,어디서든 볼 수 있는 나뭇가지로휘두르기에 딱 좋은 밸런스장비하면 무기로 사용할 수 있다
+weapons,Weapons,Weapon_Sword_047,근위의 검,고대의 기술을 사용해 시커족이 제작한 무기내구성에 문제가 있지만 부서질 것 같을 때엄청난 공격력을 발휘하는 특성을 지녔다
+weapons,Weapons,Weapon_Sword_051,부메랑,원래는 숲의 민족 코로그의 무기독특한 모양은 던져도 다시되돌아오도록 고안되었다
+weapons,Weapons,Weapon_Sword_052,칠보의 나이프,영걸 우르보사가 애용했던 굴지의 명검우르보사가 이 검을 휘두르는 모습은마치 화려한 검무와 같았다고 전해진다
+weapons,Weapons,Weapon_Sword_057,천공의 백도검,하늘에서 나타난 용사가 지녔다고 전해지는 검쭉 뻗은 아름다운 하얀색 칼날이 특징이다검을 들면 신기하게도 하늘의 바람이 느껴진다
+weapons,Weapons,Weapon_Sword_058,시작의 검,고대의 용사가 사용했다는 검손에 들면 이상하게 그리운 기분이 든다
+weapons,Weapons,Weapon_Sword_059,해풍의 부메랑,넓은 바다를 여행했던 용사가애용했다고 전해지는 부메랑희미하게 바다 냄새가 난다
+weapons,Weapons,Weapon_Sword_070,마스터 소드,백룡에게서 뽑은 전설로 전해지는 퇴마의 검영겁의 시간을 거쳐 상처를 치유하고마왕에게 대항할 수 있는 새로운 힘이 깃들었다
+weapons,Weapons,Weapon_Sword_070_Broken,망가진 마스터 소드,성스러운 힘이 깃든 퇴마의 검지금은 하이랄 성 지하에 있던 독기로 인해도신이 망가져 버렸다
+weapons,Weapons,Weapon_Sword_101,조나니움 검,조나니움을 소재로 사용한 조나우족의 검검 끝에 조나우 기어나 조나우 문명 소재를 붙이면평소보다 공격력이 약간 상승하는 특성을 지녔다
+weapons,Weapons,Weapon_Sword_103,나무 봉,나뭇가지를 잡기 쉽게 다듬은 봉휘두르기 딱 좋은 밸런스로 제작되었다장비하면 무기로 사용할 수 있다
+weapons,Weapons,Weapon_Sword_105,부메랑,망가져 버린 나무 부메랑던지면 다시 돌아오는 편리한 무기로망가졌더라도 그 특성은 변하지 않았다
+weapons,Weapons,Weapon_Sword_106,여행자의 검,여행자들에게 널리 보급된 일반적인 검도신 부분이 녹슬어 있지만일단 뭔가를 베는 데 사용할 수는 있다
+weapons,Weapons,Weapon_Sword_107,리잘부메랑,리잘포스가 선호하는 굽은 검금속제라 뜨거운 곳에서도 안심하고 쓸 수 있다던지면 자신이 있는 곳까지 돌아오는 특징이 있다
+weapons,Weapons,Weapon_Sword_108,튼튼한 나무 봉,단단한 나뭇가지를 다듬은 봉햇빛을 듬뿍 받은 나뭇가지답게다른 것보다 튼튼해서 내구력이 높다
+weapons,Weapons,Weapon_Sword_109,울퉁불퉁한 나무 봉,마른 나뭇가지를 적당한 크기로 다듬은 봉휘두르는 데 제격인 굵기와 길이를 가졌으며일반 나무 봉보다 공격력이 매우 높다
+weapons,Weapons,Weapon_Sword_112,병사의 검,성의 병사가 사용하던 얇고 가벼운 금속 검가볍고 다루기 편해모으기 공격을 재빠르게 사용할 수 있다
+weapons,Weapons,Weapon_Sword_113,기사의 검,성을 지키는 기사가 장비한 검. 위기에 처했을 때진가를 발휘하는 검으로 남은 하트가 1개 이하일 때강력한 공격을 펼칠 수 있다
+weapons,Weapons,Weapon_Sword_114,잔심의 단도,도신이 녹슬어 버린 시커족의 외날 검작은 도신은 은밀한 행동에 적합해일반적인 검보다 습격의 위력이 상승한다
+weapons,Weapons,Weapon_Sword_124,왕가의 검,왕가가 특별한 공훈을 세운 기사에게 하사한 검검술에 능한 자를 위해 제련되어 회피 저스트 시러시 공격이 강력해지는 특성을 지녔다
+weapons,Weapons,Weapon_Sword_125,숲에 사는 자의 검,도신이 낡아 버린 코로그족의 목제 검검 자체가 생명력을 품고 있어 검 끝에 터지는열매를 붙이면 그 특성을 계속 활용할 수 있다
+weapons,Weapons,Weapon_Sword_127,조라의 검,도신이 녹슬어 버린 조라족의 얇은 검조라족과 상성이 좋은 금속으로 제련되어 있어물에 젖으면 높은 공격력을 발휘한다
+weapons,Weapons,Weapon_Sword_129,겔드의 나이프,도신이 녹슬어 버린 겔드 지방의 나이프. 끝부분에힘을 집중하기 쉬워 소재를 붙이면 검에 큰 부하가걸리는 대신 그 힘을 한계까지 끌어내는 특성을 지녔다
+weapons,Weapons,Weapon_Sword_131,날개깃의 검,도신이 녹슬어 버린 리토족의 양날검독특한 형태의 칼날은 휘두를 때마다큰 바람을 발생시킨다
+weapons,Weapons,Weapon_Sword_147,근위의 검,근위 기사가 사용한 프로토타입 검내구력 문제가 있는 특수 금속이 사용되어부서질 것 같을 때 엄청난 공격력을 발휘한다
+weapons,Weapons,Weapon_Sword_161,마법의 지팡이,신비한 마력이 느껴지는 작은 지팡이고대 마술사가 이 지팡이를 사용해보석에 잠든 힘을 최대한으로 발휘했다고 한다
+weapons,Weapons,Weapon_Sword_163,튼튼한 조나니움 검,조나니움을 소재로 사용한 조나우족의 튼튼한 검검 끝에 조나우 기어나 조나우 문명의 소재를 붙이면평소보다 공격력이 상승하는 특성을 지녔다
+weapons,Weapons,Weapon_Sword_164,강력한 조나니움 검,조나니움을 소재로 사용한 조나우족의 강력한 검조나우 기어나 조나우 문명의 소재를 붙이면평소보다 공격력이 크게 상승하는 특성을 지녔다
+weapons,Weapons,Weapon_Sword_166,독기의 검,불길한 기색을 발하는 얇은 검만진 사람의 생명을 빼앗는다고 전해지며이 검을 지닌 자는 몸이 독기에 서서히 잠식된다
+weapons,Weapons,Weapon_Sword_167,나뭇가지,어디서든 볼 수 있는 나뭇가지로휘두르기에 딱 좋은 밸런스장비하면 무기로 사용할 수 있다
+weapons,Weapons,Weapon_Sword_168,나무 봉,나뭇가지를 잡기 쉽게 다듬은 봉휘두르기 딱 좋은 밸런스로 제작되었다장비하면 무기로 사용할 수 있다
+non_player_characters,Character Profiles,Npc_BaseCamp_AncientAssistant001,가가모,
+non_player_characters,Character Profiles,Npc_Zora034,가디슨,
+non_player_characters,Character Profiles,Npc_HyruleWestHatago002,가르션,
+non_player_characters,Character Profiles,Npc_CafeHylia004,가슈,
+non_player_characters,Character Profiles,Npc_GerudoGate_AncientAssistant004,가스펠,
+non_player_characters,Character Profiles,Npc_SmallOasis002,가이,
+non_player_characters,Character Profiles,Npc_OasisGoron_001,가트린,
+non_player_characters,Character Profiles,Npc_BaseCamp_Zora004,가페라,
+non_player_characters,Character Profiles,Obj_DiaryGerudo_A_03,감시소 일지,
+non_player_characters,Character Profiles,Npc_Goron009,건그런,
+non_player_characters,Character Profiles,Npc_Lanayru004,게라크,
+non_player_characters,Character Profiles,Npc_RitoHatago004,게롤,
+non_player_characters,Character Profiles,Npc_Road_030,게리튼,
+non_player_characters,Character Profiles,Npc_Road_025,겐사,
+non_player_characters,Character Profiles,Npc_HighMountain033,겐코,
+non_player_characters,Character Profiles,Npc_HyruleDepthHatago004,고그,
+non_player_characters,Character Profiles,NPC_oasis004,고마나,
+non_player_characters,Character Profiles,Npc_Kakariko013,고스틴,
+non_player_characters,Character Profiles,Npc_RiverSideHatago001,고터프,
+non_player_characters,Character Profiles,Npc_Zonau_Golem_Servant_ZonauChallenge_00,관리 골렘,
+non_player_characters,Character Profiles,Npc_Eldin_Hylia004,구즈리,
+non_player_characters,Character Profiles,Npc_AncientAssistant003,그랜슨,
+non_player_characters,Character Profiles,Npc_Goron032,그랩,
+non_player_characters,Character Profiles,Npc_Goron023,그레이슨,
+non_player_characters,Character Profiles,Npc_HighMountain034,그리그리,
+non_player_characters,Character Profiles,Npc_MiniGame_Golf,그리프트,
+non_player_characters,Character Profiles,Npc_CaveTraveler001,글라디,
+non_player_characters,Character Profiles,Npc_MercenarySoldier_Hylia001,글라레스,
+non_player_characters,Character Profiles,Npc_TamourPlainHatago_003,글리마,
+non_player_characters,Character Profiles,Npc_FaronWoods007,기로쵸,
+non_player_characters,Character Profiles,Npc_Umii_Kakariko_Scholar_J,기사리스,
+non_player_characters,Character Profiles,Npc_HighMountain037,기잔,
+non_player_characters,Character Profiles,Npc_BaseCamp_Gerudo004,나노테,
+non_player_characters,Character Profiles,Npc_HatenoVillage007,나라,
+non_player_characters,Character Profiles,Npc_Attacked02_003,나르시소,
+non_player_characters,Character Profiles,Npc_kokiri002,나모민,
+non_player_characters,Character Profiles,Npc_Road_033,나즈비,
+non_player_characters,Character Profiles,Npc_HighMountain011,나즐리,
+non_player_characters,Character Profiles,Npc_Attacked_008,나츠,
+non_player_characters,Character Profiles,Npc_KorokFly002,나코,
+non_player_characters,Character Profiles,Npc_HatenoVillage005,나크,
+non_player_characters,Character Profiles,Npc_Kakariko006,나킨,
+non_player_characters,Character Profiles,NPC_oasis004_fr01,나타네,
+non_player_characters,Character Profiles,Npc_kokiri004,나투,
+non_player_characters,Character Profiles,Npc_HighMountain031,난,
+non_player_characters,Character Profiles,FldObj_DevoteSpring_Book,낡은 노트,
+non_player_characters,Character Profiles,Obj_DiaryKakariko004_A_01,낡은 노트,
+non_player_characters,Character Profiles,Obj_Notepad_Assassin_A_02,너덜너덜한 수첩,
+non_player_characters,Character Profiles,Npc_HyruleWestHatago003,네기스,
+non_player_characters,Character Profiles,Npc_GerudoGate_AncientAssistant001,네네아,
+non_player_characters,Character Profiles,Npc_oasis018,네루,
+non_player_characters,Character Profiles,Npc_Attacked_012,네르펜,
+non_player_characters,Character Profiles,Npc_oasis021,네리슈,
+non_player_characters,Character Profiles,Npc_HatenoVillage008,네브,
+non_player_characters,Character Profiles,Npc_MiniGame_Basketball,네스트,
+non_player_characters,Character Profiles,Npc_Road_042,네이든,
+non_player_characters,Character Profiles,Npc_HighMountain008,네크,
+non_player_characters,Character Profiles,Npc_BaseCamp007,넨테스,
+non_player_characters,Character Profiles,Npc_Zora029,노르,
+non_player_characters,Character Profiles,Npc_TamourHatago002,노보,
+non_player_characters,Character Profiles,Npc_SmallOasis007,노빌,
+non_player_characters,Character Profiles,Npc_SouthernVillage010,누마노,
+non_player_characters,Character Profiles,Npc_BaseCamp_Zora001,누미엔,
+non_player_characters,Character Profiles,Npc_HatenoVillage006,니키,
+non_player_characters,Character Profiles,Npc_Attacked_006,닐바,
+non_player_characters,Character Profiles,Npc_Kokiri011,다미다미,
+non_player_characters,Character Profiles,Npc_MercenarySoldier_Hylia002B,다비시스,
+non_player_characters,Character Profiles,Npc_FirstColony004,다이,
+non_player_characters,Character Profiles,Npc_kokiri003,다지,
+non_player_characters,Character Profiles,Npc_GerudoCanyon003,다콘,
+non_player_characters,Character Profiles,Npc_HutagoHatago_002,다트,
+non_player_characters,Character Profiles,Npc_Umii_Ichikara_Scholar_B,단센,
+non_player_characters,Character Profiles,Npc_HatenoVillage016,단츠,
+non_player_characters,Character Profiles,Npc_DressFairy_01,대요정 미자,
+non_player_characters,Character Profiles,TwnObj_FairySpringClose_C_01,대요정 미자,
+non_player_characters,Character Profiles,Npc_DressFairy_02,대요정 시저,
+non_player_characters,Character Profiles,TwnObj_FairySpringClose_B_01,대요정 시저,
+non_player_characters,Character Profiles,Npc_DressFairy_00,대요정 크출라,
+non_player_characters,Character Profiles,TwnObj_FairySpringClose_A_01,대요정 크출라,
+non_player_characters,Character Profiles,Npc_DressFairy_03,대요정 테라,
+non_player_characters,Character Profiles,TwnObj_FairySpringClose_D_01,대요정 테라,
+non_player_characters,Character Profiles,Npc_Zonau_Golem_Servant_ZonauChallenge_01,대장장이 골렘,
+non_player_characters,Character Profiles,Npc_TabantaBridgeHatago006,데비,
+non_player_characters,Character Profiles,Npc_Road_027,데이토,
+non_player_characters,Character Profiles,TwnObj_Village_Korok_DekuTree_A_01,데크나무님,
+non_player_characters,Character Profiles,Npc_TabantaHatago003,덴돈,
+non_player_characters,Character Profiles,Npc_OasisMilk_D,델튼,
+non_player_characters,Character Profiles,Npc_BaseCamp009,도네이,
+non_player_characters,Character Profiles,Npc_BaseCampSoldier_Hylia006,도디,
+non_player_characters,Character Profiles,Npc_Zora003,도레판,
+non_player_characters,Character Profiles,Npc_HorseBuyer_04,도리타,
+non_player_characters,Character Profiles,subchallnpc000,도미다크,
+non_player_characters,Character Profiles,LambdaTextNpc,도적 람다의 메시지,
+non_player_characters,Character Profiles,Npc_Kakariko007,두런,
+non_player_characters,Character Profiles,Npc_Lanayru003,두리스,
+non_player_characters,Character Profiles,Npc_Zora037,둔마,
+non_player_characters,Character Profiles,Npc_Goron041,듀크,
+non_player_characters,Character Profiles,Npc_Road_017,드나이트,
+non_player_characters,Character Profiles,Npc_BaseCampSoldier_Hylia005,드라피,
+non_player_characters,Character Profiles,Npc_Goron030,드레장,
+non_player_characters,Character Profiles,Npc_oasis024,드롭,
+non_player_characters,Character Profiles,Npc_TabantaBridgeHatago005,드류,
+non_player_characters,Character Profiles,Npc_Goron012,드릴드,
+non_player_characters,Character Profiles,Npc_LanayruRoad_AncientAssistant,디란타,
+non_player_characters,Character Profiles,Npc_Zora010,디메,
+non_player_characters,Character Profiles,Npc_OasisStudent_C,디쇼나,
+non_player_characters,Character Profiles,Npc_Attacked_002,딜,
+non_player_characters,Character Profiles,Npc_TamourPlainHatago_004,딤치,
+non_player_characters,Character Profiles,FldObj_GerudoTownBook2,라·탐의 요리 수첩①,
+non_player_characters,Character Profiles,FldObj_GerudoTownBook,라·탐의 요리 수첩②,
+non_player_characters,Character Profiles,Npc_Road_045,라니,
+non_player_characters,Character Profiles,Npc_Zora007,라루타,
+non_player_characters,Character Profiles,Npc_Goron018,라멜라,
+non_player_characters,Character Profiles,Npc_Road_043,라보라,
+non_player_characters,Character Profiles,Npc_MercenarySoldier_Hylia005A,라세니,
+non_player_characters,Character Profiles,Dm_Npc_Raul,라울,
+non_player_characters,Character Profiles,Npc_oasis009,라이너,
+non_player_characters,Character Profiles,Npc_BaseCamp003,라저,
+non_player_characters,Character Profiles,Npc_Kakariko016,라즈리,
+non_player_characters,Character Profiles,Npc_Road_046,라킴,
+non_player_characters,Character Profiles,Npc_MercenarySoldier_Hylia008B,라파렐,
+non_player_characters,Character Profiles,Npc_KorokFly004,라하,
+non_player_characters,Character Profiles,Npc_oasis042,란제,
+non_player_characters,Character Profiles,Npc_Umii_Kakariko_Scholar_H,란지아,
+non_player_characters,Character Profiles,Npc_FutagoRoad_AncientAssistant,람즈,
+non_player_characters,Character Profiles,Npc_Goron051,래셔,
+non_player_characters,Character Profiles,Npc_MercenarySoldier_Hylia003B,랜디,
+non_player_characters,Character Profiles,NPC_Lanayru001,러셀,
+non_player_characters,Character Profiles,Npc_oasis023,러쉬,
+non_player_characters,Character Profiles,Npc_HorseBuyer_01,레겐,
+non_player_characters,Character Profiles,Npc_RitoHatago001,레스,
+non_player_characters,Character Profiles,Npc_HatenoVillage010,레오프,
+non_player_characters,Character Profiles,Npc_MercenarySoldier_Goron001B,레이번,
+non_player_characters,Character Profiles,Npc_Zora013,레트건,
+non_player_characters,Character Profiles,Npc_TamourHatago2_001,렉스,
+non_player_characters,Character Profiles,Npc_goron004,로그로,
+non_player_characters,Character Profiles,Npc_HatenoVillage017,로단테,
+non_player_characters,Character Profiles,Npc_HatenoVillage024,로렐,
+non_player_characters,Character Profiles,Npc_HatenoVillage024_AssassinFake,로렐,
+non_player_characters,Character Profiles,Obj_Hateno_MessageBook,로렐이 남긴 편지,
+non_player_characters,Character Profiles,Npc_AncientDoctor_Hateno,로베리,
+non_player_characters,Character Profiles,Npc_Road_018,로브리코,
+non_player_characters,Character Profiles,Npc_Zora033,로스리,
+non_player_characters,Character Profiles,Npc_SouthernVillage013,로젤,
+non_player_characters,Character Profiles,Npc_oasis027,로틴,
+non_player_characters,Character Profiles,Npc_Road_034,론,
+non_player_characters,Character Profiles,Npc_oasis050,론드슨,
+non_player_characters,Character Profiles,Npc_SmallOasis005,롭스터,
+non_player_characters,Character Profiles,Npc_NorthHatelHatago006,루산,
+non_player_characters,Character Profiles,TwnObj_GerudoTown_RougeDiary_A_02,루쥬의 수기,
+non_player_characters,Character Profiles,Npc_Road_032,루카,
+non_player_characters,Character Profiles,Npc_HatenoRoad_AncientAssistant,루코다,
+non_player_characters,Character Profiles,Npc_Zora028,루토아,
+non_player_characters,Character Profiles,TwnObj_Circuit_Ichikara_RuleBook,룰 북,
+non_player_characters,Character Profiles,TwnObj_Circuit_Uotori_RuleBook,룰 북,
+non_player_characters,Character Profiles,Npc_UMiiVillage010,룰리,
+non_player_characters,Character Profiles,Npc_Remains_Fancier001,류네,
+non_player_characters,Character Profiles,Npc_Goron050,류베,
+non_player_characters,Character Profiles,Npc_SouthernVillage014,리가니,
+non_player_characters,Character Profiles,Npc_Attacked_003,리건,
+non_player_characters,Character Profiles,Npc_AncientAssistant005,리도우,
+non_player_characters,Character Profiles,Npc_HatenoVillage,리드,
+non_player_characters,Character Profiles,Npc_HatenoVillage_Armed,리드,
+non_player_characters,Character Profiles,TwnObj_HatenoVillage_MayorDiary_A_01,리드의 일기,
+non_player_characters,Character Profiles,Npc_oasis014,리무버,
+non_player_characters,Character Profiles,Npc_OasisStudent_B,리사,
+non_player_characters,Character Profiles,Npc_RidgeRoad_AncientAssistant,리샤,
+non_player_characters,Character Profiles,Npc_Road_022,리세,
+non_player_characters,Character Profiles,Npc_Road_003,리큐,
+non_player_characters,Character Profiles,Npc_Attacked_001,리키,
+non_player_characters,Character Profiles,TwnObj_RitoRecordsBook,리토의 문헌,
+non_player_characters,Character Profiles,Npc_Zora031,리트반,
+non_player_characters,Character Profiles,Npc_oasis040,린넬,
+non_player_characters,Character Profiles,Npc_SmallOasis011,립스,
+non_player_characters,Character Profiles,Npc_TamourHatago005,릿토,
+non_player_characters,Character Profiles,TwnObj_UmayadoBook_07,마구간 회원 대장,
+non_player_characters,Character Profiles,Npc_KorokFly005,마데린,
+non_player_characters,Character Profiles,Npc_Zora009,마루토,
+non_player_characters,Character Profiles,Npc_MercenarySoldier_Hylia002A,마시마,
+non_player_characters,Character Profiles,Npc_MercenarySoldier_Camper003,마에스트,
+non_player_characters,Character Profiles,Npc_Road_021,마오,
+non_player_characters,Character Profiles,HorseGod001,마용,
+non_player_characters,Character Profiles,Npc_oasis012,마카라,
+non_player_characters,Character Profiles,Npc_kokiri005,마카마카,
+non_player_characters,Character Profiles,Npc_KorokFly003,마타리,
+non_player_characters,Character Profiles,Npc_OasisSoldier_A,마파,
+non_player_characters,Character Profiles,Npc_MercenarySoldier_Hylia001B,마프라,
+non_player_characters,Character Profiles,Npc_HatenoVillage022,매니,
+non_player_characters,Character Profiles,Npc_RiverSideHatago003,매켄버,
+non_player_characters,Character Profiles,Npc_OasisStep_B,매트리,
+non_player_characters,Character Profiles,Npc_UMiiVillage033,매티슨,
+non_player_characters,Character Profiles,Npc_UMiiVillage033_Gerudo,매티슨,
+non_player_characters,Character Profiles,TwnObj_UMiiVillage033Book,매티슨의 일기,
+non_player_characters,Character Profiles,Npc_Road_044,머츠,
+non_player_characters,Character Profiles,Npc_oasis011,머큐어,
+non_player_characters,Character Profiles,Npc_Road_031,머핀,
+non_player_characters,Character Profiles,Npc_Assassin_002,멋쟁이,
+non_player_characters,Character Profiles,Npc_Assassin_004,멋쟁이,
+non_player_characters,Character Profiles,Npc_Assassin_010,멋쟁이,
+non_player_characters,Character Profiles,Npc_Attacked_009,메구,
+non_player_characters,Character Profiles,Npc_HatenoVillage012,메다,
+non_player_characters,Character Profiles,Npc_Kakariko008,메로,
+non_player_characters,Character Profiles,Npc_SmallOasis009,메캡,
+non_player_characters,Character Profiles,Npc_MercenarySoldier_Camper002,멘터,
+non_player_characters,Character Profiles,Npc_oasis028,멜레나,
+non_player_characters,Character Profiles,Npc_UMiiVillage008,모그스,
+non_player_characters,Character Profiles,Npc_UMiiVillage007,모나리,
+non_player_characters,Character Profiles,Npc_KorokFly001,모레스푸,
+non_player_characters,Character Profiles,Npc_HyrulePlain006,모로헤이,
+non_player_characters,Character Profiles,Npc_Zora027,모르덴,
+non_player_characters,Character Profiles,Npc_HighMountain003,모모,
+non_player_characters,Character Profiles,Npc_BaseCampSoldier_Hylia001,모우젠,
+non_player_characters,Character Profiles,Npc_NorthHateru005,모코,
+non_player_characters,Character Profiles,Npc_Goron040,모타,
+non_player_characters,Character Profiles,Npc_Zonau_Golem_Servant_FirstIsland_06,목수 골렘,
+non_player_characters,Character Profiles,Npc_Zonau_Golem_Servant_FirstIsland_07,목수 골렘,
+non_player_characters,Character Profiles,Npc_Zonau_Golem_Servant_FirstIsland_12,목수 골렘,
+non_player_characters,Character Profiles,Npc_Zonau_Golem_Servant_FirstIsland_13,목수 골렘,
+non_player_characters,Character Profiles,Npc_Zonau_Golem_Servant_FirstIsland_14,목수 골렘,
+non_player_characters,Character Profiles,Npc_Zonau_Golem_Servant_FirstIsland_18,목수 골렘,
+non_player_characters,Character Profiles,Npc_Zonau_Golem_Servant_FirstIsland_23,목수 골렘,
+non_player_characters,Character Profiles,Npc_BaseCamp011,몬다나,
+non_player_characters,Character Profiles,Npc_TabantaHatago001,몬키,
+non_player_characters,Character Profiles,Npc_SouthernVillage005,무베,
+non_player_characters,Character Profiles,Npc_OasisGoddess,무아바,
+non_player_characters,Character Profiles,Npc_oasis010,무에리타,
+non_player_characters,Character Profiles,Npc_Zora004,무즈리,
+non_player_characters,Character Profiles,Npc_HyruleDepthHatago002,무티,
+non_player_characters,Character Profiles,Dm_Npc_Raumi,미넬,
+non_player_characters,Character Profiles,Npc_RaumiGolem_Sage,미넬,
+non_player_characters,Character Profiles,Npc_MercenarySoldier_Hylia007,미노르,
+non_player_characters,Character Profiles,Npc_Orchestra_M_00,미로얀,
+non_player_characters,Character Profiles,Npc_BaseCamp_AncientAssistant003,미루,
+non_player_characters,Character Profiles,Npc_Strange_Beacon,미모쟈,
+non_player_characters,Character Profiles,Npc_FarthestIsland002,미몬지,
+non_player_characters,Character Profiles,Npc_NewsPaper004,미미나,
+non_player_characters,Character Profiles,Npc_HighMountain021,미사,
+non_player_characters,Character Profiles,Obj_DiaryRito001_A_01,미사의 조리법,
+non_player_characters,Character Profiles,Npc_TamourHatago001,미호,
+non_player_characters,Character Profiles,Npc_Kakariko015,바난나,
+non_player_characters,Character Profiles,Npc_GerudoDesert004,바레타,
+non_player_characters,Character Profiles,Npc_Goron_Cafe001,바루다스,
+non_player_characters,Character Profiles,Npc_Road_040,바우머,
+non_player_characters,Character Profiles,Npc_WellMania,바이치,
+non_player_characters,Character Profiles,Npc_TabantaHatago004,바켄,
+non_player_characters,Character Profiles,Npc_TamourHatago003,바키니,
+non_player_characters,Character Profiles,Npc_Road_035,바테크,
+non_player_characters,Character Profiles,Obj_Notepad_Tips_A_01,받침 위의 메모,
+non_player_characters,Character Profiles,Npc_HighMountain025,발레,
+non_player_characters,Character Profiles,Npc_Eldin_Hylia003,밴크셔,
+non_player_characters,Character Profiles,Npc_OasisSoldier_C,버블,
+non_player_characters,Character Profiles,NPC_oasis004_fr04,베니,
+non_player_characters,Character Profiles,Npc_NorthHateru_around001,베니코,
+non_player_characters,Character Profiles,Npc_BaseCamp_Gerudo006,베디지,
+non_player_characters,Character Profiles,Npc_Road_020,베리스,
+non_player_characters,Character Profiles,Npc_TabantaBridgeHatago001,벤디,
+non_player_characters,Character Profiles,Npc_SmallOasis006,벤자민,
+non_player_characters,Character Profiles,Npc_MercenarySoldier_Hylia009B,벤토사,
+non_player_characters,Character Profiles,Npc_Goron021,벨고,
+non_player_characters,Character Profiles,Npc_HighMountain012,벨라,
+non_player_characters,Character Profiles,Npc_oasis045,벨로아,
+non_player_characters,Character Profiles,Npc_Kakariko005,보가드,
+non_player_characters,Character Profiles,Npc_BaseCamp001,보논,
+non_player_characters,Character Profiles,Npc_Goron014,보린,
+non_player_characters,Character Profiles,Npc_goron026,보이콘,
+non_player_characters,Character Profiles,Npc_OldKorok,보쿠린,
+non_player_characters,Character Profiles,Npc_OasisHylia_002,보텐사,
+non_player_characters,Character Profiles,Npc_RitoHatago003,보토스,
+non_player_characters,Character Profiles,Npc_Road_028,볼든,
+non_player_characters,Character Profiles,Npc_HatenoVillage032,볼슨,
+non_player_characters,Character Profiles,Npc_Road_002_Road,봉고르,
+non_player_characters,Character Profiles,Npc_AkkareRoad_AncientAssistant,부겐,
+non_player_characters,Character Profiles,Npc_Kakariko_Road_019,부그리,
+non_player_characters,Character Profiles,Npc_HorseBuyer_02,부쇼,
+non_player_characters,Character Profiles,Npc_NewsPaper002,부쿠사,
+non_player_characters,Character Profiles,Npc_Minigame_BirdMan001,부토,
+non_player_characters,Character Profiles,Npc_oasis007,뷰러,
+non_player_characters,Character Profiles,Npc_Goron006,브루도,
+non_player_characters,Character Profiles,subchallnpc000_twin,브리센,
+non_player_characters,Character Profiles,HorseAssociationCustum004,브린,
+non_player_characters,Character Profiles,Npc_FaronWoods010,브린카,
+non_player_characters,Character Profiles,Npc_Goron010,블레든,
+non_player_characters,Character Profiles,Npc_SmallOasis014,블로우,
+non_player_characters,Character Profiles,Npc_Goron016,블로한,
+non_player_characters,Character Profiles,Npc_VolcanicRoad_AncientAssistant,비스카,
+non_player_characters,Character Profiles,Npc_Orchestra_W_00,비올란,
+non_player_characters,Character Profiles,Npc_Orchestra_M_P,비츠,
+non_player_characters,Character Profiles,Npc_Cannon02_02,빌슨,
+non_player_characters,Character Profiles,Npc_Cannon09_02,빌슨,
+non_player_characters,Character Profiles,Obj_DiaryCannon02_A_01,빌슨의 일지,
+non_player_characters,Character Profiles,Npc_HutagoHatago_Woman_01,사게사,
+non_player_characters,Character Profiles,Npc_HatenoVillage019_SisterA,사고노,
+non_player_characters,Character Profiles,Npc_Umii_Kakariko_Scholar_B,사구르,
+non_player_characters,Character Profiles,Npc_Zonau_Golem_Servant_FirstIsland_02,사냥꾼 골렘,
+non_player_characters,Character Profiles,Npc_Zonau_Golem_Servant_FirstIsland_04,사냥꾼 골렘,
+non_player_characters,Character Profiles,Npc_Zonau_Golem_Servant_FirstIsland_17,사냥꾼 골렘,
+non_player_characters,Character Profiles,Npc_MercenarySoldier_Hylia006,사노베,
+non_player_characters,Character Profiles,Npc_HatenoVillage015,사드,
+non_player_characters,Character Profiles,Npc_SouthernVillage006,사바카,
+non_player_characters,Character Profiles,Npc_Road_036,사비,
+non_player_characters,Character Profiles,Npc_Bottle_Mes001,사사노,
+non_player_characters,Character Profiles,Npc_Cannon02_01,사우슨,
+non_player_characters,Character Profiles,Npc_BaseCamp002,사일락,
+non_player_characters,Character Profiles,Npc_oasis015,사쥬,
+non_player_characters,Character Profiles,Npc_HighMountain005,사키,
+non_player_characters,Character Profiles,Npc_NewVolcanicRoad_AncientAssistant,산고바,
+non_player_characters,Character Profiles,Npc_Goron036,샌슨,
+non_player_characters,Character Profiles,Npc_MercenarySoldier_Goron002B,샤라크,
+non_player_characters,Character Profiles,Npc_HyrulePlain004,샤메,
+non_player_characters,Character Profiles,Npc_oasis039,샤본느,
+non_player_characters,Character Profiles,Npc_FaronWoods003,샤이,
+non_player_characters,Character Profiles,Npc_MercenarySoldier_Hylia004A,샤크스,
+non_player_characters,Character Profiles,Npc_DeathMt001,샨푸,
+non_player_characters,Character Profiles,TwnObj_Village_InvestigatorDiary_A_03,석판 해독 기록,
+non_player_characters,Character Profiles,TwnObj_Village_InvestigatorDiary_A_04,석판 해독 기록,
+non_player_characters,Character Profiles,TwnObj_Village_InvestigatorDiary_A_05,석판 해독 기록,
+non_player_characters,Character Profiles,TwnObj_Village_InvestigatorDiary_A_06,석판 해독 기록,
+non_player_characters,Character Profiles,TwnObj_Village_InvestigatorDiary_A_07,석판 해독 기록,
+non_player_characters,Character Profiles,Npc_Zora014,세곤,
+non_player_characters,Character Profiles,Npc_oasis037,세나,
+non_player_characters,Character Profiles,TwnObj_BackNumberBook,세나의 뜬소문,
+non_player_characters,Character Profiles,Npc_Kakariko010,세로라,
+non_player_characters,Character Profiles,Npc_GerudoGate_AncientAssistant003,세르치코,
+non_player_characters,Character Profiles,Npc_Attacked02_001,세리보,
+non_player_characters,Character Profiles,TwnObj_Village_SheikerHeirDiary_A_02,세상의 모든 걱정,
+non_player_characters,Character Profiles,Npc_HighMountain020,세실리,
+non_player_characters,Character Profiles,Npc_HatenoVillage001,세지,
+non_player_characters,Character Profiles,Npc_HatenoVillage021,세파로,
+non_player_characters,Character Profiles,Npc_HatenoVillage009,센,
+non_player_characters,Character Profiles,Npc_HatenoVillage004,셀든,
+non_player_characters,Character Profiles,Npc_IceVillage011,셀미,
+non_player_characters,Character Profiles,Npc_MercenarySoldier_Hylia002,소티스,
+non_player_characters,Character Profiles,Npc_GerudoDesert001,소프,
+non_player_characters,Character Profiles,Npc_HatenoVillage019,소피,
+non_player_characters,Character Profiles,Npc_HighMountain030,솔리레스,
+non_player_characters,Character Profiles,Npc_TabantaBridgeHatago004,쇼,
+non_player_characters,Character Profiles,Npc_oasis036,쉐바,
+non_player_characters,Character Profiles,Npc_SmallOasis003,슈슈,
+non_player_characters,Character Profiles,Npc_OasisSoldier_B,스마우드,
+non_player_characters,Character Profiles,Npc_OasisMilk_B,스마티,
+non_player_characters,Character Profiles,Npc_Zora032,스바바,
+non_player_characters,Character Profiles,Npc_KarakaraRoad_AncientAssistant,스베니아,
+non_player_characters,Character Profiles,Npc_Road_Firone002,스스아나,
+non_player_characters,Character Profiles,Npc_BaseCampSoldier_Hylia013,스콜피스,
+non_player_characters,Character Profiles,Npc_FaronWoods008,스테이어,
+non_player_characters,Character Profiles,Npc_SmallOasis001,스트레든,
+non_player_characters,Character Profiles,Npc_HyruleWestHatago005,스플린,
+non_player_characters,Character Profiles,Npc_Road_014,스핀치,
+non_player_characters,Character Profiles,Npc_Goron011,슬레고,
+non_player_characters,Character Profiles,Npc_Road_009,슬레타,
+non_player_characters,Character Profiles,Npc_ZoraB001,시드,
+non_player_characters,Character Profiles,Npc_NewsPaper012,시란,
+non_player_characters,Character Profiles,Npc_AncientAssistant001,시몬,
+non_player_characters,Character Profiles,Npc_LakeSideHatago006,시미너,
+non_player_characters,Character Profiles,Npc_Goron019,시미트,
+non_player_characters,Character Profiles,Npc_SouthHateru005,시보우,
+non_player_characters,Character Profiles,Npc_MercenarySoldier_Hylia008,시시나타,
+non_player_characters,Character Profiles,Npc_Road_013,시시모,
+non_player_characters,Character Profiles,Npc_HatenoVillage026,시온,
+non_player_characters,Character Profiles,Npc_RoadShop_01,시치나크,
+non_player_characters,Character Profiles,Npc_Kakariko014,시트라,
+non_player_characters,Character Profiles,UnknownNPC_MysteryVoice,신비한 목소리,
+non_player_characters,Character Profiles,Npc_ZoraGoron_001,아기푸트,
+non_player_characters,Character Profiles,Npc_oasis006,아로마,
+non_player_characters,Character Profiles,Npc_RitoHatago002,아리오느,
+non_player_characters,Character Profiles,NPC_oasis004_fr02,아마니,
+non_player_characters,Character Profiles,Npc_HatenoVillage020,아마릴리,
+non_player_characters,Character Profiles,Npc_SouthernVillage004,아메스,
+non_player_characters,Character Profiles,Npc_NorthHatelHatago002,아미브,
+non_player_characters,Character Profiles,Npc_HyrulePlain005,아슈겔,
+non_player_characters,Character Profiles,Npc_HorseBuyer_03,아스파,
+non_player_characters,Character Profiles,Npc_HatenoVillage027,아오타,
+non_player_characters,Character Profiles,Npc_HatenoVillage003,아이비,
+non_player_characters,Character Profiles,Npc_oasis001,아이샤,
+non_player_characters,Character Profiles,Npc_NewsPaper006,아이야,
+non_player_characters,Character Profiles,Npc_oasis043,아쥬,
+non_player_characters,Character Profiles,Npc_Goron005,아지테,
+non_player_characters,Character Profiles,Npc_oasis048,아크렛,
+non_player_characters,Character Profiles,Npc_NewsPaper003,아타카모,
+non_player_characters,Character Profiles,Npc_GerudoDesert003,안체,
+non_player_characters,Character Profiles,Npc_Zora012,안테,
+non_player_characters,Character Profiles,Npc_CraftSignboard001,애디슨,
+non_player_characters,Character Profiles,Npc_BaseCamp006,앤슨,
+non_player_characters,Character Profiles,Npc_Cannon13_01,앨머슨,
+non_player_characters,Character Profiles,Npc_Cannon_03,앨머슨,
+non_player_characters,Character Profiles,Npc_OasisMilk_A,야이드라,
+non_player_characters,Character Profiles,Npc_Goron042,야토코,
+non_player_characters,Character Profiles,Npc_Road_010,얀,
+non_player_characters,Character Profiles,Npc_Road_005,에나시,
+non_player_characters,Character Profiles,Npc_Umii_Kakariko_Scholar_D,에노코,
+non_player_characters,Character Profiles,Npc_SmallOasis010,에밀리,
+non_player_characters,Character Profiles,Npc_Umii_Kakariko_Scholar_A,에버리,
+non_player_characters,Character Profiles,Npc_oasis044,에스피,
+non_player_characters,Character Profiles,Npc_BaseCamp012,에이잔,
+non_player_characters,Character Profiles,Npc_oasis046,에테스,
+non_player_characters,Character Profiles,Npc_oasis032,엑티스,
+non_player_characters,Character Profiles,Npc_TabantaBridgeHatago003,엔,
+non_player_characters,Character Profiles,Npc_MercenarySoldier_Hylia003,엘리그,
+non_player_characters,Character Profiles,Npc_Assassin_003,여행자,
+non_player_characters,Character Profiles,Npc_Assassin_005,여행자,
+non_player_characters,Character Profiles,Npc_Assassin_006,여행자,
+non_player_characters,Character Profiles,Npc_Assassin_007,여행자,
+non_player_characters,Character Profiles,TwnObj_HatenoVillage_ZeldaDiary_A_02,연락 수첩,
+non_player_characters,Character Profiles,Npc_HyruleWestHatago004,오라크,
+non_player_characters,Character Profiles,Npc_Road_026,오사지,
+non_player_characters,Character Profiles,Npc_Attacked_010,오제이,
+non_player_characters,Character Profiles,Npc_DeathEastHatago_001,오즈,
+non_player_characters,Character Profiles,Npc_Challenge093Lady,오코바,
+non_player_characters,Character Profiles,Npc_NewsPaper007,오키쿠,
+non_player_characters,Character Profiles,Npc_Goron033,오프락,
+non_player_characters,Character Profiles,Npc_oasis019,올루,
+non_player_characters,Character Profiles,Npc_Kakariko011,올리베,
+non_player_characters,Character Profiles,Npc_LakeSideHatago004,와노르,
+non_player_characters,Character Profiles,Npc_SouthernVillage016,와빈,
+non_player_characters,Character Profiles,Npc_OasisTeacher,와셔,
+non_player_characters,Character Profiles,Npc_Road_012,와스크,
+non_player_characters,Character Profiles,Npc_HatenoGate002,와토르,
+non_player_characters,Character Profiles,Npc_NorthHateru003,요렐,
+non_player_characters,Character Profiles,Npc_NewsPaper005,요메나,
+non_player_characters,Character Profiles,Npc_Road_001,우드,
+non_player_characters,Character Profiles,Npc_HatenoVillage023,우메,
+non_player_characters,Character Profiles,Npc_HatenoVillage011,워튼,
+non_player_characters,Character Profiles,Npc_OasisHylia_001,유리,
+non_player_characters,Character Profiles,Npc_MercenarySoldier_Hylia003A,유타스,
+non_player_characters,Character Profiles,Npc_Orchestra_M_H,유호르,
+non_player_characters,Character Profiles,Obj_DiaryGoronYunbo_A_01,윤돌의 일기,
+non_player_characters,Character Profiles,Npc_Assassin_Middle_001,이가단 간부,
+non_player_characters,Character Profiles,Npc_Assassin_Middle_002,이가단 간부,
+non_player_characters,Character Profiles,Npc_Assassin_Middle_003,이가단 간부,
+non_player_characters,Character Profiles,Npc_Assassin_Middle_004,이가단 간부,
+non_player_characters,Character Profiles,Npc_Assassin_Middle_Azito001,이가단 간부,
+non_player_characters,Character Profiles,Npc_Assassin_Middle_Azito002,이가단 간부,
+non_player_characters,Character Profiles,Npc_Assassin_Middle_Azito003,이가단 간부,
+non_player_characters,Character Profiles,Npc_Assassin_Junior,이가단 구성원,
+non_player_characters,Character Profiles,Npc_Assassin_Junior_001,이가단 구성원,
+non_player_characters,Character Profiles,Npc_Assassin_Junior_002,이가단 구성원,
+non_player_characters,Character Profiles,Npc_Assassin_Junior_003,이가단 구성원,
+non_player_characters,Character Profiles,Npc_Assassin_Junior_Azito001,이가단 구성원,
+non_player_characters,Character Profiles,Npc_Assassin_Junior_Azito002,이가단 구성원,
+non_player_characters,Character Profiles,Npc_Assassin_Junior_Azito003,이가단 구성원,
+non_player_characters,Character Profiles,Npc_Assassin_Junior_Azito004,이가단 구성원,
+non_player_characters,Character Profiles,Npc_Assassin_Junior_Azito005,이가단 구성원,
+non_player_characters,Character Profiles,Npc_Assassin_Junior_Azito006,이가단 구성원,
+non_player_characters,Character Profiles,Npc_Assassin_Junior_Azito007,이가단 구성원,
+non_player_characters,Character Profiles,Npc_Assassin_Junior_Azito008,이가단 구성원,
+non_player_characters,Character Profiles,Npc_Assassin_Junior_Azito009,이가단 구성원,
+non_player_characters,Character Profiles,Npc_Assassin_Junior_Tribune,이가단 구성원,
+non_player_characters,Character Profiles,Obj_Notepad_Assassin_A_01,이가단 수첩,
+non_player_characters,Character Profiles,Obj_DiaryAssassin_A_01,이가단 일지,
+non_player_characters,Character Profiles,Npc_oasis005,이그렛타,
+non_player_characters,Character Profiles,Npc_NorthHatelHatago001,이즈라,
+non_player_characters,Character Profiles,Npc_BaseCamp_Zora003,이터,
+non_player_characters,Character Profiles,Npc_Goron_Cafe002,이톤,
+non_player_characters,Character Profiles,Npc_HyruleDepthHatago005,인브리,
+non_player_characters,Character Profiles,Npc_GerudoGate_Soldier001,일네,
+non_player_characters,Character Profiles,Npc_HyruleDepthHatago006,일라이자,
+non_player_characters,Character Profiles,Npc_Hunters_Lost,일미나,
+non_player_characters,Character Profiles,Npc_Attacked_004,임터,
+non_player_characters,Character Profiles,Npc_Wanderer,임파,
+non_player_characters,Character Profiles,Npc_BaseCampSoldier_Hylia004,자스,
+non_player_characters,Character Profiles,Npc_KorokFly006,자토라,
+non_player_characters,Character Profiles,Npc_Zonau_Golem_Servant_FirstIsland_21,제련 골렘,
+non_player_characters,Character Profiles,Npc_Zonau_Golem_Servant_Minus0012,제련 골렘,
+non_player_characters,Character Profiles,Npc_Zonau_Golem_Servant_Minus0013,제련 골렘,
+non_player_characters,Character Profiles,Npc_Zonau_Golem_Servant_Minus0014,제련 골렘,
+non_player_characters,Character Profiles,Npc_Zonau_Golem_Servant_Minus0015,제련 골렘,
+non_player_characters,Character Profiles,Npc_Zonau_Golem_Servant_Minus0016,제련 골렘,
+non_player_characters,Character Profiles,Npc_Zonau_Golem_Servant_Minus0017,제련 골렘,
+non_player_characters,Character Profiles,Npc_Zonau_Golem_Servant_Minus0018,제련 골렘,
+non_player_characters,Character Profiles,Npc_Zonau_Golem_Servant_Minus0019,제련 골렘,
+non_player_characters,Character Profiles,Npc_Zonau_Golem_Servant_Minus0020,제련 골렘,
+non_player_characters,Character Profiles,Npc_Zonau_Golem_Servant_Minus0026,제련 골렘,
+non_player_characters,Character Profiles,Npc_AncientAssistant004,제린,
+non_player_characters,Character Profiles,Dm_Npc_Zelda_Search_Improve,젤다,
+non_player_characters,Character Profiles,UnknownNPC_Zelda,젤다의 목소리,
+non_player_characters,Character Profiles,TwnObj_HatenoVillage_ZeldaDiary_A_01,젤다의 일기,
+non_player_characters,Character Profiles,TwnObj_HatenoVillage_ZeldaDiary_A_03,젤다의 일기,
+non_player_characters,Character Profiles,TwnObj_Village_InvestigatorDiary_A_01,조나우 조사대의 3수칙,
+non_player_characters,Character Profiles,UnknownNPC_Mineru,조나우의 유물,
+non_player_characters,Character Profiles,Npc_Attacked_007,조럼,
+non_player_characters,Character Profiles,Npc_Road_006,조로나,
+non_player_characters,Character Profiles,Npc_Zonau_Golem_Servant_FirstIsland_03,조리 골렘,
+non_player_characters,Character Profiles,Npc_Assassin_001,조사원,
+non_player_characters,Character Profiles,Npc_Assassin_008,조사원,
+non_player_characters,Character Profiles,Npc_Assassin_009,조사원,
+non_player_characters,Character Profiles,Npc_Assassin_011,조사원,
+non_player_characters,Character Profiles,Npc_Assassin_012,조사원,
+non_player_characters,Character Profiles,Npc_Assassin_013,조사원,
+non_player_characters,Character Profiles,Npc_Assassin_014,조사원,
+non_player_characters,Character Profiles,Npc_Assassin_015,조사원,
+non_player_characters,Character Profiles,Npc_Assassin_016,조사원,
+non_player_characters,Character Profiles,Npc_Assassin_017,조사원,
+non_player_characters,Character Profiles,Npc_Assassin_018,조사원,
+non_player_characters,Character Profiles,Npc_Assassin_019,조사원,
+non_player_characters,Character Profiles,Npc_Assassin_020,조사원,
+non_player_characters,Character Profiles,Npc_Assassin_021,조사원,
+non_player_characters,Character Profiles,Npc_Assassin_022,조사원,
+non_player_characters,Character Profiles,Npc_Assassin_023,조사원,
+non_player_characters,Character Profiles,Npc_Umii_Minus_Scholar_A,조사원,
+non_player_characters,Character Profiles,Npc_Umii_Minus_Scholar_C,조사원,
+non_player_characters,Character Profiles,Npc_BaseCamp_Assistant,조슈아,
+non_player_characters,Character Profiles,Npc_HighMountain040,죠고,
+non_player_characters,Character Profiles,Npc_HorseBuyer,주키,
+non_player_characters,Character Profiles,Npc_TamourPlainHatago_002,준,
+non_player_characters,Character Profiles,Npc_HighMountain041,쥬노,
+non_player_characters,Character Profiles,Npc_Kokiri010,쥬키,
+non_player_characters,Character Profiles,Npc_FaronWoods009,지니스,
+non_player_characters,Character Profiles,Npc_BaseCamp_Gerudo002,지르버,
+non_player_characters,Character Profiles,Npc_Zora035,지아트,
+non_player_characters,Character Profiles,Npc_Zonau_Golem_Servant_BaseCamp_01,집사 골렘,
+non_player_characters,Character Profiles,Npc_Zonau_Golem_Servant_FirstIsland_00,집사 골렘,
+non_player_characters,Character Profiles,Npc_Zonau_Golem_Servant_FirstIsland_10,집사 골렘,
+non_player_characters,Character Profiles,Npc_Zonau_Golem_Servant_FirstIsland_11,집사 골렘,
+non_player_characters,Character Profiles,Npc_Zonau_Golem_Servant_FirstIsland_19,집사 골렘,
+non_player_characters,Character Profiles,Npc_Zonau_Golem_Servant_FirstIsland_20,집사 골렘,
+non_player_characters,Character Profiles,Npc_Zonau_Golem_Servant_FirstIsland_22,집사 골렘,
+non_player_characters,Character Profiles,Npc_Zonau_Golem_Servant_Minus0001,집사 골렘,
+non_player_characters,Character Profiles,Npc_Zonau_Golem_Servant_Minus0002,집사 골렘,
+non_player_characters,Character Profiles,Npc_Zonau_Golem_Servant_Minus0003,집사 골렘,
+non_player_characters,Character Profiles,Npc_Zonau_Golem_Servant_Minus0004,집사 골렘,
+non_player_characters,Character Profiles,Npc_Zonau_Golem_Servant_Minus0005,집사 골렘,
+non_player_characters,Character Profiles,Npc_Zonau_Golem_Servant_Minus0006,집사 골렘,
+non_player_characters,Character Profiles,Npc_Zonau_Golem_Servant_Minus0007,집사 골렘,
+non_player_characters,Character Profiles,Npc_Zonau_Golem_Servant_Minus0008,집사 골렘,
+non_player_characters,Character Profiles,Npc_Zonau_Golem_Servant_Minus0009,집사 골렘,
+non_player_characters,Character Profiles,Npc_Zonau_Golem_Servant_Minus0010,집사 골렘,
+non_player_characters,Character Profiles,Npc_Zonau_Golem_Servant_Minus0021,집사 골렘,
+non_player_characters,Character Profiles,Npc_Zonau_Golem_Servant_Minus0022,집사 골렘,
+non_player_characters,Character Profiles,Npc_Zonau_Golem_Servant_Minus0024,집사 골렘,
+non_player_characters,Character Profiles,Npc_Zonau_Golem_Servant_Minus0025,집사 골렘,
+non_player_characters,Character Profiles,Npc_Zonau_Golem_Servant_Shrine_00,집사 골렘,
+non_player_characters,Character Profiles,Npc_Zonau_Golem_Servant_Shrine_01,집사 골렘,
+non_player_characters,Character Profiles,Npc_Zonau_Golem_Servant_SkyIsland0001,집사 골렘,
+non_player_characters,Character Profiles,Npc_Zonau_Golem_Servant_SkyIsland0002,집사 골렘,
+non_player_characters,Character Profiles,Npc_Zonau_Golem_Servant_SkyIsland0003,집사 골렘,
+non_player_characters,Character Profiles,Npc_Attacked_005,차비,
+non_player_characters,Character Profiles,Npc_HyruleWestHatago006,차크,
+non_player_characters,Character Profiles,Npc_Zonau_Golem_Servant_FirstIsland_08,채굴 골렘,
+non_player_characters,Character Profiles,Npc_Zonau_Golem_Servant_FirstIsland_15,채굴 골렘,
+non_player_characters,Character Profiles,Npc_Zonau_Golem_Servant_FirstIsland_16,채굴 골렘,
+non_player_characters,Character Profiles,Npc_Zonau_Golem_Servant_ZonauChallenge_02,채굴 골렘,
+non_player_characters,Character Profiles,Npc_Road_007,채리오,
+non_player_characters,Character Profiles,Npc_Umii_Kakariko_SpecialPartsShopNPC,채즐,
+non_player_characters,Character Profiles,Obj_DiaryTamul_A_09,천재지변에 관한 고찰,
+non_player_characters,Character Profiles,Npc_Road_015,츄민,
+non_player_characters,Character Profiles,Npc_GerudoCanyon002,츠무기,
+non_player_characters,Character Profiles,Npc_SouthernVillage001,치샤,
+non_player_characters,Character Profiles,Npc_Kokiri008,치오,
+non_player_characters,Character Profiles,Npc_NewsPaper008,치코,
+non_player_characters,Character Profiles,Npc_oasis025,치크,
+non_player_characters,Character Profiles,Npc_Goron037,칩슨,
+non_player_characters,Character Profiles,Npc_kokiri012,카랏세,
+non_player_characters,Character Profiles,Npc_HatenoGate001,카리유,
+non_player_characters,Character Profiles,FldObj_HatenoGateBook,카리유의 일기,
+non_player_characters,Character Profiles,Obj_DiaryGoron_Npc_Gaman03,카베타의 일기,
+non_player_characters,Character Profiles,Npc_Umii_Road_Scholar_A,카보크,
+non_player_characters,Character Profiles,Npc_Road_029,카샤,
+non_player_characters,Character Profiles,Npc_TabanthaRoad_AncientAssistant,카슈아,
+non_player_characters,Character Profiles,Npc_HatenoVillage030,카슨,
+non_player_characters,Character Profiles,Npc_TamourPlainHatago_001,카이퍼,
+non_player_characters,Character Profiles,Npc_Road_023,카즈나비,
+non_player_characters,Character Profiles,Npc_BaseCampSoldier_Hylia007,카즈라,
+non_player_characters,Character Profiles,Npc_SmallOasis004,카츄,
+non_player_characters,Character Profiles,Npc_Zora005,카프슨,
+non_player_characters,Character Profiles,Npc_HighMountain004,칸,
+non_player_characters,Character Profiles,NPC_artist_001,칸기스,
+non_player_characters,Character Profiles,Npc_Road_024,칸보,
+non_player_characters,Character Profiles,Npc_oasis013,칼라,
+non_player_characters,Character Profiles,Npc_LakeSideHatago005,캄포,
+non_player_characters,Character Profiles,Npc_OasisWaterChannel,캐리번,
+non_player_characters,Character Profiles,Npc_OasisStep_A,커틀,
+non_player_characters,Character Profiles,Npc_Zora020,커티,
+non_player_characters,Character Profiles,Npc_Goron031,컵스,
+non_player_characters,Character Profiles,HorseAssociationCustum003,케니,
+non_player_characters,Character Profiles,Npc_DeathEastHatago_003,케이트,
+non_player_characters,Character Profiles,Npc_TabantaBridgeHatago002,켄,
+non_player_characters,Character Profiles,KohgaNoTitle,코가,
+non_player_characters,Character Profiles,Npc_Goron_Cafe03,코간코,
+non_player_characters,Character Profiles,Npc_Goron034,코구,
+non_player_characters,Character Profiles,Npc_Zora008,코다,
+non_player_characters,Character Profiles,KorokCarryPassenger_Pair,코로그,
+non_player_characters,Character Profiles,KorokCarry_Destination,코로그,
+non_player_characters,Character Profiles,Npc_HiddenKorokGround,코로그,
+non_player_characters,Character Profiles,Npc_SmallOasis012,코롱,
+non_player_characters,Character Profiles,Npc_NewsPaper009,코루크,
+non_player_characters,Character Profiles,Npc_BaseCamp_Gerudo001,코르기,
+non_player_characters,Character Profiles,Npc_Umii_Kakariko_Scholar_C,코리네,
+non_player_characters,Character Profiles,Npc_BaseCamp004,코사엘,
+non_player_characters,Character Profiles,Npc_HyruleWestHatago001,코스미,
+non_player_characters,Character Profiles,Npc_oasis029,코움,
+non_player_characters,Character Profiles,Npc_HatenoVillage025,코윈,
+non_player_characters,Character Profiles,Npc_NewsPaper001,코조,
+non_player_characters,Character Profiles,Npc_HighMountain032,코츠,
+non_player_characters,Character Profiles,Npc_Kakariko003,코코나,
+non_player_characters,Character Profiles,Npc_oasis041,코튼,
+non_player_characters,Character Profiles,Npc_BaseCampSoldier_Hylia003,코폴라,
+non_player_characters,Character Profiles,Npc_SouthernVillageGambler,코한,
+non_player_characters,Character Profiles,Npc_NushiShop,콜텐,
+non_player_characters,Character Profiles,Npc_HatenoVillage029,쿠린,
+non_player_characters,Character Profiles,Npc_BaseCamp_AncientAssistant002,쿠조,
+non_player_characters,Character Profiles,Npc_Goron022,쿠크렌,
+non_player_characters,Character Profiles,Npc_Umii_Kakariko_Scholar_F,쿠탄,
+non_player_characters,Character Profiles,Npc_Zora_Attendant001,크로마,
+non_player_characters,Character Profiles,Npc_MiniGame_Crosscountry,크로칸바,
+non_player_characters,Character Profiles,Npc_Kakariko012,클라리,
+non_player_characters,Character Profiles,Npc_HatenoVillage018,클레비아,
+non_player_characters,Character Profiles,Npc_SouthernVillage008,키노,
+non_player_characters,Character Profiles,Npc_Zora_Attendant002,키라,
+non_player_characters,Character Profiles,Npc_HighMountain035,키르,
+non_player_characters,Character Profiles,Npc_DeathEastHatago_002,키마,
+non_player_characters,Character Profiles,Npc_DeathWestHatago_002,키슈,
+non_player_characters,Character Profiles,Npc_Umii_Kakariko_Scholar_E,키와노,
+non_player_characters,Character Profiles,Npc_NewsPaper013,키와케,
+non_player_characters,Character Profiles,Npc_SouthernVillage009,키즈타,
+non_player_characters,Character Profiles,Npc_SouthernVillage007,키코,
+non_player_characters,Character Profiles,Npc_BaseCamp014,키키모,
+non_player_characters,Character Profiles,Npc_MamonoShop,킬튼,
+non_player_characters,Character Profiles,Npc_Road_016,타노,
+non_player_characters,Character Profiles,Npc_HatenoVillage033,타마나,
+non_player_characters,Character Profiles,Npc_Attacked02_004,타모키,
+non_player_characters,Character Profiles,Npc_OasisHylia_003,타바우마,
+non_player_characters,Character Profiles,Npc_AncientAssistant003_K1,타우로,
+non_player_characters,Character Profiles,Npc_kokiri001,타쵸,
+non_player_characters,Character Profiles,Npc_Zora001,타카,
+non_player_characters,Character Profiles,Npc_BaseCamp_Gerudo003,탈라테라,
+non_player_characters,Character Profiles,Npc_goron002,탱크로,
+non_player_characters,Character Profiles,Npc_MiniGame_BasketBall_Launcher,터벌트,
+non_player_characters,Character Profiles,Npc_oasis002,테드라,
+non_player_characters,Character Profiles,Npc_TripMaster_00,테리,
+non_player_characters,Character Profiles,Npc_ValleyVillage010,테바,
+non_player_characters,Character Profiles,Npc_HutagoHatago_001,테서린,
+non_player_characters,Character Profiles,HorseAssociationCustum001,텐,
+non_player_characters,Character Profiles,Npc_Zora036,토루포,
+non_player_characters,Character Profiles,Npc_Zora025,토온,
+non_player_characters,Character Profiles,Npc_kokiri009,토치,
+non_player_characters,Character Profiles,Npc_HatenoVillage013,토크,
+non_player_characters,Character Profiles,Npc_Road_008,토토마,
+non_player_characters,Character Profiles,Npc_HyruleDepthHatago007,토파,
+non_player_characters,Character Profiles,Npc_Goron013,톤자가,
+non_player_characters,Character Profiles,Npc_Attacked_011,톰미,
+non_player_characters,Character Profiles,Npc_HighMountain001,튤리,
+non_player_characters,Character Profiles,Npc_Goron035,트럭슨,
+non_player_characters,Character Profiles,Npc_goron001,트레이,
+non_player_characters,Character Profiles,Npc_HyruleDepthHatago003,트롯,
+non_player_characters,Character Profiles,Npc_BaseCampSoldier_Hylia002,트린스,
+non_player_characters,Character Profiles,Npc_HatenoVillage028,티보,
+non_player_characters,Character Profiles,Npc_oasis016,티클,
+non_player_characters,Character Profiles,Npc_FaronHatago_001,파도크,
+non_player_characters,Character Profiles,Npc_Road_004,파라거스,
+non_player_characters,Character Profiles,NPC_oasis004_fr03,파르메,
+non_player_characters,Character Profiles,Npc_RiverSideHatago002,파리세,
+non_player_characters,Character Profiles,TwnObj_Village_SheikerHeirDiary_A_03,파야의 족장 일기,
+non_player_characters,Character Profiles,Npc_HighMountain010,파이슨,
+non_player_characters,Character Profiles,Npc_goron003,파일드,
+non_player_characters,Character Profiles,Npc_oasis038,파퓨,
+non_player_characters,Character Profiles,Npc_SmallOasis013,판데,
+non_player_characters,Character Profiles,Npc_NewsPaper011,팔가,
+non_player_characters,Character Profiles,HorseAssociationCustum002,패너,
+non_player_characters,Character Profiles,Npc_oasis047,패들,
+non_player_characters,Character Profiles,Npc_GerudoDesert002,팩트,
+non_player_characters,Character Profiles,Npc_Umii_Ichikara_Scholar_C,퍼니슨,
+non_player_characters,Character Profiles,Npc_Road_041,퍼질,
+non_player_characters,Character Profiles,Npc_oasis017,펄,
+non_player_characters,Character Profiles,Npc_SouthernVillage015,페디,
+non_player_characters,Character Profiles,Npc_FaronWoods001,페로사,
+non_player_characters,Character Profiles,Npc_kokiri006,페파파,
+non_player_characters,Character Profiles,Npc_Rito_Postman_001,펜,
+non_player_characters,Character Profiles,Npc_Goron025,펠리슨,
+non_player_characters,Character Profiles,Npc_Road_011,포드머,
+non_player_characters,Character Profiles,Npc_Bowling,폰드,
+non_player_characters,Character Profiles,Npc_Zora011,폰테,
+non_player_characters,Character Profiles,Npc_Kakariko004,푸리코,
+non_player_characters,Character Profiles,Npc_Attacked02_002,프라이,
+non_player_characters,Character Profiles,Npc_Gerudo_Hylia001,프라토,
+non_player_characters,Character Profiles,Npc_oasis022,프레그라,
+non_player_characters,Character Profiles,Npc_oasis008,프레스타,
+non_player_characters,Character Profiles,Npc_oasis020,프레지,
+non_player_characters,Character Profiles,Npc_MercenarySoldier_Hylia005,프렐,
+non_player_characters,Character Profiles,Npc_Zora006,프론크,
+non_player_characters,Character Profiles,Npc_HatenoVillage002,프루스,
+non_player_characters,Character Profiles,Npc_AncientDoctor,프루아,
+non_player_characters,Character Profiles,Obj_DiaryTamul_A_01,프루아의 일기,
+non_player_characters,Character Profiles,TwnObj_AncientDoctorDiary_A_01,프루아패드 사용 설명서,
+non_player_characters,Character Profiles,Npc_OasisHighMountain_001,프리드,
+non_player_characters,Character Profiles,Npc_HatenoVillage014,프리마,
+non_player_characters,Character Profiles,Npc_GerudoGate_AncientAssistant002,프리오,
+non_player_characters,Character Profiles,Npc_HatenoGate003,프리토스,
+non_player_characters,Character Profiles,Npc_OasisStudent_A,프샹,
+non_player_characters,Character Profiles,Npc_Goron039,프크램,
+non_player_characters,Character Profiles,Npc_Zora015,플라라트,
+non_player_characters,Character Profiles,Npc_MercenarySoldier_Hylia004,플러버,
+non_player_characters,Character Profiles,Npc_SouthernVillage012,플레버,
+non_player_characters,Character Profiles,Npc_OasisMilk_E,플로스,
+non_player_characters,Character Profiles,Npc_oasis026,플로카,
+non_player_characters,Character Profiles,Npc_BaseCamp008,피글로,
+non_player_characters,Character Profiles,Npc_Zora026,피네,
+non_player_characters,Character Profiles,Npc_Zora_NewFaceSoldier002,피노아,
+non_player_characters,Character Profiles,Npc_gerudovalley001,피르엘,
+non_player_characters,Character Profiles,Npc_Orchestra_BT_F,피리스,
+non_player_characters,Character Profiles,Npc_GerudoCanyonHatago001,피아페,
+non_player_characters,Character Profiles,Npc_OasisMilk_C,피이로,
+non_player_characters,Character Profiles,Npc_Kokiri007,피칸,
+non_player_characters,Character Profiles,Npc_Goron015,피케,
+non_player_characters,Character Profiles,NPC_Lanayru002,핀,
+non_player_characters,Character Profiles,Npc_UMiiVillage009,하기,
+non_player_characters,Character Profiles,Npc_UMiiVillage003,하니,
+non_player_characters,Character Profiles,Npc_MercenarySoldier_Hylia009,하마타,
+non_player_characters,Character Profiles,Npc_HighMountain036,하밀라,
+non_player_characters,Character Profiles,Npc_HighMountain009,하츠,
+non_player_characters,Character Profiles,Npc_HighMountain013,하크,
+non_player_characters,Character Profiles,Npc_Umii_Kakariko_Scholar_G,하키노,
+non_player_characters,Character Profiles,Npc_TabantaHatago002,할로,
+non_player_characters,Character Profiles,Npc_Zora002,헤온,
+non_player_characters,Character Profiles,Npc_HyruleDepthHatago001,헤이트,
+non_player_characters,Character Profiles,Npc_Road_037,헤티멀,
+non_player_characters,Character Profiles,Obj_DiaryAssassin_A_04,호뢰의 투구 개발 일지,
+non_player_characters,Character Profiles,Npc_TamourHatago004,호스타,
+non_player_characters,Character Profiles,Npc_Eldin_Hylia002,홀토스,
+non_player_characters,Character Profiles,Npc_BaseCamp_Zora002,후가크,
+non_player_characters,Character Profiles,Npc_Goron017,후고,
+non_player_characters,Character Profiles,Npc_SouthHateru006,후서린,
+non_player_characters,Character Profiles,Npc_SouthHateru007,히나바,
+towers,Skyview Tower,Tower01,감시 요새 조망대,
+towers,Skyview Tower,Tower02,라브라산 조망대,
+towers,Skyview Tower,Tower03,다글리 설원 조망대,
+towers,Skyview Tower,Tower04,올딘 협곡 조망대,
+towers,Skyview Tower,Tower05,울리산 조망대,
+towers,Skyview Tower,Tower06,사하스라 평원 조망대,
+towers,Skyview Tower,Tower07,조라 대지 조망대,
+towers,Skyview Tower,Tower08,하이랄 평원 조망대,
+towers,Skyview Tower,Tower09,겔드 캐니언 조망대,
+towers,Skyview Tower,Tower10,겔드 고지 조망대,
+towers,Skyview Tower,Tower11,라베라 습지대 조망대,
+towers,Skyview Tower,Tower12,드인블라 유적 조망대,
+towers,Skyview Tower,Tower13,포플러 고지 조망대,
+towers,Skyview Tower,Tower14,라넬산 조망대,
+towers,Skyview Tower,Tower15,가루가 고개 조망대,
+armors,Armor,Armor_001_Head,하일리아의 후드,하이랄의 전통 방식으로 짜여진튼튼한 천으로 만든 후드. 비바람과 강한 햇살로부터머리를 보호하기 위해 여행자들이 애용한다
+armors,Armor,Armor_001_Lower,하일리아의 바지,하이랄에서 널리 사랑받고 있는 일반적인 바지부드러운 천으로 만들어져 착용감이 좋다튼튼하여 여행 복장으로도 인기
+armors,Armor,Armor_001_Upper,하일리아의 옷,하이랄에서 널리 사랑받고 있는 일반적인 옷가볍고 튼튼한 천으로 만들어져 움직이기 편하다여행자들 중에서도 입고 있는 이가 많다
+armors,Armor,Armor_005_Head,숨결의 용사의 모자,황야를 여행하는 용사를 위해맞춤 제작되었다고 전해지는 모자어째서인지 썼을 때 마치 내 것 같은 느낌이다
+armors,Armor,Armor_005_Lower,숨결의 용사의 바지,황야를 여행하는 용사를 위해맞춤 제작되었다고 전해지는 바지사이즈도 딱 좋아 착용감이 발군이다
+armors,Armor,Armor_005_Upper,숨결의 용사의 옷,황야를 여행하는 용사를 위해맞춤 제작되었다고 전해지는 녹색 옷착용하면 정말 몸에 딱 맞는 사이즈
+armors,Armor,Armor_006_Head,조라의 투구,"예로부터 조라족에게 전해 내려오는 투구용의 비늘이 소재로 사용되었으며 헤엄 속도가상승하며, 헤엄 중에 스핀어택도 가능해진다"
+armors,Armor,Armor_006_Lower,조라의 경갑,조라족 대대로 전해져 내려오는 경갑용의 비늘이 소재로 사용되었다고 하며장비하면 헤엄이 빨라지는 효과를 발휘한다
+armors,Armor,Armor_006_Upper,조라의 갑옷,죽은 조라족 왕녀의 마음이 담긴 갑옷이것을 착용하면 하일리아인도폭포를 거슬러 올라갈 수 있게 된다
+armors,Armor,Armor_008_Head,사막의 머리 밴드,겔드 지방에서 보기 드문 남성용 방어구이마에 박힌 사파이어는얼음의 힘에 따른 가호로 내서 효과를 발휘한다
+armors,Armor,Armor_008_Lower,사막의 바지,겔드 비밀 클럽에서 암암리에 판매되는 남성용 바지얼음의 힘이 깃든 사파이어의 가호로내서 효과를 발휘한다
+armors,Armor,Armor_008_Upper,사막의 어깨 보호대,겔드 비밀 클럽에서 암암리에 판매되는 남성용방어구. 얼음의 힘이 깃든 사파이어의 가호로장비하면 내서 효과를 발휘한다
+armors,Armor,Armor_009_Head,방한 날개 장식,"설조의 질 좋은 깃털과 화염의 힘을 지닌 보석,루비가 장식된 리토족의 날개 장식장착하면 추위에 강해지는 효과가 있다"
+armors,Armor,Armor_009_Lower,리토의 날개 바지,리토족의 깃털을 사용하여 만들어진 바지천 안쪽이 깃털로 처리되어 있어 보온성이 뛰어나다리토의 마을에서 하일리아인을 상대로 판매 중이다
+armors,Armor,Armor_009_Upper,리토의 날개 옷,타반타와 헤브라를 방문하는 하일리아인을 위해리토족의 깃털을 사용하여 만들어진 옷깃털을 층층이 쌓아 보온성이 뛰어나다
+armors,Armor,Armor_011_Head,방염의 돌투구,고론 시티를 방문하는 관광객용으로고론족 장인이 만든 돌로 된 투구머리가 쏙 들어가는 구조이며 내화 성능이 있다
+armors,Armor,Armor_011_Lower,방염의 돌신,고론 시티를 방문하는 하일리아인을 위해고론족 장인이 만든 신발. 돌을 중심으로불타지 않는 소재로 만들어져 내화 성능을 가졌다
+armors,Armor,Armor_011_Upper,방염의 돌갑옷,고론 시티까지 여행 오는호기심 많은 인간을 위해 고론족이 만든 갑옷돌을 가공하여 제작되어 내화 성능을 가졌다
+armors,Armor,Armor_012_Head,은밀 마스크,평범한 헝겊 마스크로 보이나사실은 시커족의 기술로 옷자락 스치는 소리를철저하게 억제시킨다. 은밀 행동에 안성맞춤
+armors,Armor,Armor_012_Lower,은밀 타이츠,시커족이 잠입할 때 사용한 타이츠옷자락 스치는 소리를 줄이기 위해고대 기술을 사용한 천으로 만들어졌다
+armors,Armor,Armor_012_Upper,은밀 슈트,시커족에게 전해지는 잠입용 슈트옷자락 스치는 소리가 적은 소재를 사용해날쌘 움직임에도 소음이 잘 나지 않는다
+armors,Armor,Armor_014_Head,클라이밍 두건,보기에는 단순한 두건이나 사실은 고대 기술이사용되었으며 착용한 이의 신체 균형을조절해 벽을 타는 힘을 향상시켜 준다
+armors,Armor,Armor_014_Lower,클라이밍 슈즈,고대 기술이 사용된 클라이밍용 장비발끝이 잘 미끄러지지 않는 소재가 사용되어벽면을 확실하게 디뎌 절벽을 빠르게 오를 수 있다
+armors,Armor,Armor_014_Upper,클라이밍 장비,고대 기술이 적용된 클라이밍용 장비손끝이 잘 미끄러지지 않아 힘을 잘 집중시킬 수있기 때문에 경쾌하게 절벽을 오를 수 있게 된다
+armors,Armor,Armor_017_Head,야광 마스크,야광석을 빻아 만든 염료로해골 모양을 페인팅한 마스크어둠이 깔리면 희미하게 수상한 빛을 뿜는다
+armors,Armor,Armor_017_Lower,야광 타이츠,야광석을 빻아 만든 특수한 염료로 페인팅한 타이츠어둠이 깔리면 수상하게 빛나며해골 모양이 떠오른다
+armors,Armor,Armor_017_Upper,야광 슈트,야광석을 이용한 염료로 페인팅한 슈트얼핏 봐서는 평범하지만 어둠이 깔리면염료가 빛나며 해골 모양이 떠오르는 구조
+armors,Armor,Armor_020_Head,하일리아 병사의 투구,최전선에서 활약하는 병사를 위한 투구튼튼한 금속제에 높은 방어력이 특징현존하는 투구는 대재앙 당시 파손을 면한 것이다
+armors,Armor,Armor_020_Lower,하일리아 병사의 경갑,하일리아인 병사가 장비했던 경갑튼튼한 금속을 가공해 제작되어 높은 방어력이 특징중량이 상당해 장비한 채 달리기엔 단련이 필요하다
+armors,Armor,Armor_020_Upper,하일리아 병사의 갑옷,하일리아인 병사가 장비했던 갑옷금속판을 가공해 제작되어 높은 방어력이 특징튼튼한 장갑에서 장인의 높은 기술을 엿볼 수 있다
+armors,Armor,Armor_022_Head,보코블린 마스크,킬튼이 만든 보코블린 복면애교가 넘치는 모습으로 완성되었다쓰고 있으면 보코블린에게 잘 들키지 않게 된다
+armors,Armor,Armor_024_Head,다이아 머리 장식,"겔드의 보석점에서 취급하는 호화로운 머리 장식빛의 힘을 지닌 보석, 다이아몬드의 가호에 의해공격력이 증가한다"
+armors,Armor,Armor_025_Head,루비 머리 장식,"겔드의 보석 장인이 만든 전통적인 머리 장식화염의 힘을 지닌 보석, 루비의 가호에 의해장착하면 내한 효과를 발휘한다"
+armors,Armor,Armor_026_Head,사파이어 머리 장식,겔드의 조각 기술로 만들어진 정교한 머리 장식사파이어는 얼음의 힘을 지녔다고 전해지며장착하면 그 가호에 의해 내서 효과를 발휘한다
+armors,Armor,Armor_027_Head,토파즈 귀걸이,번개의 힘을 지닌 토파즈를겔드의 보석 장인이 가공한 귀걸이착용하면 그 가호에 의해 내전 효과를 발휘한다
+armors,Armor,Armor_028_Head,오팔 귀걸이,겔드의 보석점에서 취급하는 귀걸이물의 힘을 지닌 오팔의 가호에 의해착용하면 헤엄 속도가 상승한다
+armors,Armor,Armor_029_Head,호박 귀걸이,겔드의 보석점에 진열되는 인기 상품 중 하나대지의 힘을 품은 보석 호박을 사용한 귀걸이장착하면 그 가호에 의해 방어력이 상승한다
+armors,Armor,Armor_045_Head,모리블린 마스크,킬튼이 만든 모리블린 복면특징적인 긴 코와 축 늘어진 혀도 잘 살려 냈다쓰고 있으면 모리블린에게 잘 들키지 않게 된다
+armors,Armor,Armor_046_Head,러버 캡,"고대 기술로 만들어진 내전 성능을 갖춘 모자현대에는 사라진, 고무라는 전기가 잘 통하지 않는특수한 소재로 만들어졌다고 한다"
+armors,Armor,Armor_046_Lower,러버 타이츠,내전 성능을 가진 귀중한 타이츠고무라는 고대 기술을 사용한 소재로 제작되어현대 기술로는 만들 수 없다
+armors,Armor,Armor_046_Upper,러버 슈트,내전 성능을 가진 귀중한 슈트현대에는 없는 고대 기술을 활용한고무라는 특수 소재로 몸 전체를 감싸듯 제작되었다
+armors,Armor,Armor_048_Head,야만족의 투구,오래전 필로네 지방에 살았다는전투 부족의 투구. 새겨진 고대 문양이 투구를쓰는 자의 정신을 격앙시켜 공격력이 향상된다
+armors,Armor,Armor_048_Lower,야만족의 하의,오래전 필로네 지방에 있었다고 전해지는전투 부족의 하의. 착용한 이는 장식된 특수한문양에 의해 투쟁심이 솟고 공격력이 증가한다
+armors,Armor,Armor_048_Upper,야만족의 옷,오래전 필로네 지방을 거점으로 삼았다고 전해지는전투 부족의 옷. 착용하면 옷에 새겨진 특수한문양에 의해 투쟁심이 솟고 공격력이 증가한다
+armors,Armor,Armor_049_Lower,샌드 부츠,옛날 겔드족이 사용했다는 귀중한 부츠바닥이 모래에 잘 파묻히지 않게 되어 있어장비하면 사막에서도 이동 속도가 유지된다
+armors,Armor,Armor_055_Head,리잘포스 마스크,킬튼이 만든 리잘포스 복면툭 튀어나온 눈도 실감 나게 만들었다쓰고 있으면 리잘포스에게 잘 들키지 않게 된다
+armors,Armor,Armor_056_Head,라이넬 마스크,"킬튼이 만든 라이넬 복면라이넬도 속일 수 있을 만큼 높은 완성도를 자랑하며,쓰고 있으면 라이넬에게 잘 들키지 않게 된다"
+armors,Armor,Armor_1006_Head,글라이딩 마스크,전방에서의 공기 저항을 낮추도록 설계된 마스크공기 흐름을 고르게 만들어다이빙 중에 안정적인 활공이 가능해진다
+armors,Armor,Armor_1006_Lower,글라이딩 타이츠,하반신 곳곳에 천을 덧댄 타이츠공기 저항을 높여다이빙할 때 활공하기 쉬워진다
+armors,Armor,Armor_1006_Upper,글라이딩 슈트,공기를 붙잡아 양력을 얻을 수 있도록상반신 곳곳에 천을 덧댄 슈트다이빙할 때 활공 성능이 향상된다
+armors,Armor,Armor_1036_Head,고대의 용사의 영혼,과거에 하이랄을 구했다는 용사의 영혼그 영혼이 몸에 깃들면 영기를 둘러모습을 흉내 낼 수 있다
+armors,Armor,Armor_1043_Lower,낡은 하의,간소하고 고풍스러운 하의세월의 흐름이 느껴지지만 충분히 사용할 수 있다샌들의 끈을 묶는 게 조금 불편하다
+armors,Armor,Armor_1043_Upper,낡은 토가,고풍스러운 양식의 상의구멍 난 곳은 있지만 부드러운 촉감이 기분 좋다주름을 말끔히 펴기가 힘들다
+armors,Armor,Armor_1044_Lower,낡은 방한복,오래전에 제작된 것으로 보이는 방한복낡았지만 보온성이 높은 원단 덕분에어느 정도의 추위라면 충분히 견딜 수 있다
+armors,Armor,Armor_1046_Head,개구리의 두건,비가 많은 지역에서 활동하는 데 적합한 두건적절한 무게감이 중심을 잡는 데 도움을 줘벽이 젖어 있어도 오르기 쉬워진다
+armors,Armor,Armor_1046_Lower,개구리의 덧신,비가 많은 지역에서 활동하는 데 적합한 덧신밑면에는 미세한 홈이 많고 미끄럼 방지제도발라져 있어 벽이 젖어 있어도 잘 미끄러지지 않는다
+armors,Armor,Armor_1046_Upper,개구리의 토시,비가 많은 지역에서 활동하는 데 적합한 토시손가락 마디에 난 작은 홈이 빨판 역할을 해서벽이 젖어 있어도 잘 미끄러지지 않는다
+armors,Armor,Armor_1051_Head,채굴용 마스크,어둠 속에서 작업할 때 사용하는 마스크붙어 있는 램프는 발광 물질이 들어 있어주위를 어렴풋이 밝혀 준다
+armors,Armor,Armor_1051_Lower,채굴용 바지,발밑을 밝힐 수 있도록발광 물질이 담긴 램프를 장비한 바지어둠 속을 나아갈 때 요긴하게 쓰인다
+armors,Armor,Armor_1051_Upper,채굴용 옷,발광 물질이 담긴 크고 작은 램프를 장식한 옷어두운 곳에서 채굴 등의 작업을 하기 위해제작되었다고 한다
+armors,Armor,Armor_1061_Head,화염의 머리 장식,고대의 제사에 사용되었다는 머리 장식축열성이 높은 소재로 제작돼 고온의 환경에서주위 열을 이용해 화염을 만드는 공격을 할 수 있다
+armors,Armor,Armor_1061_Lower,화염의 바지,그 옛날 제사용으로 제작되었다는 바지축열성을 가진 원단을 사용해 고온의 환경에서주위 열을 이용해 화염을 만드는 공격을 할 수 있다
+armors,Armor,Armor_1061_Upper,화염의 옷,아주 먼 옛날 제사에 사용되었다는 옷축열성이 높은 원단으로 제작돼 고온의 환경에서주위 열을 이용해 화염을 만드는 공격을 할 수 있다
+armors,Armor,Armor_1066_Head,뇌광의 머리 장식,아주 먼 옛날 제사에 사용되었다는 머리 장식대전성이 높은 소재의 특성을 이용해뇌우 시의 전기로 번개를 만드는 공격을 할 수 있다
+armors,Armor,Armor_1066_Lower,뇌광의 바지,고대의 제사에 사용되었다는 바지대전성이 높은 천으로 만들어져 뇌우 시 공기 중의전기를 이용해 번개를 만드는 공격을 할 수 있다
+armors,Armor,Armor_1066_Upper,뇌광의 옷,그 옛날 제사용으로 제작되었다는 옷원단은 높은 대전성을 지니고 있어 뇌우 시주변의 전기를 모아 번개를 만드는 공격을 할 수 있다
+armors,Armor,Armor_1071_Head,눈보라의 머리 장식,그 옛날 제사용으로 제작되었다는 머리 장식냉매 성질을 가진 소재로 제작돼저온의 환경에서 냉기를 만드는 공격을 할 수 있다
+armors,Armor,Armor_1071_Lower,눈보라의 바지,아주 먼 옛날 제사에 사용되었다는 바지냉매에 특성을 가진 천으로 만들어져저온의 환경에서 냉기를 만드는 공격을 할 수 있다
+armors,Armor,Armor_1071_Upper,눈보라의 옷,고대의 제사에 사용되었다는 옷원단에 냉매로 쓰이는 소재가 사용되어 있어저온의 환경에서 냉기를 만드는 공격을 할 수 있다
+armors,Armor,Armor_1076_Head,사고노 해트,디자인이 독창적인 사고노의 걸작쓰고 돌아다니면 패션에 민감한 사람들의시선을 한 몸에 받을 것이다!
+armors,Armor,Armor_1086_Head,정령의 가발,마요이의 유실물과 교환해서 받은 가발정령을 향한 기도가 담긴 물건으로 그 가호로 인해공격받아도 체력 대신 루피가 감소한다
+armors,Armor,Armor_1086_Lower,정령의 하의,마요이의 유실물과 교환해서 받은 하의천에 정령을 향한 기도가 담겨 있어 그 가호로 인해공격받아도 체력 대신 루피가 감소한다
+armors,Armor,Armor_1086_Upper,정령의 상의,마요이의 유실물과 교환해서 받은 예복정령을 향한 기도가 담긴 천으로 짜 그 가호로 인해공격받아도 체력 대신 루피가 감소한다
+armors,Armor,Armor_1091_Head,조나니움 투구,조나니움을 가공하여 만든 투구제작 과정에서 담긴 마력에 의해 장비한 자가조나우 기어를 사용할 때 에너지 효율이 향상된다
+armors,Armor,Armor_1091_Lower,조나니움 무릎 보호대,조나니움을 사용해 제작한 무릎 보호대장비 시 조나우족의 명장이 담은 마력에 의해조나우 기어를 다룰 때 에너지 효율이 증가한다
+armors,Armor,Armor_1091_Upper,조나니움 가슴 보호대,조나니움으로 제작한 가슴 보호대착용하면 담겨 있는 마력의 효과를 받을 수 있어조나우 기어를 효율적으로 사용할 수 있게 된다
+armors,Armor,Armor_1096_Head,꿈꾸는 용사의 가면,한 번 들어가면 나올 수 없는 신비한 섬을 모험한용사를 본떠 만들었다고 전해지는 가면계속 쓰고 싶기도 하고 빨리 벗고 싶기도 하다
+armors,Armor,Armor_1096_Lower,꿈꾸는 용사의 바지,한 번 들어가면 나올 수 없는 신비한 섬을 모험한용사가 입었다고 전해지는 바지계속 입고 싶기도 하고 빨리 벗고 싶기도 하다
+armors,Armor,Armor_1096_Upper,꿈꾸는 용사의 옷,한 번 들어가면 나올 수 없는 신비한 섬을 모험한용사가 입었다고 전해지는 녹색 옷계속 입고 싶기도 하고 빨리 벗고 싶기도 하다
+armors,Armor,Armor_1106_Upper,신식·영걸의 옷,하이랄 왕가의 인정을 받은 영걸이 착용한 옷에견갑 등을 늘려 보다 모험에 적합하도록개량한 최신식 옷
+armors,Armor,Armor_1125_Head,호러블린 마스크,킬튼이 만든 호러블린 복면커다란 코와 미소 짓는 입가가 매우 비슷하다쓰고 있으면 호러블린에게 잘 들키지 않게 된다
+armors,Armor,Armor_1141_Head,어둠의 두건,기묘한 조각상에 포우를 바치면 획득할 수 있는 두건몬스터에게서 나오는 소재를 사용했는지독기의 영향을 잘 받지 않는 특성이 있다
+armors,Armor,Armor_1141_Lower,어둠의 각반,기묘한 조각상에 포우를 바치면 획득할 수 있는 각반몬스터에게서 나오는 소재를 사용했는지독기의 영향을 일부분 차단할 수 있다
+armors,Armor,Armor_1141_Upper,어둠의 옷,기묘한 조각상에 포우를 바치면 획득할 수 있는 옷몬스터 소재를 넣은 원단의 효능으로독기의 영향을 일부분 막을 수 있다
+armors,Armor,Armor_1151_Head,낡은 머리 장식,낡아 버린 간소한 머리 장식색이 바랬지만 아직 사용할 수 있을 것 같다이 장식을 착용하면 왠지 그리움이 느껴진다
+armors,Armor,Armor_1152_Head,하일리아의 후드,하이랄의 전통 방식으로 짜여진튼튼한 천으로 만든 후드. 비바람과 강한 햇살로부터머리를 보호하기 위해 여행자들이 애용한다
+armors,Armor,Armor_115_Head,호뢰의 투구,겔드족의 보물로서 대대로 내려오는 투구를이가단이 모방해서 만든 것. 무수한 토파즈가내부에 박혀 있어 전기를 튕겨 내는 힘을 지녔다
+armors,Armor,Armor_116_Upper,추억의 옷,"그 옛날, 하이랄 왕가의 인정을 받은5인의 영걸이 착용한 옷화사한 파란색으로 염색되어 있다"
+armors,Armor,Armor_1300_Head,이가단 마스크,이가단 단원에게 지급되는 마스크얼굴을 덮고 있어 숨소리까지 숨길 수 있다은밀 행동에 적합하나 소재가 가벼워 방어력이 낮다
+armors,Armor,Armor_1300_Lower,이가단 타이츠,이가단 단원에게 지급되는 타이츠발바닥 쪽의 부드러운 소재로 발소리를 줄였다비교적 얇은 편이라 방어력이 낮다
+armors,Armor,Armor_1300_Upper,이가단 슈트,이가단 단원에게 지급되는 슈트방호용 부품을 최소한으로 써서 소리가 나지 않도록제작되어 있어 그만큼 방어력이 낮다
+armors,Armor,Armor_141_Lower,스노 부츠,"그 옛날, 설산을 오를 때 사용되었다는귀중한 부츠. 체중이 분산되도록 고안되어장비하면 쌓인 눈 위에서도 이동 속도가 유지된다"
+armors,Armor,Armor_160_Head,다크 헤드,기묘한 조각상에 포우를 바치면 얻을 수 있는 방어구그림자에서 태어난 몬스터를 본뜬 것이라고 한다붉은 눈은 어둠 속에서도 요상하게 빛난다
+armors,Armor,Armor_160_Lower,다크 레그,기묘한 조각상에 포우를 바치면 얻을 수 있는 방어구언뜻 평범한 검은 바지로 보이지만그림자에서 태어난 몬스터를 모티브로 만들었다고 한다
+armors,Armor,Armor_160_Upper,다크 바디,기묘한 조각상에 포우를 바치면 얻을 수 있는 옷용사가 착용했다고 전해지는녹색 옷과는 비슷하지만 다르다
+armors,Armor,Armor_171_Head,팬텀의 투구,"과거, 용사조차 두려워한 갑옷 몬스터가 존재했다그 몬스터가 착용했다고 전해지는 으스스한 투구쉽게 손에 넣을 수 없는 레어 아이템이다"
+armors,Armor,Armor_171_Lower,팬텀의 경갑,"과거, 용사조차 두려워한 갑옷 몬스터가 존재했다그 몬스터가 착용했다고 전해지는 경갑쉽게 손에 넣을 수 없는 레어 아이템이다"
+armors,Armor,Armor_171_Upper,팬텀의 갑옷,"과거, 용사조차 두려워한 갑옷 몬스터가 존재했다그 몬스터가 착용했다고 전해지는 두꺼운 갑옷쉽게 손에 넣을 수 없는 레어 아이템이다"
+armors,Armor,Armor_172_Head,무쥬라의 가면,아주 먼 옛날로부터 전해지는 가면착용하면 일부 몬스터들에게 잘 들키지 않게 된다쉽게 손에 넣을 수 없는 레어 아이템이다
+armors,Armor,Armor_173_Head,미드나의 투구,황혼의 용사와 함께 하이랄을 위해 싸운어둠의 공주가 착용했다고 전해진다쉽게 손에 넣을 수 없는 레어 아이템이다
+armors,Armor,Armor_174_Head,팅글의 두건,요정을 동경한 남자가 즐겨 착용했던 두건그 남자에게 녹색은 요정의 증표였다고 한다쉽게 손에 넣을 수 없는 아이템인 모양이다
+armors,Armor,Armor_174_Lower,팅글의 바지,요정을 동경한 남자가 즐겨 착용했던 바지그 남자에게 녹색은 요정의 증표였다고 한다쉽게 손에 넣을 수 없는 아이템인 모양이다
+armors,Armor,Armor_174_Upper,팅글의 옷,요정을 동경한 남자가 즐겨 착용했던 옷그 남자에게 녹색은 요정의 증표였다고 한다쉽게 손에 넣을 수 없는 아이템인 모양이다
+armors,Armor,Armor_175_Upper,푸른 가재 셔츠,남쪽 섬에 전해지는 착용감이 부드러운 셔츠통기성이 좋은 원단으로 제작되어더운 지방에서 사용하는 데 적합하다
+armors,Armor,Armor_176_Head,코로그의 가면,코로그들이 쓰고 있는 가면을 복제한 것주변에 코로그가 있으면 달그락거린다쉽게 손에 넣을 수 없는 레어 아이템이다
+armors,Armor,Armor_177_Head,라비오의 후드,벽화가 될 수 있는 팔찌를 지닌 행상인의 후드벽화는 어렵지만 절벽을 탈 때 횡이동이 빨라진다쉽게 손에 넣을 수 없는 레어 아이템이다
+armors,Armor,Armor_178_Head,젠트의 투구,황혼의 세계에 군림하며 공포에 떨게 만든 참왕그 참왕이 지녔던 투구라고 전해진다쉽게 손에 넣을 수 없는 레어 아이템이다
+armors,Armor,Armor_179_Head,근위병의 모자,하이랄 왕국 근위병의 정복 모자보기보다 가벼워 착용해도 움직임에 거슬림이 없다최근 복원되어 널리 팔리게 되었다
+armors,Armor,Armor_179_Lower,근위병의 부츠,하이랄 왕국 근위병의 정복 부츠멋진 스타일뿐만 아니라 움직임도 편하게 만들어졌다최근 복원되어 널리 팔리게 되었다
+armors,Armor,Armor_179_Upper,근위병의 옷,하이랄 왕국 근위병의 정복가벼운 소재를 활용해 스타일과 실용성을 겸비했다최근 복원되어 널리 팔리게 되었다
+armors,Armor,Armor_180_Head,이차원악령의 투구,이차원에서 나타난 악령이씌었다고 전해지는 으스스한 투구쉽게 손에 넣을 수 없는 레어 아이템이다
+armors,Armor,Armor_180_Lower,이차원악령의 경갑,이차원에서 나타난 악령이씌었다고 전해지는 으스스한 경갑쉽게 손에 넣을 수 없는 레어 아이템이다
+armors,Armor,Armor_180_Upper,이차원악령의 갑옷,이차원에서 나타난 악령이씌었다고 전해지는 갑옷쉽게 손에 넣을 수 없는 레어 아이템이다
+armors,Armor,Armor_181_Head,신수 병기·루타,예로부터 조라의 백성을 수호한 전사가 지니던 투구하일리아인이 착용하면 조라족과의 인연이더욱 깊어진다고 전해진다
+armors,Armor,Armor_182_Head,신수 병기·메도,예로부터 리토의 백성을 수호한 전사가 지니던 투구하일리아인이 착용하면 리토족과의 인연이더욱 깊어진다고 전해진다
+armors,Armor,Armor_183_Head,신수 병기·루다니아,예로부터 고론의 백성을 수호한 전사가 지니던 투구하일리아인이 착용하면 고론족과의 인연이더욱 깊어진다고 전해진다
+armors,Armor,Armor_184_Head,신수 병기·나보리스,예로부터 겔드의 백성을 수호한 전사가 지니던 투구하일리아인이 착용하면 겔드족과의 인연이더욱 깊어진다고 전해진다
+armors,Armor,Armor_200_Head,시간의 용사의 모자,"시간을 넘어 여행했던 용사가착용했다고 전해지는 모자어른, 아이 할 것 없이 쓰고 싶어 하는 명품"
+armors,Armor,Armor_200_Lower,시간의 용사의 바지,시간을 넘어 여행했던 용사가착용했다고 전해지는 바지원래는 숲의 민족이 만든 물건인 모양이다
+armors,Armor,Armor_200_Upper,시간의 용사의 옷,시간을 넘어 여행했던 용사가착용했다고 전해지는 녹색 옷전 연령이 착용할 수 있는 디자인
+armors,Armor,Armor_205_Head,바람의 용사의 모자,넓은 바다를 여행했던 용사가애용했다고 전해지는 모자산들거리는 바닷바람에 멋지게 나부낀다
+armors,Armor,Armor_205_Lower,바람의 용사의 바지,넓은 바다를 여행했던 용사가애용했다고 전해지는 바지살짝 물에 젖어도 문제없도록 제작되었다
+armors,Armor,Armor_205_Upper,바람의 용사의 옷,넓은 바다를 여행했던 용사가애용했다고 전해지는 녹색 옷할머니로부터 받은 물건이라고 한다
+armors,Armor,Armor_210_Head,황혼의 용사의 모자,황혼의 몬스터와 싸운 용사가착용했다고 전해지는 모자어째서인지 약간 짐승의 냄새가 난다
+armors,Armor,Armor_210_Lower,황혼의 용사의 바지,황혼의 몬스터와 싸운 용사가착용했다고 전해지는 바지안쪽엔 조금이지만 늑대 털이 묻어 있다
+armors,Armor,Armor_210_Upper,황혼의 용사의 옷,황혼의 몬스터와 싸운 용사가착용했다고 전해지는 녹색 옷자세히 보면 늑대 털이 조금 묻어 있다
+armors,Armor,Armor_215_Head,하늘의 용사의 모자,새를 타고 하늘에서 나타난 용사가항상 착용했다고 전해지는 모자넓은 상공을 날기에 딱 좋은 명품
+armors,Armor,Armor_215_Lower,하늘의 용사의 바지,새를 타고 하늘에서 나타난 용사가항상 착용했다고 전해지는 바지기사단의 제복이었던 모양이다
+armors,Armor,Armor_215_Upper,하늘의 용사의 옷,새를 타고 하늘에서 나타난 용사가항상 착용했다고 전해지는 녹색 옷의식의 선물로 받은 물건이라고 전해진다
+armors,Armor,Armor_220_Head,시크의 마스크,시간을 넘어 여행했던 용사를 구해 준 시커족이착용하고 있었다는 마스크. 소음이 매우 적다시커 천이 사용되어 은밀 행동에 안성맞춤
+armors,Armor,Armor_225_Head,귀신의 모자,달이 추락하는 세계의 용사가 갖고 있던 방어구겉모습은 무섭지만 착용하면귀신같은 힘이 솟아난다
+armors,Armor,Armor_225_Lower,귀신의 부츠,달이 추락하는 세계의 용사가 갖고 있던 부츠착용하면 귀신같은 힘이 솟아난다
+armors,Armor,Armor_225_Upper,귀신의 옷,달이 추락하는 세계의 용사가 갖고 있던 옷착용하면 귀신같은 힘이 솟아난다
+armors,Armor,Armor_230_Head,시작의 용사의 모자,고대의 용사가애용했다고 전해지는 모자간소한 디자인이 매력인 명품
+armors,Armor,Armor_230_Lower,시작의 용사의 바지,고대의 용사가애용했다고 전해지는 바지꾸밈없는 디자인이 매력인 명품
+armors,Armor,Armor_230_Upper,시작의 용사의 옷,고대의 용사가애용했다고 전해지는 녹색 옷심플하지만 전통이 느껴지는 명품
+shields,Shields,Weapon_Shield_001,나무 방패,가벼운 목재로 만들어져초보자도 다루기 쉬운 방패화살 등의 가벼운 공격이라면 막을 수 있다
+shields,Shields,Weapon_Shield_002,병사의 방패,과거 성을 지키던 병사들에게 지급된 방패나무로 만들어져 가볍고 쓰기 편하지만불이 붙으면 타 버리니 주의해야 한다
+shields,Shields,Weapon_Shield_003,기사의 방패,하이랄 왕가를 섬기던 기사가 쓰던 방패금속이라 튼튼해서 거친 전투에도 버틸 수 있다무게가 있어 어느 정도 실력이 있어야 다룰 수 있다
+shields,Shields,Weapon_Shield_004,보코방패,떨어져 있는 적당한 나무판자에손잡이를 달아 만든 보코블린의 방패내구성도 낮아 간단히 망가져 버린다
+shields,Shields,Weapon_Shield_005,가시 보코방패,살짝 단단한 나무로 만들어진 보코블린의 방패나무판자에 동물의 뼈를 동여매 강도를 높혔다
+shields,Shields,Weapon_Shield_006,용골 보코방패,화석의 뼈를 테두리에 달아 보강한 보코방패적의 공격을 막는 성능은 개량되었지만여전히 조잡한 완성도로 내구성은 그리 높지 않다
+shields,Shields,Weapon_Shield_007,리잘실드,리잘포스가 선호하는 방패금속으로 만들어졌지만 거친 완성도로내구성은 그리 높지 않다
+shields,Shields,Weapon_Shield_008,강화 리잘실드,서로 다른 종류의 금속을 조합해강도를 높인 리잘실드테두리가 뾰족하니 주의해서 다루어야 한다
+shields,Shields,Weapon_Shield_009,강철 리잘실드,금속 장갑을 몇 장이나 겹친 리잘실드가드 성능은 높지만 중량이 상당하여전투 능력이 높은 개체만이 장비하고 있다
+shields,Shields,Weapon_Shield_016,라이넬의 방패,라이넬이 장비하는 금속의 튼튼한 방패방패임에도 날을 갖고 있어그것을 이용해 참격을 날릴 수 있다
+shields,Shields,Weapon_Shield_017,야수왕의 방패,장갑과 날이 늘어나 공수 모두 강화된라이넬의 방패. 테두리의 날은 간단한방어구 정도는 가를 수 있는 예리함을 지녔다
+shields,Shields,Weapon_Shield_018,야수신의 방패,그 어떤 매서운 공격도 쉽게 막는 가드 성능과강적을 가르는 날을 겸비한 궁극의 방패하얀 갈기의 라이넬이 즐겨 사용한다
+shields,Shields,Weapon_Shield_021,녹슨 방패,기사가 사용했을 금속의 녹슨 방패오랫동안 버려져 있어 녹이 슬었다방어 성능은 떨어졌지만 그런대로 쓸 수 있다
+shields,Shields,Weapon_Shield_022,왕가의 방패,하이랄 기사 중에서도 왕가의 사람을 지키는임무를 수행하던 기사에게 하사되었던 방패아름다운 장식과 높은 방어력이 매력적인 명품
+shields,Shields,Weapon_Shield_023,숲에 사는 자의 방패,코로그족이 인간을 위해 제작했다고 전해지는 방패코로그의 숲에서만 자라는 엄청나게 단단한 나무를사용해 제작했기 때문에 보기보다 훨씬 튼튼하다
+shields,Shields,Weapon_Shield_025,조라의 방패,섬세하게 장식된 조라족의 방패숙련된 사용자는 좌우의 굽어진 부분으로공격을 받아넘겨 몸을 지킨다고 한다
+shields,Shields,Weapon_Shield_026,겔드의 방패,한손검과 방패로 싸우는 겔드족의 기본적인전투 스타일에 맞춰 진화한 금속 방패병사뿐만이 아니라 여행자에게도 사랑받고 있다
+shields,Shields,Weapon_Shield_030,하일리아의 방패,용사가 사용했다는 전설과 함께고대부터 하이랄 왕가에 전해져 내려온 방패압도적인 방어력과 내구성을 자랑한다
+shields,Shields,Weapon_Shield_031,토끼 문양 방패,숲의 사냥꾼이 선호하는 방패다루기는 쉽지만 내구성은 높지 않다토끼 문양에는 사냥 운을 높여 준다는 미신이 있다
+shields,Shields,Weapon_Shield_032,물고기 문양 방패,바다의 어부가 선호하는 방패배에서 다루기 쉽게 가벼운 나무로 만들어졌다물고기 문양에는 풍어를 기원하는 미신이 있다
+shields,Shields,Weapon_Shield_033,근위의 방패,"시커족이 고대 기술을 사용해 제작한 방패공격을 막아 내는 힘은 굉장히 강하지만, 구조상내구성이 낮아 실전엔 부적합하다고 평가되었다"
+shields,Shields,Weapon_Shield_034,짐승 문양 방패,하테르 지방의 전통적인 문양이 그려진 방패방패로서의 성능은 일반 나무 방패와별 차이가 없으나 공예품으로 인기이다
+shields,Shields,Weapon_Shield_035,여행자의 방패,여행자에게 호신용으로 널리 쓰이는 방패튼튼한 나무에 가죽이 덧씌워져 있어하급 몬스터나 짐승의 공격 정도는 막을 수 있다
+shields,Shields,Weapon_Shield_036,태양의 방패,겔드 병사 중에서도 대장 이상만이 들 수 있는호화로운 방패. 보석이 박혀 있어 장식품으로도높은 가치가 있지만 방패로서도 뛰어나다
+shields,Shields,Weapon_Shield_037,칠보의 방패,영걸 우르보사가 애용한 지고의 방패. 엄선된금속을 사용해 가벼움과 강인함 모두를 겸비한 명품강렬한 공격도 가뿐히 막아 내는 성능을 지녔다
+shields,Shields,Weapon_Shield_040,냄비 뚜껑,마을 사람들에게 없어선 안 될 냄비의 뚜껑튼튼한 나무로 만들어졌지만방패로 계속 쓰기엔 불안하다
+shields,Shields,Weapon_Shield_041,수호의 방패,시커족이 쓰던 목제 소형 방패기동성을 확보하고 사각을 쉽게 만들지 못하도록특수한 모양을 하고 있다고 전해진다
+shields,Shields,Weapon_Shield_042,산들바람의 방패,"리토족 전사가 애용하는 방패공중전을 치를 때, 등에 맨 채로 하늘을날아도 지장이 없도록 고안된 형태이다"
+shields,Shields,Weapon_Shield_057,바닷바람의 방패,넓은 바다를 여행했던 용사가애용했다고 전해지는 방패용사 집안 대대로 전해져 내려온 물건이라 한다
+shields,Shields,Weapon_Shield_101,조나니움 방패,조나니움을 소재로 사용한 조나우족의 방패그 특징을 이용해 조나우 기어를 붙였을 때에너지 소비를 억제하는 특성을 지녔다
+shields,Shields,Weapon_Shield_102,튼튼한 조나니움 방패,조나우족이 조나니움으로 제작한 튼튼한 방패그럭저럭 적당한 내구력에다가 붙인 조나우 기어의에너지 소비를 억제하는 특성을 지녔다
+shields,Shields,Weapon_Shield_103,견고한 조나니움 방패,조나니움을 사용한 견고한 방패. 내구력이상당히 높으며 축적된 에너지로 인해 방패에 붙인조나우 기어를 효율적으로 사용할 수 있다
+shields,Shields,Weapon_Shield_107,낡은 나무 방패,아주 오래된 나무 방패세월의 흔적이 느껴질 정도지만화살 등의 가벼운 공격은 막을 수 있다
+food,Food,Item_Boiled_01,삶은 알,지면에서 뿜어져 나오는 온수의 열로삶아진 새의 알손쉽게 만들 수 있고 아이들에게도 인기 만점
+food,Food,Item_ChilledFish_01,냉동 배스,냉기로 인해 얼어 버린 배스하트 회복 효과는 미미하나잠시 내서 효과가 발휘된다
+food,Food,Item_ChilledFish_02,냉동 맥스연어,냉기로 인해 얼어 버린 맥스연어불필요한 지방이 없어 풍미가 좋다고 한다먹으면 잠시 내서 효과가 발휘된다
+food,Food,Item_ChilledFish_03,냉동 송어,냉기로 인해 얼어 버린 송어살이 수축되어 감칠맛이 응축되어 있다먹으면 잠시 내서 효과가 발휘된다
+food,Food,Item_ChilledFish_04,냉동 잉어,냉기로 인해 얼어 버린 잉어사각사각한 식감이 신선하다먹으면 잠시 내서 효과가 발휘된다
+food,Food,Item_ChilledFish_05,냉동 도미,냉기로 인해 얼어 버린 도미겔드사막 등 더운 지역에서 생각나는 일품먹으면 잠시 내서 효과가 발휘된다
+food,Food,Item_ChilledFish_06,냉동 맥스배스,냉기로 인해 얼어 버린 맥스배스상당히 딱딱해서 먹기 힘들지만먹으면 잠시 내서 효과가 발휘된다
+food,Food,Item_ChilledFish_07,냉동 게,냉기로 인해 얼어 버린 게원래는 보존을 위해 얼린 것이지만 그대로먹을 수 있으며 잠시 내서 효과가 발휘된다
+food,Food,Item_ChilledFish_08,냉동 우렁이,냉기로 인해 얼어 버린 은밀우렁이특징적인 빛도 얼면 없어진다먹으면 잠시 내서 효과가 발휘된다
+food,Food,Item_ChilledFish_16,냉동 아로와나,냉기로 인해 얼어 버린 아로와나수축된 살에는 감칠맛이 응축되어 있다먹으면 잠시 내서 효과가 발휘된다
+food,Food,Item_ChilledFish_18,냉동 동굴어,냉기로 인해 얼어 버린 조명동굴어부스러지기 쉬운 살이 탱탱해져서 먹기 쉬워졌다먹으면 잠시 내서 효과가 발휘된다
+food,Food,Item_Chilled_01,냉동 짐승 고기,냉기로 인해 얼어 버린 짐승 고기베어 물기에는 너무 단단하다약간의 하트 회복과 내서 효과가 발휘된다
+food,Food,Item_Chilled_02,냉동 상급 짐승 고기,냉기로 인해 얼어 버린 상급 짐승 고기약간의 하트 회복과 내서 효과가 발휘된다
+food,Food,Item_Chilled_03,냉동 특급 짐승 고기,냉기로 인해 얼어 버린 특급 짐승 고기질 좋은 고기는 얼려도 맛이 유지된다고 한다먹으면 잠시 내서 효과가 발휘된다
+food,Food,Item_Chilled_04,냉동 새 고기,냉기로 인해 얼어 버린 새 고기곤봉처럼 보이지만 먹을 수 있다약간의 하트 회복과 내서 효과가 발휘된다
+food,Food,Item_Chilled_05,냉동 상급 새 고기,냉기로 인해 얼어 버린 상급 새 고기무기로 쓸 수 있을 것 같을 정도로 딱딱하다약간의 하트 회복과 내서 효과가 발휘된다
+food,Food,Item_Chilled_06,냉동 특급 새 고기,냉기로 인해 얼어 버린 특급 새 고기꽁꽁 얼었어도 맛은 변함없다 먹으면 잠시 내서 효과가 발휘된다
+food,Food,Item_Cook_A_01,버섯 꼬치구이,버섯의 풍미가 느껴지는 심플한 꼬치구이컬러풀한 모양새가 식욕을 돋운다
+food,Food,Item_Cook_A_02,버섯쌈구이,향기 좋은 산나물로 버섯을 감싸 구워 낸건강한 야채 요리
+food,Food,Item_Cook_A_03,과일찜,완전히 익기 전의 과일을향긋한 산나물로 감싸 쪄 낸 향토 요리
+food,Food,Item_Cook_A_04,생선쌈구이,신선한 생선을 향이 강한 들풀로 감싸정성껏 구워 낸 정성이 담긴 요리
+food,Food,Item_Cook_A_05,고기쌈구이,고기의 맛이 날아가지 않도록향기 좋은 산나물로 감싸 구워 낸 찜구이
+food,Food,Item_Cook_A_07,과일 버섯무침,불에 구워 과실의 단맛이 응축되어독특한 식감까지 만들어진 아이디어 요리
+food,Food,Item_Cook_A_08,생선 꼬치구이와 버섯,신선한 생선 꼬치구이에 향긋한 버섯을 더한심플하면서도 깊은 맛의 요리
+food,Food,Item_Cook_A_09,고기 꼬치구이와 버섯,"신선한 고기를 메인으로, 산의 은혜를 아낌없이 쓴볼륨 만점의 꼬치구이 요리"
+food,Food,Item_Cook_A_10,오믈렛,신선한 달걀을 먹음직스럽게 요리한아침에 먹기 딱 좋은 대표적인 달걀 요리
+food,Food,Item_Cook_A_11,달게 조린 버섯,꿀을 더해 매콤 달콤하게 조린 버섯 요리깊고 농후한 맛
+food,Food,Item_Cook_A_12,달게 조린 고기,꿀의 달콤함이 고기에 배어그냥 굽기만 해서는 맛볼 수 없는 깊은 맛
+food,Food,Item_Cook_A_13,달게 조린 생선,꿀로 조린 매콤 달콤한 생선 요리뼈도 부드러워 전부 먹을 수 있다
+food,Food,Item_Cook_A_14,달게 조린 야채,꿀을 사용해 야채를 매콤 달콤하게 조린 요리생으로는 먹기 힘든 야채도 맛있게 먹을 수 있다
+food,Food,Item_Cook_B_01,야채구이,가장 간단한 야채구이신선한 들풀을 가볍게 볶은 일품
+food,Food,Item_Cook_B_02,과일전골,그대로 먹어도 맛있는 과일을듬뿍 넣어 조린 새콤달콤한 요리
+food,Food,Item_Cook_B_05,생선 꼬치구이,갓 잡은 생선을 꼬치에 꿰어 구워 낸심플하면서도 생선의 맛을 즐길 수 있는 요리
+food,Food,Item_Cook_B_06,고기 꼬치구이,"대자연의 은혜, 짐승 고기를호쾌하게 구워 낸 촉촉한 꼬치구이"
+food,Food,Item_Cook_B_11,야채구이 곱빼기,"몸에 좋은 산나물을 듬뿍 넣어강불로 구워 낸, 몸에 굉장히 좋은 요리"
+food,Food,Item_Cook_B_12,과일전골 곱빼기,다양한 맛의 과일을 보글보글 조려단맛이 응축된 호화로운 요리
+food,Food,Item_Cook_B_13,버섯구이 곱빼기,버섯 마니아의 마지막 귀착점이라는심플한 버섯 꼬치구이. 포만감이 상당하다
+food,Food,Item_Cook_B_15,생선 꼬치구이 곱빼기,여러 종류의 생선을 아낌없이 쓴 꼬치구이생선구이 마니아에겐 참을 수 없는 일품
+food,Food,Item_Cook_B_16,고기 꼬치구이 곱빼기,다른 종류의 고기를 사용한 호화로운 꼬치구이고기구이 마니아라면 한 번쯤은 먹고 싶은 요리
+food,Food,Item_Cook_B_17,고기와 생선구이,신선한 고기와 생선을 알맞게 구워 낸볼륨 만점의 요리
+food,Food,Item_Cook_B_18,상급 고기와 생선구이,상급 고기와 생선을 조합한 구이평범한 고기와 생선구이보다 고급스럽고 깊은 맛
+food,Food,Item_Cook_B_19,특급 고기와 생선구이,최상급 고기와 신선한 생선을 함께 구워 낸 요리맛도 포만감도 그야말로 특급이다
+food,Food,Item_Cook_B_20,고기를 넣은 호박,호박의 속을 파내어 고기로 채운 요리카카리코 마을의 대표적인 향토 요리 중 하나
+food,Food,Item_Cook_B_21,따끈따끈볶음,따끈따끈초 열매만 넣어 만든 보기 드문 볶음 요리매콤함 속에 희미한 감칠맛이 느껴진다
+food,Food,Item_Cook_B_22,너츠볶음,"숲의 나무 열매를 고소하게 볶은 간단한 요리영양 만점에, 허기질 때 먹기 딱 좋은 간식"
+food,Food,Item_Cook_B_23,해산물 꼬치구이,생선이나 조개 등의 재료를 조합한 꼬치구이해산물의 맛을 탐미할 수 있는 요리
+food,Food,Item_Cook_C_16,요정의 활력수,요정의 신비로운 힘이 담긴 강력한 회복약살짝 달콤한 향기가 난다
+food,Food,Item_Cook_C_17,물약,
+food,Food,Item_Cook_D_01,버섯 소금구이,버섯에 암염을 살짝 뿌려 구운가장 심플한 요리
+food,Food,Item_Cook_D_02,야채 소금구이,약간의 소금과 야채만 사용한굉장히 몸에 좋은 요리
+food,Food,Item_Cook_D_03,생선 소금구이,천연 암염을 뿌려 구워 낸 심플한 생선 요리굽기만 해도 충분히 맛있다
+food,Food,Item_Cook_D_04,고기 소금구이,두꺼운 고기에 천연 암염을 뿌려 구워 낸심플하기에 더욱 두드러지는 소재의 맛
+food,Food,Item_Cook_D_05,상급 고기 소금구이,상급 고기를 암염 위에서 구워 낸심플하면서도 호화로운 고기구이
+food,Food,Item_Cook_D_06,특급 고기 소금구이,귀중한 특급 고기를 사용한 최고급 고기구이소재의 맛을 살리기 위해 암염만으로 간을 했다
+food,Food,Item_Cook_D_07,스파이시 고기구이,따끈따끈초 열매를 갈아 넣어 구움으로써고기 냄새를 제거해 맛을 끌어낸 고기 요리
+food,Food,Item_Cook_D_08,스파이시 생선구이,따끈따끈초 열매를 사용해 생선 냄새를 제거하고향긋함을 배가시킨 구이 요리
+food,Food,Item_Cook_D_09,게 소금구이,게 요리에 정통한 어부가 추천하는 게를 가장맛있게 먹는 법. 따끈따끈한 속살이 참을 수 없다
+food,Food,Item_Cook_D_10,게볶음,고론의 향신료를 사용한 게볶음스파이시한 양념이 게살과 잘 어울린다
+food,Food,Item_Cook_E_01,치킨 필래프,"볶은 하이랄 쌀을 새 고기 육수로 익힌 요리약불로 정성껏 익혀, 부드럽게 완성"
+food,Food,Item_Cook_E_02,상급 치킨 필래프,겔드 지방에서 즐겨 만드는 쌀 요리상급 새 고기의 풍미가 쌀에 잘 배어 있다
+food,Food,Item_Cook_E_03,특급 치킨 필래프,특급 새 고기를 호화롭게 담은 필래프씹을수록 깊은 맛이 입 안에 퍼지는 일품
+food,Food,Item_Cook_E_04,달걀프라이라이스,달걀프라이의 찐득한 노른자가 갓 지은 밥과무척 잘 어울린다. 심플하지만 깊은 요리
+food,Food,Item_Cook_F_01,고기 밀크수프,살짝 구운 고기를 호화롭게 넣은 밀크수프야채도 듬뿍 들어가 영양 만점이다
+food,Food,Item_Cook_F_02,생선 밀크수프,크게 토막 낸 생선을 넣은 밀크수프육수가 우러나 깊은 감칠맛이 난다
+food,Food,Item_Cook_F_03,야채 크림수프,"야채의 단맛을 맛볼 수 있는 크림수프정성껏 끓여, 깊은 맛을 느낄 수 있는 요리"
+food,Food,Item_Cook_F_04,하트 밀크수프,과일의 단맛이 가득한 수프. 두 사람이 함께먹으면 사이가 좋아진다는 소문이 있다
+food,Food,Item_Cook_G_02,해물 주먹밥,맛있게 구운 해산물을 넣은 주먹밥해산물 종류에 따라 다른 맛을 즐길 수 있다
+food,Food,Item_Cook_G_03,야채 주먹밥,"산의 은혜, 산나물을 듬뿍 넣은 주먹밥카카리코 마을의 대표적인 가정 요리 중 하나"
+food,Food,Item_Cook_G_04,버섯 주먹밥,버섯을 섞은 밥으로 만든 주먹밥포장을 풀면 버섯의 향이 확 퍼진다
+food,Food,Item_Cook_G_05,짐승 고기덮밥,살짝 불에 익힌 짐승 고기를밥 위에 빈틈없이 올린 대표적인 덮밥 요리
+food,Food,Item_Cook_G_06,상급 짐승 고기덮밥,상급 짐승 고기를 호쾌하게 올린 덮밥든든하게 먹고 싶을 때 딱이다
+food,Food,Item_Cook_G_09,특급 짐승 고기덮밥,특급 짐승 고기를 엄선해 사용한 궁극의 고기덮밥고기의 맛을 심플하고 대담하게 맛볼 수 있는 일품
+food,Food,Item_Cook_G_10,해물볶음밥,고급 바다 식재료를 쌀과 함께 볶은 일품강불로 볶으면 고슬고슬 맛있게 완성된다
+food,Food,Item_Cook_G_11,카레 필래프,고론의 향신료의 향기가 풍부한 필래프부드러운 매운맛으로 먹기 쉽게 만들어졌다
+food,Food,Item_Cook_G_12,버섯 리조또,하이랄 쌀을 정성껏 끓인 요리버섯과 버터의 향기가 식욕을 돋운다
+food,Food,Item_Cook_G_13,야채 리조또,야채의 단맛을 탐미할 수 있는 리조또부드러운 풍미로 아이들에게도 인기가 있다
+food,Food,Item_Cook_G_14,연어 리조또,맥스연어의 맛이 하이랄 쌀에확실하게 배어 있는 농후한 리조또
+food,Food,Item_Cook_G_15,고기 주먹밥,매콤 달콤하게 양념한 고기가 듬뿍 들어간 주먹밥볼륨 만점으로 포만감이 상당하다
+food,Food,Item_Cook_G_16,게살 달걀볶음밥,신선한 게살을 듬뿍 넣은 호화로운 볶음밥부드러운 달걀과의 조합이 절묘하다
+food,Food,Item_Cook_G_17,게살 리조또,해안 마을에서 가정 요리로 해 먹는 리조또게의 내장으로 간을 하는 것이 맛의 비밀이다
+food,Food,Item_Cook_H_01,생선 뫼니에르,신선한 생선을 버터로 양면 모두 구운 요리바깥쪽을 바삭하게 구워 내는 게 맛의 비결
+food,Food,Item_Cook_H_02,도미 뫼니에르,해안 지역에서 즐겨 먹는 생선 요리신선한 도미의 부드러운 속살이 일품이다
+food,Food,Item_Cook_H_03,연어 뫼니에르,맥스연어에 밀가루를 묻혀 버터로 구운 요리바삭바삭한 껍질의 식감이 일품이다
+food,Food,Item_Cook_I_01,프루트 파이,파이 반죽에 과일을 듬뿍 올린 디저트하이랄에서는 무언가를 축하할 때 자주 만든다
+food,Food,Item_Cook_I_02,애플파이,신선한 사과를 듬뿍 넣은 대표적인 디저트바삭한 파이 반죽과 사과의 단맛이 잘 어울린다
+food,Food,Item_Cook_I_03,에그 타르트,농후한 달걀 노른자 크림을 파이 반죽으로 감싸맛있게 구워 낸 디저트
+food,Food,Item_Cook_I_04,미트 파이,잘게 썬 고기를 파이 반죽으로 감싸 구워 낸 요리촉촉한 육즙이 가득 들어 있다
+food,Food,Item_Cook_I_05,당근 케이크,부드러운 단맛이 특징인 케이크당근을 싫어하는 사람도 먹을 수 있다고 한다
+food,Food,Item_Cook_I_06,호박 케이크,호박을 듬뿍 넣은 황금색의 케이크농후한 단맛으로 아이들에게도 대인기
+food,Food,Item_Cook_I_07,버터 바른 사과,불에 익혀 더욱 달콤해진 사과에따끈한 염소 버터를 얹은 농후한 디저트
+food,Food,Item_Cook_I_08,꿀에 절인 사과,잘 익은 사과와 꿀이 만난새콤달콤하고 촉촉한 디저트
+food,Food,Item_Cook_I_09,꿀에 절인 과일,꿀의 농후한 단맛과과일의 산미가 입 안 가득 퍼지는 디저트
+food,Food,Item_Cook_I_10,플레인 크레이프,설탕이 들어간 반죽을 얇게 펼쳐 구운 디저트소재의 맛이 살아 있는 심플한 요리
+food,Food,Item_Cook_I_11,딸기 크레이프,촉촉하고 쫄깃하게 구워 낸 반죽이새콤달콤한 딸기를 듬뿍 감싼 크레이프
+food,Food,Item_Cook_I_12,너츠 케이크,숲에서 얻은 나무 열매를 사용한 케이크소박한 단맛과 나무 열매의 식감을 즐길 수 있다
+food,Food,Item_Cook_I_13,튀긴 바나나,칼날바나나를 튀긴 아이들에게 인기 있는 간식고온에서 살짝 튀겨 내는 것이 맛의 비결
+food,Food,Item_Cook_I_14,달걀 푸딩,"달걀과 우유를 틀에 넣어 구운 디저트매끄럽고, 혀에서 살살 녹는 식감을 즐길 수 있다"
+food,Food,Item_Cook_I_15,피시 파이,파이로 생선을 감싸 구운 어부 부인의 대표 요리생선의 맛과 바삭한 식감을 즐길 수 있다
+food,Food,Item_Cook_I_16,벌꿀 사탕,벌집에서 채집한 꿀을 고아 굳힌은은한 단맛이 나는 영양 만점 천연 캔디
+food,Food,Item_Cook_I_17,벌꿀 크레이프,얇게 구운 반죽에 꿀을 뿌린 디저트자연의 단맛과 풍부한 풍미가 특징
+food,Food,Item_Cook_J_01,카레라이스,아이부터 어른까지 모두가 좋아하는 대표 요리심플하고 질리지 않는 맛을 즐길 수 있다
+food,Food,Item_Cook_J_02,야채 카레,야채를 메인으로 만든 건강한 카레맵지 않은 부드러운 맛으로 인기가 많다
+food,Food,Item_Cook_J_03,해산물 카레,해산물을 듬뿍 맛볼 수 있는 호화로운 카레매콤한 마무리가 어른들이 좋아할 만한 맛이다
+food,Food,Item_Cook_J_04,치킨 카레,새 고기를 메인으로 만든 일반적인 카레새 고기의 감칠맛이 스파이스의 향과 잘 어울린다
+food,Food,Item_Cook_J_05,상급 치킨 카레,상급 새 고기를 넣어 만든 카레. 불을 끈 뒤향신료를 넣는 것이 깊은 맛의 비밀이다
+food,Food,Item_Cook_J_06,짐승 고기 카레,커다란 짐승 고기가 들어간 와일드한 카레라이스스파이스의 매콤함이 고기의 감칠맛을 끌어올린다
+food,Food,Item_Cook_J_07,상급 고기 카레,메인으로 상급 짐승 고기를 사용하여포만감과 깊은 맛을 배가시킨 카레
+food,Food,Item_Cook_J_08,특급 치킨 카레,"최고급 새 고기가 아낌없이 들어간 카레과거, 하이랄 성에서도 만들어 먹었다고 한다"
+food,Food,Item_Cook_J_09,특급 고기 카레,"최상급 짐승 고기를 호쾌하게 담아 올린 카레카레 마니아도, 고기 마니아도 대만족할 일품"
+food,Food,Item_Cook_K_01,고기 스튜,신선한 고기를 메인으로 만든 하이랄의 대표 스튜확실한 포만감으로 몸과 마음이 만족스러운 요리
+food,Food,Item_Cook_K_02,상급 고기 스튜,큼지막한 상급 고기를 호화롭게 넣어 만든 스튜푹 삶은 고기의 감칠맛이 한층 응축된 요리
+food,Food,Item_Cook_K_03,호박 스튜,잘 익은 호박을 장시간 삶아 만든 스튜카카리코 마을에선 저녁으로 자주 만들어 먹는다
+food,Food,Item_Cook_K_04,조개 차우더,식감이 좋은 조개의 맛을 버터와 우유의농후한 수프에 확실히 담아 낸 일품
+food,Food,Item_Cook_K_05,특급 고기 스튜,푹 삶아 부드러워진 특급 고기가 입 안에서살살 녹는다. 한 번쯤은 먹고 싶은 일품 스튜
+food,Food,Item_Cook_K_06,버섯 밀크수프,야채나 버섯을 사용한 밀크수프재료가 듬뿍 들어가 포만감도 충분하다
+food,Food,Item_Cook_K_07,야채 밀크수프,신선한 야채를 우유로 삶은 수프심플한 간 맞추기로 건강하게 완성
+food,Food,Item_Cook_K_08,당근 스튜,당근을 듬뿍 사용해 만든 스튜정성껏 삶아 독특한 단맛을 느낄 수 있다
+food,Food,Item_Cook_K_09,핫밀크,신선 우유를 정성껏 데운 음료자기 전에 마시면 긴장이 풀린다
+food,Food,Item_Cook_L_01,몬스터전골,고기나 생선을 몬스터엑기스로 삶은 한정 요리다른 식재료로는 낼 수 없는 감칠맛이 난다는데…
+food,Food,Item_Cook_L_02,몬스터수프,몬스터엑기스를 베이스로 만든 수프개성이 몹시 강해 호불호가 갈리는 독특한 맛
+food,Food,Item_Cook_L_03,몬스터 케이크,몬스터엑기스를 사용한 독창적인 케이크한 번 먹으면 잊을 수 없는 단맛이 있다는 소문
+food,Food,Item_Cook_L_04,몬스터 주먹밥,몬스터엑기스로 간을 한 신선한 주먹밥독특한 향이 나 호불호가 갈리는 맛
+food,Food,Item_Cook_L_05,몬스터 카레,몬스터엑기스가 듬뿍 들어간 괴짜 카레매콤함 외의 자극을 맛볼 수 있다고 한다
+food,Food,Item_Cook_M_01,밀 빵,타반타 지방에서 나는 밀을 사용한 빵쫄깃쫄깃한 식감과 밀의 풍미를 즐길 수 있다
+food,Food,Item_Cook_N_01,해물 파에야,호화로운 해산물을 듬뿍 사용한 특별한 요리어부들의 축제에 빠질 수 없는 음식
+food,Food,Item_Cook_N_02,프루트케이크,하이랄의 신선한 과일을 아낌없이 쓴호화로운 케이크. 축하에 빠질 수 없는 요리
+food,Food,Item_Cook_N_03,야채 오믈렛,신선한 달걀을 부드럽게 익힌 가정 요리잘게 썬 야채가 섞여 있어 영양적으로도 만점
+food,Food,Item_Cook_N_04,버섯 오믈렛,향이 강한 버섯을 섞어 넣은 오믈렛부드러운 식감을 즐길 수 있는 요리
+food,Food,Item_Cook_O_01,애매한 요리,미묘한 냄새가 난다…못 먹을 건 없지만도저히 남에겐 보일 수 없어!
+food,Food,Item_Cook_O_02,너무 딱딱한 요리,무언가 넣어선 안 될 것을 섞어 버렸다남에겐 내놓을 수 없는 요리마지못해 먹을 수밖에
+food,Food,Item_Cook_P_01,향긋한 버섯볶음,버섯을 스파이스로 볶은 요리자극적인 향기가 식욕을 돋운다
+food,Food,Item_Cook_P_02,향긋한 나물볶음,향이 강한 소재를 스파이스와 함께 볶아 만든야채볶음. 독특한 향기가 버릇이 되는 일품
+food,Food,Item_Cook_P_03,짐승 스테이크,고론족 특제 스파이스가 고기 냄새를 제거해소재의 맛이 한층 좋아진 스테이크
+food,Food,Item_Cook_P_04,상급 짐승 스테이크,상급 고기에 특제 스파이스를 사용한 스테이크심플하면서도 깊은 맛을 즐길 수 있다
+food,Food,Item_Cook_P_05,특급 짐승 스테이크,최고급 고기에 향신료만을 써 간을 한 스테이크풍부한 향기와 농후한 육즙은 각별한 맛이 난다
+food,Food,Item_Cook_Q_01,토마토전골,영양이 가득한 토마토를 부드러워질 때까지 끓인산미가 느껴지는 요리
+food,Food,Item_Cook_Q_02,토마토수프,싱싱한 토마토를 부드러운 우유에 넣고 끓인 수프약간의 산미가 감돌아 먹기 좋다
+food,Food,Item_Cook_Q_03,야채 토마토찜,토마토를 약효가 있는 잎에 싸서 찐 요리불에 익힌 덕분에 소화 및 흡수 효율이 좋다
+food,Food,Item_Cook_Q_04,버섯 토마토전골,향이 깊은 버섯을 토마토와 함께 끓인 요리식이섬유가 듬뿍 들어 있어 몸에 매우 좋다
+food,Food,Item_Cook_Q_05,해산물 토마토수프,생선이나 조개 같은 수산물을 토마토와 끓여맛을 낸 요리. 다양한 맛이 응축되어 있다
+food,Food,Item_Cook_Q_06,통구이,껍질에 싸인 원기초를 통째로 구운 와일드한 요리달콤하고 따뜻해서 맛있다
+food,Food,Item_Cook_Q_07,버터볶음,원기초를 염소 버터로 볶은 심플한 요리짠맛과 단맛의 조화가 좋고 고소한 풍미가 예술이다
+food,Food,Item_Cook_Q_08,고슬고슬 볶음밥,하이랄 쌀과 고기를 좋은 기름에 볶은 요리씹히는 밥알과 함께 입 안에 고소한 풍미가 퍼진다
+food,Food,Item_Cook_Q_09,치즈 케이크,하테노 치즈를 사용한 풍미가 살아 있는 케이크촉촉하면서도 맛이 진하다
+food,Food,Item_Cook_Q_10,치즈 리조또,하이랄 쌀에 생선과 버섯 등의 재료를 섞어 익힌 뒤하테노 치즈를 넣어 완성한 맛이 진한 리조또
+food,Food,Item_Cook_R_01,치즈 오믈렛,그냥 먹어도 맛있는 오믈렛에 하테노 치즈 소스를듬뿍 뿌려 완성한 아주 만족스러운 요리
+food,Food,Item_Cook_R_02,야채 우유 죽,소화가 잘되는 들풀과 하이랄 쌀을 끓인 죽힘이 없을 때 먹으면 포근한 맛이 기운을 준다
+food,Food,Item_Cook_R_03,브아이 밋 브오이,겔드의 마을에서 유행 중인 과일 주스트로피컬한 맛이 기분을 한껏 고양시켜 준다
+food,Food,Item_Cook_R_04,토마토 피자,신선한 하이랄토마토로 토핑한 피자녹아내린 하테노 치즈가 참을 수 없다
+food,Food,Item_Cook_R_05,오일 해산물전골,해산물을 원기초가 잔뜩 함유된 오일과 함께끓인 요리. 향이 강해 식욕을 돋운다
+food,Food,Item_Cook_R_06,오일 새 고기 튀김,새 고기를 고급 오일로 튀긴 요리튀김옷 안에 고기의 맛이 살아 숨 쉬고 있다
+food,Food,Item_Cook_R_07,오일 상급 새 고기 튀김,질 좋은 새 고기를 튀긴 요리배고플 때는 한 입 호쾌하게 뜯어 먹고 싶어진다
+food,Food,Item_Cook_R_08,오일 특급 새 고기 튀김,최고급 새 고기를 통째로 튀겼다축하 자리하면 떠오르는 단골 요리
+food,Food,Item_Cook_R_09,사르르 치즈 빵,하테노 치즈를 올려 구운 소박한 빵따뜻한 치즈 향이 식욕을 자극한다
+food,Food,Item_Cook_R_10,해산물과 치즈구이,신선한 해산물을 하테노 치즈와 함께 구운 요리생선과 치즈의 풍미가 절묘하게 어우러져 있다
+food,Food,Item_Cook_S_01,치즈 카레,하테노 치즈를 듬뿍 사용한 카레매운맛을 치즈로 잡아 푹 빠지는 맛이 완성됐다
+food,Food,Item_Cook_S_02,치즈 짐승 고기덮밥,짐승 고기와 치즈를 듬뿍 담은 고칼로리 요리배고플 때 생각나는 음식
+food,Food,Item_Cook_S_03,상급 치즈 짐승 고기덮밥,상급 짐승 고기를 깔고 그 위에 치즈를 올려누구나 대만족하는 든든한 요리
+food,Food,Item_Cook_S_04,특급 치즈 짐승 고기덮밥,최고급 짐승 고기에 치즈를 최대한 올린궁극의 요리. 사람의 식욕은 결코 멈추지 않는다
+food,Food,Item_Cook_S_05,마인전골,고기와 생선을 어둠 덩어리와 함께 끓인도전적인 요리. 무슨 재료가 들어 있을지 기대된다
+food,Food,Item_Cook_S_06,마인 주먹밥,어둠 덩어리와 하이랄 쌀로 만든 혁신적인 주먹밥한번 맛보면 잊을 수 없는 깊고도 깊은 맛이 난다
+food,Food,Item_Cook_S_07,마인수프,어둠 덩어리로 끓인 걸쭉한 수프풍미가 독특하며 보고 있으면 정신이 아득해진다
+food,Food,Item_Cook_S_08,마인 카레,어둠 덩어리를 재료로 써서 임팩트가 강한 카레숨길 수 없는 소재의 향이 넘쳐흐르고 있다
+food,Food,Item_Cook_S_09,마인 케이크,어둠 덩어리를 듬뿍 사용한 색다른 케이크한마디로 표현하기 어려운 독특한 맛이 난다
+food,Food,Item_Cook_S_10,치즈 토마토,하이랄토마토에 하테노 치즈를 올린 심플한 요리출출할 때 먹으면 딱 좋다
+food,Food,Item_RoastFish_01,구운 배스,배스를 통으로 구운 것노릇하게 구워 생으로 먹는 것보다 고소하고 맛있다하트 회복량도 증가했다
+food,Food,Item_RoastFish_02,구운 맥스배스,귀한 맥스배스를 통으로 구운 것직화로 구워서 껍질이 바삭하게 익었다통통한 살점에 기름이 잘 올라 아주 맛있다
+food,Food,Item_RoastFish_03,구운 송어,하이랄 각지에서 잡을 수 있는 송어를 구웠다부드럽게 잘 익은 살은담백하면서도 좋은 맛이 난다
+food,Food,Item_RoastFish_04,구운 맥스연어,신선한 맥스연어를 양념하지 않고심플하게 직화로 구운 요리껍질도 고소하니 맛있게 먹을 수 있다
+food,Food,Item_RoastFish_07,구운 잉어,담수에서 잡을 수 있는 잉어를 구운 요리가열을 함으로써 비린내가 없어져 먹기 좋다살이 통통하게 올라 먹을 맛이 난다
+food,Food,Item_RoastFish_09,구운 도미,바다에서 자란 도미를 통째로 구웠다흰살 생선 특유의 부드러운 살점과바삭바삭 고소한 껍질을 맛볼 수 있다
+food,Food,Item_RoastFish_13,구운 은밀우렁이,은밀우렁이를 통으로 구운 요리탱글탱글 씹는 맛이 특징이다살을 꺼내기가 약간 불편하다
+food,Food,Item_RoastFish_15,구운 게,살이 꽉 찬 게를 뭉근히 익힌 요리고소하고 부드러우면서 단맛이 나는 살이 일품탄 껍데기에서도 아주 좋은 향이 난다
+food,Food,Item_RoastFish_16,구운 아로와나,고대아로와나를 통으로 구운 것탱탱한 살이 불에 익어서먹기 좋게 부드러워졌다
+food,Food,Item_RoastFish_18,구운 동굴어,조명동굴어를 구운 요리원래는 살이 부서지기 쉬운 물고기지만 구우면입 안에서 살점이 살살 녹아내려 무척 맛있다
+food,Food,Item_Roast_01,구운 짐승 고기,짐승 고기를 직화로 구운 것구우면서 풍미가 증대되고하트 회복량도 늘었다
+food,Food,Item_Roast_02,구운 새 고기,껍질째 바삭하게 구운 새 고기쓸데없는 양념을 하지 않아 깔끔한 맛이 난다하트 회복량도 늘었다
+food,Food,Item_Roast_03,구운 사과,사과를 직화로 구운 향긋한 간식먹으면 하트가 회복된다
+food,Food,Item_Roast_04,구운 원기버섯,원기버섯을 통으로 구운 것하트 회복 효과밖에 없지만생으로 먹는 것보다 훨씬 맛있다
+food,Food,Item_Roast_05,구운 맥스트러플,맥스트러플을 노릇노릇하게 구웠다지금도 맛이 아주 좋지만 요리에 사용하면더 큰 효과를 얻을 수 있다
+food,Food,Item_Roast_06,구운 하이랄버섯,하이랄버섯을 그대로 구운 것맛과 향이 훨씬 좋아지고하트 회복량도 늘었다
+food,Food,Item_Roast_07,구운 딸기,딸기를 직화로 구운 것그대로 먹는 것과는 다른 단맛이 있다하트 회복량이 약간 증가했다
+food,Food,Item_Roast_08,구운 찌릿찌릿프루트,겔드사막의 찌릿찌릿프루트를 직화로 구운 것생으로 먹는 것보다 단맛과 신맛이 강해졌다살짝 탄 정도가 딱 좋다
+food,Food,Item_Roast_10,구운 야자열매,야자열매를 직화로 구운 요리껍질에 싸여 있던 과육이 찜 상태가 되었다남은 과즙과 함께 먹는 것을 추천
+food,Food,Item_Roast_11,구운 칼날바나나,칼날바나나를 통으로 구운 것익으면서 과육이 흐물흐물해지고단맛과 향이 풍부해졌다
+food,Food,Item_Roast_12,구운 썰렁멜론,썰렁멜론을 통으로 구운 것따끈해진 과육은 식감이 부드럽고신기한 맛이 난다
+food,Food,Item_Roast_13,구운 따끈따끈초 열매,따끈따끈초 열매를 구운 것익으면서 매운맛이 사라져그대로 먹어도 꽤 맛이 좋다
+food,Food,Item_Roast_15,구운 갑옷호박,큰 갑옷호박을 통으로 구운 것단단한 껍질이 그릇 역할을 하고 있으며속은 찜 상태가 되어 있다
+food,Food,Item_Roast_16,구운 고고연꽃 열매,직화로 구운 고고연꽃 열매껍질을 벗겨 먹으면 부드러운 밤 같은식감을 느낄 수 있다
+food,Food,Item_Roast_18,구운 순무,맥스순무를 통으로 구운 것먹음직스럽게 고소한 향이 난다특수 효과는 없지만 먹으면 하트가 회복된다
+food,Food,Item_Roast_19,구운 큰순무,큰맥스순무를 통으로 구운 것귀중한 야채를 과감하게 구워 보았다어떻게 보면 사치일 수 있다
+food,Food,Item_Roast_24,구운 고고당근,향기로운 고고당근을 통으로 구운 것특별한 효과는 없지만하트를 회복시킬 수 있다
+food,Food,Item_Roast_27,구운 칼날초,칼날초를 그대로 구운 것특별한 효과는 없지만뾰족한 꽃도 바삭하니 맛있게 먹을 수 있다
+food,Food,Item_Roast_28,구운 갑옷초,갑옷초를 통으로 구운 것딱딱하고 질긴 섬유질도열을 가하니 먹기 좋게 되었다
+food,Food,Item_Roast_31,구운 썰렁버섯,썰렁버섯을 통으로 구운 것잘 구워져서 생으로 먹는 것보다 맛있어졌다하트 회복 효과가 있다
+food,Food,Item_Roast_32,구운 따끈따끈버섯,따끈따끈버섯을 통으로 구운 것만약의 사태를 대비해 주머니에 넣어 두면 좋다하트 회복 효과가 있다
+food,Food,Item_Roast_33,구운 찌릿찌릿버섯,찌릿찌릿버섯을 통으로 구운 것찌릿한 느낌이 없어지고 부드러운 맛이 난다하트 회복 효과가 있다
+food,Food,Item_Roast_36,구운 고고버섯,고고버섯을 통으로 구운 것신비한 힘은 없어졌지만 맛은 훨씬 좋아졌다
+food,Food,Item_Roast_37,구운 칼날버섯,칼날버섯을 통으로 구운 것생으로 먹는 것보다 훨씬 맛있다하트 회복 효과가 있다
+food,Food,Item_Roast_38,구운 갑옷버섯,갑옷버섯을 통으로 구운 것딱딱했던 표면이 바삭하니 맛있어졌다하트 회복 효과가 있다
+food,Food,Item_Roast_39,구운 은밀버섯,은밀버섯을 통으로 구운 것은은히 빛나던 표면은 없어졌지만향긋하니 맛있다
+food,Food,Item_Roast_40,구운 상급 짐승 고기,두꺼운 상급 짐승 고기를 통으로 구운 것겉은 향기롭고 속은 육즙이 넘쳐참을 수 없는 맛이다
+food,Food,Item_Roast_41,구운 상급 새 고기,귀한 상급 새 고기를 노릇하게 구웠다겉은 바삭하고 안은 촉촉하며먹으면 하트가 회복된다
+food,Food,Item_Roast_45,구운 특급 짐승 고기,최고급 고기인 특급 짐승 고기를일부러 아무런 양념도 하지 않고 직화로 구운 요리재료 본연의 맛을 충분히 느낄 수 있다
+food,Food,Item_Roast_46,구운 특급 새 고기,최고급 식재료인 특급 새 고기를 통으로 구운 것아무런 양념을 하지 않은 야성미 넘치는 요리법으로소재 본연의 맛을 충분히 즐길 수 있는 일품
+food,Food,Item_Roast_48,구운 도토리,직화로 구운 도토리향긋함과 단맛이 증가했다
+food,Food,Item_Roast_49,구운 큰맥스트러플,귀한 식재료인 큰맥스트러플을 통으로 구운 것불로 그을려서 향이 더 풍부해졌다먹으면 하트가 대량 회복된다
+food,Food,Item_Roast_50,구운 활력당근,귀중한 활력당근을호쾌하게 그대로 구운 요리익으면서 단맛이 증가되었다
+food,Food,Item_Roast_51,구운 알,새의 알을 껍질째로 구운 요리여분의 수분이 빠져나가면서삶은 것보다 탱글탱글한 식감을 자랑한다
+food,Food,Item_Roast_52,구운 나무 열매,향긋하게 구운 나무 열매하트 회복량이 약간 늘었다
+food,Food,Item_Roast_53,구운 활력버섯,활력버섯을 통으로 구운 것특별한 효과는 없으나감칠맛이 응축되었다
+food,Food,Item_Roast_54,구운 하이랄토마토,하이랄토마토를 통으로 구운 것안은 과즙이 가득해서하트 회복량도 늘었다
+food,Food,Item_Roast_55,구운 해품이호박,커다란 해품이호박을 통으로 구운 것특별한 효과는 없어졌지만쪄 낸 속살이 부드럽고 맛있다
+food,Food,Item_Roast_56,구운 하늘버섯,하늘버섯을 그대로 구운 것구우면서 풍미가 훨씬 좋아지고하트 회복량도 늘었다
+food,Food,Item_Roast_58,구운 조명버섯,조명버섯을 통으로 구운 것빛을 발하는 효소가 사라졌지만부드러워서 먹기 좋다
+food,Food,Item_Roast_59,구운 황금 사과,황금 사과를 직화로 구운 호화로운 간식산미와 단맛이 절묘한 밸런스를 이루어이 세상의 것이라고 생각할 수 없는 맛이 난다
+zonai_devices,Zonai Devices,SpObj_BalloonEnvelope_A_01,열기구,열을 받으면 떠오르는 조나우 기어따뜻한 공기가 위로 떠오르는 원리를 이용하고 있어온도를 높이면 상승 속도가 빨라진다
+zonai_devices,Zonai Devices,SpObj_Beamos_A_01,광선 머리,머리에서 일직선으로 광선을 쏘는 조나우 기어멀리 떨어진 상대를 공격할 수 있다
+zonai_devices,Zonai Devices,SpObj_Cannon_A_01,대포,일정 간격으로 포탄을 발사하는 조나우 기어포탄은 어딘가에 닿으면 폭발한다강력하지만 발사각 조절이 조금 어렵다
+zonai_devices,Zonai Devices,SpObj_Cart_A_01,수레,평탄한 곳을 효율적으로 가기 위한 조나우 기어일정 이상의 힘을 가하면 부드럽게 전진한다스스로 움직이려면 다른 동력과 조합할 필요가 있다
+zonai_devices,Zonai Devices,SpObj_Chaser_A_01,추적 수레,스스로 몬스터를 향해 움직이는 조나우 기어조나우족의 중요 시설과 그 주변을경계하는 용도로 사용되었다
+zonai_devices,Zonai Devices,SpObj_ControlStick_A_01,조종간,탈것의 방향을 제어하는 조나우 기어올라타서 조작하면 연결되어 있는조나우 기어를 한꺼번에 구동할 수 있다
+zonai_devices,Zonai Devices,SpObj_CookSetOnFire_A_01,휴대 냄비,언제 어디서나 요리할 수 있는 조나우 기어편리함에 초점을 맞춘 일회용 물품이다평평한 데서 요리하는 것이 좋은 요리를 만드는 비결
+zonai_devices,Zonai Devices,SpObj_ElectricBoxGenerator,뇌룡의 머리,때리면 머리에서 고압 전류를 방출하는 조나우 기어밑은 전기가 통하지 않기 때문에손에 들려면 그곳을 잡아야 안전하다
+zonai_devices,Zonai Devices,SpObj_EnergyBank_A_01,스페어 배터리,조나우 에너지를 응축하여휴대할 수 있게 만든 일회용 배터리다른 조나우 기어를 구동하는 데 사용할 수 있다
+zonai_devices,Zonai Devices,SpObj_EnergyBank_A_02,대용량 배터리,압축률이 향상된 스페어 배터리일회용이긴 하지만 에너지양은일반 제품의 몇 배는 된다
+zonai_devices,Zonai Devices,SpObj_FastWheel_A_01,작은 타이어,자동 주행이 가능한 동력 장치가 달린 조나우 기어평탄한 지형에 적합하여 고속 주행이 가능하다오르막이나 울퉁불퉁한 곳에선 조금 힘에 부친다
+zonai_devices,Zonai Devices,SpObj_SwitchWheel_B_01,커다란 타이어,힘차게 회전하는 동력 장치가 달린 조나우 기어지름이 커서 험한 길을 주파하는 데 뛰어나며얕은 물가를 주행할 수도 있다
+zonai_devices,Zonai Devices,SpObj_FlameThrower_A_01,화룡의 머리,전방에 화염을 방출하는 조나우 기어원래는 몬스터로부터 몸을 지키기 위해호신용으로 사용되었다
+zonai_devices,Zonai Devices,SpObj_FlashLight_A_01,라이트,어둠을 밝히는 조나우 기어빛의 지향성이 낮아서 멀리까지 비추진 못하지만어두운 밤길이나 동굴에서는 상당히 든든하다
+zonai_devices,Zonai Devices,SpObj_FloatingStone_A_01,부유석,중력의 영향을 받지 않고 공중에 머무는 조나우 기어과거 조나우족은 이 기술을 이용해하늘에 섬과 건축물을 띄웠다
+zonai_devices,Zonai Devices,SpObj_GolemHead_A_01,골렘의 머리,적으로 간주한 자의 위치를 주시하는 조나우 기어머리에 공격용 조나우 기어를 붙이면자동 추적 기능을 가진 장치를 만들 수 있다
+zonai_devices,Zonai Devices,SpObj_LiftGeneratorWing_A_01,날개,바람을 받아 양력을 발생시키는 조나우 기어멀리까지 날아가려면 날개의 중심에 올라타좌우의 밸런스를 적절하게 잡아야 한다
+zonai_devices,Zonai Devices,SpObj_WaterPump_A_01,소화전,때리면 물이 솟아 나오는 조나우 기어과거 하늘섬은 수자원이 부족했지만이 기술로 물과 녹음이 우거진 땅이 되었다
+zonai_devices,Zonai Devices,SpObj_LightMirror_A_01,거울,빛을 모아 반사하는 조나우 기어지향성이 높은 빛이라 멀리까지 닿는다강한 빛에는 몬스터를 쫓는 힘이 깃들었다고 한다
+zonai_devices,Zonai Devices,SpObj_Pile_A_01,말뚝,지면과 절벽에 고정할 수 있는 조나우 기어조나우 문명에서는 발판과 건물의 토대에 사용했다고정력이 강해 위에 올라타도 꿈쩍하지 않는다
+zonai_devices,Zonai Devices,SpObj_Rocket_A_01,로켓,강력한 추진력을 발휘하는 조나우 기어큰 힘을 발휘하는 만큼 본체에 가해지는부하가 커서 짧은 시간 동안만 사용할 수 있다
+zonai_devices,Zonai Devices,SpObj_SlipBoard_A_01,썰매,바닥 표면이 매끄러운 구조의 조나우 기어마찰이 거의 없어 조나우 문명 시대에는초원과 모래 위에서 탈것으로 애용되었다
+zonai_devices,Zonai Devices,SpObj_SnowMachine_A_01,빙룡의 머리,지향성 있는 냉기를 방출하는 조나우 기어몬스터를 토벌하는 것 외에도 수면을 얼려얼음을 만드는 용도로도 사용할 수 있다
+zonai_devices,Zonai Devices,SpObj_SpringPiston_A_01,스프링,늘었다 줄었다 할 수 있는 조나우 기어줄어든 스프링이 늘어날 때 큰 힘이 발생하여물건을 날려 버리는 일 등에 사용된다
+zonai_devices,Zonai Devices,SpObj_TiltingDoll_A_01,오뚝이,구동하면 강한 힘으로 직립하는 조나우 기어하늘섬처럼 불안정한 곳에서 작업할 때발판을 안정시키기 위해 사용된다
+zonai_devices,Zonai Devices,SpObj_TimerBomb_A_01,타이머 폭탄,시간에 맞춰 터지는 조나우 기어터지는 순간 발생하는 충격으로다른 조나우 기어를 기동시킬 수 있다
+zonai_devices,Zonai Devices,SpObj_WindGenerator_A_01,선풍기,내부의 프로펠러로 바람을 만드는 조나우 기어조나우족은 이 바람의 힘을 능숙하게 사용해물건을 옮기거나 추진력을 얻었다
+key_items,Key Items,CaveMasterMedal,마요이의 유실물,동굴에 서식하는 마요이가 떨어뜨린 신비한 결정신비로운 빛을 은은하게 발하고 있어바라보고 있으면 좀 더 모으고 싶어진다고 한다
+key_items,Key Items,Energy_Material_01,조나우 에너지 결정,조나니움에서 정제한에너지를 응축해 만든 결정배터리 용량을 확장하는 데 쓰인다고 한다
+key_items,Key Items,Energy_Material_03,커다란 조나우 에너지 결정,조나니움에서 정제한에너지를 응축해 만든 커다란 결정평범한 크기의 결정 20개 분량의 에너지를 지녔다
+key_items,Key Items,Energy_Material_04,거대한 조나우 에너지 결정,조나니움에서 정제한에너지를 응축해 만든 특별한 크기의 결정평범한 크기의 결정 100개 분량의 에너지를 지녔다
+key_items,Key Items,GameRomHorseReins_01,여행자의 고삐,말을 타고 여행하기에 적합한 기본적인 고삐딱히 눈에 띄는 디자인은 아니지만 어느 말에나잘 어울린다. 행상인과 여행자가 애용하는 물건
+key_items,Key Items,GameRomHorseReins_02,왕가의 고삐,하이랄 왕가에서 사용한 유서 깊은 고삐곳곳에 달린 금 장식도 인상적이지만몹시 튼튼하게 제작되었다
+key_items,Key Items,GameRomHorseReins_03,기사의 고삐,하이랄 성의 기사가 사용했다고 전해지는 고삐말의 머리와 목을 지키는 장갑도 포함되어 있어기사는 이것의 손질을 소홀히 하지 않았다고 한다
+key_items,Key Items,GameRomHorseReins_04,몬스터의 고삐,킬튼의 수제 고삐몬스터 말을 모티브 삼아 만들었다고 한다머리를 푹 덮는 후드 포함
+key_items,Key Items,GameRomHorseReins_05,화려한 고삐,행사 등에서 사용된 호화롭게 장식된 고삐머리의 깃털 장식이 매력적이다갈기를 컬러풀하게 만들어 장비하고 싶어지는 명품
+key_items,Key Items,GameRomHorseSaddle_01,여행자의 안장,말을 타고 여행하기에 적합한 기본적인 안장긴 여행에도 무리가 없도록 튼튼하게 제작범용성이 좋아 많은 여행자가 애용하고 있다
+key_items,Key Items,GameRomHorseSaddle_02,왕가의 안장,하이랄 왕가에서 사용한 유서 깊은 안장빛나는 문장 장식이 특징적이다젤다 공주의 애마에게도 사용되었다고 한다
+key_items,Key Items,GameRomHorseSaddle_03,기사의 안장,하이랄 성의 기사가 사용했다고 전해지는 안장이 안장을 착용할 수 있었던 건기사의 말 중에서도 정예뿐이었다고 한다
+key_items,Key Items,GameRomHorseSaddle_04,몬스터의 안장,킬튼의 수제 안장몬스터 말을 모티브 삼아 만들었다고 한다특이하게 생겼지만 사용하는 데엔 문제없다
+key_items,Key Items,GameRomHorseSaddle_05,화려한 안장,행사 등에서 사용된 호화롭게 장식된 안장정성스레 수놓아진 자수와 보석이 인상적이다눈에 띄고 싶은 사람에게 추천하고 싶은 물건
+key_items,Key Items,GameRomHorseSaddle_07,견인 하네스,말 안장과 한 세트인 고강도 하네스자재나 짐수레를 하네스 뒤에 연결하면말을 타고 견인할 수 있다
+key_items,Key Items,Item_StableHostelAccommodationCoupon_A,마구간 숙박권,마구간에서 보통 침대를 이용할 수 있는 숙박권포인트를 모으면 받을 수 있다여행의 피로를 천천히 회복하자
+key_items,Key Items,KeySmall,작은 열쇠,파마의 사당 안에 있는 문을 열 수 있는 열쇠
+key_items,Key Items,MinusRupee_00,포우,지저 여기저기에 떨어져 있는 희미한 영체만져도 뜨겁지 않으며 불규칙하게 흔들린다모아 두면 좋은 일이 생길지도 모른다
+key_items,Key Items,MinusRupee_01,데그포우,지저 여기저기에 떨어져 있는 희미한 영체일반적인 포우보다 한 아름 더 크며흔들림에서 강한 힘이 느껴진다
+key_items,Key Items,MinusRupee_02,그랑포우,지저 여기저기에 떨어져 있는 희미한 영체포우 중에서도 유달리 커서거대한 힘이 숨겨져 있다는 것이 느껴진다
+key_items,Key Items,Obj_AutoBuilderDraftAssassin_00,이가단의 설계도,조나우 기어와 자재를 조합할 수 있는설계도 같은 도면이 그려진 서적어딘가에 쓸 수 있을 것 같다…
+key_items,Key Items,Obj_AutoBuilderDraft_00,설계도 석판,설계도 같은 도면이 그려진 석판어딘가에 쓸 수 있을 것 같은데…
+key_items,Key Items,Obj_Camera,사진기,풍경과 인물을 순식간에 찍을 수 있는프루아패드의 기능촬영한 사진은 앨범에 저장된다
+key_items,Key Items,Obj_CaveWellHonor_00,우물 순례 기념품,하이랄의 모든 우물 위치를 알려 준 보답으로바이치가 준 기념품유리구슬 안에 우물 모형이 들어 있는 예쁜 물건
+key_items,Key Items,Obj_CheckPointHonor_00,어둠을 극복한 증표,모든 파마의 뿌리에 빛을 밝혀어둠을 극복한 자에게 주어지는 증표축복의 기운이 담긴 특별한 물건
+key_items,Key Items,Obj_DRStone_Get,프루아패드,젤다 공주가 애용한다양한 기능을 갖춘 모험용 아이템
+key_items,Key Items,Obj_DefeatHonor_00,바위록 토벌 훈장,하이랄에 있는 바위록을 모두 쓰러뜨린 자에게토벌대가 감사의 뜻을 담아 수여하는 훈장바위록을 본뜬 호화로운 물건이다
+key_items,Key Items,Obj_DefeatHonor_01,히녹스 토벌 훈장,하이랄에 있는 히녹스를 모두 쓰러뜨린 자에게토벌대가 감사의 뜻을 담아 수여하는 훈장히녹스를 본뜬 호화로운 물건이다
+key_items,Key Items,Obj_DefeatHonor_02,몰드래고 토벌 훈장,하이랄에 있는 몰드래고를 모두 쓰러뜨린 자에게토벌대가 감사의 뜻을 담아 수여하는 훈장몰드래고를 본뜬 호화로운 물건이다
+key_items,Key Items,Obj_DefeatHonor_03,데그가마 토벌 훈장,하이랄에 있는 데그가마를 모두 쓰러뜨린 자에게토벌대가 감사의 뜻을 담아 수여하는 훈장데그가마를 본뜬 호화로운 물건이다
+key_items,Key Items,Obj_DefeatHonor_04,블록 골렘 토벌 훈장,하이랄에 있는 블록 골렘을 모두 쓰러뜨린 자에게토벌대가 감사의 뜻을 담아 수여하는 훈장블록 골렘을 본뜬 호화로운 물건이다
+key_items,Key Items,Obj_DefeatHonor_05,그리오크 토벌 훈장,하이랄에 있는 그리오크를 모두 쓰러뜨린 자에게토벌대가 감사의 뜻을 담아 수여하는 훈장그리오크를 본뜬 호화로운 물건이다
+key_items,Key Items,Obj_DungeonClearSeal,축복의 빛,고대의 악을 봉인하고 정화하는 고귀한 빛의 결정매우 순수한 빛을 발하고 있다
+key_items,Key Items,Obj_EnergyUtuwa_A_01,추가 배터리,조나우 에너지 결정으로 만든 작은 부품배터리에 저장할 수 있는에너지의 최대치를 늘린다
+key_items,Key Items,Obj_HeartUtuwa_A_01,생명의 그릇,독기로 잃어버린 생명력을 되찾을 수 있는매우 귀중한 것하트 최대치가 1개 늘어난다
+key_items,Key Items,Obj_HiddenScroll_00,토둔서,이가단 중에서도 간부급만이 사용할 수 있는토둔 술법의 오의가 적힌 비전서무기를 들지 않고 모으기 공격을 사용할 수 있다
+key_items,Key Items,Obj_KorokNuts,코로그 열매,코로그가 준 작은 열매모으면 좋은 일이 있을 것 같지만약간 냄새가 난다…
+key_items,Key Items,Obj_Photo_Animal,야생 동물 사진,"동물, 새, 물고기, 곤충의 모습을 찍은 사진"
+key_items,Key Items,Obj_Photo_BossEnemy,강적 사진,막강한 힘으로 앞길을 가로막았던 몬스터의 사진
+key_items,Key Items,Obj_Photo_Enemy,몬스터 사진,하이랄 각지에 만연한 몬스터의 사진
+key_items,Key Items,Obj_Photo_Material,소재 사진,사과나 버섯 등 요리 소재의 사진
+key_items,Key Items,Obj_Photo_Other,보물 사진,보물 상자나 광석 등 가슴이 뛰는 보물들의 사진
+key_items,Key Items,Obj_Photo_Weapon,무기 사진,"검과 창, 활 등 전투에 도움이 되는 무기의 사진"
+key_items,Key Items,Obj_ProofKorok,보쿠린 열매,보쿠린이 준 우호의 열매강렬한 냄새가 난다…
+key_items,Key Items,Obj_SageSoulPlus_Gerudo,번개의 현자 루쥬와의 굳은 맹약,번개의 현자 루쥬와 맹약을 맺은 증표루쥬와의 인연이 깊어져소환할 수 있는 분신의 공격력이 상승했다
+key_items,Key Items,Obj_SageSoulPlus_Goron,화염의 현자 윤돌과의 굳은 맹약,화염의 현자 윤돌과 맹약을 맺은 증표윤돌과의 인연이 깊어져소환할 수 있는 분신의 공격력이 상승했다
+key_items,Key Items,Obj_SageSoulPlus_Rito,바람의 현자 튤리와의 굳은 맹약,바람의 현자 튤리와 맹약을 맺은 증표튤리와의 인연이 깊어져소환할 수 있는 분신의 공격력이 상승했다
+key_items,Key Items,Obj_SageSoulPlus_Zonau,영혼의 현자 미넬과의 굳은 맹약,영혼의 현자 미넬과 맹약을 맺은 증표미넬과의 인연이 깊어져소환할 수 있는 골렘의 공격력이 상승했다
+key_items,Key Items,Obj_SageSoulPlus_Zora,물의 현자 시드와의 굳은 맹약,물의 현자 시드와 맹약을 맺은 증표시드와의 인연이 깊어져소환할 수 있는 분신의 공격력이 상승했다
+key_items,Key Items,Obj_SageSoul_Gerudo,번개의 현자 루쥬와의 맹약,번개의 현자 루쥬와 맹약을 맺은 증표사용하면 루쥬의 분신을소환하거나 돌려보낼 수 있다
+key_items,Key Items,Obj_SageSoul_Goron,화염의 현자 윤돌과의 맹약,화염의 현자 윤돌과 맹약을 맺은 증표사용하면 윤돌의 분신을소환하거나 돌려보낼 수 있다
+key_items,Key Items,Obj_SageSoul_Rito,바람의 현자 튤리와의 맹약,바람의 현자 튤리와 맹약을 맺은 증표사용하면 튤리의 분신을소환하거나 돌려보낼 수 있다
+key_items,Key Items,Obj_SageSoul_Zonau,영혼의 현자 미넬과의 맹약,영혼의 현자 미넬과 맹약을 맺은 증표사용하면 미넬의 영혼이 깃든 골렘을소환하거나 돌려보낼 수 있다
+key_items,Key Items,Obj_SageSoul_Zora,물의 현자 시드와의 맹약,물의 현자 시드와 맹약을 맺은 증표사용하면 시드의 분신을소환하거나 돌려보낼 수 있다
+key_items,Key Items,Obj_SageWill,현자의 유지,현자가 남겼다는 작은 돌손에 쥐면 강한 마음과 인연이 느껴진다
+key_items,Key Items,Obj_StableHostlePointCard,마구간 포인트 카드,마구간 협회의 시설을 이용하면 포인트가 쌓여포인트로 여러 가지 특전을 받을 수 있다다음 특전까지 앞으로 「」포인트
+key_items,Key Items,Obj_StaminaUtuwa_A_01,스태미나의 그릇,독기로 잃어버린 지구력을 되찾을 수 있는매우 귀중한 것스태미나 게이지 상한이 늘어난다
+key_items,Key Items,Obj_SubstituteCloth_00,고론족의 원단,고론족의 디자인이 돋보이는 원단패러세일에 사용할 수 있을 만큼 튼튼하다
+key_items,Key Items,Obj_SubstituteCloth_01,조라족의 원단,조라족의 디자인이 돋보이는 원단패러세일에 사용할 수 있을 만큼 튼튼하다
+key_items,Key Items,Obj_SubstituteCloth_02,겔드족의 원단,겔드족의 디자인이 돋보이는 원단패러세일에 사용할 수 있을 만큼 튼튼하다
+key_items,Key Items,Obj_SubstituteCloth_03,하이랄 왕가의 원단,하이랄 왕가의 디자인이 돋보이는 원단패러세일에 사용할 수 있을 만큼 튼튼하다
+key_items,Key Items,Obj_SubstituteCloth_04,조나우의 원단,조나우에서 유래된 디자인이 돋보이는 원단패러세일에 사용할 수 있을 만큼 튼튼하다
+key_items,Key Items,Obj_SubstituteCloth_05,시커족의 원단,시커족의 디자인이 돋보이는 원단패러세일에 사용할 수 있을 만큼 튼튼하다
+key_items,Key Items,Obj_SubstituteCloth_06,이가단의 원단,이가단의 디자인이 돋보이는 원단패러세일에 사용할 수 있을 만큼 튼튼하다
+key_items,Key Items,Obj_SubstituteCloth_07,토벌대의 원단,토벌대의 디자인이 돋보이는 원단패러세일에 사용할 수 있을 만큼 튼튼하다
+key_items,Key Items,Obj_SubstituteCloth_08,조나우 조사대의 원단,조나우 조사대의 디자인이 돋보이는 원단패러세일에 사용할 수 있을 만큼 튼튼하다
+key_items,Key Items,Obj_SubstituteCloth_09,마신님의 원단,말의 신 마용의 디자인이 돋보이는 원단패러세일에 사용할 수 있을 만큼 튼튼하다
+key_items,Key Items,Obj_SubstituteCloth_10,나크시 마을의 원단,나크시 마을의 디자인이 돋보이는 원단패러세일에 사용할 수 있을 만큼 튼튼하다
+key_items,Key Items,Obj_SubstituteCloth_11,토끼풀 신문사의 원단,토끼풀 신문의 디자인이 돋보이는 원단패러세일에 사용할 수 있을 만큼 튼튼하다
+key_items,Key Items,Obj_SubstituteCloth_12,허드슨 건설의 원단,허드슨 건설의 디자인이 돋보이는 원단패러세일에 사용할 수 있을 만큼 튼튼하다
+key_items,Key Items,Obj_SubstituteCloth_13,콜텐의 수제 원단,사토리의 디자인이 돋보이는 원단패러세일에 사용할 수 있을 만큼 튼튼하다
+key_items,Key Items,Obj_SubstituteCloth_14,코로그족의 원단,코로그에서 유래된 디자인이 돋보이는 원단패러세일에 사용할 수 있을 만큼 튼튼하다
+key_items,Key Items,Obj_SubstituteCloth_15,황제큰곰의 원단,황제큰곰의 디자인이 돋보이는 원단패러세일에 사용할 수 있을 만큼 튼튼하다
+key_items,Key Items,Obj_SubstituteCloth_16,로베리의 수제 원단,프루아패드에서 유래된 디자인이 돋보이는 원단패러세일에 사용할 수 있을 만큼 튼튼하다
+key_items,Key Items,Obj_SubstituteCloth_17,SAGONO의 원단,SAGONO의 디자인이 돋보이는 원단패러세일에 사용할 수 있을 만큼 튼튼하다
+key_items,Key Items,Obj_SubstituteCloth_18,카쿠다의 원단,카쿠다의 디자인이 돋보이는 원단패러세일에 사용할 수 있을 만큼 튼튼하다
+key_items,Key Items,Obj_SubstituteCloth_19,올딘타조의 원단,올딘타조의 디자인이 돋보이는 원단패러세일에 사용할 수 있을 만큼 튼튼하다
+key_items,Key Items,Obj_SubstituteCloth_20,꼬꼬의 원단,꼬꼬의 디자인이 돋보이는 원단패러세일에 사용할 수 있을 만큼 튼튼하다
+key_items,Key Items,Obj_SubstituteCloth_21,말의 원단,말의 디자인이 돋보이는 원단패러세일에 사용할 수 있을 만큼 튼튼하다
+key_items,Key Items,Obj_SubstituteCloth_22,츄츄의 원단,츄츄의 디자인이 돋보이는 원단패러세일에 사용할 수 있을 만큼 튼튼하다
+key_items,Key Items,Obj_SubstituteCloth_23,라이넬의 원단,라이넬의 디자인이 돋보이는 원단패러세일에 사용할 수 있을 만큼 튼튼하다
+key_items,Key Items,Obj_SubstituteCloth_24,그리오크의 원단,그리오크의 디자인이 돋보이는 원단패러세일에 사용할 수 있을 만큼 튼튼하다
+key_items,Key Items,Obj_SubstituteCloth_25,스탈 히녹스의 원단,스탈 히녹스의 디자인이 돋보이는 원단패러세일에 사용할 수 있을 만큼 튼튼하다
+key_items,Key Items,Obj_SubstituteCloth_26,추억의 옷 원단,추억의 옷 디자인이 돋보이는 원단패러세일에 사용할 수 있을 만큼 튼튼하다
+key_items,Key Items,Obj_SubstituteCloth_27,하일리아의 후드 원단,하일리아의 후드 디자인이 돋보이는 원단패러세일에 사용할 수 있을 만큼 튼튼하다
+key_items,Key Items,Obj_SubstituteCloth_28,하이랄 왕녀의 원단,하이랄 왕녀의 디자인이 돋보이는 원단패러세일에 사용할 수 있을 만큼 튼튼하다
+key_items,Key Items,Obj_SubstituteCloth_29,고론 영걸의 원단,고론의 영걸에서 유래된 디자인이 돋보이는 원단패러세일에 사용할 수 있을 만큼 튼튼하다
+key_items,Key Items,Obj_SubstituteCloth_30,리토 영걸의 원단,리토의 영걸에서 유래된 디자인이 돋보이는 원단패러세일에 사용할 수 있을 만큼 튼튼하다
+key_items,Key Items,Obj_SubstituteCloth_31,조라 영걸의 원단,조라의 영걸에서 유래된 디자인이 돋보이는 원단패러세일에 사용할 수 있을 만큼 튼튼하다
+key_items,Key Items,Obj_SubstituteCloth_32,겔드 영걸의 원단,겔드의 영걸에서 유래된 디자인이 돋보이는 원단패러세일에 사용할 수 있을 만큼 튼튼하다
+key_items,Key Items,Obj_SubstituteCloth_33,고대 시커 문양 원단,고대 시커 문양이 돋보이는 원단패러세일에 사용할 수 있을 만큼 튼튼하다
+key_items,Key Items,Obj_SubstituteCloth_34,보코블린의 원단,보코블린의 디자인이 돋보이는 원단패러세일에 사용할 수 있을 만큼 튼튼하다
+key_items,Key Items,Obj_SubstituteCloth_35,마왕의 원단,마왕에서 유래된 디자인이 돋보이는 원단패러세일에 사용할 수 있을 만큼 튼튼하다
+key_items,Key Items,Obj_SubstituteCloth_36,붉은 사자의 왕의 원단,붉은 사자의 왕에서 유래된 디자인이 돋보이는 원단패러세일에 사용할 수 있을 만큼 튼튼하다
+key_items,Key Items,Obj_SubstituteCloth_37,시크의 원단,시크에서 유래된 디자인이 돋보이는 원단패러세일에 사용할 수 있을 만큼 튼튼하다
+key_items,Key Items,Obj_SubstituteCloth_38,어둠의 거울 원단,어둠의 거울 디자인이 돋보이는 원단패러세일에 사용할 수 있을 만큼 튼튼하다
+key_items,Key Items,Obj_SubstituteCloth_39,황혼의 공주 원단,황혼의 공주 의상 디자인이 돋보이는 원단패러세일에 사용할 수 있을 만큼 튼튼하다
+key_items,Key Items,Obj_SubstituteCloth_40,론론 목장의 원단,론론 목장에서 유래된 디자인이 돋보이는 원단패러세일에 사용할 수 있을 만큼 튼튼하다
+key_items,Key Items,Obj_SubstituteCloth_41,무쥬라의 가면 원단,무쥬라의 가면 디자인이 돋보이는 원단패러세일에 사용할 수 있을 만큼 튼튼하다
+key_items,Key Items,Obj_SubstituteCloth_43,멸망한 왕가의 원단,멸망한 왕가의 디자인이 돋보이는 원단패러세일에 사용할 수 있을 만큼 튼튼하다
+key_items,Key Items,Obj_SubstituteCloth_45,검의 정령 원단,검의 정령에서 유래된 디자인이 돋보이는 원단패러세일에 사용할 수 있을 만큼 튼튼하다
+key_items,Key Items,Obj_SubstituteCloth_46,도트의 원단,도트 디자인이 돋보이는 원단패러세일에 사용할 수 있을 만큼 튼튼하다
+key_items,Key Items,Obj_SubstituteCloth_48,알 문양 원단,알 문양 디자인이 돋보이는 원단패러세일에 사용할 수 있을 만큼 튼튼하다
+key_items,Key Items,Obj_SubstituteCloth_49,여신의 원단,여신에서 유래된 디자인이 돋보이는 원단패러세일에 사용할 수 있을 만큼 튼튼하다
+key_items,Key Items,Obj_SubstituteCloth_51,신식·영걸의 옷 원단,신식·영걸의 옷 디자인이 돋보이는 원단패러세일에 사용할 수 있을 만큼 튼튼하다
+key_items,Key Items,Obj_SubstituteCloth_52,젤다 공주의 원단,젤다 공주에서 유래된 디자인이 돋보이는 원단패러세일에 사용할 수 있을 만큼 튼튼하다
+key_items,Key Items,Obj_SubstituteCloth_53,겔드 왕의 원단,겔드 왕의 디자인이 돋보이는 원단패러세일에 사용할 수 있을 만큼 튼튼하다
+key_items,Key Items,Obj_SubstituteCloth_55,추억의 문양 원단,어딘가 그리워지는 디자인이 돋보이는 원단패러세일에 사용할 수 있을 만큼 튼튼하다
+key_items,Key Items,Obj_SubstituteCloth_56,애디슨의 수제 원단,애디슨이 그린 허드슨의 그림이 돋보이는 원단 패러세일에 사용할 수 있을 만큼 튼튼하다
+key_items,Key Items,Obj_SubstituteCloth_Default,평범한 원단,
+key_items,Key Items,Obj_TreasureMap_00,낡은 지도,먼 옛날에 그려진 것으로 보이는 낡은 지도어딘가를 가리키는 것 같은데그곳에 무언가 있는 걸까…?
+key_items,Key Items,Obj_WarpDLC_Prototype,워프 마커 시제품,로베리의 워프 마커 시제품데이터가 손상된 상태라 이대로는 사용할 수 없다
+key_items,Key Items,Parasail,패러세일,프루아로부터 받은바람을 타고 하늘을 활강할 수 있는 아이템공중에서 를 눌러 사용한다
+animals,Creatures,GameRomHorse,말,"주로 초원에 서식하며 이동 수단으로서먼 옛날부터 인간에게 사랑받고 있다단, 야생마는 인간이 접근하는 즉시도망가기 때문에 말을 잡을 때에는소리를 죽이고 몰래 다가가야 한다"
+animals,Creatures,GameRomHorse00L,거대한 말,달리 유례를 찾아볼 수 없이 거대한 말신체 능력은 일반 말을 훨씬 능가하나천성도 매우 거칠기 때문에 잡는 것도길들이는 것도 숙련된 기술이 필요하다타는 이를 가리는 말이기도 하다
+animals,Creatures,GameRomHorseZelda,백마,100년 이상 전에 멸망한 하이랄 왕가의 왕족은그 권위를 백성들에게 보이기 위해매우 희귀한 백마를 탔다고 한다이 백마 또한 그 자손일지 모른다
+animals,Creatures,GameRomHorse01L,거대한 백마,하이랄 왕가의 왕족이 타고 다녔다고 전해지는백마의 혈통이라고 생각되지만그 남다른 크기로 인해「거대한 백마」로 불리고 있다이따금 돌연변이로 태어난 이 말의 정보를 찾는여행자와 연구자들이 나타난다고 한다
+animals,Creatures,GameRomHorseGold,황금마,황금빛 털을 지닌 매우 희귀한 말100년에 1마리밖에 태어나지 않는다고 전해진다아름다운 외형과 달리가혹한 환경에서도 잘 적응한다경계심이 강해 태울 사람을 가리기 때문에이 말을 길들일 수 있는 사람은 얼마 없다
+animals,Creatures,GameRomHorseBone,스탈호스,몬스터가 타는 뼈만 남은 말생전에는 평범한 말이었으나독기가 짙은 곳에서 되살아났다고 한다지상에서는 밤에만 모습을 유지할 수 있으며독기 위를 달릴 수 있는 특성이 있다
+animals,Creatures,GameRomHorse00S,당나귀,"소형 말가축으로서 마을에서 사육되며하이랄에서는 야생 당나귀를 볼 수 없다보기보다 힘이 있으며, 짐 운반이 특기라행상인이 데리고 다니는 경우가 많다"
+animals,Creatures,Animal_Sunazarashi_A,모래표범,큰 지느러미로 모래 속을 헤엄치듯 이동하는 동물본래 겔드사막의 야생 동물이었으나현재는 겔드족에 의해 가축화되었다청각이 발달되어 있어 모래 속에 들어가도주변 소음에 의지해 원하는 곳으로 나아갈 수 있다큰 송곳니가 특징이지만 사실 과일을 좋아한다
+animals,Creatures,Animal_SunazarashiSP_C,패트리샤,루쥬가 키우는 모래표범외모는 조금 무섭지만 루쥬의 사랑을 듬뿍 받고 있어저택 안에 전용 모래밭도 준비되어 있다이마의 리본도 루쥬가 준 선물이다다른 그 어떤 모래표범보다 능숙해서무슨 일이 있어도 거침없이 사막을 뚫고 나갈 수 있다족장의 파트너로서 든든한 존재
+animals,Creatures,Animal_Squirrel_A,큰꼬리다람쥐,큰 꼬리가 특징적인 작은 동물주로 숲에 서식하며 도토리 등 나무 열매를 먹는다볼에 먹이를 저장할 수 있는 주머니가 있는데깜짝 놀라면 넣어 둔 도토리를떨어뜨리는 경우도 종종 있다
+animals,Creatures,Animal_Boar_A,숲멧돼지,하이랄 전역에 서식하는 중간 크기 짐승숲이나 초원에서 먹이를 찾는 모습이 자주 보인다기본적인 성격은 얌전하나 너무 가까이 가면엄청난 속도로 돌진해 오니 주의할 것
+animals,Creatures,Animal_Boar_B,붉은이멧돼지,검은 털과 붉은 송곳니가 특징인 멧돼지생태는 평범한 멧돼지들과 비슷하나생명력과 돌진할 때의 위력이 강하므로사냥을 할 때에는 위험을 각오할 필요가 있다
+animals,Creatures,Animal_WildGoat_A,등검은염소,"초원이나 바위산에 서식하는 초식 동물바위에 걸치기 좋은 발굽과 강인한 다리,허리를 갖고 있어 가파른 곳을 이동할 수도 있다움직임이 민첩한 편은 아니기 때문에사냥 초보에게는 고마운 사냥감이다"
+animals,Creatures,Animal_Goat_A,흰염소,젖을 짜기 위해 인간이 기르는 염소신선한 젖은 버터로 가공되기도 한다부드러운 털은 옷에 사용되므로 귀하게 여겨진다방목할 때는 어디로 갔는지 쉽게 알 수 있도록목에 종을 달아 놓는다
+animals,Creatures,Animal_Deer_A,산사슴,깊은 숲에서 자주 발견되는 수사슴여러 갈래로 나뉜 큰 뿔이 특징이다위험을 감지하면 뿔을 휘두르기도 한다주의 깊은 성격 때문에 가까이 가기 어려우나잘 잡기만 한다면등에 탈 수 있을지도 모른다
+animals,Creatures,Animal_Doe_A,산사슴(암컷),수사슴과 같이 있는 경우가 많은 암사슴암사슴은 뿔이 없고 몸집도 약간 작은 편이다경계심이 매우 강한 동물이지만좋아하는 먹이인 사과 등을 먹고 있을 때에는 경계를 풀기도 하는데이때가 사냥할 기회이다
+animals,Creatures,Animal_Bull_A,습원물소,크고 단단한 뿔을 가진 야생 소물가를 좋아하고 그 주변의 풀을 먹으며 생활한다마을에서 키우는 가축인 하테노소는이 습원물소를 품종 개량한 것이다질 좋은 고기를 얻을 수 있어 사냥감이 되곤 한다
+animals,Creatures,Animal_Cow_A,하테노소,젖을 짜기 위해 가축으로 기르는 소하테노 마을이 원산지로 알려져 있다습원물소와 비교해 뿔이 작고성격도 온순하여 사육하기 쉽다뿔에 선명한 색의 장식을 달아 방목한다
+animals,Creatures,Animal_Sheep_A,고원양,"본래 산악 지대에 서식하던 동물이었으나털을 채취할 목적으로 마을에서 기르게 되었다복슬복슬 자라난 털을 인간이 채취하여의류, 침구 등에 이용한다온순하고 겁이 많은 성격 때문에 무리 지어 행동한다"
+animals,Creatures,Animal_Fox_A,평원여우,초원과 숲속에서 자주 볼 수 있는 여우끝이 희고 털이 풍성한 꼬리가 특징이다무리를 만들지 않고 단독 행동을 하는 경우가 많다잡식성이며 보통은 과일이나 벌레를 먹지만자신보다 작은 동물이나 새를 사냥할 때도 있다
+animals,Creatures,Animal_Fox_B,눈색여우,타반타 등 한랭한 지역에 서식하는 평원여우의 친척설산에 적응하면서 털의 색이 희게 변화했다눈 속에서 보호색을 띠므로설원에 있는 눈색여우를 발견하기 위해서는높은 관찰력이 필요하다
+animals,Creatures,Animal_Wolf_A,산적늑대,사나운 육식성 동물공격성이 높아 인간을 노리는 경우도 있다집단 사냥을 하며 먹잇감을 둘러싸고 숨통을 끊는다동료가 당하면 바로 도망가는 신중함도 갖고 있다다른 개체와의 의사소통에 울음소리를 이용하므로숲에서 울음소리를 들었다면 주의해야 한다
+animals,Creatures,Animal_Wolf_B,황무지코요테,겔드 지방에서 볼 수 있는 늑대의 친척더위와 건조함에 강해 사막에서도 서식한다다른 짐승이나 작은 동물을 사냥하는데인간을 습격하는 경우도 종종 있다사막을 여행하는 사람에게 위협이 되는 존재이다
+animals,Creatures,Animal_Wolf_C,설원늑대,헤브라 산맥 등 설산에 사는산적늑대의 친척. 무리를 지어 행동하는 등기본적인 생태는 산적늑대와 같으나혹독한 환경에 적응하며 생긴 강인한 체력과설원에서 보호색을 띠는 흰 털을 갖고 있어만났을 때 위험도는 더 높다
+animals,Creatures,Animal_Elk_A,타반타엘크,타반타 지방이 원산지인 사슴하이랄에 서식하는 사슴 중 가장 큰 종이며평평하고도 거대한 뿔이 특징이다사실 이 뿔은 매년 새로 자란다고기가 연하면서 질이 좋아조림 요리 재료 등으로 인기가 있다
+animals,Creatures,Animal_Pao_A,동고,열대 우림 지역에서 발견된 신종 네발 동물현재 하이랄 전역에서 5마리만 확인되었다생태는 베일에 싸여 있어무엇을 주식으로 삼는지조차 밝혀지지 않았다소심한 성격으로 놀라면 큰 뿔을 휘두르니주의할 필요가 있다
+animals,Creatures,Animal_Bear_A,벌잡이곰,베테랑 사냥꾼조차 잡기를 꺼리는 동물의 왕실수로 영역을 침범하면무기를 든 인간이든 누구든 공격을 당한다이름 그대로 벌꿀을 좋아한다위험도는 높으나 다른 것으로 주의를분산시키고 다가가면 등에 탈 수 있을지도 모른다
+animals,Creatures,Animal_Bear_B,황제큰곰,회색 털을 가진 벌잡이곰의 친척더욱 사나운 성격과 강인한 몸을 갖고 있어야생 동물 중에서 가장 위험한 존재라 할 수 있다마을에서 떨어진 설원 지역에 서식하므로만날 기회는 적다고 알려져 있으나발견했을 경우 함부로 건드리지 않는 편이 좋다
+animals,Creatures,Animal_Dog_A,하일리아견,인간을 잘 따르는 순한 성격의 똑똑한 동물예로부터 애완동물로 사육되었을 뿐 아니라훈련을 통해 방목 중인 양과 염소를지키거나 유도하는 역할을 맡기도 한다현재의 하일리아견은 모두 태고의 하이랄 왕가에서기르던 개의 자손이라고 한다
+animals,Creatures,Animal_RupeeRabbit_A,루미,옅은 푸른색으로 빛나는 신비로운 생물얼핏 토끼의 친척처럼 보이지만기원이나 상세한 생태 등은 알려진 바가 없다루피를 좋아해서 수집하는특이한 습성만이 알려져 있다
+animals,Creatures,Enemy_CaveMaster_000,마요이,전 세계의 동굴에 서식하고 있는 불가사의한 생물동굴 안에서도 사람의 인적이 드문 곳을 선호해다가가면 입에서 거품을 뿜으며 위협한다자극을 주면 자취를 감추며사라질 때 가진 물건을 떨어뜨리는 성질이 있다
+animals,Creatures,Animal_LittleBird_A,평범한 참새,하이랄에서 가장 일반적인 작은 새평원과 숲이 주 서식지이나 마을에서도 자주 보인다잡식성이며 나무 열매나 작은 벌레 등을 먹는다폴짝폴짝 뛰어서 이동하는 모습이귀엽게 보이지만 사람을 잘 따르지는 않는다
+animals,Creatures,Animal_LittleBird_B,붉은참새,"헤브라 지방에 서식하는 작은 새산나물, 나무의 새순 등을 쪼아 먹는다깃털은 선명한 붉은 색을 띠고 있으며깃털이 장식품에 이용되기도 한다"
+animals,Creatures,Animal_LittleBird_C,푸른물결참새,라넬 지방에서 자주 볼 수 있는 작은 새물가의 어린잎이나 수초를 주로 먹는다주변에 위험이 없을 때에는 물웅덩이나옅은 강에서 물놀이를 한다고 한다
+animals,Creatures,Animal_LittleBird_D,오색참새,필로네 지방에서 자주 볼 수 있는 작은 새이름 그대로 컬러풀한 깃털을 갖고 있으며일부 호사가들 사이에서 감상용으로 인기가 있다열대 우림에 많이 서식하는 작은 벌레가 주식이나잡식성이어서 나무 열매 등도 먹는다
+animals,Creatures,Animal_LittleBird_E,모래파기참새,겔드 지방에 서식하는 작은 새건조한 환경에 적응하여더위에 강한 성질을 갖고 있다사막에서는 적에게 들키지 않도록모래에 반쯤 몸을 묻은 상태로가만히 있는 모습도 볼 수 있다
+animals,Creatures,Animal_LittleBird_F,금빛참새,올딘 지방에 서식하는 참새의 친척화산이라는 혹독한 환경에 적응하여깃털이 잘 타지 않는 성질을 갖고 있다고 한다바위가 많은 곳에 숨어 있는 작은 열매를주식으로 한다
+animals,Creatures,Animal_Pigeon_A,평범한 비둘기,하이랄 전역의 숲과 초원에 사는 새서식지가 넓고 마을에서도 자주 볼 수 있다경계심이 그다지 강하지 않아사냥에 익숙하지 않은 사람도비교적 쉽게 사냥할 수 있다
+animals,Creatures,Animal_Pigeon_B,무지개비둘기,"매우 화려한 깃털을 가진 평범한 비둘기의 친척하이랄에서는 주로 북부 산림 지대, 초원에 서식한다나무 열매나 곡식을 주로 먹지만곤충, 지렁이 등을 쪼아 먹기도 한다고기는 평범한 비둘기보다 질이 좋다고 알려져 있다"
+animals,Creatures,Animal_Ptarmigan_B,화염비둘기,데스마운틴 주변에만 서식하는 희귀한 새깃털이 강한 내열 성능을 갖고 있기 때문에의상 재료로도 각광을 받는다고온의 환경을 좋아하지만 최근에는 기온이 낮은상공을 날고 있는 모습이 종종 목격되고 있다
+animals,Creatures,Animal_Ptarmigan_A,순백비둘기,헤브라 지방에 서식하는 하얀 깃털을 가진 비둘기평범한 비둘기 중에서도 눈의 보호색을 띠는깃털을 가진 개체가 설산에서 살아남아순백비둘기가 되었다고 한다추위를 견딜 수 있도록 지방을 축적하고 있어질 좋은 고기를 얻을 수 있다
+animals,Creatures,Animal_SkyPigeon_A,이색비둘기,평범한 비둘기의 원종인 작은 새지금은 좀처럼 그 모습을 발견하기 힘들지만예전엔 하이랄 전역에 서식했었다목 위쪽의 털은 풀숲에서 눈에 잘 띄지 않는 색이라보호색 역할을 한다
+animals,Creatures,Animal_Crow_A,산까마귀,매우 영리한 새. 울음소리가 특징적이다산악 지대뿐 아니라 숲이나 마을에도 서식하며인간의 빈틈을 노려 농작물을 헤집어 놓기도 한다새카만 날개가 주는 인상 때문에불길한 동물이라며 괄시를 받는 일이 많다
+animals,Creatures,Animal_WildDuck_A,흰점오리,하이랄 전역에 걸쳐 물가에 서식하는 새발에 있는 물갈퀴를 이용해 헤엄을 잘 친다강이나 호수에서 부리로 털을 고르는 모습이나물속의 먹이를 잡기 위해 목을 물속으로집어넣고 물구나무서는 모습을 볼 수 있다사냥을 통해 기름지고 질 좋은 고기를 얻을 수 있다
+animals,Creatures,Animal_Heron_A,푸른날개왜가리,하이랄 각지의 물가에서 자주 볼 수 있는 새가는 다리와 긴 목이 특징이며물고기와 개구리 등을 먹이로 삼는다먹잇감이 다가올 때까지 움직이지 않고 기다리다목을 길게 뻗어 포획하기도 한다
+animals,Creatures,Animal_Heron_B,분홍왜가리,깃털 끝과 머리가 아름다운 분홍색을 띠는 새물가에 사는 푸른날개왜가리와는 달리초원이나 건조한 지역에 서식하며바위 밑이나 풀숲에 있는 곤충을 잡아먹는다가는 다리로 걸어가며 먹잇감을 찾곤 하는데위험을 감지하면 날아서 도망가 버린다
+animals,Creatures,Animal_Hawk_A,줄무늬독수리,평원이나 고지대에 서식하는 육식 새날카로운 발톱과 부리를 갖고 있으며다른 새나 작은 동물을 잡아먹는다항상 높은 곳을 유유자적 날면서지상에 있는 먹잇감을 찾는다
+animals,Creatures,Animal_Gull_A,바다갈매기,바다 근처에 서식하는 새주로 물고기를 먹이로 삼고 생활하기 때문에물고기 떼가 헤엄치고 있는 바다 위에서 바다갈매기가 날고 있는 모습을 볼 수 있다어부들은 물고기 떼를 찾을 때이 습성을 이용한다
+animals,Creatures,Animal_SkyGull_A,운해갈매기,높은 하늘에서만 서식하는 바다갈매기의 아종지상에서 좀처럼 그 모습을 보기 힘들지만구름 사이에선 가끔 볼 수 있다고 한다상승 기류를 잘 타기 때문에날갯짓을 하지 않고도 하늘을 날아다닌다
+animals,Creatures,Animal_Cassowary_A,올딘타조,올딘 지방의 화산 지대에 서식하는 대형 새화산이라는 혹독한 환경에 적응하면서 진화하여깃털과 피부가 높은 내열 성능을 갖추었다날개가 작아 날 수 없는 새이지만다리가 매우 발달되어 있어 달리기가 빠르다
+animals,Creatures,Animal_SkyCassowary_A,삼림타조,하이랄의 대지가 수목으로 가득했을 무렵대량 서식했다고 전해지는 날지 못하는 새털이 길어 추위에 강한 반면 더위에 약하다경계심이 강해서 늘 풀숲에서 목을 쭉 펴고주위를 살피고 있다
+animals,Creatures,Animal_Kokko_A,꼬꼬,마을에서 알을 채취하기 위해 사육되는 새일부 지역에서 친숙한 애완동물로 인식되기도 한다보통은 날지 못하지만 사람이 들어 올리면놀라서 거센 날갯짓을 거듭하는 습성이 있다기본적으로 얌전하고 겁이 많은 성격이지만너무 괴롭히면…
+animals,Creatures,Item_FishGet_A,하이랄배스,먼 옛날부터 생김새가 한결같은 일반적인 물고기그대로 먹을 수도 있지만 요리하면회복 효과가 증대된다
+animals,Creatures,Item_FishGet_B,맥스배스,물가에 서식하는 대형 물고기큰 몸집에 많은 영양소를 담고 있어 요리에 사용하면하트를 모두 회복하고 최대치를 늘리는 효과가 있다
+animals,Creatures,Item_FishGet_L,원기배스,오래 산 하이랄배스라고 한다생명력이 매우 강하며 요리해서 먹으면스태미나 게이지가 단숨에 회복된다
+animals,Creatures,Item_FishGet_I,맥스연어,한랭지의 강이나 호수에 서식하는 물고기. 요리해서먹으면 추위를 견디기 위해 체내에 쌓아 둔 지방 덕에하트를 모두 회복하고 최대치를 늘리는 효과가 있다
+animals,Creatures,Item_FishGet_C,썰렁송어,차가운 물을 좋아하는 푸른 송어껍질에는 몸을 식히는 성분이 함유되어 있어요리해서 먹으면 더위에 내성이 생긴다
+animals,Creatures,Item_FishGet_J,따끈따끈송어,따뜻한 물을 좋아하는 붉은 송어. 체내에 열을축적하는 특수한 장기가 있어 재료로 쓰면 몸속을데워 주는 효능을 가진 요리를 만들 수 있다
+animals,Creatures,Item_FishGet_D,찌릿찌릿송어,호수 등 담수에 서식하는 송어절연 성분을 함유한 비늘을 재료로 쓰면전기 내성을 얻을 수 있는 요리를 만들 수 있다
+animals,Creatures,Item_FishGet_X,은밀송어,어두운 곳에서 빛나는 물고기. 비늘의 발광 물질에집중력 향상 성분이 함유되어 있어 요리에 사용하면소리를 내지 않고 행동할 수 있게 된다
+animals,Creatures,Item_FishGet_E,칼날잉어,담수에 서식하는 잉엇과 물고기내장에 함유된 성분에 근력 증강 효과가 있어요리해서 먹으면 공격력이 상승한다
+animals,Creatures,Item_FishGet_H,갑옷잉어,단단한 갑옷 같은 비늘을 가진 고대어요리에 사용하면 비늘에 담긴 성분 덕에뼈가 튼튼해져 방어력이 증가한다
+animals,Creatures,Item_FishGet_Z,달록잉어,야생 갑옷잉어를 인간이 개량한 관상어자연계에 존재하지 않는 아름다운 색과 모양요리에 사용해도 딱히 효과는 없다
+animals,Creatures,Item_FishGet_AA,고대아로와나,아직도 태고의 모습이 남은 활력 넘치는 물고기탱탱한 살에는 영양이 가득해서먹으면 하트를 회복할 수 있다
+animals,Creatures,Item_FishGet_AC,조명동굴어,어두운 동굴 속에서 서식하는 빛을 내는 물고기그 빛나는 효소가 들어간 요리는먹은 사람의 몸을 빛나게 만드는 효과가 있다
+animals,Creatures,Item_FishGet_F,칼날도미,바다에 있는 성질이 사나운 물고기요리해서 먹으면 살점에 포함된 성분 덕에투쟁심이 향상되어 공격력이 증가한다
+animals,Creatures,Item_FishGet_G,갑옷도미,전신이 단단한 비늘로 싸인 도미요리에 사용하면 비늘에 축적된 성분 덕에뼈가 튼튼해져 방어력이 증가한다
+animals,Creatures,Item_FishGet_M,은밀우렁이,담수에 서식하는 큰 우렁이. 요리에 사용하면청각이 예민해져 소리를 내지 않고 행동할 수있게 된다. 밤이 되면 반딧불처럼 빛난다
+animals,Creatures,Item_InsectGet_K,칼날게,물가에 서식하는 날카로운 집게발이 특징인 게집게발 속의 살에는 근력 강화 성분이 있어요리해서 먹으면 공격력이 증가된다
+animals,Creatures,Item_InsectGet_O,갑옷게,게 중에서도 특히 단단한 껍데기를 가졌다내장과 살에 몸을 튼튼히 하는 영양소가 있어요리해서 먹으면 방어력이 증가된다
+animals,Creatures,Item_InsectGet_Z,원기게,비가 오면 대량으로 출현하는 것으로 유명하다통통한 살이 피로도 잊게 할 정도로 맛있다요리에 사용하면 스태미나 게이지가 회복된다
+animals,Creatures,Animal_Insect_F,요정,쓰러졌을 때 주머니에서 튀어나와바로 상처를 치유해 준다반딧불과 달리 낮에도 옅게 빛난다
+animals,Creatures,Animal_Insect_N,썰렁호랑나비,공기를 차갑게 하는 가루를 지닌 신비한 나비눈과 섞여 하늘을 나는 모습이 아름답다몬스터 소재와 끓이면 더위를 견디는 약이 된다
+animals,Creatures,Animal_Insect_Q,따끈따끈호랑나비,숲이나 평원 등 따뜻한 지역에 서식하는 나비햇빛을 축적한 가루는몬스터 소재와 끓이면 몸을 데우는 약이 된다
+animals,Creatures,Animal_Insect_R,찌릿찌릿호랑나비,비가 내릴 때만 모습을 보이는 희귀한 나비체내 기관에서 절연 성분을 만드는 성질이 있다끓여서 약으로 만들면 전격 내성을 얻을 수 있다
+animals,Creatures,Animal_Insect_AB,방염호랑나비,고열 화산 지대에 서식하는 희귀한 나비내열성이 높은 액체를 체내에 축적하고 있어끓여서 약으로 만들면 화염을 견디는 효능이 있다
+animals,Creatures,Animal_Insect_C,썰렁왕잠자리,나무 그늘 등 시원한 곳을 좋아하는 잠자리푸르고 투명한 날개는 방열 성분을 갖고 있어끓이면 더위를 견디는 효과가 있는 약이 된다
+animals,Creatures,Animal_Insect_T,따끈따끈왕잠자리,날개 끝의 붉은 모양이 특징인 잠자리날개에 발한 작용이 있는 성분을 지니고 있어몬스터 소재와 끓이면 추위 내성을 얻을 수 있다
+animals,Creatures,Animal_Insect_I,찌릿찌릿왕잠자리,비가 내릴 때만 모습을 보이는 희귀한 잠자리긴 날개에 전류를 몸 밖으로 내보내는 성분이 있다약으로 만들면 그 덕에 내전성이 향상된다
+animals,Creatures,Animal_Insect_H,원기메뚜기,먹이를 찾아 종일 뛰어다니는 체력을 갖고 있다체내에 축적된 자양분은스태미나 게이지를 회복하는 약의 원료가 된다
+animals,Creatures,Animal_Insect_G,칼날장수풍뎅이,숲에 서식하는 곤충의 왕. 큰 뿔은 끓여서약으로 만들면 근육의 혈액 순환을 촉진시키는효과가 있어 공격력이 향상된다
+animals,Creatures,Animal_Insect_P,갑옷장수풍뎅이,갑옷처럼 단단한 몸을 가진 장수풍뎅이껍데기 부분을 끓여 약으로 만들면몸을 강화시키는 효과가 있어 방어력이 상승한다
+animals,Creatures,Animal_Insect_AA,원기장수풍뎅이,10년이나 산다는 희귀한 장수풍뎅이그 강력한 생명력은 약으로 만들면스태미나 게이지를 단숨에 회복시키는 효과를 낸다
+animals,Creatures,Animal_Insect_E,고요반딧불이,밤이 되면 옅게 빛나는 곤충. 체내의 발광 물질은집중력을 향상시키는 효과가 있다고 하며약으로 만들면 소리를 내지 않고 행동할 수 있다
+animals,Creatures,Animal_Insect_AI,어둠반딧불이,어두운 깊은 굴에 서식하는 이어진 날개를 가진 곤충분비하는 발광 성분을 끓이면 약이 되며복용자의 신체가 어렴풋이 빛나는 효과가 있다
+animals,Creatures,Animal_Insect_A,고고개구리,물가에서 재빨리 뛰어다니는 개구리고기에 민첩함을 증가시키는 물질이 함유되어 있어몬스터 소재와 끓이면 이동 속도를 올리는 약이 된다
+animals,Creatures,Animal_Insect_B,활력개구리,"어둡고 습한 곳을 좋아해 좀처럼 보기 힘든 개구리간에 신진대사를 활발히 하는 성분이 있어, 약으로만들면 스태미나 게이지가 한계치 이상 증가한다"
+animals,Creatures,Animal_Insect_AG,접착개구리,벽에 가만히 붙어 있는 개구리분비물을 미끄럼 방지용으로 이용할 수 있어젖은 벽을 쉽게 오를 수 있는 약을 만들 수 있다
+animals,Creatures,Animal_Insect_S,고고도마뱀,풀밭이나 숲에서 볼 수 있는 매우 재빠른 도마뱀고기에 다리 근력 증강 효과가 있어몬스터 소재와 끓이면 이동 속도를 올리는 약이 된다
+animals,Creatures,Animal_Insect_M,맥스도마뱀,주로 깊은 숲에 서식하는 희귀한 도마뱀영양가가 높은 먹이를 먹어서 생명력이 매우 강하다약재로 쓰면 하트 최대치가 크게 상승한다
+animals,Creatures,Animal_Insect_X,방염도마뱀,올딘 지방에만 서식하는 특수 도마뱀비늘에 내화 성분이 많이 함유되어 있어몬스터 소재와 끓이면 화염을 견디는 약이 된다
+animals,Creatures,Animal_Insect_AH,접착도마뱀,손발에 빨판이 있어 어떤 벽이든 올라가는 도마뱀흡착하는 성분을 끓여서 응축하면미끄러운 벽을 쉽게 오를 수 있는 약을 만들 수 있다
+materials,Materials,Animal_Insect_A,고고개구리,물가에서 재빨리 뛰어다니는 개구리고기에 민첩함을 증가시키는 물질이 함유되어 있어몬스터 소재와 끓이면 이동 속도를 올리는 약이 된다
+materials,Materials,Animal_Insect_AA,원기장수풍뎅이,10년이나 산다는 희귀한 장수풍뎅이그 강력한 생명력은 약으로 만들면스태미나 게이지를 단숨에 회복시키는 효과를 낸다
+materials,Materials,Animal_Insect_AB,방염호랑나비,고열 화산 지대에 서식하는 희귀한 나비내열성이 높은 액체를 체내에 축적하고 있어끓여서 약으로 만들면 화염을 견디는 효능이 있다
+materials,Materials,Animal_Insect_AG,접착개구리,벽에 가만히 붙어 있는 개구리분비물을 미끄럼 방지용으로 이용할 수 있어젖은 벽을 쉽게 오를 수 있는 약을 만들 수 있다
+materials,Materials,Animal_Insect_AH,접착도마뱀,손발에 빨판이 있어 어떤 벽이든 올라가는 도마뱀흡착하는 성분을 끓여서 응축하면미끄러운 벽을 쉽게 오를 수 있는 약을 만들 수 있다
+materials,Materials,Animal_Insect_AI,어둠반딧불이,어두운 깊은 굴에 서식하는 이어진 날개를 가진 곤충분비하는 발광 성분을 끓이면 약이 되며복용자의 신체가 어렴풋이 빛나는 효과가 있다
+materials,Materials,Animal_Insect_B,활력개구리,"어둡고 습한 곳을 좋아해 좀처럼 보기 힘든 개구리간에 신진대사를 활발히 하는 성분이 있어, 약으로만들면 스태미나 게이지가 한계치 이상 증가한다"
+materials,Materials,Animal_Insect_C,썰렁왕잠자리,나무 그늘 등 시원한 곳을 좋아하는 잠자리푸르고 투명한 날개는 방열 성분을 갖고 있어끓이면 더위를 견디는 효과가 있는 약이 된다
+materials,Materials,Animal_Insect_E,고요반딧불이,밤이 되면 옅게 빛나는 곤충. 체내의 발광 물질은집중력을 향상시키는 효과가 있다고 하며약으로 만들면 소리를 내지 않고 행동할 수 있다
+materials,Materials,Animal_Insect_F,요정,쓰러졌을 때 주머니에서 튀어나와바로 상처를 치유해 준다반딧불과 달리 낮에도 옅게 빛난다
+materials,Materials,Animal_Insect_G,칼날장수풍뎅이,숲에 서식하는 곤충의 왕. 큰 뿔은 끓여서약으로 만들면 근육의 혈액 순환을 촉진시키는효과가 있어 공격력이 향상된다
+materials,Materials,Animal_Insect_H,원기메뚜기,먹이를 찾아 종일 뛰어다니는 체력을 갖고 있다체내에 축적된 자양분은스태미나 게이지를 회복하는 약의 원료가 된다
+materials,Materials,Animal_Insect_I,찌릿찌릿왕잠자리,비가 내릴 때만 모습을 보이는 희귀한 잠자리긴 날개에 전류를 몸 밖으로 내보내는 성분이 있다약으로 만들면 그 덕에 내전성이 향상된다
+materials,Materials,Animal_Insect_M,맥스도마뱀,주로 깊은 숲에 서식하는 희귀한 도마뱀영양가가 높은 먹이를 먹어서 생명력이 매우 강하다약재로 쓰면 하트 최대치가 크게 상승한다
+materials,Materials,Animal_Insect_N,썰렁호랑나비,공기를 차갑게 하는 가루를 지닌 신비한 나비눈과 섞여 하늘을 나는 모습이 아름답다몬스터 소재와 끓이면 더위를 견디는 약이 된다
+materials,Materials,Animal_Insect_P,갑옷장수풍뎅이,갑옷처럼 단단한 몸을 가진 장수풍뎅이껍데기 부분을 끓여 약으로 만들면몸을 강화시키는 효과가 있어 방어력이 상승한다
+materials,Materials,Animal_Insect_Q,따끈따끈호랑나비,숲이나 평원 등 따뜻한 지역에 서식하는 나비햇빛을 축적한 가루는몬스터 소재와 끓이면 몸을 데우는 약이 된다
+materials,Materials,Animal_Insect_R,찌릿찌릿호랑나비,비가 내릴 때만 모습을 보이는 희귀한 나비체내 기관에서 절연 성분을 만드는 성질이 있다끓여서 약으로 만들면 전격 내성을 얻을 수 있다
+materials,Materials,Animal_Insect_S,고고도마뱀,풀밭이나 숲에서 볼 수 있는 매우 재빠른 도마뱀고기에 다리 근력 증강 효과가 있어몬스터 소재와 끓이면 이동 속도를 올리는 약이 된다
+materials,Materials,Animal_Insect_T,따끈따끈왕잠자리,날개 끝의 붉은 모양이 특징인 잠자리날개에 발한 작용이 있는 성분을 지니고 있어몬스터 소재와 끓이면 추위 내성을 얻을 수 있다
+materials,Materials,Animal_Insect_X,방염도마뱀,올딘 지방에만 서식하는 특수 도마뱀비늘에 내화 성분이 많이 함유되어 있어몬스터 소재와 끓이면 화염을 견디는 약이 된다
+materials,Materials,BeeHome,원기벌의 벌꿀,벌집에서 갓 딴 벌꿀은 영양 만점!높은 영양가 덕분에 벌꿀을 조미료로 쓴 요리는스태미나 게이지 회복 효과가 나타난다
+materials,Materials,BombFruit,폭탄꽃,화약과 비슷한 성분이 함유된 꽃충격을 가하거나 불을 붙이면주위에 있는 것과 함께 폭발한다
+materials,Materials,ConfusionFruit,혼란꽃,강렬한 냄새를 풍기는 야생화이 냄새를 맡으면 정신이 아득해지며일시적으로 피아 구별을 할 수 없다고 한다
+materials,Materials,ElectricalFruit,전기 열매,터지면 전기가 발생하는 열매. 뇌명에 반응해근력을 자극하는 성분이 함유돼 있어 요리해서먹으면 뇌우 시에 강력한 공격을 펼칠 수 있다
+materials,Materials,FireFruit,화염의 열매,터지면 열이 발생하는 열매열로 근육을 활성화하는 성분이 함유돼 있어요리해서 먹으면 고온에서 강력한 공격을 펼칠 수 있다
+materials,Materials,FldObj_Pinecone_A_01,하이랄솔방울,하이랄에 폭넓게 분포하는 수목의 열매유분이 많아 잘 타는 성질을 지니고 있어화톳불을 지피면 화력이 상승한다
+materials,Materials,IceFruit,냉기의 열매,터지면 냉기가 발생하는 열매. 저온에서 평소 사용하지않는 근육 세포를 강화하는 작용이 있어 요리해서먹으면 추운 곳에서 강력한 공격을 펼칠 수 있다
+materials,Materials,Item_Enemy_01,보코블린의 이빨,닳아서 날카롭지는 않은 이빨. 단단하고 가벼워서화살촉으로 사용하면 평소보다 공격력이 상승한다또한 곤충과 함께 끓이면 약재로 사용할 수 있다
+materials,Materials,Item_Enemy_02,보코블린의 간,보코블린을 쓰러뜨려서 얻은 매우 귀한 소재징그럽게도 조금씩 움직인다…어딘가에 쓸 일이 있을지도 모른다
+materials,Materials,Item_Enemy_04,리잘포스의 발톱,리잘포스의 팔꿈치에 나 있는 발톱. 공기 저항이 적어화살촉으로 사용하면 평소보다 공격력이 상승한다또한 곤충과 함께 끓이면 약이 된다
+materials,Materials,Item_Enemy_05,리잘포스의 꼬리,탄력 있고 신축성 좋은 꼬리휘두르면 그 기세에 따라 늘었다 줄었다 해서무기에 붙이면 길이를 살린 공격이 가능해진다
+materials,Materials,Item_Enemy_07,모리블린의 이빨,"모리블린의 날카로운 이빨. 단단해서 가공은 힘들지만,화살촉으로 쓰면 평소보다 높은 공격력을 발휘한다또한 곤충과 함께 끓이면 약재로 쓸 수 있다"
+materials,Materials,Item_Enemy_08,모리블린의 간,모리블린에게서 얻을 수 있는 매우 귀한 소재냄새가 심해 요리 재료로는 쓸 수 없지만곤충과 함께 끓이면 약이 된다
+materials,Materials,Item_Enemy_100,호러블린의 뿔,앞뒤로 뻗은 망치 형태의 뿔. 전면이 가장 단단하며무기에 붙이면 공격력이 상승한다곤충과 함께 끓이면 약재로 쓸 수 있다
+materials,Materials,Item_Enemy_101,블루 호러블린의 뿔,성장하면서 가시가 자란 망치 형태의 뿔무기에 붙이면 공격력이 그럭저럭 상승한다또한 곤충과 함께 끓이면 약재가 된다
+materials,Materials,Item_Enemy_102,블랙 호러블린의 뿔,시간이 흘러 크고 육중하게 자란 망치 형태의 뿔무기에 붙이면 공격력이 상당히 상승한다곤충과 함께 끓이면 약재가 된다
+materials,Materials,Item_Enemy_103,실버 호러블린의 뿔,끝이 매우 단단하면서 앞뒤로 굽은 형태의 뿔무기에 붙이면 공격력이 매우 상승한다달여서 곤충과 함께 끓이면 약재로 쓸 수 있다
+materials,Materials,Item_Enemy_104,호러블린의 발톱,호러블린을 쓰러뜨리고 손에 넣은 발톱. 화살촉으로사용하면 평소보다 공격력이 상승하는 특성을 지녔다곤충과 함께 끓이면 약재가 된다
+materials,Materials,Item_Enemy_105,호러블린의 간,호러블린에게서 얻을 수 있는 귀한 소재쓴맛이 강해 요리에는 적합하지 않지만곤충과 함께 끓이면 효과가 좋은 약을 만들 수 있다
+materials,Materials,Item_Enemy_106,리잘포스의 뿔,얇게 잘 갈린 나이프 형태의 뿔무기에 붙이면 공격력이 상승한다또한 곤충과 함께 끓이면 약재가 된다
+materials,Materials,Item_Enemy_107,블루 리잘포스의 뿔,하늘을 찌를 듯이 길게 뻗은 칼 형태의 뿔무기에 붙이면 공격력이 그럭저럭 상승한다또한 곤충과 함께 끓이면 약재로 쓸 수 있다
+materials,Materials,Item_Enemy_108,블랙 리잘포스의 뿔,다수의 베인 자국이 나 있는 칼날 형태의 뿔무기에 붙이면 공격력이 상당히 상승한다또한 약재로 쓸 수 있다
+materials,Materials,Item_Enemy_109,실버 리잘포스의 뿔,건드리면 무엇이든 베어 버릴 것 같은 낫 형태의 뿔무기에 붙이면 공격력이 매우 상승한다또한 곤충과 함께 끓이면 약재가 된다
+materials,Materials,Item_Enemy_114,블루 리잘포스의 꼬리,휘두르면 늘었다 줄었다 하는 비늘 형태의 꼬리무기에 붙이면 그 길이를 살린 공격이 가능해진다또한 곤충과 함께 끓이면 약재로 쓸 수 있다
+materials,Materials,Item_Enemy_115,블랙 리잘포스의 꼬리,두꺼운 외피로 덮인 꼬리. 신축성이 뛰어나 무기에붙여 휘두르면 신축성을 살린 공격이 가능해진다또한 끓이면 약재가 된다
+materials,Materials,Item_Enemy_116,실버 리잘포스의 꼬리,두꺼운 장갑 같은 가죽으로 덮인 꼬리두꺼워도 탄력과 튼튼함은 최상급무기에 붙이면 신축성을 살린 공격이 가능해진다
+materials,Materials,Item_Enemy_117,파이어 키이스의 눈알,파이어 키이스의 열기를 띤 눈알약재로도 요긴하게 사용되지만 화살에붙이면 명중률이 상승하는 효과를 얻을 수 있다
+materials,Materials,Item_Enemy_118,일렉트로 키이스의 눈알,일렉트로 키이스의 전기가 축적된 눈알약재로 사용되는 건 물론이고화살에 붙이면 목표를 향해 알아서 날아간다
+materials,Materials,Item_Enemy_119,아이스 키이스의 눈알,아이스 키이스의 얼어붙은 눈알보통 약재로 사용되지만 화살에 붙이면상대에게 쉽게 명중하는 효과를 얻을 수 있다
+materials,Materials,Item_Enemy_121,기브도의 간,기브도를 쓰러뜨리면 가끔 떨어지는 건조된 간생명력 넘치는 자양 성분이 응축되어 있어서효과가 매우 뛰어난 약을 만들 수 있다고 한다
+materials,Materials,Item_Enemy_123,기브도의 날개,빛을 받으면 섬뜩하게 빛나는 날개. 무기나 화살에붙이면 바람을 받아 더 멀리 날릴 수 있다 또한 곤충과 함께 끓이면 약재가 된다
+materials,Materials,Item_Enemy_124,카쿠다의 날개,카쿠다를 쓰러뜨리고 손에 넣은 커다란 날개가볍고 폭이 넓어 무기나 화살에 붙이면바람이 얼마 불지 않아도 멀리 날릴 수 있다
+materials,Materials,Item_Enemy_13,라이넬의 발굽,라이넬의 발에서만 채취할 수 있는 귀한 소재묵직해서 높은 공격력을 지닌 화살촉으로 쓸 수 있다또한 곤충과 함께 끓이면 약재가 된다
+materials,Materials,Item_Enemy_130,조나우 에너지,골렘 등의 동력원으로 이용되는 물질내뿜는 빛에서 강한 에너지가 느껴진다
+materials,Materials,Item_Enemy_131,커다란 조나우 에너지,오래된 유적에서 발견되는 거대한 조나우 에너지내뿜는 빛에서 매우 강한 힘이 느껴진다
+materials,Materials,Item_Enemy_132,블루 보스보코블린의 뿔,리더를 상징하는 띠가 감긴 도끼 형태의 뿔무기에 붙이면 공격력이 그럭저럭 상승한다또한 곤충과 함께 끓이면 약을 만들 수 있다
+materials,Materials,Item_Enemy_133,블랙 보스보코블린의 뿔,리더를 상징하는 띠가 두 개인 양날 도끼 형태의 뿔무기에 붙이면 공격력이 상당히 상승한다또한 곤충과 함께 끓이면 약재로 쓸 수 있다
+materials,Materials,Item_Enemy_134,실버 보스보코블린의 뿔,옆면이 예리한 둥근 형태의 뿔. 꼼꼼하게 묶인 띠에마력이 깃들어 있어 무기에 붙이면 공격력이매우 상승한다. 곤충과 함께 끓이면 약재가 된다
+materials,Materials,Item_Enemy_135,보스보코블린의 이빨,보스보코블린이 떨어뜨린 거대한 이빨화살촉으로 사용하면 평소보다 공격력이 상승한다또한 곤충과 함께 끓이면 약을 만들 수 있다
+materials,Materials,Item_Enemy_136,보스보코블린의 간,보스보코블린으로부터 손에 넣은 귀한 소재계속 움직이고 있어서 꺼림칙하다곤충과 함께 끓이면 좋은 약재가 된다
+materials,Materials,Item_Enemy_14,라이넬의 간,라이넬에게서 얻을 수 있는 귀한 소재고동치듯 움직이고 있어 라이넬의 생명력을엿볼 수 있다. 약재로도 가치가 높다
+materials,Materials,Item_Enemy_142,히녹스의 뿔,주위를 가시 박힌 널빤지로 뒤덮은 뿔무기에 붙이면 공격력이 상승한다뿔을 곤충과 함께 끓이면 약재가 된다
+materials,Materials,Item_Enemy_143,블루 히녹스의 뿔,단단한 쇠사슬이 감긴 불길한 뿔무기에 붙이면 공격력이 그럭저럭 상승하며곤충과 함께 끓이면 약재로 쓸 수 있다
+materials,Materials,Item_Enemy_144,블랙 히녹스의 뿔,찌그러진 폐자재를 단단히 감은 뿔. 무기에 붙이면휘두르기 편해져 공격력이 상당히 상승한다또한 곤충과 함께 끓이면 약재로 쓸 수 있다
+materials,Materials,Item_Enemy_148,라이넬의 칼날뿔,라이넬의 한쪽 뿔로 칼날 형태로 생겼다매우 예리해 무기에 붙이면 공격력이 상승한다또한 곤충과 함께 끓이면 약재가 된다
+materials,Materials,Item_Enemy_149,푸른 갈기의 라이넬의 칼날뿔,푸른 갈기의 라이넬의 한쪽 뿔. 날카로운 칼날형태로 무기에 붙이면 공격력이 그럭저럭 상승한다곤충과 함께 끓이면 약재로 쓸 수 있다
+materials,Materials,Item_Enemy_15,빨간츄츄젤리,파이어 츄츄와 똑 닮은 탱글탱글한 덩어리항시 열을 발생시키고 있으며충격을 가하면 파열되면서 화염을 뿜는다
+materials,Materials,Item_Enemy_150,하얀 갈기의 라이넬의 칼날뿔,하얀 갈기의 라이넬의 한쪽 뿔. 연속된 칼날 형태가닿은 물건을 베어 버리기에 무기에 붙이면 공격력이상당히 상승한다. 곤충과 함께 끓이면 약재가 된다
+materials,Materials,Item_Enemy_151,실버 라이넬의 칼날뿔,극한까지 연마된 길고 날카로운 뿔. 예리함은두말할 필요 없어 무기에 붙이면 공격력이 매우상승한다. 곤충과 함께 끓이면 약재로 쓸 수 있다
+materials,Materials,Item_Enemy_153,그리오크의 화염각,화염을 두른 그리오크의 머리에 있는 관 형태의 뿔자극을 받으면 불을 뿜으며 무기에 붙이면 공격력이매우 상승한다. 달이면 약재가 된다
+materials,Materials,Item_Enemy_154,그리오크의 빙설각,냉기를 다루는 그리오크의 관 형태의 뿔. 얼어붙을 만큼차가운 칼날을 지니고 있어 무기에 붙이면 공격력이매우 상승한다. 곤충과 함께 끓이면 약재가 된다
+materials,Materials,Item_Enemy_155,그리오크의 뇌전각,번개를 띤 그리오크의 머리에 있는 관 형태의 뿔모아 둔 전기를 방전하는 성질이 있어 무기에 붙이면공격력이 매우 상승한다. 끓이면 약재가 된다
+materials,Materials,Item_Enemy_156,그리오크의 날개,그리오크가 비행 시에 공기 흐름을 조절하는 날개얇고 가볍지만 매우 튼튼해서 무기나 화살에 붙이면바람을 타고 더 멀리 날릴 수 있다
+materials,Materials,Item_Enemy_157,그리오크의 간,쉽게 볼 수 없는 아주 귀중한 소재계속 힘차게 움직이고 있어서 무척 꺼림칙하다곤충과 함께 끓이면 약효가 커져 각광받고 있다
+materials,Materials,Item_Enemy_158,백룡의 비늘,백룡에게서 떨어져 나온 귀한 비늘어렴풋이 온기가 남아 있어 왠지 그리움이 느껴진다무기에 붙이면 사용자를 치유하는 성질이 있다
+materials,Materials,Item_Enemy_159,백룡의 발톱,백룡에게서 떨어져 나온 귀한 발톱보기와는 다르게 위험해 보이지 않는다무기에 붙이면 사용자를 치유하는 성질이 있다
+materials,Materials,Item_Enemy_16,노란츄츄젤리,일렉트로 츄츄와 똑 닮은 탱글탱글한 덩어리마비될 정도는 아니지만 찌릿찌릿하다충격을 가하면 파열되면서 전기를 발생시킨다
+materials,Materials,Item_Enemy_160,백룡의 이빨 조각,백룡에게서 떨어져 나온 이빨 조각날카롭지 않고 오히려 부드러운 분위기가 감돈다무기에 붙이면 사용자를 치료하는 성질이 있다
+materials,Materials,Item_Enemy_166,병정 골렘의 뿔,병정 골렘의 머리에 있는 칼날 형태의 뿔무척 날카로워서 다룰 때 주의가 필요하다
+materials,Materials,Item_Enemy_167,병정 골렘의 뿔(중등),병정 골렘(중등)의 머리에 있는 정글도 형태의 뿔잔가지를 치거나 화초를 정리할 때 적합한 형태로무기에 붙이면 공격력이 그럭저럭 상승한다
+materials,Materials,Item_Enemy_168,병정 골렘의 뿔(상등),병정 골렘(상등)의 머리에 있는 톱 형태의 뿔무기에 붙이면 공격력이 상당히 상승하고화초뿐만 아니라 큰 수목의 벌채에도 쓸 수 있다
+materials,Materials,Item_Enemy_169,병정 골렘의 뿔(특등),날카로운 원반이 달린 뿔원반 부분은 신비한 힘으로 회전하며 닿은 물건을절단한다. 무기에 붙이면 공격력이 매우 상승한다
+materials,Materials,Item_Enemy_17,하얀츄츄젤리,아이스 츄츄와 똑 닮은 탱글탱글한 덩어리들어 보면 시원한 느낌이 기분 좋다충격을 가하면 파열되면서 냉기를 흩뿌린다
+materials,Materials,Item_Enemy_18,키이스의 날개,키이스를 쓰러뜨리고 손에 넣은 소재효율적으로 바람을 받을 수 있는 구조로 되어 있어무기나 화살에 붙이면 멀리 날릴 수 있다
+materials,Materials,Item_Enemy_181,조아조아의 위돌,조아조아에서 튀어나온 기묘한 둥근 돌체액이 결정화되면서 생긴 돌로그 성분은 약재가 된다고 알려져 있다
+materials,Materials,Item_Enemy_182,파이어 조아의 위돌,오랫동안 고온의 몸속에서 계속 데워진 돌몸 밖으로 꺼낸 후에도 항상 열을 품고 있어서약재로서의 효능도 주목받고 있다
+materials,Materials,Item_Enemy_183,일렉트로 조아의 위돌,일렉트로 조아의 몸속에서 고전압에 계속 노출된 돌몸 밖으로 꺼낸 후에도 약간의 전기를 띠고 있다곤충과 함께 끓이면 약재로 쓸 수 있다
+materials,Materials,Item_Enemy_184,아이스 조아의 위돌,온도가 매우 낮은 몸속에 계속 노출된 돌몸 밖으로 꺼낸 후에도 얼음처럼 차갑다곤충과 함께 끓이면 약재로 쓸 수 있다
+materials,Materials,Item_Enemy_186,데그가마의 큰 이빨,광석을 깎는 데 사용하는 거대한 이빨무기에 붙이면 공격력이 그럭저럭 상승한다곤충과 함께 끓이면 약재가 된다
+materials,Materials,Item_Enemy_187,흑요의 데그가마의 큰 이빨,광석을 부수는 데 사용하는 거대한 이빨무기에 붙이면 공격력이 상당히 상승한다달여서 곤충과 함께 끓이면 약을 만들 수 있다
+materials,Materials,Item_Enemy_188,창백의 데그가마의 큰 이빨,단단한 암반을 아랑곳하지 않고 부수는 거대한 이빨무기에 붙이면 공격력이 매우 상승한다곤충과 함께 끓이면 약재로 쓸 수 있다
+materials,Materials,Item_Enemy_189,데그가마의 발톱,납작한 형태의 금이 간 발톱화살촉으로 사용하면 평소보다 공격력이 상승한다또한 곤충과 함께 끓이면 약재가 된다
+materials,Materials,Item_Enemy_19,키이스의 눈알,두리번거리며 주위를 살펴보는 섬뜩한 소재화살에 붙이면 상대를 계속 응시한다. 그 눈의힘으로 노린 대상을 추적하는 능력이 생긴다
+materials,Materials,Item_Enemy_190,데그가마의 간,데그가마에게서 얻을 수 있는 박동하는 간. 거구에혈류를 보내기 때문인지 고동이 힘차다. 달여서곤충과 함께 끓이면 효과가 좋은 약을 만들 수 있다
+materials,Materials,Item_Enemy_191,대장 골렘의 뿔(중등),끝이 좌우로 갈라져 갈고리 형태가 된 예리한 뿔닿는 것을 쉽게 찢어 버리는 위력을 지녔다무기에 붙이면 공격력이 그럭저럭 상승한다
+materials,Materials,Item_Enemy_192,대장 골렘의 뿔(상등),끝이 마치 장식된 것처럼 복잡하게 생긴예리한 칼날 형태의 뿔무기에 붙이면 공격력이 상당히 상승한다
+materials,Materials,Item_Enemy_193,대장 골렘의 뿔(특등),뿌리에서 둘로 갈라진 칼날 형태의 뿔끝부분과 돌기가 매우 날카로워서무기에 붙이면 공격력이 매우 상승한다
+materials,Materials,Item_Enemy_20,옥타의 다리,옥타족에게서 얻을 수 있는 소재살에 신맛이 매우 강해 식용으로는 쓸 수 없지만약재로는 귀하게 여겨진다
+materials,Materials,Item_Enemy_208,스탈 히녹스의 뿔,섬뜩한 뼈와 뾰족하게 솟은 가시가 아플 것 같은 뿔무기에 붙이면 공격력이 매우 상승한다곤충과 함께 끓이면 약재로 쓸 수 있다
+materials,Materials,Item_Enemy_21,옥타의 눈알,옥타족으로부터 얻을 수 있는 소재움직이는 물체를 따라가는 성질이 있어서화살에 달면 명중률을 높일 수 있다
+materials,Materials,Item_Enemy_210,몰드래고의 턱뼈,모래를 헤치고 나아갈 때 도움이 되는 크고 견고한 뼈매우 단단해 무기에 붙이면 공격력이 상당히 상승한다달여서 곤충과 함께 끓이면 약이 된다
+materials,Materials,Item_Enemy_211,올드래곤의 뿔,붉은 정령 올드래곤의 예리한 뿔화염의 힘이 결정화되어 뿔이 되었다고 한다칼날 형태로 무기에 붙이면 공격력이 매우 상승한다
+materials,Materials,Item_Enemy_212,넬드래곤의 뿔,푸른 정령 넬드래곤의 예리한 뿔얼음의 힘이 결정화되어 뿔이 되었다고 한다칼날 형태로 무기에 붙이면 공격력이 매우 상승한다
+materials,Materials,Item_Enemy_213,필로드래곤의 뿔,황금의 정령 필로드래곤의 예리한 뿔번개의 힘이 결정화되어 뿔이 되었다고 한다칼날 형태로 무기에 붙이면 공격력이 매우 상승한다
+materials,Materials,Item_Enemy_214,백룡의 뿔,백룡에게서 떨어져 나온 뿔아름답게 빛나고 있어 바라보면 마음이 안정된다무기에 붙이면 사용자를 치유하는 성질이 있다
+materials,Materials,Item_Enemy_215,라이넬의 분쇄뿔,라이넬의 한쪽 뿔. 발톱처럼 자란 돌기는상당히 단단해서 무기에 붙이면 공격력이 상승하고곤충과 함께 끓이면 약재가 된다
+materials,Materials,Item_Enemy_216,푸른 갈기의 라이넬의 분쇄뿔,푸른 갈기의 라이넬의 한쪽 뿔. 갈라져 있는 끝부분이바위처럼 단단해서 무기에 붙이면 공격력이그럭저럭 상승한다. 또한 약재로 쓸 수 있다
+materials,Materials,Item_Enemy_217,하얀 갈기의 라이넬의 분쇄뿔,하얀 갈기의 라이넬의 한쪽 뿔. 손톱처럼 생긴 끝부분은매우 단단해서 무기에 붙이면 공격력이 상당히 상승한다곤충과 함께 끓이면 약이 된다
+materials,Materials,Item_Enemy_218,실버 라이넬의 분쇄뿔,실버 라이넬의 한쪽 뿔. 다이아몬드 수준의경도를 자랑하며 무기에 붙이면 공격력이매우 상승한다. 또한 약재로도 매우 귀하다고 한다
+materials,Materials,Item_Enemy_228,올드래곤의 용암석,올드래곤의 등에서 얻을 수 있는 매우 단단한 암석무기에 붙이면 많은 것들을 부술 수 있게 되며동시에 화염을 발생시키는 성질도 가졌다
+materials,Materials,Item_Enemy_229,넬드래곤의 용암석,넬드래곤의 등에서 얻을 수 있는 매우 단단한 암석무기에 붙이면 많은 것들을 부술 수 있게 되며동시에 얼음을 발생시키는 성질도 가졌다
+materials,Materials,Item_Enemy_230,필로드래곤의 용암석,필로드래곤의 등에서 얻을 수 있는 매우 단단한 암석무기에 붙이면 많은 것들을 부술 수 있게 되며동시에 전기를 발생시키는 성질도 가졌다
+materials,Materials,Item_Enemy_231,백룡의 용암석,백룡의 등에서 얻을 수 있는 매우 단단한 암석무기에 붙이면 많은 것들을 부술 수 있게 되며동시에 사용자를 치유하는 신비한 성질도 가졌다
+materials,Materials,Item_Enemy_24,몰드래고의 등지느러미,날개처럼 생긴 막이 있는 튼튼한 등지느러미바람의 흐름을 조절할 수 있어 무기나 화살에 붙이면멀리 날릴 수 있다. 또한 약재로 쓸 수 있다
+materials,Materials,Item_Enemy_25,몰드래고의 간,몰드래고에게서 얻을 수 있는 거대한 간좀처럼 얻을 수 없는 귀중한 소재로약재로도 쓰이지만 다른 쓰임새도 있다고 한다
+materials,Materials,Item_Enemy_32,히녹스의 발톱,갑옷처럼 두꺼운 발톱화살촉으로 사용하면 평소보다 공격력이 상승한다또한 곤충과 함께 끓이면 약재가 된다
+materials,Materials,Item_Enemy_33,히녹스의 이빨,히녹스에게서 얻을 수 있는 소재. 이빨이라고믿기지 않을 만큼 크고 단단해 화살촉으로 사용하면평소보다 공격력이 상승하고 끓이면 약재가 된다
+materials,Materials,Item_Enemy_34,히녹스의 간,히녹스에게서 얻을 수 있는 거대한 간잘 보면 이따금 천천히 움직인다약재로도 쓸 수 있지만 다른 쓰임새도 있다고 한다
+materials,Materials,Item_Enemy_38,올드래곤의 비늘,내부에 방대한 열이 축적되어 있는 귀한 비늘무기에 붙이면 공격력이 상당히 상승한다요리에 쓸 수도 있지만 먹기에는 아깝다
+materials,Materials,Item_Enemy_39,올드래곤의 발톱,화염을 휘감고 있었다고 하는 귀한 발톱무기에 붙이면 공격력이 상당히 상승한다또한 요리에 쓸 수 있으며 상점에 팔 수도 있다
+materials,Materials,Item_Enemy_40,츄츄젤리,츄츄와 꼭 닮은 탱글탱글한 덩어리매우 불안정한 상태로자극을 주면 변화한다
+materials,Materials,Item_Enemy_41,화염 리잘포스의 꼬리,작열하는 환경에서 내부에 열을 계속 축적한 꼬리무기에 붙이면 늘었다 줄었다 해서 길이를 살린공격이 가능해진다. 또한 끓이면 약재가 된다
+materials,Materials,Item_Enemy_42,얼음 리잘포스의 꼬리,극한의 땅에서 계속 냉기에 노출된 꼬리신축성이 높아 무기에 붙이면 길이를 살린공격이 가능해진다. 또한 끓이면 약재가 된다
+materials,Materials,Item_Enemy_43,마비 리잘포스의 꼬리,오랫동안 전기에 노출돼 대전된 꼬리. 길게 늘어나무기에 붙이면 조금 떨어진 곳을 공격할 수 있다또한 곤충과 함께 끓이면 약재가 된다
+materials,Materials,Item_Enemy_44,파이어 키이스의 날개,희귀한 파이어 키이스의 날개평소에는 불타지 않지만자극을 받으면 강한 열을 발산한다
+materials,Materials,Item_Enemy_45,일렉트로 키이스의 날개,희귀한 일렉트로 키이스의 날개. 발전 기관은 없지만자극을 받으면 축적된 전기를 방출해주위에 있는 것을 마비시킨다
+materials,Materials,Item_Enemy_46,아이스 키이스의 날개,희귀한 아이스 키이스의 날개표면이 얼어붙은 것처럼 반짝반짝 빛난다자극을 받으면 주위에 냉기를 흩뿌린다
+materials,Materials,Item_Enemy_47,올드래곤의 이빨 조각,올드래곤에게서 떨어져 나온 무척 단단한 이빨 조각무기에 붙이면 공격력이 상당히 상승한다또한 요리 재료로 쓸 수 있다
+materials,Materials,Item_Enemy_49,넬드래곤의 비늘,내부에 초저온 냉기가 축적되어 있는 귀한 비늘무기에 붙이면 공격력이 상당히 상승한다요리에 쓸 수도 있지만 먹기에는 아깝다
+materials,Materials,Item_Enemy_50,넬드래곤의 발톱,원래 냉기를 두르고 있었다는 귀한 발톱무기에 붙이면 공격력이 상당히 상승한다또한 요리에 쓸 수 있으며 상점에 팔 수도 있다
+materials,Materials,Item_Enemy_51,넬드래곤의 이빨 조각,넬드래곤에게서 떨어져 나온 이빨의 일부금속보다 훨씬 단단해서 무기에 붙이면 공격력이상당히 상승한다. 또한 요리 재료로 쓸 수 있다
+materials,Materials,Item_Enemy_53,필로드래곤의 비늘,항상 강력한 전기를 축적하고 있는 귀한 비늘무기에 붙이면 공격력이 상당히 상승한다요리에 쓸 수도 있지만 먹기에는 아깝다
+materials,Materials,Item_Enemy_54,필로드래곤의 발톱,주변에 번개를 발생시킨다고 하는 귀한 발톱무기에 붙이면 공격력이 상당히 상승한다또한 요리에 쓸 수 있으며 상점에 팔 수도 있다
+materials,Materials,Item_Enemy_55,필로드래곤의 이빨 조각,필로드래곤에게서 떨어져 나온 이빨의 일부매우 단단해서 무기에 붙이면 공격력이 상당히상승한다. 또한 요리 재료로 쓸 수 있다
+materials,Materials,Item_Enemy_57,옥타 풍선,옥타족의 부레. 강한 부력을 갖고 있어물건에 이 풍선을 매달면 공중에 뜬다화살에 달아서 쏘면 원하는 곳에 붙이기 쉽다
+materials,Materials,Item_Enemy_58,화염 리잘포스의 뿔,"화염의 힘을 축적해 빨갛게 달아오른 뿔곤충과 함께 끓이면 약재가 되고, 사용하기에 따라축적된 화염의 힘을 끌어낼 수도 있다"
+materials,Materials,Item_Enemy_59,얼음 리잘포스의 뿔,끝부분에 얼어붙은 냉기의 힘을 축적한 뿔곤충과 함께 끓이면 약재가 되고사용하기에 따라 그 냉기를 이용할 수도 있다
+materials,Materials,Item_Enemy_60,마비 리잘포스의 뿔,내리치는 번개에 버금가는 전기를 축적한 뿔곤충과 함께 끓이면 약재로 쓸 수 있으며자극을 주면 방전되는 성질도 이용 가치가 있다
+materials,Materials,Item_Enemy_64,보스보코블린의 뿔,리더의 징표인 띠가 감긴 검 형태의 뿔무기에 붙이면 공격력이 상승하며곤충과 함께 끓이면 약재로 쓸 수 있다
+materials,Materials,Item_Enemy_66,카쿠다의 눈알,움직이는 것을 항상 시야에 포착하는 눈알곤충과 함께 끓이면 약재로 쓸 수 있으며화살에 붙이면 명중률 상승 효과를 얻을 수 있다
+materials,Materials,Item_Enemy_67,대장 골렘의 뿔,대장 골렘 머리에 있는 굽이치는 양날 형태의 뿔예리하여 칼날 대신 쓰기에 부족함이 없다무기에 붙이면 공격력이 상승한다
+materials,Materials,Item_Enemy_69,기브도의 뼈,날카로운 돌기가 많은 섬뜩한 뼈무기에 붙이면 공격력이 상당히 상승하지만형태가 불안정하여 금방 부서져 버린다
+materials,Materials,Item_Enemy_77,보코블린의 뿔,예리한 돌기가 많이 나 있는 뿔무기에 붙이면 공격력이 상승한다또한 곤충과 함께 끓이면 약재로 쓸 수 있다
+materials,Materials,Item_Enemy_78,블루 보코블린의 뿔,겉이 예리한 두 갈래 뿔. 무기에 붙이면 양 끝이동시에 찌르는 형태가 되어 공격력이 그럭저럭상승한다. 또한 약재로 쓸 수 있다
+materials,Materials,Item_Enemy_79,블랙 보코블린의 뿔,끝이 세 갈래로 쪼개진 뿔. 무기에 붙여서 휘두르면다수의 칼날에 베이는 형태가 되어 공격력이 상당히상승한다. 달여서 곤충과 함께 끓이면 약재가 된다
+materials,Materials,Item_Enemy_80,실버 보코블린의 뿔,끝부분에 독특한 장식이 붙은 거대한 칼날 형태의 뿔날카로워서 무기에 붙이면 공격력이 매우 상승한다곤충과 함께 끓이면 약재가 된다
+materials,Materials,Item_Enemy_89,모리블린의 뿔,두개골이 변형되면서 생긴 단단한 뿔무기에 붙이면 공격력이 상승한다또한 곤충과 함께 끓이면 약재가 된다
+materials,Materials,Item_Enemy_90,블루 모리블린의 뿔,좌우로 크게 갈라지며 굽은 뿔. 끝부분이매우 단단해 무기에 붙이면 공격력이 그럭저럭상승한다. 달여서 곤충과 함께 끓이면 약재가 된다
+materials,Materials,Item_Enemy_91,블랙 모리블린의 뿔,바위처럼 단단한 돌기가 많이 난 뿔묵직해서 무기에 붙이면 공격력이 상당히 상승한다곤충과 함께 끓이면 약재로 쓸 수 있다
+materials,Materials,Item_Enemy_92,실버 모리블린의 뿔,나선 형태로 꼬인 불길한 뿔. 바위 이상의 단단함을자랑해서 무기에 붙이면 공격력이 매우 상승한다곤충과 함께 끓이면 약재로 쓸 수 있다
+materials,Materials,Item_FishGet_A,하이랄배스,먼 옛날부터 생김새가 한결같은 일반적인 물고기그대로 먹을 수도 있지만 요리하면회복 효과가 증대된다
+materials,Materials,Item_FishGet_AA,고대아로와나,아직도 태고의 모습이 남은 활력 넘치는 물고기탱탱한 살에는 영양이 가득해서먹으면 하트를 회복할 수 있다
+materials,Materials,Item_FishGet_AC,조명동굴어,어두운 동굴 속에서 서식하는 빛을 내는 물고기그 빛나는 효소가 들어간 요리는먹은 사람의 몸을 빛나게 만드는 효과가 있다
+materials,Materials,Item_FishGet_B,맥스배스,물가에 서식하는 대형 물고기큰 몸집에 많은 영양소를 담고 있어 요리에 사용하면하트를 모두 회복하고 최대치를 늘리는 효과가 있다
+materials,Materials,Item_FishGet_C,썰렁송어,차가운 물을 좋아하는 푸른 송어껍질에는 몸을 식히는 성분이 함유되어 있어요리해서 먹으면 더위에 내성이 생긴다
+materials,Materials,Item_FishGet_D,찌릿찌릿송어,호수 등 담수에 서식하는 송어절연 성분을 함유한 비늘을 재료로 쓰면전기 내성을 얻을 수 있는 요리를 만들 수 있다
+materials,Materials,Item_FishGet_E,칼날잉어,담수에 서식하는 잉엇과 물고기내장에 함유된 성분에 근력 증강 효과가 있어요리해서 먹으면 공격력이 상승한다
+materials,Materials,Item_FishGet_F,칼날도미,바다에 있는 성질이 사나운 물고기요리해서 먹으면 살점에 포함된 성분 덕에투쟁심이 향상되어 공격력이 증가한다
+materials,Materials,Item_FishGet_G,갑옷도미,전신이 단단한 비늘로 싸인 도미요리에 사용하면 비늘에 축적된 성분 덕에뼈가 튼튼해져 방어력이 증가한다
+materials,Materials,Item_FishGet_H,갑옷잉어,단단한 갑옷 같은 비늘을 가진 고대어요리에 사용하면 비늘에 담긴 성분 덕에뼈가 튼튼해져 방어력이 증가한다
+materials,Materials,Item_FishGet_I,맥스연어,한랭지의 강이나 호수에 서식하는 물고기. 요리해서먹으면 추위를 견디기 위해 체내에 쌓아 둔 지방 덕에하트를 모두 회복하고 최대치를 늘리는 효과가 있다
+materials,Materials,Item_FishGet_J,따끈따끈송어,따뜻한 물을 좋아하는 붉은 송어. 체내에 열을축적하는 특수한 장기가 있어 재료로 쓰면 몸속을데워 주는 효능을 가진 요리를 만들 수 있다
+materials,Materials,Item_FishGet_L,원기배스,오래 산 하이랄배스라고 한다생명력이 매우 강하며 요리해서 먹으면스태미나 게이지가 단숨에 회복된다
+materials,Materials,Item_FishGet_M,은밀우렁이,담수에 서식하는 큰 우렁이. 요리에 사용하면청각이 예민해져 소리를 내지 않고 행동할 수있게 된다. 밤이 되면 반딧불처럼 빛난다
+materials,Materials,Item_FishGet_X,은밀송어,어두운 곳에서 빛나는 물고기. 비늘의 발광 물질에집중력 향상 성분이 함유되어 있어 요리에 사용하면소리를 내지 않고 행동할 수 있게 된다
+materials,Materials,Item_FishGet_Z,달록잉어,야생 갑옷잉어를 인간이 개량한 관상어자연계에 존재하지 않는 아름다운 색과 모양요리에 사용해도 딱히 효과는 없다
+materials,Materials,Item_Fruit_A,사과,태곳적부터 사람들이 먹어 온 과일그대로 먹어도 되고요리 소재로 사용하면 효과가 상승한다
+materials,Materials,Item_Fruit_B,딸기,눈 내리는 추운 지방에서 나는 과일새콤달콤한 맛이 특징으로 특출한 효과는 없지만요리에 자주 사용된다
+materials,Materials,Item_Fruit_C,찌릿찌릿프루트,겔드사막의 선인장에 열리는 과일달콤한 열매에는 절연 성분이 풍부하게 함유되어요리에 사용하면 전기 공격에 강해진다
+materials,Materials,Item_Fruit_E,고고연꽃 열매,물가에 피어 있는 연꽃 열매수중 깊이 내린 뿌리로 모은 영양분 덕에요리에 사용하면 이동 속도를 올리는 효과를 준다
+materials,Materials,Item_Fruit_F,썰렁멜론,사막에서도 자라는 특수한 과일과즙이 많은 과육에 체온을 내려 주는 효과가 있어요리에 사용하면 더위를 견디는 효과를 발휘한다
+materials,Materials,Item_Fruit_G,야자열매,바닷가의 야자수에 열리는 과일특출난 효과는 없지만 요리에 사용하면하트를 회복시키는 효과가 있다
+materials,Materials,Item_Fruit_H,칼날바나나,주로 필로네 지방 열대 우림에 열리는 과일껍질로 싸인 과육에는 근력 증강 효과가 있어공격력이 증가되는 요리를 만들 수 있다
+materials,Materials,Item_Fruit_I,따끈따끈초 열매,생으로 먹으면 짜릿하게 매운 열매요리에 사용하면 몸이 따끈해져서추운 곳에서도 견딜 수 있게 된다
+materials,Materials,Item_Fruit_J,갑옷호박,식용으로 재배되는 아주 단단한 호박요리에 사용하면 튼튼 성분 덕분에방어력이 상당히 상승하는 효과가 있다
+materials,Materials,Item_Fruit_K,도토리,숲에 떨어져 있는 나무 열매다람쥐가 좋아해서 몰래 쌓아 두고 있다요리에 사용하면 하트 회복량이 약간 증가한다
+materials,Materials,Item_Fruit_L,작은 새 나무 열매,작은 새가 즐겨 먹는 작은 나무 열매그대로 먹어 봤자 거의 효과가 없지만요리에 넣으면 양념으로 쓸 수 있다
+materials,Materials,Item_Fruit_M,하이랄토마토,한랭지에서 온난한 기후까지 폭넓게 분포하는 과일영양가가 높아서 최근 세간의 주목을 받고 있다요리에 사용하면 하트 회복량이 증가한다
+materials,Materials,Item_Fruit_N,해품이호박,하테노 마을에서 재배되는 신종 호박햇빛을 듬뿍 받고 자라서 요리하면독기로 쇠약해진 몸을 치료하는 효과를 얻을 수 있다
+materials,Materials,Item_Fruit_P,황금 사과,일반 사과에 섞여 가끔 발견되는 신비로운빛을 발하는 과일. 먹으면 경험해 보지 못한단맛이 입 안 가득히 퍼진다
+materials,Materials,Item_InsectGet_K,칼날게,물가에 서식하는 날카로운 집게발이 특징인 게집게발 속의 살에는 근력 강화 성분이 있어요리해서 먹으면 공격력이 증가된다
+materials,Materials,Item_InsectGet_O,갑옷게,게 중에서도 특히 단단한 껍데기를 가졌다내장과 살에 몸을 튼튼히 하는 영양소가 있어요리해서 먹으면 방어력이 증가된다
+materials,Materials,Item_InsectGet_Z,원기게,비가 오면 대량으로 출현하는 것으로 유명하다통통한 살이 피로도 잊게 할 정도로 맛있다요리에 사용하면 스태미나 게이지가 회복된다
+materials,Materials,Item_KingScale,왕의 비늘,역대 조라 왕의 이마에 생기는 특별한 비늘보는 각도에 따라 다른 빛을 발한다과거에는 조라의 제사 때 사용되었다
+materials,Materials,Item_Material_01,사탕수수,졸여서 나온 달콤한 엑기스는케이크 등을 만들 때 빼놓을 수 없다마을에 있는 소재점에서 판다
+materials,Materials,Item_Material_02,고론의 향신료,다양한 향신료를 섞은 고론 비장의 스파이스얼얼한 매운맛이 소재 본연의 맛을 끌어낸다조합법은 대대로 전승된다고 한다
+materials,Materials,Item_Material_03,하이랄 쌀,카카리코 마을 등에서 애용되는 곡물주로 물이 풍부한 지방에서 재배된다리조또나 주먹밥 같은 쌀 요리의 재료가 된다
+materials,Materials,Item_Material_04,새의 알,신선한 새의 알굵은 나무 위에 있는 새집에서 얻을 수 있다영양소가 풍부하여 요리 재료로 안성맞춤
+materials,Materials,Item_Material_05,신선 우유,마을 등에서 사육하는 하테노소와 흰염소에게서짤 수 있는 신선한 우유. 그대로 마셔도 좋지만수프나 스튜의 재료로 쓸 수도 있다
+materials,Materials,Item_Material_06,염소 버터,마을에서 사육하는 흰염소의 우유로 만든 버터스튜나 뫼니에르 같은 요리 외에도케이크 등 제과 제빵에도 자주 쓰인다
+materials,Materials,Item_Material_07,타반타 밀,타반타 지방 평원에서 널리 재배되는 곡물맷돌로 곱게 갈아 요리에 사용하며스튜나 빵의 재료가 된다
+materials,Materials,Item_Material_08,몬스터엑기스,킬튼의 몬스터 연구 성과 중 하나요리에 섞어 쓰는 수상한 스파이스다양한 몬스터 요리를 만들 수 있다고 하는데…
+materials,Materials,Item_Material_09,기름병,식물의 씨앗에서 추출한 큰 특징이 없는 기름다양한 용도로 사용돼 요리에 쓰면 풍미가 더해지고화톳불의 연료로 사용할 수도 있다
+materials,Materials,Item_Material_10,하테노 치즈,하테노소의 우유로 만든 치즈따뜻한 요리에 넣으면 살살 녹아서진한 맛을 즐길 수 있다
+materials,Materials,Item_Material_11,어둠 덩어리,칠흑 같은 어둠을 품고 있는 처음 보는 물질어째선지 만지면 오싹한 기분이 든다요리하면 독기의 영향을 억제하는 효과가 있다
+materials,Materials,Item_Meat_01,짐승 고기,평원이나 숲에 있는 동물에게 얻은 고기그대로 먹을 수도 있지만 요리하면맛도 좋아지고 하트 회복량도 증가한다
+materials,Materials,Item_Meat_02,상급 짐승 고기,신선하고 질 좋은 짐승 고기좀처럼 손에 넣을 수 없지만요리에 사용하면 하트 회복 효과가 좋다
+materials,Materials,Item_Meat_06,새 고기,새를 사냥해 얻은 신선한 고기짐승 고기와 비교하면 지방질이 적어 몸에 좋다구워 먹는 편이 더 맛이 좋다
+materials,Materials,Item_Meat_07,상급 새 고기,새에게서 드물게 얻을 수 있는 질 좋은 고기그대로 먹을 수도 있지만 요리에 사용하면더 큰 하트 회복 효과를 발휘한다
+materials,Materials,Item_Meat_11,특급 짐승 고기,주로 큰 동물에게서 얻을 수 있는 매우 귀한 고기특급이라는 이름에 걸맞은 맛과 포만감을 준다요리에 사용하면 최상의 음식을 기대할 수 있다
+materials,Materials,Item_Meat_12,특급 새 고기,"일부 새에게서 얻을 수 있는 매우 귀한 고기맛, 영양소, 양 모든 면에서 만점이다구워도 좋고 요리에 사용해도 좋은 소재"
+materials,Materials,Item_MushroomGet_D,고고버섯,천장이나 절벽에 뜬금없이 자라나는 버섯어디에서든 자라나는 엄청난 생명력을 자랑한다요리에 사용하면 이동력이 향상되는 효과가 있다
+materials,Materials,Item_MushroomGet_K,조명버섯,동굴에서 자라는 빛나는 효소를 함유한 버섯요리에 사용하면 그 발광 성분 때문에 먹은 사람의신체가 희미하게 빛나는 효과가 있다
+materials,Materials,Item_Mushroom_A,원기버섯,대지의 에너지를 듬뿍 함유하고 있는영양 만점 버섯요리에 사용하면 스태미나 회복 효과를 얻을 수 있다
+materials,Materials,Item_Mushroom_B,썰렁버섯,설산의 침엽수 뿌리 부근에 많이 자란다만지면 차가운 느낌이 들고 요리에 사용하면사막의 더위도 견딜 수 있게 된다고 한다
+materials,Materials,Item_Mushroom_C,따끈따끈버섯,주로 기온이 높은 지역에 자라는 새빨간 버섯보이는 대로 불의 힘을 지니고 있어 요리에 사용하면추운 설산에서도 견딜 수 있는 효과를 발휘한다
+materials,Materials,Item_Mushroom_E,하이랄버섯,하이랄의 숲을 대표하는 버섯나무 옆에 나 있는 경우가 많으며먹으면 하트 회복 효과가 있다
+materials,Materials,Item_Mushroom_F,맥스트러플,상당히 귀중한 버섯의 일종땅속에서 자라나며 향이 강하다. 요리에 사용하면하트를 모두 회복하고 최대치를 늘리는 효과가 있다
+materials,Materials,Item_Mushroom_H,찌릿찌릿버섯,겔드 지방에서 자주 보이는 버섯갓 부분에 절연 성분이 풍부하게 함유되어 있다요리에 사용하면 전격에 대한 내성을 얻을 수 있다
+materials,Materials,Item_Mushroom_J,은밀버섯,밤이 되면 조용히 빛나는 신비한 버섯요리에 사용하면 갓에 함유된 성분 덕에 집중력이높아져 소리를 내지 않고 행동할 수 있게 된다
+materials,Materials,Item_Mushroom_L,칼날버섯,검으로 벤 듯한 자국이 특징인 버섯요리에 사용하면 갓의 주름에 포함된 성분 덕에투쟁심이 향상되어 공격력이 상승한다고 한다
+materials,Materials,Item_Mushroom_M,갑옷버섯,갓이 매우 딱딱하게 발달한 버섯갓에 함유된 성분 덕에 요리를 해서 먹으면몸을 강화시키는 효능이 있어 방어력이 상승한다
+materials,Materials,Item_Mushroom_N,큰맥스트러플,아무에게도 발견되지 않고 크게 자란 맥스트러플풍부한 영양이 축적되어 요리에 사용하면하트를 모두 회복하고 최대치를 크게 늘린다
+materials,Materials,Item_Mushroom_O,활력버섯,좀처럼 볼 수 없는 노란 버섯요리로 만들면 스태미나 게이지 최대치가 늘어나는매우 귀중한 효과를 발휘한다
+materials,Materials,Item_Mushroom_P,하늘버섯,하늘섬 나무의 뿌리에서 자라는 인기 만점 버섯먹으면 하트 회복 효과가 있다
+materials,Materials,Item_Ore_A,다이아몬드,광맥에서 캘 수 있는 광석 중 가장 귀하다아름다운 빛이 고대부터 사람들의 마음을 사로잡아매우 높은 가격에 거래되었다
+materials,Materials,Item_Ore_B,루비,광맥에서 캘 수 있는 귀한 광석홍옥이라고도 불리며 화염의 힘이 깃들어 있다고대부터 높은 가격에 거래되었다
+materials,Materials,Item_Ore_C,사파이어,광맥에서 캘 수 있는 귀한 광석청옥이라고도 불리며 얼음의 힘이 깃들어 있다고대부터 높은 가격에 거래되었다
+materials,Materials,Item_Ore_D,토파즈,광맥에서 캘 수 있는 귀한 광석황옥이라고도 불리며 전기의 힘이 깃들어 있다고대부터 높은 가격에 거래되었다
+materials,Materials,Item_Ore_E,오팔,광맥에서 캘 수 있는 광석 중 하나조개껍데기처럼 복잡하고 아름다운 빛을 내는 돌로물의 힘이 깃들어 있다고 한다
+materials,Materials,Item_Ore_F,호박,광맥 등에서 캘 수 있는 나뭇진의 화석아름다운 적갈색으로 빛나며예로부터 장식품과 공예품에 쓰였다
+materials,Materials,Item_Ore_G,야광석,밤이 되면 푸르스름한 빛을 내는 신비한 광석죽은 자의 영혼의 등불이라고도 한다이 돌을 원료로 특수한 옷을 만들기도 한다
+materials,Materials,Item_Ore_H,암염,태고의 바다 소금이 결정화되었다맛있는 요리에 빼놓을 수 없는 조미료그대로는 먹을 수 없다
+materials,Materials,Item_Ore_I,부싯돌,금속 등의 단단한 무기로 치면 불꽃이 튀는 불씨장작을 가까이에 놓으면 화톳불을 피울 수 있다한 번 사용하면 없어지지만 모험에 매우 유용하다
+materials,Materials,Item_Ore_J,별의 조각,하늘 저편에서 떨어진 신비한 돌조각보석에 가까운 재질 덕분에 높은 가치를 지녔다주위를 밝히는 힘을 가지고 있다는 이야기도 있다
+materials,Materials,Item_Ore_L,조나니움,다양한 용도로 응용할 수 있는 광석. 태곳적 사람들은그 에너지를 추출해 동력으로 쓰거나 제련한 물질을무기와 방어구의 재료로 사용했다고 한다
+materials,Materials,Item_Ore_M,커다란 조나니움,"유난히 순도가 높고 귀중한 조나니움막대한 에너지를 추출할 수 있어, 평범한 조나니움과비교할 수 없을 정도의 출력을 얻을 수 있다"
+materials,Materials,Item_PlantGet_A,하이랄초,아득한 옛날부터 지금 모습 그대로였다는 허브생명력으로 가득 차 있어 요리에 사용하면하트를 회복하는 효과가 있다
+materials,Materials,Item_PlantGet_B,맥스순무,볕이 좋은 초원에 자생하는 귀한 순무요리에 사용하면 하트를 모두 회복하고최대치를 늘리는 효과가 있다
+materials,Materials,Item_PlantGet_C,큰맥스순무,한계를 넘어 크게 성장한 맥스순무자양 강장 성분이 풍부해 요리에 사용하면하트를 모두 회복하고 최대치를 크게 늘린다
+materials,Materials,Item_PlantGet_E,썰렁허브,헤브라와 겔드의 표고가 높은 산지에서 볼 수 있다약초의 일종으로 잎에 몸을 식히는 성분이 있어요리에 사용하면 내서 효과를 얻을 수 있다
+materials,Materials,Item_PlantGet_F,따끈따끈허브,겔드 지방 등 고온 지방에서 자라는 약초의 일종열매나 잎은 매운 성분이 강해 요리에 사용하면추위에 강해지는 효과를 얻을 수 있다
+materials,Materials,Item_PlantGet_G,칼날초,잎과 열매에 있는 날카로운 가시가 특징인 약초일시적으로 근력을 향상시키는 특수 성분이 있어요리에 사용하면 공격력이 증가한다
+materials,Materials,Item_PlantGet_H,갑옷초,밟아도 꺾이지 않는 굳센 약초억세고 탄력 있는 섬유질은 요리에 사용하면몸을 강화시키는 역할을 해 방어력이 증가한다
+materials,Materials,Item_PlantGet_I,은밀초,주로 숲과 풀밭에 피는 꽃밤이 되면 은은한 빛을 뿜는다요리에 사용하면 소음을 줄이는 효과가 있다
+materials,Materials,Item_PlantGet_J,고요한 공주,하이랄 왕국의 공주가 사랑했다는 청초한 꽃이전부터 멸종의 위기에 처한 종이었지만최근에 드물게 자생하고 있는 것을 볼 수 있다
+materials,Materials,Item_PlantGet_L,찌릿찌릿허브,겔드사막에 많이 자생하는 약초의 일종전류를 밖으로 내보내는 특수한 섬유질이 있어요리에 사용하면 전기에 대한 내성을 얻을 수 있다
+materials,Materials,Item_PlantGet_M,고고당근,마을 등지에서 많이 재배되는 당근다리와 허리를 튼튼하게 해 주는 효과가 있어요리해서 먹으면 이동 속도가 빨라진다
+materials,Materials,Item_PlantGet_O,고고제비꽃,깎아지른 절벽에도 피는 생명력이 강한 꽃요리에 사용하면 축적된 자양 강장 성분 덕에이동 속도가 빨라지는 효과가 있다
+materials,Materials,Item_PlantGet_Q,활력당근,약초로도 귀하게 여겨졌던 희귀 당근활력의 원천이 되는 성분을 대량 함유하고 있어요리하면 스태미나 게이지가 한계치 이상 회복된다
+materials,Materials,Item_PlantGet_R,해품이꽃,양지바른 높은 하늘에서 자란 들풀햇빛을 듬뿍 받으며 자란 꽃잎으로 요리하면독기에 당한 몸을 치유하는 효과가 있다
+materials,Materials,Item_PlantGet_S,원기초,냉랭한 기후를 좋아하는 뿌리가 두툼한 들풀체력과 지구력을 강화하는 성분이 함유돼 있어요리에 사용하면 스태미나 회복 효과가 나타난다
+materials,Materials,Item_PlantGet_U,코로그 잎새,비밀이 숨겨져 있는 듯한 신비한 잎사귀약간의 약효 성분이 있다봉 등에 붙여 부채처럼 사용할 수도 있다
+materials,Materials,Item_Weapon_01,고대의 칼날,적을 소멸시킬 힘을 가진 고대의 단검 형태 칼날무기로 쓰기엔 너무 작아서주로 화살에 붙여서 쏘는 용도로 사용된다
+materials,Materials,LightBall_Large,거대한 조명꽃 씨앗,동굴에서 긴 세월에 걸쳐 성장한 조명꽃 씨앗충격을 받으면 바로 뿌리를 내려 커다란 꽃을 피운다매우 밝은 빛으로 주변 일대를 비춘다
+materials,Materials,LightBall_Small,조명꽃 씨앗,동굴이나 우물에 자라는 조명꽃이라 불리는 꽃의 씨앗충격을 받으면 그 자리에서 뿌리를 내려 꽃을 피운다희미한 빛으로 주변을 비춘다
+materials,Materials,LightFruit,광휘의 열매,강한 빛이 담긴 나무 열매터지면 주위에 눈부신 섬광을 뿜는다이 빛을 본 몬스터의 눈을 잠시 멀게 할 수 있다
+materials,Materials,Obj_FireWoodBundle,장작 묶음,어디든 가지고 다닐 수 있는 장작불씨만 있으면 불을 붙일 수 있다
+materials,Materials,SmokeFruit,연기버섯,매우 고운 분말을 지니고 있는 버섯자극을 받으면 사방으로 포자를 흩뿌린다맛이 매우 써서 도저히 먹을 만한 게 못 된다
+materials,Materials,WaterFruit,물 열매,안에 고압의 물을 머금고 있는 나무 열매손발의 움직임을 부드럽게 만드는 성분이 있어요리해서 먹으면 빠르게 헤엄칠 수 있다
+enemies,Monsters,Enemy_Chuchu_Junior,츄츄,하이랄 전역에 서식하는 젤리형 하급 몬스터지면이나 나무 뒤에서 갑자기 튀어나온다몸통 크기에 따라 체력이 다르며츄츄가 떨어뜨리는 젤리는열을 가하거나 식히거나 전류를 통하게 하면성질이 바뀐다고 한다
+enemies,Monsters,Enemy_Chuchu_Fire_Junior,파이어 츄츄,화염을 두르고 있는 젤리형 하급 몬스터몸통 크기에 따라 체력이 다르다함부로 건드리면 파열되어 폭발하므로창으로 멀리서 찌르는 편이 안전하다
+enemies,Monsters,Enemy_Chuchu_Ice_Junior,아이스 츄츄,냉기를 두르고 있는 젤리형 하급 몬스터몸통 크기에 따라 체력이 다르다함부로 건드리면 파열되어 냉기를 흩뿌리므로창으로 멀리서 찌르는 편이 안전하다
+enemies,Monsters,Enemy_Chuchu_Electric_Junior,일렉트로 츄츄,전기를 두르고 있는 젤리형 하급 몬스터몸통 크기에 따라 체력이 다르다함부로 건드리면 파열되어 전기를 방출하므로창으로 멀리서 찌르면 안전하게 처리할 수 있다
+enemies,Monsters,Enemy_Keese,키이스,어두운 밤에 나타나는 박쥐 같은 모습의 하급 마족불규칙하게 날아다니기 때문에 상대하기 어렵지만한 번의 공격으로 처리할 수 있다가끔 무리를 지어 습격하기도 하며서식하는 동굴에서 떼를 지어 나는 모습이 목격된다
+enemies,Monsters,Enemy_Keese_Fire,파이어 키이스,어두운 밤에 나타나는 박쥐 같은 모습의 하급 마족화염을 띠고 있어 닿으면 불에 탄다
+enemies,Monsters,Enemy_Keese_Ice,아이스 키이스,어두운 밤에 나타나는 박쥐 같은 모습의 하급 마족냉기를 띠고 있어 닿으면 얼어 버린다
+enemies,Monsters,Enemy_Keese_Electric,일렉트로 키이스,어두운 밤에 나타나는 박쥐 같은 모습의 하급 마족전기를 띠고 있어 닿으면 마비된다
+enemies,Monsters,Enemy_Octarock,워터 옥타,문어 같은 모습을 한 하급 마족평소에는 물속에 숨어 있지만사람의 기척을 감지하면힘차게 수면에서 뛰어오른다토해 내는 바위는 방패로 튕겨 낼 수 있다
+enemies,Monsters,Enemy_Octarock_Forest,포레스트 옥타,문어 같은 모습을 한 하급 마족숲에 숨어서 풀이나 낮은 나무로 위장하고 있다가까이 가면 땅속으로 숨어 버린다원래는 물에 사는 마족이지만어느샌가 숲에도 살게 되었다
+enemies,Monsters,Enemy_Octarock_Stone,록 옥타,문어 같은 모습을 한 하급 마족화산 지대에 서식한다크게 숨을 들이쉰 후화염으로 싸인 바위를 뱉어 낸다뱉는 힘뿐만 아니라 흡입력도 강력하다
+enemies,Monsters,Enemy_Octarock_Snow,스노 옥타,문어 같은 모습을 한 하급 마족설원 지대에 서식한다설원에 나 있는 갈대로 위장하고 있다가사람을 발견하면 눈덩이를 토해 습격한다
+enemies,Monsters,Enemy_Octarock_Desert,트레저 옥타,문어 같은 모습을 한 하급 마족모래밭이나 설원에 숨어 있으며보물 상자로 위장하고 있다함부로 가까이 가면 기습을 당한다머리에 달린 보물 상자는 진짜가 아니며옥타의 신체 일부라고 한다
+enemies,Monsters,Enemy_Wizzrobe_Fire,파이어 위즈로브,하이랄 전역에 존재하는 마법을 쓰는 몬스터불덩이를 쏘거나화염으로 휩싸인 몬스터를 소환하기도 한다또한 가끔 주위의 기후를열대 기후로 바꾸는 마법을 부리기도 한다위즈로브를 물리치면 기후가 평상시로 돌아온다
+enemies,Monsters,Enemy_Wizzrobe_Ice,아이스 위즈로브,하이랄 전역에 존재하는 마법을 쓰는 몬스터냉기를 흩뿌리거나냉기로 휩싸인 몬스터를 소환하기도 한다또한 가끔 주위의 기후를폭설로 바꾸는 마법을 부리기도 한다위즈로브를 물리치면 기후가 평상시로 돌아온다
+enemies,Monsters,Enemy_Wizzrobe_Electric,일렉트로 위즈로브,하이랄 전역에 존재하는 마법을 쓰는 몬스터전기 구슬을 쏘거나전기로 휩싸인 몬스터를 소환하기도 한다또한 가끔 주위의 기후를뇌우로 바꾸는 마법을 부리기도 한다위즈로브를 물리치면 기후가 평상시로 돌아온다
+enemies,Monsters,Enemy_Wizzrobe_Fire_Senior,메테오 위즈로브,하이랄 전역에 존재하는 마법을 쓰는 몬스터다수의 불덩이를 쏘거나화염으로 휩싸인 몬스터를 소환하기도 한다또한 가끔 주위의 기후를열대 기후로 바꾸는 마법을 부리기도 한다파이어 위즈로브보다 체력이 높아 위험한 상대다
+enemies,Monsters,Enemy_Wizzrobe_Ice_Senior,프리즈 위즈로브,하이랄 전역에 존재하는 마법을 쓰는 몬스터지팡이를 이용하여 냉기를 흩뿌리거나냉기로 휩싸인 몬스터를 소환하기도 한다또한 가끔 주위의 기후를 폭설로 바꾸는마법을 부리기도 한다아이스 위즈로브보다 체력이 높아 위험한 상대다
+enemies,Monsters,Enemy_Wizzrobe_Electric_Senior,볼트 위즈로브,하이랄 전역에 존재하는 마법을 쓰는 몬스터다수의 전기 구슬을 쏘거나전기로 휩싸인 몬스터를 소환하기도 한다또한 가끔 주위의 기후를뇌우로 바꾸는 마법을 부리기도 한다일렉트로 위즈로브보다 체력이 높아 위험한 상대다
+enemies,Monsters,Enemy_LikeLike_Plane,조아조아,최근 하이랄 전역에서 볼 수 있게 된 몬스터동굴 같은 어두운 곳에 서식한다검이나 방패 등을 좋아하는 습성이 있고다가가면 입을 크게 벌리며 공격해 온다삼켜지면 장비를 빼앗긴다입 중앙에 있는 혀는 자극에 약해서공격당하면 기세가 한풀 꺾인다
+enemies,Monsters,Enemy_LikeLike_Fire,파이어 조아,하이랄 전역에서 볼 수 있는 몬스터로주로 화산 근처에 있는 동굴에 서식하며입에서 고열의 불꽃을 뿜어낸다그 생태는 아직도 베일에 싸인 부분이 많지만뜨거운 환경에 적응해서 그런지 냉기에는 약하다섣불리 다가가면 커다란 입에 삼켜진다체내의 모습은 삼켜진 사람만이 안다…
+enemies,Monsters,Enemy_LikeLike_Ice,아이스 조아,하이랄 전역에서 볼 수 있는 몬스터로주로 설산 근처에 있는 동굴에 서식하며입으로 얼어붙는 냉기를 뿜어낸다그 생태는 아직도 베일에 싸인 부분이 많지만사는 환경에 적응해서 그런지 불꽃엔 약하다섣불리 다가가면 커다란 입에 삼켜진다체내의 모습은 삼켜진 사람만이 안다…
+enemies,Monsters,Enemy_LikeLike_Electric,일렉트로 조아,하이랄 전역에서 볼 수 있는 몬스터로동굴 같은 어두운 곳에 서식한다체내에 있는 발전 기관에서 전기를 만들어 내입에서 강력한 번개 구슬을 방출한다감전으로 적의 움직임이 멈추면커다란 입으로 포식한다고 하는데그 생태에는 아직 베일에 싸인 부분이 많다
+enemies,Monsters,Enemy_LikeLike_Crack,바위 조아,하이랄 전역에서 볼 수 있는 몬스터로동굴 같은 어두운 곳에 서식한다갑옷처럼 바위를 온몸에 두르고 있어서쉽사리 공격이 들어가지 않을 정도로 단단하다떨어져 있어도 입에서 바위를 뱉으며위협해 오지만 뭔가를 삼키고 있을 때는얌전한 모습을 보인다
+enemies,Monsters,Enemy_Treant_Broadleaf,데그보그,수목의 모습으로 위장한 몬스터로하이랄 전역의 삼림 부근에 서식하고 있다얼핏 보면 다른 나무와 구별되지 않기에자신도 모르게 그들에게둘러싸이는 경우가 종종 있다수목과 동일한 성질을 가지고 있어나무를 베는 감각으로 싸우면 효과적이다
+enemies,Monsters,Enemy_Toby_Junior,카쿠다,특이한 울음소리를 내며 날아다니는 비행형 몬스터다릿심이 엄청나 동물이나 몬스터를가볍게 잡으면서 날아가는 모습이 목격되고 있다반면 나는 것에 특화되어 있기 때문에 몸이 가벼워서공격하면 쉽게 추락할 정도로 나약하다
+enemies,Monsters,Enemy_Zombie_Junior,기브도,모래 먼지와 함께 나타난 몬스터움직임은 느리지만 매우 단단한 외피를 가지고 있어물리 공격을 받아도 쉽게 물러나지 않고끊임없이 공격해 온다반면 불과 번개 같은 공격을 받으면 하얗게 되며저항력이 약해지는 약점을 가지고 있다
+enemies,Monsters,Enemy_Zombie_Boss_Junior,모스기브도,모래 먼지와 함께 나타난 몬스터기브도가 날개를 지닌 종으로 이동 능력이 뛰어나하늘에서 적대하는 자를 공격한다매우 단단한 외피를 가지고 있어물리 공격을 받아도 쉽게 물러나지 않는다반면 불과 번개 같은 공격을 받으면 하얗게 되며저항력이 약해지는 약점을 가지고 있다
+enemies,Monsters,Enemy_Bokoblin_Junior,보코블린,하이랄 전역에 서식하는 흉포한 몬스터머리는 그다지 좋지 않지만사냥한 짐승을 구워 먹을 정도의 지성은 있어동료와 대열을 이루어 행진하기도 한다머리에는 예리한 뿔이 있어서그 뿔을 이용해 공격하기도 한다
+enemies,Monsters,Enemy_Bokoblin_Middle,블루 보코블린,하이랄 전역에 서식하는 몬스터붉은 보코블린과 비교하면체력이 강하고 머리에 있는 뿔도 더 예리해져서공격할 때 주의가 필요하다
+enemies,Monsters,Enemy_Bokoblin_Senior,블랙 보코블린,하이랄 전역에 서식하는 몬스터체력이 매우 강하고 완력도 세졌다특히 뿔로 가하는 일격은 묵직하고 날카로워보코블린족 안에서도 위험도는 최상급이다
+enemies,Monsters,Enemy_Bokoblin_Bone_Junior,스탈 보코블린,어둠 속에서 나타나는 보코블린의 유해빛에 약해 어둠 속에서만 활동한다한 번만 가격해도 와르르 무너질 정도로 약하지만뼈가 되어도 예리한 뿔은 건재하며두개골만 있으면 몇 번이고 되살아난다
+enemies,Monsters,Enemy_Bokoblin_Dark,실버 보코블린,블랙 보코블린을 월등히 능가하는 체력을 지닌최강의 보코블린흰 육체에 새겨진 보라색 줄무늬는마왕의 흉악한 마력에 의한 것으로 알려져 있다뿔은 마력의 영향을 받아 끝부분이 어렴풋이 빛난다다소 우스꽝스럽게 생긴 뿔은상대의 방심을 유발하기 위한 것으로이를 얕보고 덤벼든 자는 죽음을 맞이하게 된다
+enemies,Monsters,Enemy_Bokoblin_Boss_Junior,보스보코블린,보코블린족을 통솔하는 중량급 몬스터거구의 몸으로 부하들을 이끌고 활보하며다양한 방법으로 뿔피리를 불어부하들에게 명령을 내리며 그들을 손발처럼 부린다육중한 머리의 뿔은 거목을 양단할 정도로 날카롭다
+enemies,Monsters,Enemy_Bokoblin_Boss_Middle,블루 보스보코블린,보코블린족을 통솔하는 중량급 몬스터붉은 개체에 비해 체력이 강하며그 두꺼운 팔에서 나오는 펀치와무기 공격은 강렬하다머리의 뿔도 한층 더 예리해졌다
+enemies,Monsters,Enemy_Bokoblin_Boss_Senior,블랙 보스보코블린,보코블린족을 통솔하는 중량급 몬스터강한 완력과 체력을 지닌 강적이다부하들과의 연계 공격은숙련된 검사여도 고전을 면치 못한다뿔의 외형도 더 흉악하게 변해그 강한 위력을 가늠할 수 있다
+enemies,Monsters,Enemy_Bokoblin_Boss_Dark,실버 보스보코블린,이제는 보코블린족인지 의심스러울 만큼강력함을 자랑하는 최강의 보스보코블린강인한 육체와 뿔에는 마왕의 마력이 깃들어 있어엄청난 위력의 공격을 펼친다따르는 부하들도 정예로 이루어져 있어 빈틈이 없다
+enemies,Monsters,Enemy_Moriblin_Junior,모리블린,하이랄 전역에 서식하는 중량급 몬스터탄탄한 다리와 허리에 바위도 부술 만큼 단단한 뿔무시무시한 완력을 겸비하고 있어보코블린을 던지는 경우가 있다고 한다
+enemies,Monsters,Enemy_Moriblin_Middle,블루 모리블린,하이랄 전역에 서식하는 강한 완력을 가진 몬스터붉은 모리블린보다 체력이 높으며완력도 더욱 강력해졌다발달한 머리의 뿔로 어지간한 것은 다 분쇄할 수 있다
+enemies,Monsters,Enemy_Moriblin_Senior,블랙 모리블린,하이랄 전역에 서식하는 몬스터체력이 매우 강하고 완력도 더 강력해졌으며묵직한 뿔을 이용한 공격은 바위도 쉽게 부순다모리블린족 안에서도 위험도는 최상급이다
+enemies,Monsters,Enemy_Moriblin_Bone_Junior,스탈 모리블린,어둠 속에서 나타나는 모리블린의 유해평소 강력했던 모리블린도 뼈가 되면 약해져살짝 공격을 가하기만 해도 무너진다강한 빛을 싫어한다그러나 두개골만 있으면 몇 번이고 되살아나며묵직하고 단단한 뿔을 이용한 공격은 아직도 위협적
+enemies,Monsters,Enemy_Moriblin_Dark,실버 모리블린,블랙 모리블린을 능가하는 체력을 가진최강의 모리블린흰 육체와 그 희소성 때문에실버 모리블린이라 불린다마왕의 흉포한 마력에 영향을 받아몸에 보라색 줄무늬가 생겼으며무섭게 변화한 뿔을 이용한 일격은 위협적이다
+enemies,Monsters,Enemy_Lizalfos_Junior,리잘포스,하이랄 전역에 서식하는 민첩한 도마뱀류 몬스터물속으로 숨거나 땅에 몸을 위장했다가기습해 오는 경우도 있는 교활한 종족밤낮을 가리지 않으며 잠도 자지 않는다수중에 무기가 없어도 칼날처럼 날카로운 뿔을휘저으며 공격해 온다
+enemies,Monsters,Enemy_Lizalfos_Middle,블루 리잘포스,하이랄 전역에 서식하는 민첩한 도마뱀류 몬스터초록색 리잘포스보다 강한 체력을 지녔으며뿔도 더 길고 날카롭게 발달해서 매우 위험하다
+enemies,Monsters,Enemy_Lizalfos_Senior,블랙 리잘포스,하이랄 전역에 서식하는 민첩한 도마뱀류 몬스터날이 선 뿔은 칼날 같은 예리함을 지니고 있어설령 무기를 들지 않았더라도 방심하면 안 된다또한 체력이 매우 강해리잘포스족 안에서도 위험도는 최상급이다
+enemies,Monsters,Enemy_Lizalfos_Bone_Junior,스탈 리잘포스,어둠 속에서 나타나는 리잘포스의 유해뼈가 되어서도 민첩함은 변함이 없다칼처럼 예리한 뿔 또한 여전하다두개골을 부수지 않으면와르르 무너져도 몇 번이고 되살아난다
+enemies,Monsters,Enemy_Lizalfos_Fire,화염 리잘포스,하이랄 전역에 서식하는 민첩한 도마뱀류 몬스터입에서 고열의 화염을 뿜는 위험한 종이지만냉기에 닿으면 즉사한다용암 같은 색을 발하는 뿔은 열을 품고 있어닿은 것들을 태워 버린다주로 화산 지대에 서식하고 있다
+enemies,Monsters,Enemy_Lizalfos_Ice,얼음 리잘포스,하이랄 전역에 서식하는 민첩한 도마뱀류 몬스터푸르게 발달한 뿔에는 냉기의 힘이 깃들어 있어입에서 얼음덩어리를 토하는 귀찮은 종류지만불에 닿으면 즉사한다주로 설산에 서식한다
+enemies,Monsters,Enemy_Lizalfos_Electric,마비 리잘포스,하이랄 전역에 서식하는 민첩한 도마뱀류 몬스터몸에서 강력한 전기를 발산하는 경우가 있다뿔에 전기를 갖고 있어그곳을 활로 쏘면 광범위에 걸쳐 방전한다주로 사막 지역에 서식하고 있다
+enemies,Monsters,Enemy_Lizalfos_Dark,실버 리잘포스,블랙 리잘포스를 능가하는 체력을 가진최강의 리잘포스흰 육체와 그 희소성 때문에실버 리잘포스라 불린다마왕의 마력을 받아 무섭게 변화한 뿔은닿는 모든 것을 찢어 버린다
+enemies,Monsters,Enemy_Horablin_Junior,호러블린,천재지변 이후에 동굴에서 볼 수 있게 된 몬스터단단한 바위를 깨는 데 적합한 단단한 뿔을 지녔고발달한 팔다리로 마치 땅을 걷는 것처럼천장과 벽을 자유자재로 이동한다동굴로 들어온 동물을 천장에서 기습해숨통을 끊고 식량으로 삼는다
+enemies,Monsters,Enemy_Horablin_Middle,블루 호러블린,천재지변 이후에 동굴에서 볼 수 있게 된 몬스터머리카락이 붉은 개체에 비해 체력이 강한 데다가팔다리는 더욱 발달하여큰 바위를 가볍게 집어서 던지는 완력을 지녔다
+enemies,Monsters,Enemy_Horablin_Senior,블랙 호러블린,천재지변 이후에 동굴에서 볼 수 있게 된 몬스터다른 개체보다 오랫동안 천장과 벽을 이동했기 때문에전신이 단련되어 있으며그 강한 완력으로 쏟아 내는 공격은숙련된 모험가에게도 위협적이다
+enemies,Monsters,Enemy_Horablin_Dark,실버 호러블린,동굴을 지배하는 최강의 호러블린보라색 머리카락은 마왕의 마력에 의한 것으로본래 강력했던 뿔과 육체가 한층 강화되어다른 개체에 비교할 수 없을 만큼 위험하다
+enemies,Monsters,Enemy_Lynel_Junior,라이넬,"고대부터 하이랄 전역에 서식하는 것으로 알려진반인반수의 몬스터몬스터 중에서도 위험도가 높은 종족으로지력, 체력 모두 높으며 칼날처럼 예리한 뿔이 특징이다화염, 물, 전기도 그들에게는 위협이 되지 않는다어설픈 각오로 함부로 덤비지 않는 편이 좋다"
+enemies,Monsters,Enemy_Lynel_Middle,푸른 갈기의 라이넬,고대부터 하이랄 전역에 서식하는 것으로 알려진반인반수의 몬스터붉은 라이넬보다 더 강한 체력을 자랑하며머리의 뿔도 더욱 날카로워져 있다어설프게 덤벼도 목숨을 잃게 될 뿐이다
+enemies,Monsters,Enemy_Lynel_Senior,하얀 갈기의 라이넬,고대부터 하이랄 전역에 서식하는 것으로 알려진반인반수의 몬스터로 특히 위험하다고 알려진 종족지력과 체력 모두 매우 높으며머리의 뿔 또한 더욱 강력하게 발달했다목격 정보가 별로 없는데 이유는살아 돌아온 자가 적기 때문이다
+enemies,Monsters,Enemy_Lynel_Dark,실버 라이넬,하얀 갈기의 라이넬을 능가하는 체력을 가진최강의 라이넬흰 육체에 그려진 보라색 줄무늬는마왕의 흉포한 마력에 영향을 받은 것이다그 영향은 이윽고 뿔까지 이르러모든 것을 갈라 버릴 만큼 예리해졌다
+enemies,Monsters,Enemy_Zonau_Robot_Junior,병정 골렘,조나우족의 기술과 마력으로 만든기본 전투용 골렘주어진 명령에 충실히 복종하여적으로 간주한 존재를 배제한다머리에 달린 장식은 마치 칼날처럼 날카롭다
+enemies,Monsters,Enemy_Zonau_Robot_Middle,병정 골렘(중등),조나우족의 기술과 마력으로 만든중위급 전투용 골렘주어진 명령에 충실히 복종하고적으로 간주한 존재를 배제한다머리 장식은 어느 정도 무게가 있으며도끼처럼 휘둘러 베는 공격이 주무기다
+enemies,Monsters,Enemy_Zonau_Robot_Senior,병정 골렘(상등),조나우족의 기술과 마력으로 만든상위급 전투용 골렘주어진 명령에 충실히 복종하고적으로 간주한 존재를 배제한다머리에 달린 화려한 장식은 상대에게 위압감을 주며휘두르면 강력한 무기로도 쓸 수 있다
+enemies,Monsters,Enemy_Zonau_Robot_Dark,병정 골렘(특등),조나우족이 고도의 기술과 마력으로 만든최상급 전투용 골렘다른 개체들과 달리 전신이 황금빛이며격이 다른 공격력과 내구력을 겸비했다머리에 붙어 있는 화려한 장식은공포조차 느껴질 만큼 박력이 있다
+enemies,Monsters,Enemy_Zonau_Golem_Junior,대장 골렘,조나우족이 고도 기술과 마력으로 만든『대장』의 이름이 붙은 병정 골렘의 상위종대장급에서 가장 스탠다드한 개체로병정 골렘보다 한층 발전한 전투 기능을 지녀스크래빌드로 무기를 강화하는 능력이 있다
+enemies,Monsters,Enemy_Zonau_Golem_Middle,대장 골렘(중등),조나우족이 고도 기술과 마력으로 만든『대장』의 이름이 붙은 병정 골렘의 상위종스탠다드한 개체를 강화 및 개량했으며내구력 향상과 더불어 강력한 무기를 장비하면서전투력 상승을 꾀했다
+enemies,Monsters,Enemy_Zonau_Golem_Senior,대장 골렘(상등),조나우족이 고도의 기술과 마력으로 만든『대장』의 이름이 붙은 병정 골렘의 상위종대장 골렘 안에서도 강력한 개체로높은 내구력과 남다른 전투 패턴을 가졌으며다양한 검술을 사용한다
+enemies,Monsters,Enemy_Zonau_Golem_Dark,대장 골렘(특등),조나우족이 고도의 기술과 마력으로 만든『대장』의 이름이 붙은 병정 골렘의 상위종그중에서도 최상위 개체로 전신이 황금빛이며그 내구력과 전투 능력은 다른 대장 골렘과격이 다를 만큼 강력하다
+enemies,Monsters,Enemy_CDungeon_Practice,특무대장 골렘,조나우족이 고도의 기술과 마력으로 만든전투 훈련용 골렘하얀 몸체는 전투 훈련을 위한특수한 기능이 탑재되어 있다는 증표이기도 하다스크래빌드로 무기를 강화하는 능력을 지녔다
+enemies,Monsters,Enemy_Zonau_BlockMaster_Junior,블록 골렘,조나우족이 고도의 기술과 마력으로 만든블록 형태의 대형 골렘여러 블록을 정렬시켜서자유자재로 모습을 바꿀 수 있다거구를 움직이기 위해 동력원으로대량의 조나우 에너지가 내장되어 있다
+enemies,Monsters,Enemy_Zonau_BlockMaster_Middle,블록 골렘(중등),조나우족이 고도의 기술과 마력으로 만든블록 형태의 대형 골렘복잡한 명령을 처리할 수 있도록개량되어 있어 변형 패턴이 다양하다거구를 움직이기 위해 동력원으로대량의 조나우 에너지가 내장되어 있다
+enemies,Monsters,Enemy_Zonau_BlockMaster_Senior,블록 골렘(상등),조나우족이 고도의 기술과 마력으로 만든블록 형태의 대형 골렘약점인 핵에 대한 수비가 견고해졌으며다른 블록으로 공격을 차단하도록 변형한다거구를 움직이기 위해 동력원으로대량의 조나우 에너지가 내장되어 있다
+enemies,Monsters,Enemy_Assassin_Junior,이가단 구성원,이가단 말단 구성원젤다 공주와 링크를 찾아내 숨통을 끊기 위해하이랄 전역에 파견되어 있다여행자나 마을 주민으로 위장하여링크를 기습하는 경우도 있어수상한 인물을 발견하면 주의가 필요하다한손검과 활을 사용하며 움직임이 민첩하다
+enemies,Monsters,Enemy_Assassin_Middle,이가단 간부,이가단 구성원진공파를 발사하는 칼을 갖고 있다다부진 체격에 비해 움직임이 민첩하다지면을 내리치며 기류와 함께 돌기둥을 생성한다토둔 술법도 사용할 수 있다고 한다
+enemies,Monsters,Enemy_Assassin_Senior,코가님,하이랄 왕국을 증오하는 조직인 이가단의 단장그 존재감과 알 수 없는 인망 덕분에단원들로부터 두터운 지지를 얻고 있다새로운 힘으로 조나우 기어에 주목하고 있으며거듭되는 연구를 통해 탄생시킨다양한 탈것을 이용해 공격한다
+enemies,Monsters,Enemy_Golem_Little,돌록,바위록의 소형 버전성장하면 바위와 같이 단단한 몸통이 되는데소형 버전은 들어 올릴 수 있을 정도로 가볍고던지면 금방 부서질 정도로 약하다
+enemies,Monsters,Enemy_Golem_Little_Fire,불꽃록,마그록의 소형 버전성장하면 용암으로 된 단단한 몸통이 된다소형 버전이어도 화염을 띠고 있는데폭탄으로 날려 버릴 수 있을 정도로 가볍고 약하다
+enemies,Monsters,Enemy_Golem_Little_Ice,얼음록,꽁꽁록의 소형 버전성장하면 얼음 바위로 된 단단한 몸통이 된다소형 버전이어도 냉기를 띠고 있는데폭탄으로 날려 버릴 수 있을 정도로 가볍고 약하다
+enemies,Monsters,Enemy_Golem_Junior,바위록,바위로 위장한 거대 몬스터몸이 매우 단단해 검과 활이 듣지 않는다몸을 타고 올라가 머리 쪽에 노출되어 있는 광상을공격하면 쓰러뜨릴 수 있다고 한다바위가 많은 곳이나 숲뿐만 아니라평원 등지에도 서식하고 있다
+enemies,Monsters,Enemy_Golem_Middle,바위록(야광),바위로 위장한 거대 몬스터몸이 매우 단단해 검과 활이 듣지 않는다머리 쪽에 노출되어 있는 광상에야광석을 많이 함유하고 있어평범한 광석을 지닌 개체보다 내구력이 높다
+enemies,Monsters,Enemy_Golem_Senior,바위록(레어),바위로 위장한 거대 몬스터몸이 매우 단단해 검과 활이 듣지 않는다머리 쪽에 노출되어 있는 광상에귀한 광석을 많이 함유하고 있어희소종으로 불리고 있다
+enemies,Monsters,Enemy_Golem_Fort_A,하우스록,몬스터들이 다양하게 가공하여움직이는 요새가 된 바위록적이 접근하지 못하도록나무판자로 전신을 보강했기 때문에기어오르는 것은 쉽지 않다
+enemies,Monsters,Enemy_Golem_Fire,마그록,용암으로 위장한 거대 몬스터단단한 바위 몸에는 검과 활이 듣지 않는다용암을 두르고 있어 닿는 것조차 위험하지만냉기로 열을 식히면 몸을 타고 올라갈 수 있다
+enemies,Monsters,Enemy_Golem_Ice,꽁꽁록,얼음덩어리로 위장한 거대 몬스터몸이 매우 단단해 검과 활이 듣지 않는다꽁꽁 언 몸은 닿는 것조차 위험하지만화염으로 얼음을 녹이면 타고 올라갈 수 있다눈이 내리는 추운 지역에 서식하고 있다
+enemies,Monsters,Enemy_Giant_Junior,히녹스,주로 숲에 서식하는 거대한 외눈박이 몬스터두껍고 큰 뿔을 가지고 있으며목걸이에 달린 무기는 뺏을 수 있다화나면 나무를 뽑고 휘두르는 등 매우 난폭하며종종 길을 막듯이 드러누워 자기도 해서길을 오가는 여행자들에게 공포를 주고 있다
+enemies,Monsters,Enemy_Giant_Middle,블루 히녹스,주로 숲에 서식하는 거대한 외눈박이 몬스터목에 걸고 있는 무기는 빼앗을 수 있다거대한 뿔을 가지고 있으며화나게 하면 나무를 뽑아 휘두르는 등변함없이 흉포하며 붉은 개체보다 힘이 세다다리를 강철 보호대로 지키고 있는데불을 붙이면 태울 수 있다
+enemies,Monsters,Enemy_Giant_Senior,블랙 히녹스,주로 숲에 서식하는 거대한 외눈박이 몬스터매우 단단한 뿔을 지니고 있으며목에 걸고 있는 무기는 빼앗을 수 있다나무를 뽑아 휘두르는 등 난폭한 성격이라전투 시에는 주변 지형에도 주의할 필요가 있다다리를 강철 보호대로 지키고 있는데단단해서 부술 수는 없다
+enemies,Monsters,Enemy_Giant_Bone,스탈 히녹스,거대한 외눈박이 몬스터 히녹스의 유해어둠 속을 배회하며자기 가슴 쪽의 뼈를 뽑아 공격하는 등뼈가 되어도 그 흉포함은 여전하다눈알만 있으면 몇 번이고 되살아난다
+enemies,Monsters,Enemy_Sandworm,몰드래고,사막의 모래 속에 있는 고래를 닮은 거대 몬스터평소에는 모래 속에 숨어 있지만소리를 감지하면 밖으로 튀어나와 덤벼든다마주쳤을 때 함부로 뛰면 위험하다
+enemies,Monsters,Enemy_Drake_Fire,화염 그리오크,천재지변 후 나타난 하늘을 나는 몬스터홀로 대적하려 해도 3개의 머리에집중포화를 당하기 때문에 토벌하기 극히 어렵다몸속에 강력한 발화 기관을 갖추고 있어자신의 구역을 침범하면 타오르는 분노로침입자와 함께 일대를 불바다로 만들어 버린다
+enemies,Monsters,Enemy_Drake_Ice,빙설 그리오크,천재지변 후 나타난 하늘을 나는 몬스터홀로 대적하려 해도 3개의 머리에집중포화를 당하기 때문에 토벌하기 극히 어렵다몸속에 강력한 냉각 기관을 갖추고 있어자신의 구역을 침범하면 얼어붙는 숨결로침입자와 함께 일대를 얼려 버린다
+enemies,Monsters,Enemy_Drake_Electric,뇌전 그리오크,천재지변 후 나타난 하늘을 나는 몬스터홀로 대적하려 해도 3개의 머리에집중포화를 당하기 때문에 토벌하기 극히 어렵다몸속에 강력한 발전 기관을 갖추고 있어자신의 구역을 침범하면 무수한 번개를 떨어뜨려침입자를 잿더미로 만들어 버릴 때까지 날뛴다
+enemies,Monsters,Enemy_Drake_Mix,킹 그리오크,"천재지변 후 나타난 각각 번개, 화염, 얼음 속성을 지닌3개의 머리를 가진 몬스터복수의 속성을 지닌 머리가 연계해서 공격하기 때문에다른 개체에 비해 강력한 전투력을 자랑한다혼자서 토벌하기는 매우 어렵기 때문에목숨이 아깝다면 어중간한 상태로 덤벼서는 안 된다"
+enemies,Monsters,Enemy_Mogurudo_Baby_Junior,코가마,아직 어린 데그가마몸이 작지만 강력한 다릿심을 지녔으며사냥감을 발견하면 집단으로 덤벼든다
+enemies,Monsters,Enemy_Mogurudo_Junior,데그가마,지저에 서식하는 대형 몬스터거구에서는 상상할 수 없을 정도의강력한 다릿심을 지녀 사냥감을 발견하면크게 도약한 뒤 포식한다상당한 먹보로 주위에 있는 것을 커다란 입으로빨아들여 통째로 삼켜 버린다
+enemies,Monsters,Enemy_Mogurudo_Middle,흑요의 데그가마,지저에 서식하는 대형 몬스터녹색 개체보다 강력한 다릿심을 지녔다상당한 먹보로 주위에 있는 것을 커다란 입으로빨아들여 통째로 삼켜 버린다
+enemies,Monsters,Enemy_Mogurudo_Senior,창백의 데그가마,지저에 서식하는 대형 몬스터광석에 이끌려 부주의하게 등에 올라탄 사냥감을몸을 흔들어 날려 버린 뒤 공격한다상당한 먹보로 주위에 있는 것을 커다란 입으로빨아들여 통째로 삼켜 버린다
+enemies,Monsters,Enemy_Dragon_Fire,올드래곤,올딘 지방에 서식하는 용 모습의 불 정령예로부터 힘의 샘의 사자라 불린다몸이 화염으로 휩싸여 있어 주위를 불타게 만들지만인간에게 위해를 가하는 일은 없다고 한다오늘날 그 모습을 목격한 사람은 얼마 없다
+enemies,Monsters,Enemy_Dragon_Ice,넬드래곤,라넬 지방에 서식하는 용 모습의 얼음 정령예로부터 지혜의 샘의 사자라 불린다몸이 냉기로 휩싸여 있어 주위를 얼어붙게 하지만인간에게 위해를 가하는 일은 없다고 한다오늘날 그 모습을 목격한 사람은 얼마 없다
+enemies,Monsters,Enemy_Dragon_Electric,필로드래곤,필로네 지방에 서식하는 용 모습의 번개 정령예로부터 용기의 샘의 사자라 불린다몸이 전기로 휩싸여 있어 주위에 뇌우를 발생시키나인간에게 위해를 가하는 일은 없다고 한다오늘날 그 모습을 목격한 사람은 얼마 없다
+enemies,Monsters,Enemy_DungeonBoss_Rito,프리즈게이라,헤브라 지방 일대에 눈보라를 몰고 온 원흉하늘을 자유자재로 날아다니는 대형 몬스터그 거구를 띄우기 위해 바람을 조종하여주위에 강력한 상승 기류를 발생시킨다몸을 뒤덮은 날카로운 얼음은 자신을 지키는 방패역할도 하지만 적에게 날려 공격하는 창 역할도 한다
+enemies,Monsters,Enemy_MiddleBoss_Goron,일바지아,데스마운틴에 살고 있는산처럼 거대한 몸을 가진 몬스터그 몸은 끓어오르는 용암과독기를 머금은 단단한 바위로 이루어져 있으며분화구에서 열과 독기의 힘을 흡수하면서거대한 몸을 유지하고 있다
+enemies,Monsters,Enemy_DungeonBoss_Goron,볼드고마,올딘 지방 일대에 맛바위를 만들어 낸 원흉전신이 바위로 뒤덮인 몬스터로묵직한 다리를 휘두르는 공격은 가히 위협적이다유일하게 노릴 만한 부분은 정수리의 눈알이지만몸이 거대해서 다가가기 쉽지 않다
+enemies,Monsters,Enemy_LikeLike_Tar,진흙 조아,진흙을 좋아하는 조아조아의 변이종전신이 진흙으로 뒤덮여 있어본래 조아조아종이 꺼리는 양지에서도 활동한다체내에 많은 양의 진흙을 축적하고 있어진흙을 뱉어 먹이의 움직임을 둔화시킨 뒤 포식한다
+enemies,Monsters,Enemy_DungeonBoss_Zora,옥타코스,라넬 지방 일대에 진흙을 떨어뜨린 원흉왜소한 몸집에서는 상상할 수 없을 정도로대량의 진흙을 생성해 조라의 마을을 오염시켰다진흙을 자유자재로 조종해 여러 형태로 만들고몸을 보호하거나 공격하는 능력도 지녔다
+enemies,Monsters,Enemy_DungeonBoss_Gerudo,퀸 기브도,겔드 지방 일대에 모래 먼지를 몰고 온 원흉기브도족을 통솔하는 여왕으로사막에 둥지를 틀고 기브도를 대량으로 만들어 냈다움직임이 민첩한 데다 딱딱한 갑각으로 덮여 있어평범한 무기로 공격해도 꿈쩍도 하지 않는다
+enemies,Monsters,Enemy_DungeonBoss_Zonau,빼앗긴 골렘,미넬이 영혼의 그릇으로 삼을 예정이었던 골렘지금은 마왕의 마력에 빼앗겨불길한 모습으로 변하고 말았다원래는 공작용 골렘이었으며혹독한 환경에서도 버틸 수 있도록 제작되었기에상당한 내구력을 가지고 있다
+enemies,Monsters,Enemy_PhantomGanon,팬텀 가논,"뭔가 섬뜩한 분위기가 느껴지는속성도 습성도 알 수 없는 사람 형태의 몬스터다부진 체격을 자랑하며 무기를 다루는 실력도 뛰어나만나게 된다면 크게 주의를 기울여야 한다정체에 대해서는 모든 것이 베일에 싸여 있으나천재지변이 일어난 후, 나타난 것으로 확인되었다"
+enemies,Monsters,Enemy_Ganondorf,마왕 가논돌프,먼 옛날 하이랄 건국 시대에 나타난 사악한 존재오랫동안 하이랄 성 지하에 봉인되어 있었지만봉인이 약해지자 서서히 힘을 되찾고상상을 초월하는 위협적인 존재가 되어 되살아났다온갖 무기를 능숙하게 다루는 무인이며연마한 무술로 자신을 가로막는 적을 분쇄해 왔다
+enemies,Monsters,Enemy_Ganondorf_Miasma,마왕 가논돌프(제2형태),마왕 가논돌프가 비석의 힘을 해방해불길하게 변화한 모습과거 고대 현자들은 그의 압도적인 힘을당해 내지 못해 봉인하는 것이 고작이었다그가 발하는 독기에는 흉악한 마력이 담겨 있으며닿으면 육체에 스며들어 치명상을 입힌다
+enemies,Monsters,Enemy_Dragon_Darkness,흑룡,마왕 가논돌프가 비석을 삼키고진정한 힘을 해방한 모습이다더는 사람으로 보이지 않는다솟구치는 마력은 하늘을 뒤흔들고칠흑 같은 몸은 온갖 공격을 튕겨 낸다단 마스터 소드를 제외하고…
+enemies,Monsters,Enemy_Dragon_Light_001,백룡,하늘 높은 곳에 서식하는 용 모습의 정령눈부신 황금빛 갈기와 순백의 몸 때문에백룡이라 불린다부드러운 빛을 발하며 나는 모습이 신성해 보이면서왠지 모르게 그리운 느낌도 든다
+shrines,Shrine,Dungeon117,가노사의 사당,
+shrines,Shrine,Dungeon037,가사사의 사당,
+shrines,Shrine,Dungeon128,가아히사사의 사당,
+shrines,Shrine,Dungeon143,가타니시시의 사당,
+shrines,Shrine,Dungeon040,가타키사의 사당,
+shrines,Shrine,Dungeon018,게미미카의 사당,
+shrines,Shrine,Dungeon061,구타음바치의 사당,
+shrines,Shrine,Dungeon099,기카쿠음의 사당,
+shrines,Shrine,Dungeon063,나쵸야하의 사당,
+shrines,Shrine,Dungeon110,나타카카의 사당,
+shrines,Shrine,Dungeon070,노우다의 사당,
+shrines,Shrine,Dungeon106,니음지시의 사당,
+shrines,Shrine,Dungeon051,도미즈이노의 사당,
+shrines,Shrine,Dungeon139,라시와카의 사당,
+shrines,Shrine,Dungeon080,라시타키와카의 사당,
+shrines,Shrine,Dungeon015,라카쇼고의 사당,
+shrines,Shrine,Dungeon079,라카쿠구지토의 사당,
+shrines,Shrine,Dungeon006,레음이제의 사당,
+shrines,Shrine,Dungeon008,로츠마무의 사당,
+shrines,Shrine,Dungeon065,루나키타의 사당,
+shrines,Shrine,Dungeon111,루타후우메의 사당,
+shrines,Shrine,Dungeon026,리오고코의 사당,
+shrines,Shrine,Dungeon064,마라쿠구치의 사당,
+shrines,Shrine,Dungeon066,마야나시의 사당,
+shrines,Shrine,Dungeon114,마야리이나의 사당,
+shrines,Shrine,Dungeon009,마야마츠노의 사당,
+shrines,Shrine,Dungeon149,마야미이의 사당,
+shrines,Shrine,Dungeon148,마야시아라의 사당,
+shrines,Shrine,Dungeon125,마야오타키의 사당,
+shrines,Shrine,Dungeon043,마야우메키사의 사당,
+shrines,Shrine,Dungeon028,마야우시유의 사당,
+shrines,Shrine,Dungeon004,마야치노우의 사당,
+shrines,Shrine,Dungeon074,마야치데기나의 사당,
+shrines,Shrine,Dungeon017,마야코코의 사당,
+shrines,Shrine,Dungeon047,마야타타의 사당,
+shrines,Shrine,Dungeon095,마야히시카의 사당,
+shrines,Shrine,Dungeon097,마오이케스카의 사당,
+shrines,Shrine,Dungeon135,마카스라의 사당,
+shrines,Shrine,Dungeon126,마쿠루키사의 사당,
+shrines,Shrine,Dungeon011,모가와카의 사당,
+shrines,Shrine,Dungeon052,모기사리의 사당,
+shrines,Shrine,Dungeon144,모로음쿠의 사당,
+shrines,Shrine,Dungeon089,모모시카의 사당,
+shrines,Shrine,Dungeon098,모샤피음의 사당,
+shrines,Shrine,Dungeon096,모츠시시의 사당,
+shrines,Shrine,Dungeon005,무사노키라의 사당,
+shrines,Shrine,Dungeon147,미네타카카의 사당,
+shrines,Shrine,Dungeon087,미료타니고의 사당,
+shrines,Shrine,Dungeon116,바미토카의 사당,
+shrines,Shrine,Dungeon007,사히로와의 사당,
+shrines,Shrine,Dungeon010,세루타보마치의 사당,
+shrines,Shrine,Dungeon108,세쿠음보마라의 사당,
+shrines,Shrine,Dungeon046,세파파의 사당,
+shrines,Shrine,Dungeon059,소나파노의 사당,
+shrines,Shrine,Dungeon016,소료타니고의 사당,
+shrines,Shrine,Dungeon120,스스비에의 사당,
+shrines,Shrine,Dungeon048,스스야이의 사당,
+shrines,Shrine,Dungeon078,스아리와카의 사당,
+shrines,Shrine,Dungeon020,시나카와카의 사당,
+shrines,Shrine,Dungeon129,시나타니카카의 사당,
+shrines,Shrine,Dungeon082,시모시와카의 사당,
+shrines,Shrine,Dungeon054,시바지타키오의 사당,
+shrines,Shrine,Dungeon132,시스라나의 사당,
+shrines,Shrine,Dungeon055,시야모츠시의 사당,
+shrines,Shrine,Dungeon024,시와카마의 사당,
+shrines,Shrine,Dungeon002,시츠모이의 사당,
+shrines,Shrine,Dungeon023,시쿠쿠치의 사당,
+shrines,Shrine,Dungeon146,시하죠고우의 사당,
+shrines,Shrine,Dungeon085,시후미미의 사당,
+shrines,Shrine,Dungeon027,아네다미미카의 사당,
+shrines,Shrine,Dungeon049,아포게케의 사당,
+shrines,Shrine,Dungeon083,야음사미노의 사당,
+shrines,Shrine,Dungeon122,에쇼세의 사당,
+shrines,Shrine,Dungeon072,에우토우메의 사당,
+shrines,Shrine,Dungeon031,에코치우의 사당,
+shrines,Shrine,Dungeon092,엔오마의 사당,
+shrines,Shrine,Dungeon003,오로무와카의 사당,
+shrines,Shrine,Dungeon019,오로치우무의 사당,
+shrines,Shrine,Dungeon036,오쇼자음우의 사당,
+shrines,Shrine,Dungeon123,오야미오의 사당,
+shrines,Shrine,Dungeon112,오오기음의 사당,
+shrines,Shrine,Dungeon075,오츠츠마의 사당,
+shrines,Shrine,Dungeon086,오타카카의 사당,
+shrines,Shrine,Dungeon067,와오오사의 사당,
+shrines,Shrine,Dungeon094,요미즈키의 사당,
+shrines,Shrine,Dungeon100,우사즈마의 사당,
+shrines,Shrine,Dungeon056,우츠쇼키의 사당,
+shrines,Shrine,Dungeon150,우코오지시의 사당,
+shrines,Shrine,Dungeon060,우코우호의 사당,
+shrines,Shrine,Dungeon076,우토지시의 사당,
+shrines,Shrine,Dungeon090,이가슈쿠의 사당,
+shrines,Shrine,Dungeon069,이고쇼음의 사당,
+shrines,Shrine,Dungeon118,이라사쿠의 사당,
+shrines,Shrine,Dungeon029,이쇼다구음의 사당,
+shrines,Shrine,Dungeon131,이쇼키음의 사당,
+shrines,Shrine,Dungeon073,이시시메의 사당,
+shrines,Shrine,Dungeon014,이우음오로쿠의 사당,
+shrines,Shrine,Dungeon062,이음이사의 사당,
+shrines,Shrine,Dungeon038,이죠오의 사당,
+shrines,Shrine,Dungeon103,이카타쿠의 사당,
+shrines,Shrine,Dungeon041,이헤음아의 사당,
+shrines,Shrine,Dungeon012,자음미카카의 사당,
+shrines,Shrine,Dungeon081,자쿠스쿠의 사당,
+shrines,Shrine,Dungeon113,죠고우의 사당,
+shrines,Shrine,Dungeon101,죠니우의 사당,
+shrines,Shrine,Dungeon127,죠시우의 사당,
+shrines,Shrine,Dungeon138,죠음사우의 사당,
+shrines,Shrine,Dungeon084,죠죠니우의 사당,
+shrines,Shrine,Dungeon141,죠쥬우우의 사당,
+shrines,Shrine,Dungeon130,죠치시우의 사당,
+shrines,Shrine,Dungeon001,죠치이우의 사당,
+shrines,Shrine,Dungeon134,죠치이히가의 사당,
+shrines,Shrine,Dungeon071,죠쿠우시니의 사당,
+shrines,Shrine,Dungeon109,죠쿠우의 사당,
+shrines,Shrine,Dungeon145,지노도카오의 사당,
+shrines,Shrine,Dungeon045,지루타구마치의 사당,
+shrines,Shrine,Dungeon142,지오시니오의 사당,
+shrines,Shrine,Dungeon102,지오타키오의 사당,
+shrines,Shrine,Dungeon013,지우코우메의 사당,
+shrines,Shrine,Dungeon057,지카이세음의 사당,
+shrines,Shrine,Dungeon039,츠라카미카의 사당,
+shrines,Shrine,Dungeon025,츠라카와카의 사당,
+shrines,Shrine,Dungeon042,츠츠우메의 사당,
+shrines,Shrine,Dungeon022,츠카로쿠의 사당,
+shrines,Shrine,Dungeon104,치치마우의 사당,
+shrines,Shrine,Dungeon050,카다우나리의 사당,
+shrines,Shrine,Dungeon033,카라하타기의 사당,
+shrines,Shrine,Dungeon044,카마츠키사의 사당,
+shrines,Shrine,Dungeon077,카미즈나의 사당,
+shrines,Shrine,Dungeon105,카하타나우메의 사당,
+shrines,Shrine,Dungeon136,쿄노니시우의 사당,
+shrines,Shrine,Dungeon068,쿄쿠고니의 사당,
+shrines,Shrine,Dungeon140,쿠다니사라의 사당,
+shrines,Shrine,Dungeon119,쿠라카타의 사당,
+shrines,Shrine,Dungeon093,쿠마마이노의 사당,
+shrines,Shrine,Dungeon088,키마야타의 사당,
+shrines,Shrine,Dungeon035,키시노나의 사당,
+shrines,Shrine,Dungeon030,키우요요우의 사당,
+shrines,Shrine,Dungeon053,키카쿠음의 사당,
+shrines,Shrine,Dungeon058,키타와카의 사당,
+shrines,Shrine,Dungeon151,타니노우다의 사당,
+shrines,Shrine,Dungeon032,타다로쿠음의 사당,
+shrines,Shrine,Dungeon021,타우요시푸니의 사당,
+shrines,Shrine,Dungeon121,타우음히요의 사당,
+shrines,Shrine,Dungeon000,타지카츠의 사당,
+shrines,Shrine,Dungeon091,타키이하바노의 사당,
+shrines,Shrine,Dungeon133,테음마테음의 사당,
+shrines,Shrine,Dungeon034,테음베자이의 사당,
+shrines,Shrine,Dungeon124,테음지테음의 사당,
+shrines,Shrine,Dungeon107,토키요우의 사당,
+shrines,Shrine,Dungeon137,티마와카의 사당,
+shrines,Shrine,Dungeon115,푸푸음케의 사당,
+quests,Adventure Log,LookingForLightSpot,닫혀 있는 문,라울
+quests,Adventure Log,GOToTheCastleOfHyrule,하이랄 대지로,젤다의 목소리
+quests,Adventure Log,SurveyOfFourVillages,네 지방의 이변 조사,프루아
+quests,Adventure Log,ClueTotheSixthSage,다섯 번째 현자를 찾아라,프루아
+quests,Adventure Log,HyruleCastleIncident,하이랄 성의 이변,프루아
+quests,Adventure Log,MasterSwordClues,마스터 소드의 행방,미넬
+quests,Adventure Log,GetMasterSword,잃어버린 용사의 검,데크나무님
+quests,Adventure Log,SageOfWind,리토의 마을의 튤리,테바
+quests,Adventure Log,SageOfFire,고론 시티의 윤돌,
+quests,Adventure Log,CleanStatue,진흙에 파묻힌 조각상,
+quests,Adventure Log,DividedSlate,부서진 비석,지아트
+quests,Adventure Log,RepairArmor,조라의 갑옷을 고치려면,
+quests,Adventure Log,WaterBridgePlace,하늘로 가기 위한 단서,지아트
+quests,Adventure Log,SageOfZora,조라의 마을의 시드,
+quests,Adventure Log,SageOfGerudo,겔드의 마을의 루쥬,
+quests,Adventure Log,GotoFironeZonauRemains,고리 유적의 비밀,타우로
+quests,Adventure Log,SageOfSoul,태고의 인도,조나우의 유물
+quests,Adventure Log,GetCamera,지저인을 찍자!,조슈아
+quests,Adventure Log,DeepHoleSurvey2,지저 신전에 잠든 수수께끼,조슈아
+quests,Adventure Log,GroundPaintingAir01,임파와 지상화,
+quests,Adventure Log,MemoryOfTheDragon,용의 눈물,임파
+quests,Adventure Log,DefeatGanondorf,가논돌프 토벌,프루아
+quests,Adventure Log,MainChallenge,젤다를 찾아서,집사 골렘
+quests,Adventure Log,FindWithSensors,하테노 마을의 연구소,로베리
+quests,Adventure Log,HatenoPurchasePicture,나만의 하이랄 도감,로베리
+quests,Adventure Log,GetWarpMarker,대발명! 워프 마커!!,로베리
+quests,Adventure Log,GetWalker,대발명! 발자국 모드,로베리
+quests,Adventure Log,GetSensorPlus,대발명! 도감 센서,로베리
+quests,Adventure Log,IchikaraChallenge01,매티슨의 홀로서기,
+quests,Adventure Log,Hateno_Cheese,코윈의 소중한 편지,코윈
+quests,Adventure Log,Hateno_RevitalizeByNewSpeciality,새로운 명물로 마을을 일으키자!,리드
+quests,Adventure Log,Hateno_SecretLifeOfKusayoshi,리드의 비밀,클레비아
+quests,Adventure Log,Hateno_SecretLifeOfSagono,사고노의 비밀,소피
+quests,Adventure Log,Hateno_VillageMayorElection,당신은 사고노파? 리드파?,사고노
+quests,Adventure Log,Hateno_LetUsElection,촌장 선거 개막!,
+quests,Adventure Log,TauraChallenge001,몬스터 소굴이 된 마을,로젤
+quests,Adventure Log,Uotori_RevivePlan,나크시 마을 재건 계획,볼슨
+quests,Adventure Log,NewsPaper_Mitsuba,진실을 밝혀라! 젤다 공주의 소문!!,세나
+quests,Adventure Log,Tribune07,유인하는 여자,
+quests,Adventure Log,Tribune04,오지 않는 미식가,
+quests,Adventure Log,Tribune06,괴물에 탄 공주,
+quests,Adventure Log,Tribune09,젤다가 사랑한 황금마,
+quests,Adventure Log,Tribune03,길 잃은 흰염소의 수난,
+quests,Adventure Log,Tribune11,마이 스위트 프린세스,
+quests,Adventure Log,Tribune10,꼬꼬님의 뜻대로,
+quests,Adventure Log,Tribune05,사라진 농기구,
+quests,Adventure Log,Tribune02,젤다 공주 납치 사건?!,펜
+quests,Adventure Log,Tribune13,섬뜩한 목소리,
+quests,Adventure Log,Tribune14,봉인된 우물,
+quests,Adventure Log,Orchestra03,피리 부는 소년이 찾는 것,
+quests,Adventure Log,Orchestra02,전해라! 허니 비트!!,
+quests,Adventure Log,Orchestra04,호른 연주자의 탈출극,
+quests,Adventure Log,Tribune16,대요정에게 바치는 세레나데,
+quests,Adventure Log,Fairy4,시저에게 바치는 세레나데,
+quests,Adventure Log,Fairy3,크출라에게 바치는 세레나데,
+quests,Adventure Log,Fairy2,미자에게 바치는 세레나데,
+quests,Adventure Log,MercenaryChallenge_HyrulePlain,하이랄 평원에 평화를!,호스타
+quests,Adventure Log,MercenaryChallenge_Hebra,하테르에 평화를!,호스타
+quests,Adventure Log,MercenaryChallenge_Eldin,올딘에 평화를!,드류
+quests,Adventure Log,MercenaryChallenge_Akkare,추낙에 평화를!,드류
+quests,Adventure Log,MercenaryChallenge_Firone,필로네에 평화를!,아마니
+quests,Adventure Log,MercenaryChallenge_Hateru,헤브라에 평화를!,아마니
+quests,Adventure Log,OldKorokHelp,보쿠린의 고민,보쿠린
+quests,Adventure Log,NushiShop_Tutorial,찾아라! 마요이의 유실물,콜텐
+quests,Adventure Log,NushiShop_Challenge00,콜텐의 행방,콜텐
+quests,Adventure Log,MonsterFigures01,나만의 몬스터 컬렉션,킬튼
+quests,Adventure Log,MonsterFigures02,나만의 몬스터 컬렉션 2,킬튼
+quests,Adventure Log,MonsterFigures03,나만의 몬스터 컬렉션 3,킬튼
+quests,Adventure Log,MonsterFigures04,나만의 몬스터 컬렉션 4,킬튼
+quests,Adventure Log,MonsterFigures05,나만의 몬스터 컬렉션 5,킬튼
+quests,Adventure Log,BlindRuinsTreasure,드인블라 유적을 조사해라,카즈나비
+quests,Adventure Log,BlindRuinsTreasure_Rito,수많은 용이 지켜보는 올빼미,카즈나비
+quests,Adventure Log,BlindRuinsTreasure_Goron,두 용의 사이,카즈나비
+quests,Adventure Log,BlindRuinsTreasure_Zora,여섯 용의 어전,카즈나비
+quests,Adventure Log,BlindRuinsTreasure_Gerudo,몸이 긴 수호룡,카즈나비
+quests,Adventure Log,FirstskyislandReturns,시작의 하늘섬의 전승,집사 골렘
+quests,Adventure Log,ZonauReliefSearch,고대에서 온 메시지,리도우
+quests,Adventure Log,StatueDevilTutorial,악마와의 계약,
+quests,Adventure Log,LookingForTheVoiceLord,목소리의 주인을 찾아서,제린
+quests,Adventure Log,Connect_FirstIsland,지저로 부르는 목소리,신비한 목소리
+quests,Adventure Log,AssassinGerudoBase,이가단에 잠입,와토르
+quests,Adventure Log,GerudoCanyon_Adventure,이가단 간부 시험,이가단 간부
+quests,Adventure Log,MinusYiga,이가단 총단장 코가님의 음모!,코가
+quests,Adventure Log,CarryToShrine09,사토리산의 사당과 수정,신비한 목소리
+quests,Adventure Log,Rito_ShadowCave,하얀 새가 인도하는 동굴,솔리레스
+quests,Adventure Log,CarryToShrine02,기샤의 크레이터에 잠든 수정,신비한 목소리
+quests,Adventure Log,CarryToShrine15,헤브라산 북쪽의 사당과 수정,신비한 목소리
+quests,Adventure Log,CarryToShrine16,헤브라산 북서쪽 동굴에 잠든 수정,신비한 목소리
+quests,Adventure Log,Korok_CarryToShrine,예쁜 돌과 황금 사과,다미다미
+quests,Adventure Log,NoTrespassing,이 앞은 출입 금지?,쥬키
+quests,Adventure Log,InfiltrationFromTheSky,마카마카의 비밀의 장소,마카마카
+quests,Adventure Log,CarryToShrine01,데스칼데라의 사당과 수정,신비한 목소리
+quests,Adventure Log,CarryToShrine03,유후윈호의 동굴에 잠든 수정,신비한 목소리
+quests,Adventure Log,IchikaraChallenge03,돌 팔아요,하기
+quests,Adventure Log,CraftShadowPicture,검게 물들여서,집사 골렘
+quests,Adventure Log,SnowyMountain_Surfing,하늘 높은 샘과 빛의 고리 전승,나즈비
+quests,Adventure Log,CarryToShrine10,라넬 로드의 사당과 수정,신비한 목소리
+quests,Adventure Log,CarryToShrine08_Zora,랠리스 수맥의 사당과 수정,신비한 목소리
+quests,Adventure Log,IceMaking,물에서 태어난 열쇠,집사 골렘
+quests,Adventure Log,CarryToShrine13,라나호의 동굴에 잠든 수정,신비한 목소리
+quests,Adventure Log,GiantHorse,거대한 말을 데리고,바테크
+quests,Adventure Log,CarryToShrine06,하일리아호의 사당과 수정,신비한 목소리
+quests,Adventure Log,DevoteSpring,창 던지기 전승,낡은 노트
+quests,Adventure Log,CarryToShrine07,겔드 캐니언의 사당과 수정,신비한 목소리
+quests,Adventure Log,CarryToShrine19,북하이랄 하늘제도의 사당과 수정,신비한 목소리
+quests,Adventure Log,CarryToShrine11,남하이랄 하늘제도의 사당과 수정,신비한 목소리
+quests,Adventure Log,CarryToShrine20,타반타 하늘제도의 사당과 수정,신비한 목소리
+quests,Adventure Log,CarryToShrine21,동헤브라 하늘제도의 사당과 수정,신비한 목소리
+quests,Adventure Log,CarryToShrine14,채석의 섬의 사당과 수정,신비한 목소리
+quests,Adventure Log,CarryToShrine17,남추낙 하늘제도의 사당과 수정,신비한 목소리
+quests,Adventure Log,CarryToShrine23,남라넬 하늘제도의 사당과 수정,신비한 목소리
+quests,Adventure Log,CarryToShrine12,북하테르 하늘제도의 사당과 수정,신비한 목소리
+quests,Adventure Log,CarryToShrine22,서하테르 하늘제도의 사당과 수정,신비한 목소리
+quests,Adventure Log,CarryToShrine05,하테르 하늘제도의 사당과 수정,신비한 목소리
+quests,Adventure Log,FindWhiteHorse,말은 어디로,레스
+quests,Adventure Log,NowInTheVillageOfLurelin,해적에게 습격당한 마을,리가니
+quests,Adventure Log,CookAtBaseCamp,오늘의 식단,보논
+quests,Adventure Log,BuildingMaterialsTutorial,덜 완성된 축사,카슨
+quests,Adventure Log,DefeatHugeEnemy_1,WANTED 바위록,글라레스
+quests,Adventure Log,DefeatHugeEnemy_2,WANTED 몰드래고,글라레스
+quests,Adventure Log,DefeatHugeEnemy_3,WANTED 히녹스,글라레스
+quests,Adventure Log,DefeatHugeEnemy_4,미지의 하늘의 거인,글라레스
+quests,Adventure Log,DefeatHugeEnemy_5,미지의 머리가 3개인 몬스터,글라레스
+quests,Adventure Log,DefeatHugeEnemy_6,미지의 거대한 그림자,글라레스
+quests,Adventure Log,TakeAnimals,말 관리인의 부탁,토파
+quests,Adventure Log,PhotoSpot_Challenge_04,평원 변두리의 마구간을 장식하는 그림,인브리
+quests,Adventure Log,HorseInnChallenge005,꼬꼬 포획 대작전,베리스
+quests,Adventure Log,PhotoSpot_Challenge_05,리버 사이드 마구간을 장식하는 그림,매켄버
+quests,Adventure Log,HorseInnChallenge001,동경하던 짐마차,코스미
+quests,Adventure Log,PhotoSpot_Challenge_01,신마리타 마구간을 장식하는 그림,스플린
+quests,Adventure Log,Genkos_Kitchen,겐코가 직접 만드는 요리,겐코
+quests,Adventure Log,Rito_MedoArmor,산의 비밀 온천에 잠든 비보,
+quests,Adventure Log,ArrowMeister_Momo,화살 장인 모모의 탐구,모모
+quests,Adventure Log,Rito_RevaliWeapon,리토족의 전통 『참수리의 활』,테바
+quests,Adventure Log,Rito_ItemExchange,리토족의 물물 교환,벨라
+quests,Adventure Log,RitoBridgeRepair,리토의 다리,기잔
+quests,Adventure Log,PhotoSpot_Challenge_07,타반타대교 마구간을 장식하는 그림,데비
+quests,Adventure Log,PhotoSpot_Challenge_14,설원의 마구간을 장식하는 그림,바켄
+quests,Adventure Log,Neck_IceWaterCave,차가운 물을 넘어서,발레
+quests,Adventure Log,Lodge_Chemical001,문을 열어라,죠고
+quests,Adventure Log,Hack_GuardGoods,표적이 된 물자,하크
+quests,Adventure Log,Nazley_DigCave,막혀 버린 동굴,나즐리
+quests,Adventure Log,GoneSnowQueen,설산에서 사라진 여왕,러셀
+quests,Adventure Log,Hebra_SkyRingChallenge,리토족의 새로운 비행 훈련,칸
+quests,Adventure Log,MushroomSisters_1,동굴에서 빛나는 버섯,나츠
+quests,Adventure Log,MushroomSisters_2,빼앗긴 텐트,나츠
+quests,Adventure Log,MushroomSisters_3,먼저 낙원을 찾는 건 누구일까!,나츠
+quests,Adventure Log,Big_Rotate,커다란 동글이,카랏세
+quests,Adventure Log,Mack_SecretBase,데크나무님은 비밀의 방?,토치
+quests,Adventure Log,TreasureHunt_kokiri,나모민의 보물찾기!,나모민
+quests,Adventure Log,AmberCollector,호박 삽니다,라멜라
+quests,Adventure Log,CarryGoronKid1,고대 도시 고론티어!,컵스
+quests,Adventure Log,CarryGoronKid2,고대 도시 고론티어 발견?!,컵스
+quests,Adventure Log,MakeAChampionsWeapon_Goron,고론족의 영혼 『거암 크러셔』,후고
+quests,Adventure Log,GoronReturntoNature,고론들의 달구경,트레이
+quests,Adventure Log,GoronPond,도마뱀 연못에 잠든 비보,브루도
+quests,Adventure Log,HotSpringEgg,비밀 온천 암용천,키마
+quests,Adventure Log,FullyRipenedFlintstones,일석천금?! 완숙 부싯돌!,이톤
+quests,Adventure Log,ResearchEldin,고기에는 고기를!,
+quests,Adventure Log,MeatRock,역시 로스 바위야고로,바루다스
+quests,Adventure Log,Goron_MiniGame_Tutorial_01,광차 랜드 개장!,
+quests,Adventure Log,Goron_MiniGame_Tutorial_02,속사 광차 게임!,
+quests,Adventure Log,Goron_MiniGame_Tutorial_03,상급자용 데스마운틴 코스!,
+quests,Adventure Log,PhotoSpot_Challenge_02,숲의 마구간을 장식하는 그림,키슈
+quests,Adventure Log,PhotoSpot_Challenge_08,산기슭의 마구간을 장식하는 그림,오즈
+quests,Adventure Log,RescueWell,우물에 빠지다,딜
+quests,Adventure Log,RescueVehicle01,홀로 남겨진 작업자,모타
+quests,Adventure Log,Our_Treasure,우리의 보물,도미다크
+quests,Adventure Log,TreasureOfLambda,람다의 보물찾기,도미다크
+quests,Adventure Log,TreasureOfLamda_FierceDeity,람다의 재보 귀신의 장비,도적 람다의 메시지
+quests,Adventure Log,TreasureOfLamda_DuelPeak,람다의 재보 쌍둥이의 고문서,
+quests,Adventure Log,TreasureOfLamda_Pirate,람다의 재보 해적의 고문서,
+quests,Adventure Log,TreasureOfLamda_Gerudo,람다의 재보 영웅의 고문서,
+quests,Adventure Log,TreasureOfLamda_Dream,람다의 재보 꿈꾸는 용사의 옷 1,도적 람다의 메시지
+quests,Adventure Log,TreasureOfLamda_Dream2,람다의 재보 꿈꾸는 용사의 옷 2,도적 람다의 메시지
+quests,Adventure Log,TreasureOfLamda_Dream3,람다의 재보 꿈꾸는 용사의 옷 3,도적 람다의 메시지
+quests,Adventure Log,Circuit_Ichikara,시자기 랠리에 도전하라,퍼니슨
+quests,Adventure Log,HorseInnChallenge003,안에 뭐가 들었을까?,피글로
+quests,Adventure Log,IchikaraCircuit_Tutorial,조나우 기어를 마스터하라,퍼니슨
+quests,Adventure Log,BuildHouse,마이 홈을 짓자,론드슨
+quests,Adventure Log,TheStrongestWeapon,최강의 무기?!,차비
+quests,Adventure Log,Tribune01,모여드는 해적,미호
+quests,Adventure Log,PhotoSpot_Challenge_12,동추낙 마구간을 장식하는 그림,릿토
+quests,Adventure Log,ExcavateFossil1,올딘의 대화석,류네
+quests,Adventure Log,ExcavateFossil2,헤브라의 대화석,류네
+quests,Adventure Log,ExcavateFossil3,겔드의 대화석,류네
+quests,Adventure Log,HourseInnChallenge004,혼신의 일격,파리세
+quests,Adventure Log,PhotoSpot_Challenge_13,남추낙 마구간을 장식하는 그림,딤치
+quests,Adventure Log,Zora_MessageBottle,희귀~한 보물,코다
+quests,Adventure Log,Zora_RuttaTreasure,위대한 물고기 아래에 잠든 비보,시드
+quests,Adventure Log,Createshinguard,끝나지 않는 잔소리,크로마
+quests,Adventure Log,ZoraStatue_Picture,달빛 아래 홀로 서 있는 조라 공주,세곤
+quests,Adventure Log,Zora_Enemy_hunt,자부 대지의 요새 공략,가디슨
+quests,Adventure Log,GeniusWeapon_Zora,조라족의 명예 『광린의 창』,로스리
+quests,Adventure Log,gather_Insect_Z,거래하지 않을래게?,헤온
+quests,Adventure Log,HuntSalmon,날아오른 아내,프론크
+quests,Adventure Log,CreateArmor,우호의 증표,
+quests,Adventure Log,PhotoSpot_Challenge_03,습원의 마구간을 장식하는 그림,루산
+quests,Adventure Log,HorseInnChallenge002,불청객,아미브
+quests,Adventure Log,CarryStone,푸른 석재,레트건
+quests,Adventure Log,RestaurantInTheWell,궁극의 요리…?,미모쟈
+quests,Adventure Log,ResearchLanayru,진흙투성이가 되어,스바바
+quests,Adventure Log,InnNeverReturns,돌아오지 않는 여관 주인,다이
+quests,Adventure Log,KokkoGuidePost,꼬꼬의 이정표,시트라
+quests,Adventure Log,Know_FourStonePlates,태고의 로망을 찾는 여행,부그리
+quests,Adventure Log,WhichIsStronger,이러지도 저러지도…,시트라
+quests,Adventure Log,IllnessStartsWithFeelings,병은 독기로부터,라즈리
+quests,Adventure Log,Hateno_NewCostume,새로운 영걸의 옷,젤다의 일기
+quests,Adventure Log,Hateno_TellMeTeacher01,"가르쳐 주세요, 선생님!",시몬
+quests,Adventure Log,Hateno_TellMeTeacher02,"가르쳐 주세요, 선생님! 2",시몬
+quests,Adventure Log,Hateno_FreshMilk,우유 전문가 단츠,단츠
+quests,Adventure Log,Hateno_NewSpecialty,최고의 하테노 명물,리드
+quests,Adventure Log,Parasail_ChuchuDesign,츄츄 샘플 촬영,세지
+quests,Adventure Log,Hateno_WhatToPlant,우메의 밭에 무엇을 심을까요?,우메
+quests,Adventure Log,Hateno_CoolGuy,매니가 원하는 것,매니
+quests,Adventure Log,Uotori_ResortPlan,나크시 리조트 계획,로젤
+quests,Adventure Log,Uotori_WhiteLineGame,아빠의 푸른 셔츠,키즈타
+quests,Adventure Log,WashedAwayBusinessTools,떠내려간 장사 도구,리가니
+quests,Adventure Log,Uotori_Designer,고민하는 로렐,로렐
+quests,Adventure Log,PhotoSpot_Challenge_06,쌍둥이 마구간을 장식하는 그림,테서린
+quests,Adventure Log,MessageBottle_SOS,SOS 편지,
+quests,Adventure Log,SaihateSubjugation,해적의 아지트를 찾아라!,고마나
+quests,Adventure Log,HorseInnChallenge007,동굴의 거인 삼 형제,캄포
+quests,Adventure Log,PhotoSpot_Challenge_10,레이크 사이드 마구간을 장식하는 그림,와노르
+quests,Adventure Log,PhotoSpot_Challenge_11,고원의 마구간을 장식하는 그림,파도크
+quests,Adventure Log,EightHeroStatues,영웅들의 비밀,로틴
+quests,Adventure Log,GerudoDesertTreasure,겔드사막에 잠든 비보,
+quests,Adventure Log,Gerudo_UrbosaWeapon,겔드족의 긍지 『칠보의 무구』,아이샤
+quests,Adventure Log,FindSunaNui,티클과의 승부!,티클
+quests,Adventure Log,EightHeroStatues_After,여덟 번째 영웅,로틴
+quests,Adventure Log,AisyaRescue,행방불명된 사장님,마카라
+quests,Adventure Log,JobSunazarashi,유적으로 데려가 줘,팩트
+quests,Adventure Log,MakeChemicalWeapon,정열 데커레이션,블로우
+quests,Adventure Log,SearchCaravan,미아가 된 카라반 대원,벤자민
+quests,Adventure Log,PhotoSpot_Challenge_09,저무는 마구간을 장식하는 그림 1,피아페
+quests,Adventure Log,PhotoSpot_Challenge_09_2,저무는 마구간을 장식하는 그림 2,피아페
+quests,Adventure Log,RescueHost,갇힌 피아페,피아페
+quests,Adventure Log,GerudoCanyon_GleeokLiver,그리오크의 간,멜레나
+quests,Adventure Log,NewCanyonMissingPersonsCase,겔드 캐니언의 조난자,모코
+quests,Adventure Log,GerudoCanyon_TumbleweedSweep,텀블 위드 대청소,츠무기
+quests,Adventure Log,GerudoCanyon_24hEnduranceComparison,아이 더워! 오래 참기 대결!,다콘
+quests,Adventure Log,GerudoCanyon_ColdEnduranceComparison,아이 추워! 오래 참기 대결!,다콘
+quests,Adventure Log,TakeOfIce,얼음 없는 얼음 창고,안체
+quests,Adventure Log,WellCollection,우물 마니아가 되자,바이치
+quests,Adventure Log,Zonau_GeniusWeapon,지저에서 발견된 『고대의 칼날』,채굴 골렘
+quests,Adventure Log,Connect_TabantaMaze,북쪽 로미의 예언,신비한 목소리
+quests,Adventure Log,Connect_AkkareMaze,로미섬의 예언,신비한 목소리
+quests,Adventure Log,Connect_GerudoMaze,남쪽 로미의 예언,신비한 목소리
+quests,Adventure Log,Raise_GoddesStatue_Wisdom,지혜의 샘의 여신상,
+quests,Adventure Log,Raise_GoddesStatue_Power,힘의 샘의 여신상,
+quests,Adventure Log,Raise_GoddesStatue_Courage,용기의 샘의 여신상,
+quests,Adventure Log,Raise_GoddesStatue,어머니 여신상,
+quests,Adventure Log,CDungeon_AllDone,모든 사당을 돌파한 자,라울
+lightroots,Lightroot,CheckPoint134,가히이치죠의 뿌리,
+lightroots,Lightroot,CheckPoint087,고니타료미의 뿌리,
+lightroots,Lightroot,CheckPoint016,고니타료소의 뿌리,
+lightroots,Lightroot,CheckPoint033,기타하라카의 뿌리,
+lightroots,Lightroot,CheckPoint074,나기데치야마의 뿌리,
+lightroots,Lightroot,CheckPoint035,나노시키의 뿌리,
+lightroots,Lightroot,CheckPoint132,나라스시의 뿌리,
+lightroots,Lightroot,CheckPoint114,나이리야마의 뿌리,
+lightroots,Lightroot,CheckPoint077,나즈미카의 뿌리,
+lightroots,Lightroot,CheckPoint091,노바하이키타의 뿌리,
+lightroots,Lightroot,CheckPoint051,노이즈미도의 뿌리,
+lightroots,Lightroot,CheckPoint009,노츠마야마의 뿌리,
+lightroots,Lightroot,CheckPoint059,노파나소의 뿌리,
+lightroots,Lightroot,CheckPoint068,니고쿠쿄의 뿌리,
+lightroots,Lightroot,CheckPoint021,니푸시요우타의 뿌리,
+lightroots,Lightroot,CheckPoint070,다우노의 뿌리,
+lightroots,Lightroot,CheckPoint108,라마보음쿠세의 뿌리,
+lightroots,Lightroot,CheckPoint140,라사니다쿠의 뿌리,
+lightroots,Lightroot,CheckPoint135,라스카마의 뿌리,
+lightroots,Lightroot,CheckPoint005,라키노사무의 뿌리,
+lightroots,Lightroot,CheckPoint092,마오엔의 뿌리,
+lightroots,Lightroot,CheckPoint100,마즈사우의 뿌리,
+lightroots,Lightroot,CheckPoint075,마츠츠오의 뿌리,
+lightroots,Lightroot,CheckPoint024,마카와시의 뿌리,
+lightroots,Lightroot,CheckPoint073,메시시이의 뿌리,
+lightroots,Lightroot,CheckPoint042,메우츠츠의 뿌리,
+lightroots,Lightroot,CheckPoint013,메우코우지의 뿌리,
+lightroots,Lightroot,CheckPoint072,메우토우에의 뿌리,
+lightroots,Lightroot,CheckPoint111,메우후타루의 뿌리,
+lightroots,Lightroot,CheckPoint008,무마츠로의 뿌리,
+lightroots,Lightroot,CheckPoint019,무우치로오의 뿌리,
+lightroots,Lightroot,CheckPoint085,미미후시의 뿌리,
+lightroots,Lightroot,CheckPoint037,사사가의 뿌리,
+lightroots,Lightroot,CheckPoint067,사오오와의 뿌리,
+lightroots,Lightroot,CheckPoint126,사키루쿠마의 뿌리,
+lightroots,Lightroot,CheckPoint044,사키츠마카의 뿌리,
+lightroots,Lightroot,CheckPoint040,사키타가의 뿌리,
+lightroots,Lightroot,CheckPoint122,세쇼에의 뿌리,
+lightroots,Lightroot,CheckPoint143,시시니타가의 뿌리,
+lightroots,Lightroot,CheckPoint096,시시츠모의 뿌리,
+lightroots,Lightroot,CheckPoint106,시지음니의 뿌리,
+lightroots,Lightroot,CheckPoint076,시지토우의 뿌리,
+lightroots,Lightroot,CheckPoint041,아음헤이의 뿌리,
+lightroots,Lightroot,CheckPoint120,에비스스의 뿌리,
+lightroots,Lightroot,CheckPoint142,오니시오지의 뿌리,
+lightroots,Lightroot,CheckPoint123,오미야오의 뿌리,
+lightroots,Lightroot,CheckPoint102,오키타오지의 뿌리,
+lightroots,Lightroot,CheckPoint054,오키타지바시의 뿌리,
+lightroots,Lightroot,CheckPoint007,와로히사의 뿌리,
+lightroots,Lightroot,CheckPoint113,우고죠의 뿌리,
+lightroots,Lightroot,CheckPoint004,우노치야마의 뿌리,
+lightroots,Lightroot,CheckPoint101,우니죠의 뿌리,
+lightroots,Lightroot,CheckPoint084,우니죠죠의 뿌리,
+lightroots,Lightroot,CheckPoint104,우마치치의 뿌리,
+lightroots,Lightroot,CheckPoint138,우사음죠의 뿌리,
+lightroots,Lightroot,CheckPoint136,우시니노쿄의 뿌리,
+lightroots,Lightroot,CheckPoint130,우시치죠의 뿌리,
+lightroots,Lightroot,CheckPoint030,우요요우키의 뿌리,
+lightroots,Lightroot,CheckPoint107,우요키토의 뿌리,
+lightroots,Lightroot,CheckPoint141,우우쥬죠의 뿌리,
+lightroots,Lightroot,CheckPoint036,우음자쇼오의 뿌리,
+lightroots,Lightroot,CheckPoint001,우이치죠의 뿌리,
+lightroots,Lightroot,CheckPoint031,우치코에의 뿌리,
+lightroots,Lightroot,CheckPoint028,유시우야마의 뿌리,
+lightroots,Lightroot,CheckPoint029,음구다쇼이의 뿌리,
+lightroots,Lightroot,CheckPoint112,음기오오의 뿌리,
+lightroots,Lightroot,CheckPoint057,음세이카지의 뿌리,
+lightroots,Lightroot,CheckPoint032,음쿠로다타의 뿌리,
+lightroots,Lightroot,CheckPoint053,음쿠카키의 뿌리,
+lightroots,Lightroot,CheckPoint131,음키쇼이의 뿌리,
+lightroots,Lightroot,CheckPoint133,음테마음테의 뿌리,
+lightroots,Lightroot,CheckPoint124,음테지음테의 뿌리,
+lightroots,Lightroot,CheckPoint098,음피샤모의 뿌리,
+lightroots,Lightroot,CheckPoint002,이모츠시의 뿌리,
+lightroots,Lightroot,CheckPoint048,이야스스의 뿌리,
+lightroots,Lightroot,CheckPoint006,제이음레의 뿌리,
+lightroots,Lightroot,CheckPoint000,츠카지타의 뿌리,
+lightroots,Lightroot,CheckPoint064,치구쿠라마의 뿌리,
+lightroots,Lightroot,CheckPoint010,치마보타루세의 뿌리,
+lightroots,Lightroot,CheckPoint023,치쿠쿠시의 뿌리,
+lightroots,Lightroot,CheckPoint018,카미미게의 뿌리,
+lightroots,Lightroot,CheckPoint027,카미미다네아의 뿌리,
+lightroots,Lightroot,CheckPoint039,카미카라츠의 뿌리,
+lightroots,Lightroot,CheckPoint097,카스케이오마의 뿌리,
+lightroots,Lightroot,CheckPoint089,카시모모의 뿌리,
+lightroots,Lightroot,CheckPoint095,카시히야마의 뿌리,
+lightroots,Lightroot,CheckPoint011,카와가모의 뿌리,
+lightroots,Lightroot,CheckPoint078,카와리아스의 뿌리,
+lightroots,Lightroot,CheckPoint137,카와마티의 뿌리,
+lightroots,Lightroot,CheckPoint003,카와무로오의 뿌리,
+lightroots,Lightroot,CheckPoint139,카와시라의 뿌리,
+lightroots,Lightroot,CheckPoint020,카와카나시의 뿌리,
+lightroots,Lightroot,CheckPoint025,카와카라츠의 뿌리,
+lightroots,Lightroot,CheckPoint080,카와키타시라의 뿌리,
+lightroots,Lightroot,CheckPoint058,카와타키의 뿌리,
+lightroots,Lightroot,CheckPoint129,카카니타나시의 뿌리,
+lightroots,Lightroot,CheckPoint012,카카미음자의 뿌리,
+lightroots,Lightroot,CheckPoint147,카카타네미의 뿌리,
+lightroots,Lightroot,CheckPoint086,카카타오의 뿌리,
+lightroots,Lightroot,CheckPoint116,카토미바의 뿌리,
+lightroots,Lightroot,CheckPoint049,케게포아의 뿌리,
+lightroots,Lightroot,CheckPoint115,케음푸푸의 뿌리,
+lightroots,Lightroot,CheckPoint026,코고오리의 뿌리,
+lightroots,Lightroot,CheckPoint017,코코야마의 뿌리,
+lightroots,Lightroot,CheckPoint014,쿠로오음우이의 뿌리,
+lightroots,Lightroot,CheckPoint022,쿠로카츠의 뿌리,
+lightroots,Lightroot,CheckPoint118,쿠사라이의 뿌리,
+lightroots,Lightroot,CheckPoint090,쿠슈가이의 뿌리,
+lightroots,Lightroot,CheckPoint081,쿠스쿠자의 뿌리,
+lightroots,Lightroot,CheckPoint144,쿠음로모의 뿌리,
+lightroots,Lightroot,CheckPoint103,쿠타카이의 뿌리,
+lightroots,Lightroot,CheckPoint056,키쇼츠우의 뿌리,
+lightroots,Lightroot,CheckPoint094,키즈미요의 뿌리,
+lightroots,Lightroot,CheckPoint125,키타오야마의 뿌리,
+lightroots,Lightroot,CheckPoint088,타야마키의 뿌리,
+lightroots,Lightroot,CheckPoint119,타카라쿠의 뿌리,
+lightroots,Lightroot,CheckPoint065,타키나루의 뿌리,
+lightroots,Lightroot,CheckPoint047,타타야마의 뿌리,
+lightroots,Lightroot,CheckPoint079,토지구쿠카라의 뿌리,
+lightroots,Lightroot,CheckPoint046,파파세의 뿌리,

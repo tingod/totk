@@ -1,0 +1,31 @@
+﻿id,es-419,en-GB,fr-CA,ko,ja,ru,nl,it,de,zh,zh-Hant,fr,es,en
+Weapon_Bow_001,Arco de viajero,Traveler's Bow,Arc de voyageur,여행자의 활,旅人の弓,Походный лук,Reizigersboog,Arco da viandante,Reisebogen,旅人之弓,旅人之弓,Arc de voyageur,Arco de viajero,Traveler's Bow
+Weapon_Bow_002,Arco de soldado,Soldier’s Bow,Arc de soldat,병사의 활,兵士の弓,Боевой лук,Soldatenboog,Arco da soldato,Soldatenbogen,士兵之弓,士兵之弓,Arc de soldat,Arco de soldado,Soldier’s Bow
+Weapon_Bow_003,Arco boko punzante,Spiked Boko Bow,Arc à pointes boko,가시 보코활,トゲボコ弓,Колючий боколук,Boko-bottenboog,Arco boblin puntuto,Stachel-Bokbogen,尖刺波克弓,尖刺波克弓,Arc à pointes boko,Arco boko punzante,Spiked Boko Bow
+Weapon_Bow_004,Arco boko,Boko Bow,Arc boko,보코활,ボコ弓,Боколук,Boko-boog,Arco boblin,Bokbogen,波克弓,波克弓,Arc boko,Arco boko,Boko Bow
+Weapon_Bow_006,Arco lizal,Lizal Bow,Arc lézal,리잘보우,リザルボウ,Завролук,Lizal-boog,Arco lizal,Echsalbogen,蜥蜴弓,蜥蜴弓,Arc lézal,Arco lizal,Lizal Bow
+Weapon_Bow_009,Arco de centaleón,Lynel Bow,Arc de Centaléo,라이넬의 활,ライネルの弓,Лук левра,Lynel-boog,Arco lynel,Leunenbogen,莱尼尔之弓,萊尼爾之弓,Arc de Lynel,Arco de centaleón,Lynel Bow
+Weapon_Bow_011,Arco lizal reforzado,Strengthened Lizal Bow,Arc lézal robuste,강화 리잘보우,強化リザルボウ,Усиленный завролук,Verstevigde Lizal-boog,Arco lizal rinforzato,Starker Echsalbogen,强力蜥蜴弓,強力蜥蜴弓,Arc lézal robuste,Arco lizal reforzado,Strengthened Lizal Bow
+Weapon_Bow_013,Arco del bosque,Forest Dweller's Bow,Arc des sylvains,숲에 사는 자의 활,森人の弓,Лесной лук,Woudboog,Arco silvano,Waldbogen,森民之弓,森民之弓,Arc des sylvains,Arco del bosque,Forest Dweller's Bow
+Weapon_Bow_014,Arco zora,Zora Bow,Arc Zora,조라의 활,ゾーラの弓,Лук зора,Zora-boog,Arco Zora,Zora-Bogen,卓拉之弓,卓拉之弓,Arc zora,Arco zora,Zora Bow
+Weapon_Bow_015,Arco gerudo,Gerudo Bow,Arc Gerudo,겔드의 활,ゲルドの弓,Лук герудо,Gerudo-boog,Arco Gerudo,Gerudo-Bogen,格鲁德之弓,格魯德之弓,Arc gerudo,Arco gerudo,Gerudo Bow
+Weapon_Bow_016,Arco de golondrina,Swallow Bow,Arc de l'hirondelle,제비의 활,ツバメの弓,Ласточий лук,Zwaluwboog,Arco rondine,Schwalbenbogen,飞燕弓,飛燕弓,Arc de l'hirondelle,Arco de golondrina,Swallow Bow
+Weapon_Bow_017,Arco de halcón,Falcon Bow,Arc du faucon,매의 활,ハヤブサの弓,Соколиный лук,Valkenboog,Arco falcone,Falkenbogen,游隼弓,遊隼弓,Arc du faucon,Arco de halcón,Falcon Bow
+Weapon_Bow_026,Arco bestial,Mighty Lynel Bow,Arc du roi bestial,야수왕의 활,獣王の弓,Лук могучего левра,Machtige Lynel-boog,Arco bestiale,Bestienbogen,兽王弓,獸王弓,Arc du roi bestial,Arco bestial,Mighty Lynel Bow
+Weapon_Bow_027,Arco boko de dragón,Dragonbone Boko Bow,Draco-arc boko,용골 보코활,竜骨ボコ弓,Драконий боколук,Boko-drakenboog,Dragoarco boblin,Knochen-Bokbogen,龙骨波克弓,龍骨波克弓,Draco-arc boko,Arco boko de dragón,Dragonbone Boko Bow
+Weapon_Bow_028,Arco de águila,Great Eagle Bow,Arc de l'aigle,참수리의 활,オオワシの弓,Большой орлиный лук,Adelaarsboog,Arco aquila,Adlerbogen,大鹫弓,大鷲弓,Arc de l'aigle,Arco de águila,Great Eagle Bow
+Weapon_Bow_029,Arco del vigilante,Phrenic Bow,Arc de la dévotion,일심의 활,一心の弓,Лук средоточия,Focusboog,Arco della concentrazione,Isshin-Bogen,一心之弓,一心之弓,Arc de la dévotion,Arco del vigilante,Phrenic Bow
+Weapon_Bow_030,Arco lizal de acero,Steel Lizal Bow,Arc lézal en acier,강철 리잘보우,鋼鉄リザルボウ,Стальной завролук,Stalen Lizal-boog,Arco lizal d'acciaio,Stahl-Echsalbogen,钢铁蜥蜴弓,鋼鐵蜥蜴弓,Arc lézal en acier,Arco lizal de acero,Steel Lizal Bow
+Weapon_Bow_032,Arco colosal,Savage Lynel Bow,Arc du dieu bestial,야수신의 활,獣神の弓,Лук ужасного левра,Woeste Lynel-boog,Arco bestiale divino,Chimärenbogen,兽神弓,獸神弓,Arc du dieu bestial,Arco colosal,Savage Lynel Bow
+Weapon_Bow_033,Arco de la guardia,Royal Guard's Bow,Arc de garde royal,근위의 활,近衛の弓,Гвардейский лук,Sheikah-boog,Arco da guardia reale,Gardebogen,近卫之弓,近衛之弓,Arc de garde royal,Arco de la guardia,Royal Guard's Bow
+Weapon_Bow_035,Arco de caballero,Knight's Bow,Arc de chevalier,기사의 활,騎士の弓,Рыцарский лук,Ridderboog,Arco da cavaliere,Ritterbogen,骑士之弓,騎士之弓,Arc de chevalier,Arco de caballero,Knight's Bow
+Weapon_Bow_036,Arco real,Royal Bow,Arc royal,왕가의 활,王家の弓,Королевский лук,Koninklijke boog,Arco reale,Königsbogen,王族之弓,王族之弓,Arc royal,Arco real,Royal Bow
+Weapon_Bow_038,Arco de madera,Wooden Bow,Arc en bois,나무 활,木の弓,Деревянный лук,Houten boog,Arco di legno,Holzbogen,木之弓,木之弓,Arc en bois,Arco de madera,Wooden Bow
+Weapon_Bow_040,Arco doble,Duplex Bow,Arc à double encoche,이연궁,二連弓,Двойной лук,Dubbelboog,Arco a doppiotiro,Doppelschussbogen,二连弓,二連弓,Arc à double encoche,Arco doble,Duplex Bow
+Weapon_Bow_072,Arco crepuscular,Dusk Bow,Arc crépusculaire,황혼의 활,黄昏の弓,Лук Сумрака,Schemerboog,Arco del crepuscolo,Schattenbogen,黄昏之弓,黃昏之弓,Arc crépusculaire,Arco crepuscular,Dusk Bow
+Weapon_Bow_101,Arco de zonnanio,Zonaite Bow,Arc de sonium,조나니움 활,ゾナニウムの弓,Зонаровый лук,Zonanium boog,Arco di zonanio,Sonanium-Bogen,左纳尼乌姆之弓,左納尼烏姆之弓,Arc de sonium,Arco de zonnanio,Zonaite Bow
+Weapon_Bow_104,Arco de gólem,Construct Bow,Arc de Golem,골렘의 활,ゴーレムの弓,Лук голема,Zonoïdeboog,Arco del golem,Konstruktbogen,魔像之弓,魔像之弓,Arc de Golem,Arco de gólem,Construct Bow
+Weapon_Bow_105,Arco de gólem reforzado,Strong Construct Bow,Arc de Golem renforcé,튼튼한 골렘의 활,ゴーレムの強弓,Лук голема+,Zonoïdeboog+,Arco del golem rinforzato,Starker Konstruktbogen,魔像之强弓,魔像之強弓,Arc de Golem renforcé,Arco de gólem reforzado,Strong Construct Bow
+Weapon_Bow_106,Gran arco de gólem,Mighty Construct Bow,Arc de Golem surpuissant,강력한 골렘의 활,ゴーレムの剛弓,Лук голема++,Zonoïdeboog++,Arco del golem massiccio,Mächtiger Konstruktbogen,魔像之刚弓,魔像之剛弓,Arc de Golem surpuissant,Gran arco de gólem,Mighty Construct Bow
+Weapon_Bow_107,Arco de madera viejo,Old Wooden Bow,Vieil arc en bois,낡은 나무 활,古びた木の弓,Старый деревянный лук,Oude houten boog,Arco di legno antico,Alter Holzbogen,残旧的木之弓,殘舊的木之弓,Vieil arc en bois,Arco de madera viejo,Old Wooden Bow
+Weapon_Bow_166,Arco del rey demonio,Demon King's Bow,Arc du roi démon,마왕의 활,魔王の弓,Лук короля демонов,Demonenkoningboog,Arco del re dei demoni,Bogen des Dämonenkönigs,魔王之弓,魔王之弓,Arc du roi démon,Arco del rey demonio,Demon King's Bow

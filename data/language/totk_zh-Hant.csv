@@ -1,0 +1,2387 @@
+﻿type,category,item_id,item_name,item_description
+bows,Bows and Arrows,Weapon_Bow_001,旅人之弓,旅人防身用的小型弓。有箭的話可以攻擊一定距離以外的敵人。
+bows,Bows and Arrows,Weapon_Bow_002,士兵之弓,提高攻擊力的戰鬥用弓。可以給予目標較大的傷害。因為是木頭做的，所以一著火就會燒起來。
+bows,Bows and Arrows,Weapon_Bow_003,尖刺波克弓,綁上動物骨頭強化後的波克弓。做工粗糙，但是很輕，而且容易上手。變得比較耐用，射擊的威力也增加了。
+bows,Bows and Arrows,Weapon_Bow_004,波克弓,波克布林使用的簡陋的弓。因為只是將弓弦繃在隨處可見的樹枝上，所以沒辦法期待它的威力。
+bows,Bows and Arrows,Weapon_Bow_006,蜥蜴弓,蜥蜴戰士用木頭製作的弓。和大型魚的骨頭組合而成，比起普通的木弓破壞力更強。
+bows,Bows and Arrows,Weapon_Bow_009,萊尼爾之弓,萊尼爾攜帶的堅固金屬弓。可以同時射出複數支箭，分散的軌道最適合用來射落行動迅速的敵人。
+bows,Bows and Arrows,Weapon_Bow_011,強力蜥蜴弓,手柄使用金屬強化過的蜥蜴弓。使用了生長在水邊的樹木枝幹做成弓身，擁有不可小覷的射擊性能。
+bows,Bows and Arrows,Weapon_Bow_013,森民之弓,據說是克洛格族為了人類而製作的弓。用優質的木材和堅固的草藤製作而成。與其樸素外表相反，可以一次發射好幾支箭。
+bows,Bows and Arrows,Weapon_Bow_014,卓拉之弓,卓拉族在打魚時等用的弓。射擊性能比較沒有那麼好，但用特殊的金屬製成，所以比外表看起來還要耐用。
+bows,Bows and Arrows,Weapon_Bow_015,格魯德之弓,格魯德族所使用的弓，上頭有著細緻的裝飾。這把弓是為了在廣闊沙漠中狩獵或戰鬥而設計，可以瞄準並射擊遠處的物體。
+bows,Bows and Arrows,Weapon_Bow_016,飛燕弓,利特族平常使用的弓。適合在空中射擊。弓弦經過設計，和普通的弓比起來更好拉開。
+bows,Bows and Arrows,Weapon_Bow_017,遊隼弓,利特族名匠製作的精品，善於空中戰的利特族戰士愛用的弓。和普通的弓比起來更好拉開。
+bows,Bows and Arrows,Weapon_Bow_026,獸王弓,相當沉重的萊尼爾之弓。不只是弓身，連弓弦也是用強韌的金屬製成。對於普通的人類來說很難拉開。
+bows,Bows and Arrows,Weapon_Bow_027,龍骨波克弓,與化石骨頭組成強化後的波克弓。好像是用波克布林嚴選的材料製成，射擊性能相當不錯。
+bows,Bows and Arrows,Weapon_Bow_028,大鷲弓,英傑力巴爾所攜帶的稀有名弓。據說在空中戰中，從沒有人贏過風一般疾速拉開此弓的力巴爾。
+bows,Bows and Arrows,Weapon_Bow_029,一心之弓,希卡族流傳至今的弓。集中精神拉開此弓，就能夠像瞄準近處的物體一樣，輕易射中遠處的敵人。
+bows,Bows and Arrows,Weapon_Bow_030,鋼鐵蜥蜴弓,只有善於使弓的蜥蜴戰士才能持有這把弓。使用了大量金屬強化其本體，有一定的重量，但也更耐用。
+bows,Bows and Arrows,Weapon_Bow_032,獸神弓,萊尼爾的鋼弓，以死亡之山山頂的特殊金屬製成。可以一次射出複數支箭，具有可怕的威力，能像射中紙一樣穿透很厚的鎧甲。
+bows,Bows and Arrows,Weapon_Bow_033,近衛之弓,希卡族因應大災厄而製作的弓。是使用了古代技術的實驗性武器，擁有優異的射擊性能和射速，但也很不耐用。
+bows,Bows and Arrows,Weapon_Bow_035,騎士之弓,海拉魯城堡的騎士們使用的弓。沒有特殊之處，很好上手，可以穩定地射擊。因為是金屬製的，所以十分耐用。
+bows,Bows and Arrows,Weapon_Bow_036,王族之弓,海拉魯王賜予善於弓術的海拉魯騎士之弓。華麗的設計十分引人注目，但射擊性能也很優秀。
+bows,Bows and Arrows,Weapon_Bow_038,木之弓,為了狩獵小型動物而製作的木弓。如果拿來和怪物戰鬥的話有點靠不住。
+bows,Bows and Arrows,Weapon_Bow_040,二連弓,依蓋隊中擅長弓術者使用的弓。為了讓自己瞄準的敵人能一擊斃命，設計成一次可以射出兩支箭。
+bows,Bows and Arrows,Weapon_Bow_072,黃昏之弓,自古以來於海拉魯王族傳承的弓。據說對抗黃昏怪物的公主曾經使用過，射出的箭以強力及長射程為傲。
+bows,Bows and Arrows,Weapon_Bow_101,左納尼烏姆之弓,左納烏族的弓，射擊時會消耗能源。拉弓時會根據蓄力時間增加能源消耗及射出箭矢的飛行距離。
+bows,Bows and Arrows,Weapon_Bow_104,魔像之弓,隊長魔像所裝備的弓。雖然構造簡單，卻是以不可燃材質製成，不會像木弓一樣起火燃燒。
+bows,Bows and Arrows,Weapon_Bow_105,魔像之強弓,隊長魔像所裝備的硬弓。不只不會因高溫燃燒，本身強度也變得更高，可以施放更強力的箭矢。
+bows,Bows and Arrows,Weapon_Bow_106,魔像之剛弓,隊長魔像所裝備的強力弓。保有不會燃燒的特徵，並讓構造變得更加複雜。弓弦非常硬，一般人的力量難以拉開。
+bows,Bows and Arrows,Weapon_Bow_107,殘舊的木之弓,做工古老的木製弓。為了狩獵動物所製作而成，因此威力並不大。
+bows,Bows and Arrows,Weapon_Bow_166,魔王之弓,魔王愛用的魔弓，會依據持有者的力量使其性能產生變化。心心的最大值越高，攻擊力也會越高。
+weapons,Weapons,Weapon_Lsword_001,旅人雙手劍,在各地旅行的冒險者愛用的雙手劍。和怪物戰鬥時，可以活用其重量將敵人的盾牌擊飛。
+weapons,Weapons,Weapon_Lsword_002,士兵雙手劍,專為戰鬥改良的雙手劍。減輕重量後使其方便使用，可減少蓄力攻擊需消耗的精力。
+weapons,Weapons,Weapon_Lsword_003,騎士雙手劍,即便是守衛海拉魯城堡的騎士，也只有力量足夠強大者才會攜帶這把大劍。心心剩餘1個以下時，可以使出強力的攻擊。
+weapons,Weapons,Weapon_Lsword_019,莫力布林之骨,即使只剩手臂也還能動的莫力布林骨頭。又長又粗的骨頭具有足以當成武器的威力，但也非常脆弱，容易壞掉。
+weapons,Weapons,Weapon_Lsword_020,生鏽的雙手劍,被長時間棄置而生鏽的大劍。雖然可以當作武器，但十分不耐用，用個幾次之後就會壞掉。
+weapons,Weapons,Weapon_Lsword_024,王族雙手劍,賜給海拉魯王族直屬部隊的大劍。揮舞時的威力強大，擁有完美迴避時突擊攻擊的威力增加的特性。
+weapons,Weapons,Weapon_Lsword_027,卓拉大劍,卓拉族使用特殊金屬製作的大劍。由於卓拉人偏好用槍，所以沒什麼人使用它，但被水浸濕以後能夠發揮高強攻擊力。
+weapons,Weapons,Weapon_Lsword_029,格魯德雙手劍,格魯德族中善於劍術之人所裝備的大劍。在劍尖裝上材料後，雖然劍很容易就會損壞，但能夠使其威力發揮到極致。
+weapons,Weapons,Weapon_Lsword_036,劈石劍,用又厚又硬的金屬製成的鼓隆雙手劍。沒有劍刃，所以完全不鋒利，但其硬度和重量相當適合用來採礦。
+weapons,Weapons,Weapon_Lsword_038,船槳,漁船上的道具。原本不是武器，但是可以用來防身。使用耐水的木材製成，相當堅固。
+weapons,Weapons,Weapon_Lsword_041,戒心長刀,只在希卡族流傳的單刃劍。使用傳統技術細心鍛造而成。只要集中精神一揮，就能夠產生真空刀刃。
+weapons,Weapons,Weapon_Lsword_045,農用鋤頭,用來挖土耕田的農具。十分堅固，可以經得起農作。根據使用的方法不同，也可以當成武器。
+weapons,Weapons,Weapon_Lsword_047,近衛雙手劍,希卡族集合古代技術精華製成的大劍。雖然不太耐用，但擁有在瀕臨損壞時會發揮巨大攻擊力的特性。
+weapons,Weapons,Weapon_Lsword_051,大迴旋鏢,必須用雙手才能揮動的巨大迴旋鏢。改良原本狩獵用的迴旋鏢後作為戰鬥時所用，彎曲的內側有刃，非常難上手。
+weapons,Weapons,Weapon_Lsword_054,碎岩巨劍,最硬的大劍，由英傑達爾克爾所攜帶。達爾克爾能夠輕鬆揮舞這把大劍，人類若想要熟練地使用，必須經過一番苦練。
+weapons,Weapons,Weapon_Lsword_057,黃昏之大劍,據說是海拉魯王國自遙遠的過去流傳下來的細長大劍。劍身閃耀著神秘的白色光輝。
+weapons,Weapons,Weapon_Lsword_059,大鼓隆之劍,據說是鼓隆的名匠為了穿越時空而來的勇者打造的傳統鋼劍。其鋒利足見工匠技藝之精湛。
+weapons,Weapons,Weapon_Lsword_060,鬼神大劍,據說是月落世界的勇者擁有，形狀特殊的大劍。據說拿著這把劍的人，戰鬥時會如鬼神般勇猛。
+weapons,Weapons,Weapon_Lsword_101,左納尼烏姆之大劍,以左納尼烏姆打造，左納烏族的大劍。擁有附上左納烏裝置或左納烏文明材料後，能比平常微幅增加攻擊力的特性。
+weapons,Weapons,Weapon_Lsword_103,粗棒,從大樹上砍落下來的木棒。雖然沒有特別結實，但前端很沉重，揮舞攻擊可以彈飛盾牌。
+weapons,Weapons,Weapon_Lsword_106,旅人雙手劍,在各地旅行的冒險者愛用的雙手劍。雖然已經腐朽而不甚鋒利，但能夠將敵人的盾牌擊飛。
+weapons,Weapons,Weapon_Lsword_108,結實粗棒,從結實的樹木上砍落下來的堅硬木棒。雖然粗枝形狀長得歪曲，不過耐久度卻意外地很高。
+weapons,Weapons,Weapon_Lsword_109,多節粗棒,從樹幹附近的部位切割出來的木棒。乾燥後使其硬度增加，攻擊力很高，高到不像是木製品。
+weapons,Weapons,Weapon_Lsword_112,士兵雙手劍,設計輕薄的金屬製雙手劍，供城內士兵使用。由於重量輕巧，反覆揮舞也不易感到疲倦。可減少蓄力攻擊需消耗的精力。
+weapons,Weapons,Weapon_Lsword_113,騎士雙手劍,守衛城堡的騎士所配戴的雙手劍。與想要守護重要事物的意念互相共鳴，當心心減少至1個時能使出強力的攻擊。
+weapons,Weapons,Weapon_Lsword_114,戒心長刀,劍身已經腐朽的單刃大劍。雖然鋒利度因為腐朽而有所減損，但只要集中精神一揮，就能夠產生真空刀刃。
+weapons,Weapons,Weapon_Lsword_124,王族雙手劍,賜予王族直屬部隊的大劍。使用起來較為困難，但針對熟練的使用者進行了調整，在完美迴避時會增加突擊攻擊威力。
+weapons,Weapons,Weapon_Lsword_127,卓拉大劍,採用特殊金屬製成，劍身已經腐朽的卓拉族大劍。在沾水狀態下會發揮很高的攻擊力，適合在水邊戰鬥時使用。
+weapons,Weapons,Weapon_Lsword_129,格魯德雙手劍,劍身已經腐朽的格魯德族的大劍。為使力量更容易傳導至劍尖，犧牲了劍的耐久度，能將裝在上頭的材料之力發揮至極限。
+weapons,Weapons,Weapon_Lsword_136,劈石劍,原本是運用其重量來擊倒敵人的武器。雖然已經腐朽，但可用來擊碎岩石。非常適合用來挖掘。
+weapons,Weapons,Weapon_Lsword_147,近衛雙手劍,針對近衛騎士試製的雙手劍。採用了特殊技術鍛造金屬製成，雖然耐久度較低，但在瀕臨損壞時會發揮強大的攻擊力。
+weapons,Weapons,Weapon_Lsword_161,魔法大杖,帶有些許神奇力量的法杖。據說古代的魔法師能透過此杖，喚醒沉睡在寶石中的力量。
+weapons,Weapons,Weapon_Lsword_163,左納尼烏姆之強大劍,以左納尼烏姆打造，堅固的左納烏族大劍。擁有會和左納烏裝置或左納烏文明材料共鳴，能比平時更有攻擊力的特性。
+weapons,Weapons,Weapon_Lsword_164,左納尼烏姆之剛大劍,以左納尼烏姆打造，左納烏族的強力大劍。擁有會和左納烏裝置或左納烏文明材料共鳴，能比平時大幅增加攻擊力的特性。
+weapons,Weapons,Weapon_Lsword_166,瘴氣金屬棒,象徵著瘋狂與不祥的金屬棒。其強力的一擊可將對方徹底粉碎殆盡，持有此金屬棒者身體會逐漸被瘴氣侵蝕。
+weapons,Weapons,Weapon_Lsword_168,粗棒,從大樹上砍落下來的粗棒。雖然沒有特別結實，但前端很沉重，揮舞攻擊時的威力不容小覷。
+weapons,Weapons,Weapon_Lsword_174,大迴旋鏢,腐朽的巨大迴旋鏢。原本是用於狩獵的器具，相當難以上手。擲得好的話會回到使用者身邊。
+weapons,Weapons,Weapon_Spear_001,旅人之槍,旅人為了保護自己不受狼等野生動物傷害而隨身攜帶的護身用槍，好握又順手。
+weapons,Weapons,Weapon_Spear_002,士兵之槍,城堡裡的士兵所使用的長槍。經過充分鍛鍊的使用者能夠隨意揮舞，能更快使出蓄力攻擊。
+weapons,Weapons,Weapon_Spear_003,騎士之槍,為了能熟練使用武器的騎士而製作的槍。槍頭帶有像斧頭般的刀刃為其特徵。心心剩餘1個以下時可以使出強力的攻擊。
+weapons,Weapons,Weapon_Spear_021,生鏽的槍,很久以前騎士使用的生鏽的槍。也許是因為長時間受到風吹雨打，槍頭損壞嚴重，很不耐用。
+weapons,Weapons,Weapon_Spear_022,農用釘耙,為了有效率地收集乾草而製作的農具。做得十分輕巧，不分男女老幼皆可使用，前端分成四根，相當鋒利。
+weapons,Weapons,Weapon_Spear_024,王族之槍,此槍被賜予負責守衛城堡中重要場所的騎士使用。擁有完美迴避時突擊攻擊的威力增加的特性。
+weapons,Weapons,Weapon_Spear_025,森民之槍,據說是克洛格族為人類製作的槍。以輕巧堅固的木頭為材料，在劍尖裝上會破裂的果實可重複利用其特性。
+weapons,Weapons,Weapon_Spear_027,卓拉之槍,是卓拉族常用的槍。不只是捕魚，也可在抵禦外敵時的戰鬥中使用。被水浸濕以後能夠發揮高強攻擊力。
+weapons,Weapons,Weapon_Spear_029,格魯德之槍,格魯德族的士兵廣泛運用的槍。前端利於集中力量，能使材料威力發揮到極致，但會對槍身造成龐大負擔。
+weapons,Weapons,Weapon_Spear_030,投槍,特別為了投擲突刺設計的特殊長槍。透過取得槍尖與槍柄間的平衡，能比一般的槍投擲得更遠。
+weapons,Weapons,Weapon_Spear_032,斬風羽槍,利特族士兵使用的槍。可以在空中振翅時使用，擁有突刺時產生強風的特性。
+weapons,Weapons,Weapon_Spear_036,木拖把,經常被用於清掃地板的清潔工具。因為是工匠手工打造的，所以非常耐用，甚至可以當作武器使用。
+weapons,Weapons,Weapon_Spear_038,漁夫的魚叉,主要用來捕獲大型魚類的漁具。擁有銳利的尖端，也可以作為武器使用。若能用其叉住逃跑的魚，就算獨當一面的漁夫了。
+weapons,Weapons,Weapon_Spear_047,近衛之槍,希卡族集合古代技術精華製成的槍。雖然不太耐用，但擁有在瀕臨損壞時會發揮巨大攻擊力的特性。
+weapons,Weapons,Weapon_Spear_050,光鱗之槍,英傑米法愛用的優雅名槍。米法十分擅長治癒，但據說槍法也是一流的。
+weapons,Weapons,Weapon_Spear_101,左納尼烏姆之槍,以左納尼烏姆打造，左納烏族的槍。擁有槍尖附上左納烏裝置或左納烏文明材料後，能比平時微幅增加攻擊力的特性。
+weapons,Weapons,Weapon_Spear_103,長棒,從樹枝上切斷下來的長棒。運用其筆直的形狀，可當作突刺用的武器。
+weapons,Weapons,Weapon_Spear_106,旅人之槍,旅行者帶在身上護身的普通長槍。槍身腐朽鋒利度也不佳，但大小適中，任誰都能輕鬆揮舞。
+weapons,Weapons,Weapon_Spear_108,結實長棒,枝幹彎曲較少，長而結實的木棒。能輕易傳遞突刺的力道。且選用較硬的樹木部位砍下作成，耐久度也很高。
+weapons,Weapons,Weapon_Spear_109,多節長棒,將樹枝分岔的前端砍下做成的長棒。切斷處凹凸不平，被擊中會很痛，和普通的木棒相比攻擊力更高。
+weapons,Weapons,Weapon_Spear_112,士兵之槍,城堡的士兵所用的減輕重量金屬槍。因其輕巧好上手，能更快使出蓄力攻擊。
+weapons,Weapons,Weapon_Spear_113,騎士之槍,為城堡的騎士所打造的槍。基於守護王國與城堡的騎士道精神，當心心減少至1個以下時能使出強力的攻擊。
+weapons,Weapons,Weapon_Spear_124,王族之槍,守護城內重要地點的騎士所獲贈的槍。得具備高於水準的技術才能活用自如，在完美迴避時會增加突擊攻擊威力。
+weapons,Weapons,Weapon_Spear_125,森民之槍,槍尖已經腐朽的克洛格族的槍。其中滿溢著生命力，在槍尖裝上會破裂的果實可重複利用其特性。
+weapons,Weapons,Weapon_Spear_127,卓拉之槍,槍身已經腐朽的卓拉族的槍。使用水性較強的特殊金屬製成，沾水後能發揮很高的攻擊力。
+weapons,Weapons,Weapon_Spear_129,格魯德之槍,槍身已經腐朽的格魯德族的槍。前端利於集中力量，能使材料威力發揮到極致，但會對槍身造成龐大負擔。
+weapons,Weapons,Weapon_Spear_132,斬風羽槍,槍身已經腐朽的利特族士兵的槍。槍尖具有獨特的形狀，可藉由快速突刺產生巨大的風力。
+weapons,Weapons,Weapon_Spear_147,近衛之槍,近衛騎士使用的槍。採用特殊金屬製成的試作品，耐久度較低且運用難度高，但擁有在瀕臨損壞時會發揮巨大攻擊力的特性。
+weapons,Weapons,Weapon_Spear_161,魔法長杖,帶有些許魔力的長杖。據說古代的魔法師為了引出寶石之力，會使用此杖作為祭祀器具。
+weapons,Weapons,Weapon_Spear_163,左納尼烏姆之強槍,左納烏族所使用的堅固之槍，耐久度優異。擁有附上左納烏裝置或左納烏文明材料後能比平時更有攻擊力的特性。
+weapons,Weapons,Weapon_Spear_164,左納尼烏姆之剛槍,以左納尼烏姆打造，左納烏族的強力之槍。擁有會和槍尖左納烏裝置或左納烏文明材料共鳴，能比平時大幅增加攻擊力的特性。
+weapons,Weapons,Weapon_Spear_166,瘴氣之槍,散發著恐怖氣息的長槍，光看著就令人不寒而慄。也有傳聞說揮舞此槍便能收割靈魂，持有此槍者身體會逐漸被瘴氣侵蝕。
+weapons,Weapons,Weapon_Spear_168,長棒,從樹枝上切斷下來的長棒。運用其筆直的形狀，可當作突刺用的武器。
+weapons,Weapons,Weapon_Spear_173,投槍,槍尖已經腐朽的投擲用槍。雖然失去了鋒利度，但適合投擲的重心與平衡性皆完好如初，依然可以擲得很遠。
+weapons,Weapons,Weapon_Sword_001,旅人之劍,在海拉魯全域十分普遍的劍，主要用於防範危險的野生動物。雖然十分耐用，但用來對付怪物還是有點靠不住。
+weapons,Weapons,Weapon_Sword_002,士兵之劍,過去守衛海拉魯城堡的士兵使用的劍。具有可以和怪物交鋒的鋒利，還能夠讓人更快速地使出蓄力攻擊。
+weapons,Weapons,Weapon_Sword_003,騎士之劍,過去海拉魯城堡的騎士們攜帶的配劍。當剩餘的心心減少至1個時可以使出強力的攻擊。
+weapons,Weapons,Weapon_Sword_019,波克布林之骨,即使被斬斷也會繼續活動的詭異腕骨，讓人不太想放進自己的袋子裡。因為已經變得又舊又脆弱，所以很快就會壞掉。
+weapons,Weapons,Weapon_Sword_020,蜥蜴戰士之骨,死後仍然能繼續活動的骷髏蜥蜴戰士之骨。可以揮舞此骨作為武器使用，但非常脆弱。背在背上時也能感覺到它在動……
+weapons,Weapons,Weapon_Sword_021,生鏽的劍,似乎是很久以前著名劍士所使用的單手劍，現在已經生鏽了。雖然還能使用，但是馬上就會壞掉。
+weapons,Weapons,Weapon_Sword_022,木湯勺,舀湯或是炒菜時使用的烹飪工具。削取堅硬的木材製作而成，所以被這個打到的話會很痛。
+weapons,Weapons,Weapon_Sword_024,王族之劍,海拉魯王族曾將此劍賜予立下傑出功績的騎士。擁有能讓完美迴避時突擊攻擊的威力增加的特性。
+weapons,Weapons,Weapon_Sword_025,森民之劍,據說是克洛格族為人類所作的劍。屬於木製品，所以主要用於防身，在劍尖裝上會破裂的果實可重複利用其特性。
+weapons,Weapons,Weapon_Sword_027,卓拉之劍,以纖細的劍身與卓拉族特有裝飾為特徵之劍。具有沾水後會發揮出高攻擊力的特性，也被稱為「如卓拉得水之劍」。
+weapons,Weapons,Weapon_Sword_029,格魯德匕首,格魯德地區最普及的劍。裝上材料後，能使材料威力發揮到極致，但會對劍身造成龐大負擔。
+weapons,Weapons,Weapon_Sword_031,斬風羽劍,利特族使用的雙刃劍。經過特別設計，在空中也能敏捷地完成動作。擁有揮舞時能颳起強風的特性。
+weapons,Weapons,Weapon_Sword_041,戒心小刀,希卡族傳統的單刃劍。擁有其他刀劍沒有的細長刀身和鋒利度，特性是比起一般武器，偷襲時的威力更高。
+weapons,Weapons,Weapon_Sword_043,火把,一點火就會不斷燃燒的火把。一旦把它收起來，火就會熄滅，使用時需要再點一次火。
+weapons,Weapons,Weapon_Sword_044,木枝,路邊隨處可見的樹枝，揮舞起來有著恰到好處的平衡。不太可靠，但可以裝備在身上作為武器使用。
+weapons,Weapons,Weapon_Sword_047,近衛之劍,希卡族運用古代技術打造的武器。有耐久度方面的問題，但擁有在瀕臨損壞時會發揮巨大攻擊力的特性。
+weapons,Weapons,Weapon_Sword_051,迴旋鏢,原本是森林居民克洛格的武器。形狀獨特，設計製作成即使丟出去，還是會回到自己手中。
+weapons,Weapons,Weapon_Sword_052,七寶匕首,首屈一指的名劍，曾為英雄烏爾波扎愛用。據說烏爾波扎揮舞這把劍的模樣，有如華麗的舞蹈一般。
+weapons,Weapons,Weapon_Sword_057,天空的白刃劍,據說是來自天空的勇者所持有的劍。特徵是筆直延伸的美麗白刃，握緊此劍就能神奇地感受到天空的微風。
+weapons,Weapons,Weapon_Sword_058,初始之劍,據傳是古代勇者所使用的劍。拿在手中就會神奇地湧出一股令人懷念的感覺。
+weapons,Weapons,Weapon_Sword_059,海風迴旋鏢,據說是在大海旅行的勇者愛用的迴旋鏢。有股淡淡的海潮氣味。
+weapons,Weapons,Weapon_Sword_070,大師之劍,從白龍身上取得，傳說中的驅魔之劍。經過漫長的時光，治癒了受到的重創，並且取得了足以對抗魔王的嶄新力量。
+weapons,Weapons,Weapon_Sword_070_Broken,腐朽的大師之劍,寄宿著神聖之力的驅魔之劍。如今在海拉魯城堡的地下受瘴氣影響，劍身已腐朽不堪。
+weapons,Weapons,Weapon_Sword_101,左納尼烏姆之劍,以左納尼烏姆為材料打造，左納烏族的劍。擁有附上左納烏裝置或左納烏文明材料後能比平時微幅增加攻擊力的特性。
+weapons,Weapons,Weapon_Sword_103,木棒,將樹枝加工成方便手持的木棒，使其在揮舞時形成絕妙的平衡。裝備後可當作武器使用。
+weapons,Weapons,Weapon_Sword_105,迴旋鏢,腐朽的木製迴旋鏢。擲出後會回到手裡的便利武器，即使腐朽也沒有改變其特性。
+weapons,Weapons,Weapon_Sword_106,旅人之劍,廣泛普及於旅行者間的普通劍。劍身部分已經腐朽，但姑且還可以斬斷東西。
+weapons,Weapons,Weapon_Sword_107,蜥蜴迴旋鏢,蜥蜴戰士愛用的彎刀。以金屬打造，在容易起火的地區也能安心使用。特徵是即使投擲出去也會回到自己身邊。
+weapons,Weapons,Weapon_Sword_108,結實木棒,由堅硬樹枝加工而成的木棒。樹枝本身似乎充分沐浴過太陽光，比一般的樹枝更為結實，耐久度較高。
+weapons,Weapons,Weapon_Sword_109,多節木棒,將曬乾後的樹枝加工成大小適合手握的木棒。用來揮舞時，其長度與粗細程度都無可挑剔。比一般的木棒攻擊力更高。
+weapons,Weapons,Weapon_Sword_112,士兵之劍,城堡的士兵所用的減輕重量金屬劍。因其輕巧好上手，能更快使出蓄力攻擊。
+weapons,Weapons,Weapon_Sword_113,騎士之劍,守衛海拉魯城堡的騎士所裝備的劍，在面臨危機時能發揮真正的力量，心心剩餘1個以下時可使出強力的攻擊。
+weapons,Weapons,Weapon_Sword_114,戒心小刀,劍身已經腐朽的希卡族單刃劍。小巧的劍身適合用於隱密行動，與正面交鋒相比，偷襲時的威力會更高。
+weapons,Weapons,Weapon_Sword_124,王族之劍,王家授予立下特別功績之騎士的劍。專為擅長劍術之人所鍛造。擁有在完美迴避時會增加突擊攻擊威力的特性。
+weapons,Weapons,Weapon_Sword_125,森民之劍,劍身已經腐朽的克洛格族木劍。劍本身蘊含了生命力，在劍尖裝上會破裂的果實可重複利用其特性。
+weapons,Weapons,Weapon_Sword_127,卓拉之劍,劍身已經腐朽的卓拉族的細劍。鍛造此劍的金屬相當契合卓拉族，沾水後會發揮很高的攻擊力。
+weapons,Weapons,Weapon_Sword_129,格魯德匕首,刀身已經腐朽的格魯德地區的匕首。前端利於集中力量，能使材料威力發揮到極致，但會對劍身造成龐大負擔。
+weapons,Weapons,Weapon_Sword_131,斬風羽劍,劍身已經腐朽的利特族的雙刃劍。劍刃造型獨特，每次揮舞都能颳起巨大的風。
+weapons,Weapons,Weapon_Sword_147,近衛之劍,供近衛騎士作為裝備使用而試作的劍。以較不耐用的特殊金屬打造而成，但在瀕臨損壞時會發揮巨大攻擊力。
+weapons,Weapons,Weapon_Sword_161,魔法杖,能感受到神奇魔力的短杖。古代的魔法師似乎會利用此杖，將沉睡在寶石中的力量發揮至極限。
+weapons,Weapons,Weapon_Sword_163,左納尼烏姆之強劍,以左納尼烏姆打造，堅固的左納烏族劍。擁有劍尖附上左納烏裝置或左納烏文明材料後會與其共鳴，比平時更有攻擊力的特性。
+weapons,Weapons,Weapon_Sword_164,左納尼烏姆之剛劍,以左納尼烏姆打造，左納烏族的強力之劍。擁有附上左納烏裝置或左納烏文明材料後，能比平時大幅增加攻擊力的特性。
+weapons,Weapons,Weapon_Sword_166,瘴氣之劍,散發出不祥氣息的細劍，據說會斬斷所有觸碰到的生命。持有此劍者身體會逐漸被瘴氣侵蝕。
+weapons,Weapons,Weapon_Sword_167,木枝,路邊隨處可見的樹枝，揮舞起來有著恰到好處的平衡。不太可靠，但可以裝備在身上作為武器使用。
+weapons,Weapons,Weapon_Sword_168,木棒,將樹枝加工成方便手持的木棒，使其在揮舞時形成絕妙的平衡。裝備後可當作武器使用。
+non_player_characters,Character Profiles,Npc_Hunters_Lost,一葉,
+non_player_characters,Character Profiles,Npc_SouthernVillageGambler,丁半,
+non_player_characters,Character Profiles,Npc_oasis037,三葉,
+non_player_characters,Character Profiles,Npc_HighMountain001,丘栗,
+non_player_characters,Character Profiles,Npc_HighMountain040,久戈,
+non_player_characters,Character Profiles,Npc_OasisMilk_A,亞伊多拉,
+non_player_characters,Character Profiles,Npc_SouthernVillage004,亞梅司,
+non_player_characters,Character Profiles,Npc_FirstColony004,代伊,
+non_player_characters,Character Profiles,Npc_BaseCamp_Zora003,伊塔,
+non_player_characters,Character Profiles,Npc_Zora_Attendant002,伊姆,
+non_player_characters,Character Profiles,Npc_Attacked_004,伊姆塔,
+non_player_characters,Character Profiles,Npc_NorthHatelHatago001,伊瑣,
+non_player_characters,Character Profiles,Npc_Goron033,伊福爾,
+non_player_characters,Character Profiles,Npc_HyruleDepthHatago006,伊雷扎,
+non_player_characters,Character Profiles,Npc_Goron_Cafe002,伊頓,
+non_player_characters,Character Profiles,Npc_GerudoGate_Soldier001,伊魯聶,
+non_player_characters,Character Profiles,Npc_Road_001,伍德,
+non_player_characters,Character Profiles,Npc_OldKorok,伯庫林,
+non_player_characters,Character Profiles,Npc_Goron016,伯洛杭,
+non_player_characters,Character Profiles,Npc_OasisHylia_002,伯騰薩,
+non_player_characters,Character Profiles,Npc_Attacked_003,伽諾雷,
+non_player_characters,Character Profiles,Npc_Attacked_007,佐拉姆,
+non_player_characters,Character Profiles,Npc_Road_006,佐羅納,
+non_player_characters,Character Profiles,Npc_Orchestra_M_H,余福爾,
+non_player_characters,Character Profiles,Npc_SouthernVillage015,佩蒂,
+non_player_characters,Character Profiles,Npc_oasis005,依格雷塔,
+non_player_characters,Character Profiles,Npc_Assassin_Middle_001,依蓋隊 幹部,
+non_player_characters,Character Profiles,Npc_Assassin_Middle_002,依蓋隊 幹部,
+non_player_characters,Character Profiles,Npc_Assassin_Middle_003,依蓋隊 幹部,
+non_player_characters,Character Profiles,Npc_Assassin_Middle_004,依蓋隊 幹部,
+non_player_characters,Character Profiles,Npc_Assassin_Middle_Azito001,依蓋隊 幹部,
+non_player_characters,Character Profiles,Npc_Assassin_Middle_Azito002,依蓋隊 幹部,
+non_player_characters,Character Profiles,Npc_Assassin_Middle_Azito003,依蓋隊 幹部,
+non_player_characters,Character Profiles,Npc_Assassin_Junior,依蓋隊 成員,
+non_player_characters,Character Profiles,Npc_Assassin_Junior_001,依蓋隊 成員,
+non_player_characters,Character Profiles,Npc_Assassin_Junior_002,依蓋隊 成員,
+non_player_characters,Character Profiles,Npc_Assassin_Junior_003,依蓋隊 成員,
+non_player_characters,Character Profiles,Npc_Assassin_Junior_Azito001,依蓋隊 成員,
+non_player_characters,Character Profiles,Npc_Assassin_Junior_Azito002,依蓋隊 成員,
+non_player_characters,Character Profiles,Npc_Assassin_Junior_Azito003,依蓋隊 成員,
+non_player_characters,Character Profiles,Npc_Assassin_Junior_Azito004,依蓋隊 成員,
+non_player_characters,Character Profiles,Npc_Assassin_Junior_Azito005,依蓋隊 成員,
+non_player_characters,Character Profiles,Npc_Assassin_Junior_Azito006,依蓋隊 成員,
+non_player_characters,Character Profiles,Npc_Assassin_Junior_Azito007,依蓋隊 成員,
+non_player_characters,Character Profiles,Npc_Assassin_Junior_Azito008,依蓋隊 成員,
+non_player_characters,Character Profiles,Npc_Assassin_Junior_Azito009,依蓋隊 成員,
+non_player_characters,Character Profiles,Npc_Assassin_Junior_Tribune,依蓋隊 成員,
+non_player_characters,Character Profiles,Obj_DiaryAssassin_A_01,依蓋隊日誌,
+non_player_characters,Character Profiles,Obj_Notepad_Assassin_A_01,依蓋隊筆記,
+non_player_characters,Character Profiles,Npc_TabantaBridgeHatago004,修,
+non_player_characters,Character Profiles,TwnObj_BackNumberBook,傳聞中的三葉,
+non_player_characters,Character Profiles,Npc_SouthernVillage016,儒秀,
+non_player_characters,Character Profiles,Npc_WellMania,優諾西塔,
+non_player_characters,Character Profiles,KorokCarryPassenger_Pair,克洛格,
+non_player_characters,Character Profiles,KorokCarry_Destination,克洛格,
+non_player_characters,Character Profiles,Npc_HiddenKorokGround,克洛格,
+non_player_characters,Character Profiles,Npc_MiniGame_Crosscountry,克羅康巴,
+non_player_characters,Character Profiles,Npc_BaseCamp004,克薩艾爾,
+non_player_characters,Character Profiles,Npc_Attacked_012,內爾梵,
+non_player_characters,Character Profiles,Npc_HyruleWestHatago003,內谷伊,
+non_player_characters,Character Profiles,Npc_oasis021,內麗秀,
+non_player_characters,Character Profiles,HorseAssociationCustum002,凡琺,
+non_player_characters,Character Profiles,Npc_Cannon13_01,凱亞奇達,
+non_player_characters,Character Profiles,Npc_Cannon_03,凱亞奇達,
+non_player_characters,Character Profiles,Npc_OasisWaterChannel,凱列邦,
+non_player_characters,Character Profiles,Npc_TamourPlainHatago_001,凱法雅,
+non_player_characters,Character Profiles,Npc_DeathEastHatago_003,凱特,
+non_player_characters,Character Profiles,TwnObj_RitoRecordsBook,利特的文獻,
+non_player_characters,Character Profiles,Npc_TamourHatago005,利賜特,
+non_player_characters,Character Profiles,Npc_SouthernVillage014,利迦尼,
+non_player_characters,Character Profiles,Npc_Road_003,力丘,
+non_player_characters,Character Profiles,Npc_oasis014,力姆芭,
+non_player_characters,Character Profiles,Npc_BaseCamp_Zora001,努彌艾恩,
+non_player_characters,Character Profiles,Npc_SouthernVillage010,努邁西諾,
+non_player_characters,Character Profiles,Dm_Npc_Raul,勞魯,
+non_player_characters,Character Profiles,Npc_Kokiri007,匹康,
+non_player_characters,Character Profiles,Npc_OasisMilk_C,匹羅,
+non_player_characters,Character Profiles,Npc_gerudovalley001,匹魯艾,
+non_player_characters,Character Profiles,Npc_goron026,博伊空,
+non_player_characters,Character Profiles,Npc_Kakariko005,博嘉多,
+non_player_characters,Character Profiles,Npc_BaseCamp_Zora004,卡佩拉,
+non_player_characters,Character Profiles,Npc_OasisStep_A,卡托爾,
+non_player_characters,Character Profiles,Npc_oasis013,卡拉,
+non_player_characters,Character Profiles,Npc_kokiri012,卡拉塞,
+non_player_characters,Character Profiles,Npc_Zora020,卡提,
+non_player_characters,Character Profiles,Npc_HighMountain004,卡昂,
+non_player_characters,Character Profiles,Npc_Umii_Road_Scholar_A,卡波克,
+non_player_characters,Character Profiles,Npc_SmallOasis004,卡秋,
+non_player_characters,Character Profiles,Npc_BaseCampSoldier_Hylia007,卡茲拉,
+non_player_characters,Character Profiles,Npc_Road_023,卡茲納比,
+non_player_characters,Character Profiles,Obj_DiaryGoron_Npc_Gaman03,卡貝塔的日記,
+non_player_characters,Character Profiles,Npc_CraftSignboard001,卡邦達,
+non_player_characters,Character Profiles,Npc_HatenoGate001,卡里尤,
+non_player_characters,Character Profiles,FldObj_HatenoGateBook,卡里尤的日記,
+non_player_characters,Character Profiles,Npc_Zora005,卡頗達,
+non_player_characters,Character Profiles,Npc_AncientAssistant003,古拉內達,
+non_player_characters,Character Profiles,Npc_CaveTraveler001,古拉吉,
+non_player_characters,Character Profiles,Npc_Goron022,可可仁,
+non_player_characters,Character Profiles,Npc_HyruleWestHatago001,可姿米,
+non_player_characters,Character Profiles,KohgaNoTitle,可蓋,
+non_player_characters,Character Profiles,Npc_Goron034,可谷,
+non_player_characters,Character Profiles,Npc_HatenoVillage018,可雷維亞,
+non_player_characters,Character Profiles,Npc_BaseCampSoldier_Hylia013,史柯爾皮斯,
+non_player_characters,Character Profiles,Npc_KarakaraRoad_AncientAssistant,史貝尼亞,
+non_player_characters,Character Profiles,Npc_FaronWoods008,司狄亞,
+non_player_characters,Character Profiles,Npc_OasisMilk_B,司麥緹,
+non_player_characters,Character Profiles,Npc_FaronWoods009,吉寧,
+non_player_characters,Character Profiles,Npc_MamonoShop,吉爾頓,
+non_player_characters,Character Profiles,Npc_Goron017,呼戈,
+non_player_characters,Character Profiles,Npc_Zora002,和恩,
+non_player_characters,Character Profiles,Npc_Road_029,咖夏,
+non_player_characters,Character Profiles,Npc_RitoHatago004,咖羅,
+non_player_characters,Character Profiles,Npc_HyruleDepthHatago001,哈依特,
+non_player_characters,Character Profiles,Npc_NewsPaper011,哈卡克,
+non_player_characters,Character Profiles,Npc_UMiiVillage009,哈吉,
+non_player_characters,Character Profiles,Npc_Umii_Kakariko_Scholar_G,哈奇諾,
+non_player_characters,Character Profiles,Npc_UMiiVillage003,哈妮,
+non_player_characters,Character Profiles,Npc_HighMountain013,哈庫,
+non_player_characters,Character Profiles,Npc_HighMountain036,哈米拉,
+non_player_characters,Character Profiles,Npc_HighMountain009,哈茨,
+non_player_characters,Character Profiles,Npc_MercenarySoldier_Hylia009,哈馬塔,
+non_player_characters,Character Profiles,Npc_UMiiVillage010,哈魯麗,
+non_player_characters,Character Profiles,Npc_BaseCamp_Assistant,喬舒亞,
+non_player_characters,Character Profiles,Npc_HyruleWestHatago002,嘉繆,
+non_player_characters,Character Profiles,Npc_OasisGoron_001,嘉託林,
+non_player_characters,Character Profiles,Npc_HyruleDepthHatago003,圖洛陀,
+non_player_characters,Character Profiles,Npc_goron002,坦科羅,
+non_player_characters,Character Profiles,Npc_kokiri006,培帕帕,
+non_player_characters,Character Profiles,Npc_HighMountain010,培達,
+non_player_characters,Character Profiles,Npc_SouthernVillage007,基丘烏,
+non_player_characters,Character Profiles,Npc_SmallOasis002,基內瑪,
+non_player_characters,Character Profiles,Npc_Zora035,基奧托,
+non_player_characters,Character Profiles,Npc_DeathWestHatago_002,基敘,
+non_player_characters,Character Profiles,Npc_FaronWoods007,基洛丘,
+non_player_characters,Character Profiles,Npc_SouthernVillage009,基茲塔,
+non_player_characters,Character Profiles,Npc_HighMountain037,基藏,
+non_player_characters,Character Profiles,Npc_SouthernVillage008,基諾,
+non_player_characters,Character Profiles,Npc_Attacked02_004,塔努莫基,
+non_player_characters,Character Profiles,Npc_MiniGame_BasketBall_Launcher,塔巴魯特,
+non_player_characters,Character Profiles,Npc_BaseCamp_Gerudo003,塔拉鐵拉,
+non_player_characters,Character Profiles,Npc_HutagoHatago_001,塔撒蘭,
+non_player_characters,Character Profiles,Npc_AncientAssistant003_K1,塔烏洛,
+non_player_characters,Character Profiles,Npc_Road_016,塔茨諾,
+non_player_characters,Character Profiles,Npc_Zora014,塞恭,
+non_player_characters,Character Profiles,Npc_Kakariko010,塞羅拉,
+non_player_characters,Character Profiles,Npc_MercenarySoldier_Hylia004A,夏克斯,
+non_player_characters,Character Profiles,Npc_HyrulePlain004,夏媚,
+non_player_characters,Character Profiles,Npc_MercenarySoldier_Goron002B,夏拉克,
+non_player_characters,Character Profiles,Npc_oasis039,夏本努,
+non_player_characters,Character Profiles,Npc_HorseBuyer_04,多利塔,
+non_player_characters,Character Profiles,Npc_Kakariko007,多朗,
+non_player_characters,Character Profiles,Npc_BaseCamp009,多涅,
+non_player_characters,Character Profiles,Npc_BaseCampSoldier_Hylia006,多狄,
+non_player_characters,Character Profiles,Npc_HatenoVillage016,多當茨,
+non_player_characters,Character Profiles,Npc_Goron030,多立疆,
+non_player_characters,Character Profiles,subchallnpc000,多米達克,
+non_player_characters,Character Profiles,Npc_Road_017,多納伊拓,
+non_player_characters,Character Profiles,Npc_oasis024,多羅普,
+non_player_characters,Character Profiles,Npc_Zora003,多雷凡,
+non_player_characters,Character Profiles,Npc_Goron012,多黎爾多,
+non_player_characters,Character Profiles,Npc_DressFairy_00,大妖精可秋拉,
+non_player_characters,Character Profiles,TwnObj_FairySpringClose_A_01,大妖精可秋拉,
+non_player_characters,Character Profiles,Npc_DressFairy_01,大妖精彌佳,
+non_player_characters,Character Profiles,TwnObj_FairySpringClose_C_01,大妖精彌佳,
+non_player_characters,Character Profiles,Npc_DressFairy_03,大妖精蒂拉,
+non_player_characters,Character Profiles,TwnObj_FairySpringClose_D_01,大妖精蒂拉,
+non_player_characters,Character Profiles,Npc_DressFairy_02,大妖精西莎,
+non_player_characters,Character Profiles,TwnObj_FairySpringClose_B_01,大妖精西莎,
+non_player_characters,Character Profiles,LambdaTextNpc,大盜拉姆達的訊息,
+non_player_characters,Character Profiles,Npc_OasisHylia_003,太巴烏瑪,
+non_player_characters,Character Profiles,Npc_BaseCamp014,奇奇莫,
+non_player_characters,Character Profiles,Npc_Goron037,奇布磊達,
+non_player_characters,Character Profiles,Npc_HighMountain035,奇爾,
+non_player_characters,Character Profiles,UnknownNPC_MysteryVoice,奇異的聲音,
+non_player_characters,Character Profiles,Npc_NewsPaper008,奇科,
+non_player_characters,Character Profiles,Npc_SouthernVillage001,奇西亞,
+non_player_characters,Character Profiles,Npc_oasis018,奈爾,
+non_player_characters,Character Profiles,Npc_Challenge093Lady,奧可芭,
+non_player_characters,Character Profiles,Npc_Attacked_010,奧塞雨,
+non_player_characters,Character Profiles,Npc_oasis043,奧居,
+non_player_characters,Character Profiles,Npc_HyruleWestHatago004,奧拉科,
+non_player_characters,Character Profiles,Npc_oasis019,奧爾依兒,
+non_player_characters,Character Profiles,Npc_Kakariko011,奧立貝,
+non_player_characters,Character Profiles,Npc_DeathEastHatago_001,奧茲,
+non_player_characters,Character Profiles,Npc_Road_026,奧薩基,
+non_player_characters,Character Profiles,Npc_oasis010,姆艾麗塔,
+non_player_characters,Character Profiles,Npc_OasisGoddess,姆芭丘,
+non_player_characters,Character Profiles,Npc_HyruleDepthHatago002,姆蒂,
+non_player_characters,Character Profiles,Npc_GerudoCanyon002,姿姆琪,
+non_player_characters,Character Profiles,NPC_oasis004_fr01,娜塔內,
+non_player_characters,Character Profiles,Npc_HighMountain031,娜楠,
+non_player_characters,Character Profiles,Npc_Attacked_008,娜茨,
+non_player_characters,Character Profiles,Npc_NewsPaper004,宓宓納,
+non_player_characters,Character Profiles,Npc_MercenarySoldier_Hylia003A,尤塔斯,
+non_player_characters,Character Profiles,Npc_NewsPaper005,尤美納,
+non_player_characters,Character Profiles,Npc_OasisHylia_001,尤里,
+non_player_characters,Character Profiles,Npc_NorthHateru003,尤雷爾,
+non_player_characters,Character Profiles,Npc_Attacked_006,尼爾巴,
+non_player_characters,Character Profiles,Npc_Umii_Kakariko_Scholar_H,嵐吉亞,
+non_player_characters,Character Profiles,TwnObj_Village_InvestigatorDiary_A_01,左納烏調查隊三個心得,
+non_player_characters,Character Profiles,UnknownNPC_Mineru,左納烏遺物,
+non_player_characters,Character Profiles,Npc_HighMountain025,巴勒,
+non_player_characters,Character Profiles,Npc_Kakariko015,巴南娜,
+non_player_characters,Character Profiles,Npc_TamourHatago003,巴基尼,
+non_player_characters,Character Profiles,Npc_Goron_Cafe001,巴爾達斯,
+non_player_characters,Character Profiles,Npc_Road_035,巴特克,
+non_player_characters,Character Profiles,Npc_TabantaHatago004,巴肯,
+non_player_characters,Character Profiles,Npc_BaseCamp_Gerudo006,巴鐵吉,
+non_player_characters,Character Profiles,Npc_HorseBuyer_02,布修,
+non_player_characters,Character Profiles,subchallnpc000_twin,布利森,
+non_player_characters,Character Profiles,Npc_Kakariko_Road_019,布古力,
+non_player_characters,Character Profiles,Npc_Minigame_BirdMan001,布拓,
+non_player_characters,Character Profiles,Npc_FaronWoods010,布林喀,
+non_player_characters,Character Profiles,Npc_SmallOasis014,布洛武,
+non_player_characters,Character Profiles,Npc_Goron006,布爾多,
+non_player_characters,Character Profiles,Npc_NewsPaper002,布茲克薩,
+non_player_characters,Character Profiles,Npc_AkkareRoad_AncientAssistant,布蓋恩,
+non_player_characters,Character Profiles,Npc_Goron010,布雷頓,
+non_player_characters,Character Profiles,Npc_ZoraB001,希多,
+non_player_characters,Character Profiles,Npc_Zora_Attendant001,希富彌,
+non_player_characters,Character Profiles,Npc_NewsPaper012,希嵐,
+non_player_characters,Character Profiles,Npc_SouthHateru005,希巴,
+non_player_characters,Character Profiles,Npc_MercenarySoldier_Hylia008,希希納塔,
+non_player_characters,Character Profiles,Npc_HatenoVillage026,希恩,
+non_player_characters,Character Profiles,Npc_Goron019,希米特,
+non_player_characters,Character Profiles,Npc_RoadShop_01,希齊納克,
+non_player_characters,Character Profiles,Npc_oasis050,帕伍達,
+non_player_characters,Character Profiles,Npc_GerudoDesert002,帕可蒂,
+non_player_characters,Character Profiles,Npc_Road_041,帕吉爾,
+non_player_characters,Character Profiles,Npc_oasis047,帕多盧,
+non_player_characters,Character Profiles,Npc_oasis038,帕弗宇,
+non_player_characters,Character Profiles,Npc_Road_004,帕拉加斯,
+non_player_characters,Character Profiles,Npc_FaronHatago_001,帕朵克,
+non_player_characters,Character Profiles,NPC_oasis004_fr03,帕穆,
+non_player_characters,Character Profiles,Npc_RiverSideHatago002,帕莉塞,
+non_player_characters,Character Profiles,TwnObj_Village_SheikerHeirDiary_A_03,帕雅的族長日記,
+non_player_characters,Character Profiles,Npc_oasis017,帕魯,
+non_player_characters,Character Profiles,Npc_HighMountain033,庚珂,
+non_player_characters,Character Profiles,Npc_Road_025,庚賽,
+non_player_characters,Character Profiles,Npc_Umii_Kakariko_Scholar_F,庫丹,
+non_player_characters,Character Profiles,Npc_Cannon02_01,庫努基達,
+non_player_characters,Character Profiles,Npc_HatenoVillage029,庫靈,
+non_player_characters,Character Profiles,NPC_artist_001,康吉思,
+non_player_characters,Character Profiles,HorseAssociationCustum003,康妮,
+non_player_characters,Character Profiles,Npc_Road_024,康波,
+non_player_characters,Character Profiles,Npc_LakeSideHatago005,康珀,
+non_player_characters,Character Profiles,Npc_MercenarySoldier_Hylia004,弗拉巴,
+non_player_characters,Character Profiles,Npc_SouthHateru006,弗撒蘭,
+non_player_characters,Character Profiles,Npc_OasisHighMountain_001,弗莉蒂,
+non_player_characters,Character Profiles,Npc_BaseCamp_Zora002,弗賈克,
+non_player_characters,Character Profiles,Npc_Attacked_011,彤迷,
+non_player_characters,Character Profiles,Npc_Bowling,彭多,
+non_player_characters,Character Profiles,Npc_Goron039,彭庫拉,
+non_player_characters,Character Profiles,Npc_Zora011,彭特,
+non_player_characters,Character Profiles,Npc_UMiiVillage033,微達,
+non_player_characters,Character Profiles,Npc_UMiiVillage033_Gerudo,微達,
+non_player_characters,Character Profiles,TwnObj_UMiiVillage033Book,微達的日記,
+non_player_characters,Character Profiles,Npc_HatenoVillage013,德利,
+non_player_characters,Character Profiles,TwnObj_Village_Korok_DekuTree_A_01,德庫樹長老,
+non_player_characters,Character Profiles,Npc_LanayruRoad_AncientAssistant,德蘭塔,
+non_player_characters,Character Profiles,Npc_HyruleWestHatago005,思普林,
+non_player_characters,Character Profiles,Npc_Kokiri008,思達吉,
+non_player_characters,Character Profiles,Npc_TabantaBridgeHatago003,恩,
+non_player_characters,Character Profiles,Npc_HyruleWestHatago006,恰克,
+non_player_characters,Character Profiles,Npc_Attacked_005,恰比,
+non_player_characters,Character Profiles,Npc_Umii_Kakariko_SpecialPartsShopNPC,恰茲魯,
+non_player_characters,Character Profiles,Npc_Road_007,恰里奧,
+non_player_characters,Character Profiles,Npc_Umii_Ichikara_Scholar_C,悉伊達,
+non_player_characters,Character Profiles,Npc_Zora004,慕茲力,
+non_player_characters,Character Profiles,Npc_RiverSideHatago001,戈艾塔弗,
+non_player_characters,Character Profiles,Npc_kokiri003,戴茲,
+non_player_characters,Character Profiles,Npc_HatenoVillage025,托可優,
+non_player_characters,Character Profiles,Npc_Goron011,托喀咚,
+non_player_characters,Character Profiles,Npc_Zora025,托恩,
+non_player_characters,Character Profiles,Npc_Road_008,托托瑪,
+non_player_characters,Character Profiles,Npc_Zora036,托爾伏,
+non_player_characters,Character Profiles,Npc_BaseCampSoldier_Hylia002,托里牧斯,
+non_player_characters,Character Profiles,Npc_Zora006,扶丘,
+non_player_characters,Character Profiles,FldObj_GerudoTownBook2,拉‧塔木的料理筆記①,
+non_player_characters,Character Profiles,FldObj_GerudoTownBook,拉‧塔木的料理筆記②,
+non_player_characters,Character Profiles,Npc_oasis009,拉亦娜,
+non_player_characters,Character Profiles,Npc_KorokFly004,拉哈,
+non_player_characters,Character Profiles,Npc_Road_046,拉基姆,
+non_player_characters,Character Profiles,Npc_MercenarySoldier_Hylia005A,拉塞尼,
+non_player_characters,Character Profiles,NPC_Lanayru001,拉塞爾,
+non_player_characters,Character Profiles,Npc_Goron051,拉夏,
+non_player_characters,Character Profiles,Npc_Road_045,拉妮,
+non_player_characters,Character Profiles,Npc_FutagoRoad_AncientAssistant,拉姆茲,
+non_player_characters,Character Profiles,Npc_goron001,拉托雷,
+non_player_characters,Character Profiles,Npc_Goron018,拉梅拉,
+non_player_characters,Character Profiles,Npc_MercenarySoldier_Hylia008B,拉法雷爾,
+non_player_characters,Character Profiles,Npc_Road_043,拉玻拉,
+non_player_characters,Character Profiles,Npc_oasis023,拉繡,
+non_player_characters,Character Profiles,Npc_Kakariko016,拉茲莉,
+non_player_characters,Character Profiles,Npc_BaseCamp003,拉賈,
+non_player_characters,Character Profiles,Npc_kokiri009,拓奇,
+non_player_characters,Character Profiles,Npc_Zonau_Golem_Servant_FirstIsland_08,採礦魔像,
+non_player_characters,Character Profiles,Npc_Zonau_Golem_Servant_FirstIsland_15,採礦魔像,
+non_player_characters,Character Profiles,Npc_Zonau_Golem_Servant_FirstIsland_16,採礦魔像,
+non_player_characters,Character Profiles,Npc_Zonau_Golem_Servant_ZonauChallenge_02,採礦魔像,
+non_player_characters,Character Profiles,Npc_HyrulePlain006,摩洛黑,
+non_player_characters,Character Profiles,Npc_Zora027,摩爾登,
+non_player_characters,Character Profiles,Npc_Zonau_Golem_Servant_FirstIsland_03,料理魔像,
+non_player_characters,Character Profiles,Npc_Zora032,斯八巴,
+non_player_characters,Character Profiles,Npc_SmallOasis001,斯托拉頓,
+non_player_characters,Character Profiles,Npc_Road_Firone002,斯絲阿娜,
+non_player_characters,Character Profiles,Npc_SmallOasis013,方黛,
+non_player_characters,Character Profiles,Npc_Assassin_003,旅行者,
+non_player_characters,Character Profiles,Npc_Assassin_005,旅行者,
+non_player_characters,Character Profiles,Npc_Assassin_006,旅行者,
+non_player_characters,Character Profiles,Npc_Assassin_007,旅行者,
+non_player_characters,Character Profiles,Npc_SmallOasis003,旭秀,
+non_player_characters,Character Profiles,Npc_Zora012,昂特,
+non_player_characters,Character Profiles,Npc_GerudoDesert003,昂琪艾,
+non_player_characters,Character Profiles,Npc_Assassin_002,時尚者,
+non_player_characters,Character Profiles,Npc_Assassin_004,時尚者,
+non_player_characters,Character Profiles,Npc_Assassin_010,時尚者,
+non_player_characters,Character Profiles,Npc_HatenoGate003,普利托司,
+non_player_characters,Character Profiles,Npc_GerudoGate_AncientAssistant002,普利歐,
+non_player_characters,Character Profiles,Npc_Goron025,普彭達,
+non_player_characters,Character Profiles,Npc_Gerudo_Hylia001,普拉特,
+non_player_characters,Character Profiles,Npc_AncientDoctor,普爾亞,
+non_player_characters,Character Profiles,TwnObj_AncientDoctorDiary_A_01,普爾亞平板使用說明書,
+non_player_characters,Character Profiles,Obj_DiaryTamul_A_01,普爾亞的日記,
+non_player_characters,Character Profiles,Npc_Kakariko004,普莉珂,
+non_player_characters,Character Profiles,Npc_MercenarySoldier_Hylia005,普雷爾,
+non_player_characters,Character Profiles,Npc_oasis008,普雷絲塔,
+non_player_characters,Character Profiles,Npc_OasisStudent_A,普香,
+non_player_characters,Character Profiles,Npc_oasis042,朗潔,
+non_player_characters,Character Profiles,Npc_Zonau_Golem_Servant_FirstIsland_06,木匠魔像,
+non_player_characters,Character Profiles,Npc_Zonau_Golem_Servant_FirstIsland_07,木匠魔像,
+non_player_characters,Character Profiles,Npc_Zonau_Golem_Servant_FirstIsland_12,木匠魔像,
+non_player_characters,Character Profiles,Npc_Zonau_Golem_Servant_FirstIsland_13,木匠魔像,
+non_player_characters,Character Profiles,Npc_Zonau_Golem_Servant_FirstIsland_14,木匠魔像,
+non_player_characters,Character Profiles,Npc_Zonau_Golem_Servant_FirstIsland_18,木匠魔像,
+non_player_characters,Character Profiles,Npc_Zonau_Golem_Servant_FirstIsland_23,木匠魔像,
+non_player_characters,Character Profiles,Npc_Road_002_Road,本戈,
+non_player_characters,Character Profiles,Npc_HyruleDepthHatago004,果戈,
+non_player_characters,Character Profiles,Npc_Goron021,柏格,
+non_player_characters,Character Profiles,Npc_Goron_Cafe03,柯剛克,
+non_player_characters,Character Profiles,Npc_BaseCampSoldier_Hylia003,柯波拉,
+non_player_characters,Character Profiles,Npc_NushiShop,柯爾天,
+non_player_characters,Character Profiles,Npc_BaseCamp_AncientAssistant002,柯玖,
+non_player_characters,Character Profiles,Npc_NewsPaper009,柯魯庫,
+non_player_characters,Character Profiles,Npc_Remains_Fancier001,柳奈,
+non_player_characters,Character Profiles,Npc_Zora031,栗托邦,
+non_player_characters,Character Profiles,Npc_MiniGame_Golf,格力弗特,
+non_player_characters,Character Profiles,Npc_Lanayru004,格拉克,
+non_player_characters,Character Profiles,Npc_Goron032,格拉普,
+non_player_characters,Character Profiles,NPC_oasis004,格瑪納,
+non_player_characters,Character Profiles,Npc_HighMountain034,格里戈莉,
+non_player_characters,Character Profiles,Npc_Goron023,格雷達,
+non_player_characters,Character Profiles,Npc_HatenoVillage030,桂達,
+non_player_characters,Character Profiles,Npc_HighMountain003,桃虹,
+non_player_characters,Character Profiles,Npc_DeathMt001,桑伏,
+non_player_characters,Character Profiles,Npc_NewVolcanicRoad_AncientAssistant,桑戈巴,
+non_player_characters,Character Profiles,Npc_MercenarySoldier_Camper002,梅恩塔,
+non_player_characters,Character Profiles,Npc_oasis028,梅爾艾娜,
+non_player_characters,Character Profiles,Npc_SmallOasis009,梅肯樸,
+non_player_characters,Character Profiles,Npc_HatenoVillage009,森娜,
+non_player_characters,Character Profiles,Obj_Notepad_Tips_A_01,檯面上的備忘錄,
+non_player_characters,Character Profiles,Npc_HatenoVillage032,櫻達,
+non_player_characters,Character Profiles,Npc_Kakariko013,歌思汀,
+non_player_characters,Character Profiles,Npc_NewsPaper007,歐奇克,
+non_player_characters,Character Profiles,HorseAssociationCustum004,步鈴,
+non_player_characters,Character Profiles,Npc_VolcanicRoad_AncientAssistant,比斯卡,
+non_player_characters,Character Profiles,Npc_TabantaBridgeHatago006,比韃,
+non_player_characters,Character Profiles,Npc_Rito_Postman_001,沛恩,
+non_player_characters,Character Profiles,Npc_BaseCamp001,波儂,
+non_player_characters,Character Profiles,Npc_OasisSoldier_C,波布爾,
+non_player_characters,Character Profiles,Npc_Road_028,波爾頓,
+non_player_characters,Character Profiles,Npc_RitoHatago003,波陀司,
+non_player_characters,Character Profiles,Npc_Zora001,泰喀,
+non_player_characters,Character Profiles,Npc_kokiri001,泰奇奧,
+non_player_characters,Character Profiles,Npc_HatenoVillage028,泰奇波,
+non_player_characters,Character Profiles,Npc_HatenoVillage015,泰德,
+non_player_characters,Character Profiles,Npc_HatenoVillage033,泰麥娜,
+non_player_characters,Character Profiles,Npc_Road_018,洛卜莉可,
+non_player_characters,Character Profiles,Npc_SmallOasis005,洛布司塔,
+non_player_characters,Character Profiles,Npc_SouthernVillage013,洛澤爾,
+non_player_characters,Character Profiles,Npc_AncientDoctor_Hateno,洛貝利,
+non_player_characters,Character Profiles,Npc_goron003,派爾多,
+non_player_characters,Character Profiles,Npc_AncientAssistant004,潔琳,
+non_player_characters,Character Profiles,Npc_HatenoVillage023,烏梅,
+non_player_characters,Character Profiles,HorseAssociationCustum001,特娜,
+non_player_characters,Character Profiles,Npc_ValleyVillage010,特巴,
+non_player_characters,Character Profiles,Npc_oasis002,特朵拉,
+non_player_characters,Character Profiles,Npc_TripMaster_00,特里,
+non_player_characters,Character Profiles,Npc_TamourPlainHatago_004,狄姆奇,
+non_player_characters,Character Profiles,Npc_Attacked_002,狄爾,
+non_player_characters,Character Profiles,Npc_OasisStudent_C,狄秀娜,
+non_player_characters,Character Profiles,Npc_Zonau_Golem_Servant_FirstIsland_02,獵人魔像,
+non_player_characters,Character Profiles,Npc_Zonau_Golem_Servant_FirstIsland_04,獵人魔像,
+non_player_characters,Character Profiles,Npc_Zonau_Golem_Servant_FirstIsland_17,獵人魔像,
+non_player_characters,Character Profiles,Npc_Attacked_009,玫古,
+non_player_characters,Character Profiles,Npc_oasis040,玲奈爾,
+non_player_characters,Character Profiles,Npc_Goron014,玻林,
+non_player_characters,Character Profiles,Npc_Road_011,珀多瑪,
+non_player_characters,Character Profiles,Npc_oasis029,珂姆,
+non_player_characters,Character Profiles,Npc_Kakariko012,珂拉麗,
+non_player_characters,Character Profiles,Npc_Kakariko003,珂珂娜,
+non_player_characters,Character Profiles,Npc_Zora008,珂答,
+non_player_characters,Character Profiles,Npc_HighMountain032,珂茨,
+non_player_characters,Character Profiles,Npc_Road_040,珂諾塔肯,
+non_player_characters,Character Profiles,Npc_SmallOasis012,珂隆,
+non_player_characters,Character Profiles,Npc_oasis041,珂頓,
+non_player_characters,Character Profiles,Npc_Goron050,琉貝,
+non_player_characters,Character Profiles,Npc_NewsPaper013,琪吉瓦凱,
+non_player_characters,Character Profiles,Npc_oasis025,琪珂,
+non_player_characters,Character Profiles,Npc_HatenoVillage001,瑟吉,
+non_player_characters,Character Profiles,Npc_HatenoVillage021,瑟法羅,
+non_player_characters,Character Profiles,Npc_HighMountain020,瑟賽麗,
+non_player_characters,Character Profiles,Npc_OasisSoldier_B,瑟迷笛,
+non_player_characters,Character Profiles,Npc_oasis011,瑪丘亞,
+non_player_characters,Character Profiles,Npc_oasis012,瑪卡拉,
+non_player_characters,Character Profiles,Npc_kokiri005,瑪卡瑪加,
+non_player_characters,Character Profiles,Npc_MercenarySoldier_Camper003,瑪埃斯特,
+non_player_characters,Character Profiles,Npc_OasisSoldier_A,瑪帕,
+non_player_characters,Character Profiles,Npc_OasisStep_B,瑪托莉,
+non_player_characters,Character Profiles,Npc_Zora009,瑪爾圖,
+non_player_characters,Character Profiles,Npc_RiverSideHatago003,瑪肯保,
+non_player_characters,Character Profiles,Npc_HatenoGate002,瓦圖盧,
+non_player_characters,Character Profiles,Npc_OasisTeacher,瓦夏,
+non_player_characters,Character Profiles,Npc_HatenoVillage011,瓦太庚,
+non_player_characters,Character Profiles,Npc_Road_012,瓦斯珂,
+non_player_characters,Character Profiles,Npc_LakeSideHatago004,瓦諾利,
+non_player_characters,Character Profiles,Npc_Orchestra_M_P,畢茲,
+non_player_characters,Character Profiles,Npc_TabantaHatago003,登頓,
+non_player_characters,Character Profiles,Npc_Goron015,皮凱,
+non_player_characters,Character Profiles,Npc_Zora_NewFaceSoldier002,皮諾亞,
+non_player_characters,Character Profiles,Npc_BaseCamp008,皮谷羅,
+non_player_characters,Character Profiles,Npc_GerudoCanyonHatago001,皮阿斐,
+non_player_characters,Character Profiles,Obj_DiaryGerudo_A_03,監視所的日誌,
+non_player_characters,Character Profiles,Npc_NorthHatelHatago006,盧桑,
+non_player_characters,Character Profiles,Npc_Zora028,盧特亞,
+non_player_characters,Character Profiles,TwnObj_Village_InvestigatorDiary_A_03,石板解讀記錄,
+non_player_characters,Character Profiles,TwnObj_Village_InvestigatorDiary_A_04,石板解讀記錄,
+non_player_characters,Character Profiles,TwnObj_Village_InvestigatorDiary_A_05,石板解讀記錄,
+non_player_characters,Character Profiles,TwnObj_Village_InvestigatorDiary_A_06,石板解讀記錄,
+non_player_characters,Character Profiles,TwnObj_Village_InvestigatorDiary_A_07,石板解讀記錄,
+non_player_characters,Character Profiles,Obj_Notepad_Assassin_A_02,破爛的筆記,
+non_player_characters,Character Profiles,Npc_oasis007,碧優拉,
+non_player_characters,Character Profiles,Npc_Orchestra_W_00,碧歐蘭,
+non_player_characters,Character Profiles,Npc_Zora015,福拉拉托,
+non_player_characters,Character Profiles,Npc_Road_015,秋明,
+non_player_characters,Character Profiles,Npc_Goron031,科普思,
+non_player_characters,Character Profiles,Npc_NewsPaper001,科梧佐,
+non_player_characters,Character Profiles,Npc_HatenoVillage,科沙尤西,
+non_player_characters,Character Profiles,Npc_HatenoVillage_Armed,科沙尤西,
+non_player_characters,Character Profiles,TwnObj_HatenoVillage_MayorDiary_A_01,科沙尤西的日記,
+non_player_characters,Character Profiles,Npc_BaseCamp_Gerudo001,科爾奇,
+non_player_characters,Character Profiles,Npc_Umii_Kakariko_Scholar_C,科里聶,
+non_player_characters,Character Profiles,Npc_SouthernVillage005,穆貝,
+non_player_characters,Character Profiles,Npc_BaseCamp_Gerudo002,積爾巴,
+non_player_characters,Character Profiles,Npc_Zonau_Golem_Servant_BaseCamp_01,管家魔像,
+non_player_characters,Character Profiles,Npc_Zonau_Golem_Servant_FirstIsland_00,管家魔像,
+non_player_characters,Character Profiles,Npc_Zonau_Golem_Servant_FirstIsland_10,管家魔像,
+non_player_characters,Character Profiles,Npc_Zonau_Golem_Servant_FirstIsland_11,管家魔像,
+non_player_characters,Character Profiles,Npc_Zonau_Golem_Servant_FirstIsland_19,管家魔像,
+non_player_characters,Character Profiles,Npc_Zonau_Golem_Servant_FirstIsland_20,管家魔像,
+non_player_characters,Character Profiles,Npc_Zonau_Golem_Servant_FirstIsland_22,管家魔像,
+non_player_characters,Character Profiles,Npc_Zonau_Golem_Servant_Minus0001,管家魔像,
+non_player_characters,Character Profiles,Npc_Zonau_Golem_Servant_Minus0002,管家魔像,
+non_player_characters,Character Profiles,Npc_Zonau_Golem_Servant_Minus0003,管家魔像,
+non_player_characters,Character Profiles,Npc_Zonau_Golem_Servant_Minus0004,管家魔像,
+non_player_characters,Character Profiles,Npc_Zonau_Golem_Servant_Minus0005,管家魔像,
+non_player_characters,Character Profiles,Npc_Zonau_Golem_Servant_Minus0006,管家魔像,
+non_player_characters,Character Profiles,Npc_Zonau_Golem_Servant_Minus0007,管家魔像,
+non_player_characters,Character Profiles,Npc_Zonau_Golem_Servant_Minus0008,管家魔像,
+non_player_characters,Character Profiles,Npc_Zonau_Golem_Servant_Minus0009,管家魔像,
+non_player_characters,Character Profiles,Npc_Zonau_Golem_Servant_Minus0010,管家魔像,
+non_player_characters,Character Profiles,Npc_Zonau_Golem_Servant_Minus0021,管家魔像,
+non_player_characters,Character Profiles,Npc_Zonau_Golem_Servant_Minus0022,管家魔像,
+non_player_characters,Character Profiles,Npc_Zonau_Golem_Servant_Minus0024,管家魔像,
+non_player_characters,Character Profiles,Npc_Zonau_Golem_Servant_Minus0025,管家魔像,
+non_player_characters,Character Profiles,Npc_Zonau_Golem_Servant_Shrine_00,管家魔像,
+non_player_characters,Character Profiles,Npc_Zonau_Golem_Servant_Shrine_01,管家魔像,
+non_player_characters,Character Profiles,Npc_Zonau_Golem_Servant_SkyIsland0001,管家魔像,
+non_player_characters,Character Profiles,Npc_Zonau_Golem_Servant_SkyIsland0002,管家魔像,
+non_player_characters,Character Profiles,Npc_Zonau_Golem_Servant_SkyIsland0003,管家魔像,
+non_player_characters,Character Profiles,Npc_Zonau_Golem_Servant_ZonauChallenge_00,管理魔像,
+non_player_characters,Character Profiles,Npc_FarthestIsland002,米沫基,
+non_player_characters,Character Profiles,Npc_Orchestra_M_00,米洛央,
+non_player_characters,Character Profiles,Dm_Npc_Raumi,米涅魯,
+non_player_characters,Character Profiles,Npc_RaumiGolem_Sage,米涅魯,
+non_player_characters,Character Profiles,Npc_TamourHatago001,米荷,
+non_player_characters,Character Profiles,Npc_HighMountain021,米莎莎,
+non_player_characters,Character Profiles,Obj_DiaryRito001_A_01,米莎莎的食譜,
+non_player_characters,Character Profiles,Npc_MercenarySoldier_Hylia007,米諾魯,
+non_player_characters,Character Profiles,Npc_Strange_Beacon,米默扎,
+non_player_characters,Character Profiles,Npc_HatenoVillage008,納卜,
+non_player_characters,Character Profiles,Npc_HatenoVillage006,納基珂,
+non_player_characters,Character Profiles,Npc_HighMountain008,納庫,
+non_player_characters,Character Profiles,Npc_kokiri004,納托,
+non_player_characters,Character Profiles,Npc_HatenoVillage007,納拉拉,
+non_player_characters,Character Profiles,Npc_kokiri002,納末敏,
+non_player_characters,Character Profiles,Npc_KorokFly002,納柯,
+non_player_characters,Character Profiles,Npc_HatenoVillage005,納茨宇基,
+non_player_characters,Character Profiles,Npc_HighMountain011,納茲力,
+non_player_characters,Character Profiles,Npc_Road_033,納茲比,
+non_player_characters,Character Profiles,Npc_BaseCamp_Gerudo004,納諾帖,
+non_player_characters,Character Profiles,Npc_Kakariko006,納金,
+non_player_characters,Character Profiles,Npc_Road_042,納頓,
+non_player_characters,Character Profiles,Npc_MercenarySoldier_Hylia002,索提斯,
+non_player_characters,Character Profiles,Npc_HatenoVillage004,索特茨,
+non_player_characters,Character Profiles,Npc_GerudoDesert001,索璞,
+non_player_characters,Character Profiles,Npc_FaronWoods001,索艾,
+non_player_characters,Character Profiles,Npc_HatenoVillage019,索芙拉,
+non_player_characters,Character Profiles,Npc_FaronWoods003,索赫伊,
+non_player_characters,Character Profiles,Npc_HighMountain030,索里雷絲,
+non_player_characters,Character Profiles,Npc_Road_009,絲勒塔,
+non_player_characters,Character Profiles,Npc_IceVillage011,絲蕾米,
+non_player_characters,Character Profiles,Npc_oasis016,緹克爾,
+non_player_characters,Character Profiles,Npc_HatenoVillage017,羅丹特,
+non_player_characters,Character Profiles,Npc_goron004,羅古洛,
+non_player_characters,Character Profiles,Npc_Zora033,羅司里,
+non_player_characters,Character Profiles,Npc_oasis027,羅汀,
+non_player_characters,Character Profiles,Npc_HatenoVillage024,羅雷爾,
+non_player_characters,Character Profiles,Npc_HatenoVillage024_AssassinFake,羅雷爾,
+non_player_characters,Character Profiles,Obj_Hateno_MessageBook,羅雷爾的留言,
+non_player_characters,Character Profiles,Npc_Kakariko008,美洛,
+non_player_characters,Character Profiles,FldObj_DevoteSpring_Book,老舊的筆記,
+non_player_characters,Character Profiles,Obj_DiaryKakariko004_A_01,老舊的筆記,
+non_player_characters,Character Profiles,TwnObj_HatenoVillage_ZeldaDiary_A_02,聯絡簿,
+non_player_characters,Character Profiles,Npc_BaseCamp007,聶提斯,
+non_player_characters,Character Profiles,Npc_MiniGame_Basketball,聶斯特,
+non_player_characters,Character Profiles,Npc_GerudoGate_AncientAssistant001,聶聶亞,
+non_player_characters,Character Profiles,Npc_TabantaBridgeHatago002,肯,
+non_player_characters,Character Profiles,Npc_oasis032,艾可緹絲,
+non_player_characters,Character Profiles,Npc_oasis001,艾夏,
+non_player_characters,Character Profiles,Npc_BaseCamp012,艾姜,
+non_player_characters,Character Profiles,Npc_Umii_Kakariko_Scholar_A,艾巴力,
+non_player_characters,Character Profiles,Npc_SmallOasis010,艾梅莉,
+non_player_characters,Character Profiles,Npc_MercenarySoldier_Hylia003,艾爾伊谷,
+non_player_characters,Character Profiles,Npc_oasis046,艾特思,
+non_player_characters,Character Profiles,Npc_Road_005,艾納西邁,
+non_player_characters,Character Profiles,Npc_oasis044,艾絲皮,
+non_player_characters,Character Profiles,Npc_Umii_Kakariko_Scholar_D,艾諾可,
+non_player_characters,Character Profiles,Npc_NewsPaper006,艾雅,
+non_player_characters,Character Profiles,Npc_oasis020,芙拉吉,
+non_player_characters,Character Profiles,Npc_OasisMilk_E,芙洛絲,
+non_player_characters,Character Profiles,Npc_Attacked02_002,芙瀨,
+non_player_characters,Character Profiles,Npc_oasis022,芙雷格拉,
+non_player_characters,Character Profiles,Npc_SouthernVillage012,芙雷芭,
+non_player_characters,Character Profiles,NPC_Lanayru002,芬,
+non_player_characters,Character Profiles,Npc_GerudoDesert004,芭樂塔,
+non_player_characters,Character Profiles,Npc_HyruleDepthHatago005,英布利,
+non_player_characters,Character Profiles,Npc_Wanderer,英帕,
+non_player_characters,Character Profiles,Npc_TamourPlainHatago_003,茨亞,
+non_player_characters,Character Profiles,Npc_oasis026,茨扎,
+non_player_characters,Character Profiles,Npc_HatenoVillage014,茨琪米,
+non_player_characters,Character Profiles,Npc_HatenoVillage010,茨瓦布奇,
+non_player_characters,Character Profiles,Npc_TamourPlainHatago_002,茱英,
+non_player_characters,Character Profiles,Npc_HighMountain041,茱諾,
+non_player_characters,Character Profiles,Npc_Zora034,茱阿達,
+non_player_characters,Character Profiles,Npc_HorseBuyer,茲基,
+non_player_characters,Character Profiles,Npc_Cannon02_02,茲庫恩達,
+non_player_characters,Character Profiles,Npc_Cannon09_02,茲庫恩達,
+non_player_characters,Character Profiles,Obj_DiaryCannon02_A_01,茲庫恩達的日誌,
+non_player_characters,Character Profiles,Npc_Goron035,荷洛爾達,
+non_player_characters,Character Profiles,Npc_Eldin_Hylia002,荷爾特斯,
+non_player_characters,Character Profiles,Npc_Attacked_001,莉基,
+non_player_characters,Character Profiles,Npc_OasisStudent_B,莉森,
+non_player_characters,Character Profiles,Npc_Road_022,莉瑟,
+non_player_characters,Character Profiles,Npc_HighMountain005,莎琪,
+non_player_characters,Character Profiles,Npc_HutagoHatago_Woman_01,莎蓋莎,
+non_player_characters,Character Profiles,Npc_UMiiVillage008,莫克森,
+non_player_characters,Character Profiles,Npc_Goron040,莫塔,
+non_player_characters,Character Profiles,Npc_UMiiVillage007,莫娜莉,
+non_player_characters,Character Profiles,Npc_BaseCampSoldier_Hylia001,莫澤恩,
+non_player_characters,Character Profiles,Npc_KorokFly001,莫雷斯普,
+non_player_characters,Character Profiles,Npc_Orchestra_BT_F,菲伊,
+non_player_characters,Character Profiles,Npc_Zora026,菲內,
+non_player_characters,Character Profiles,Npc_HatenoVillage022,萬作,
+non_player_characters,Character Profiles,TwnObj_Village_SheikerHeirDiary_A_02,萬千煩惱帖,
+non_player_characters,Character Profiles,Npc_TabantaHatago001,蒙基,
+non_player_characters,Character Profiles,Npc_BaseCamp011,蒙達納,
+non_player_characters,Character Profiles,Npc_CafeHylia004,蓋休,
+non_player_characters,Character Profiles,Npc_GerudoGate_AncientAssistant004,蓋斯帕魯,
+non_player_characters,Character Profiles,Npc_TabanthaRoad_AncientAssistant,蓋茱亞,
+non_player_characters,Character Profiles,Npc_HighMountain012,蓓拉,
+non_player_characters,Character Profiles,Npc_oasis045,蓓羅雅,
+non_player_characters,Character Profiles,Npc_Attacked02_001,薩利博,
+non_player_characters,Character Profiles,Npc_Umii_Kakariko_Scholar_B,薩古爾,
+non_player_characters,Character Profiles,Npc_Goron036,薩尼達,
+non_player_characters,Character Profiles,Npc_SouthernVillage006,薩巴卡亞,
+non_player_characters,Character Profiles,Npc_Bottle_Mes001,薩撒諾,
+non_player_characters,Character Profiles,Npc_HatenoVillage019_SisterA,薩格諾,
+non_player_characters,Character Profiles,Dm_Npc_Zelda_Search_Improve,薩爾達,
+non_player_characters,Character Profiles,TwnObj_HatenoVillage_ZeldaDiary_A_01,薩爾達的日記,
+non_player_characters,Character Profiles,TwnObj_HatenoVillage_ZeldaDiary_A_03,薩爾達的日記,
+non_player_characters,Character Profiles,UnknownNPC_Zelda,薩爾達的聲音,
+non_player_characters,Character Profiles,Npc_oasis015,薩珠,
+non_player_characters,Character Profiles,Npc_Road_036,薩維,
+non_player_characters,Character Profiles,Npc_MercenarySoldier_Hylia006,薩諾貝,
+non_player_characters,Character Profiles,Npc_MercenarySoldier_Hylia003B,藍諦,
+non_player_characters,Character Profiles,Npc_BaseCamp_AncientAssistant003,蜜盧,
+non_player_characters,Character Profiles,Npc_Zonau_Golem_Servant_FirstIsland_21,製煉魔像,
+non_player_characters,Character Profiles,Npc_Zonau_Golem_Servant_Minus0012,製煉魔像,
+non_player_characters,Character Profiles,Npc_Zonau_Golem_Servant_Minus0013,製煉魔像,
+non_player_characters,Character Profiles,Npc_Zonau_Golem_Servant_Minus0014,製煉魔像,
+non_player_characters,Character Profiles,Npc_Zonau_Golem_Servant_Minus0015,製煉魔像,
+non_player_characters,Character Profiles,Npc_Zonau_Golem_Servant_Minus0016,製煉魔像,
+non_player_characters,Character Profiles,Npc_Zonau_Golem_Servant_Minus0017,製煉魔像,
+non_player_characters,Character Profiles,Npc_Zonau_Golem_Servant_Minus0018,製煉魔像,
+non_player_characters,Character Profiles,Npc_Zonau_Golem_Servant_Minus0019,製煉魔像,
+non_player_characters,Character Profiles,Npc_Zonau_Golem_Servant_Minus0020,製煉魔像,
+non_player_characters,Character Profiles,Npc_Zonau_Golem_Servant_Minus0026,製煉魔像,
+non_player_characters,Character Profiles,Npc_LakeSideHatago006,西米納,
+non_player_characters,Character Profiles,Npc_SouthHateru007,西納巴岡,
+non_player_characters,Character Profiles,Npc_AncientAssistant001,西蒙,
+non_player_characters,Character Profiles,Npc_Road_013,西西摩,
+non_player_characters,Character Profiles,Npc_Kakariko014,西陀拉,
+non_player_characters,Character Profiles,Npc_HatenoVillage012,西默茨凱,
+non_player_characters,Character Profiles,TwnObj_Circuit_Ichikara_RuleBook,規則書,
+non_player_characters,Character Profiles,TwnObj_Circuit_Uotori_RuleBook,規則書,
+non_player_characters,Character Profiles,Npc_Assassin_001,調查員,
+non_player_characters,Character Profiles,Npc_Assassin_008,調查員,
+non_player_characters,Character Profiles,Npc_Assassin_009,調查員,
+non_player_characters,Character Profiles,Npc_Assassin_011,調查員,
+non_player_characters,Character Profiles,Npc_Assassin_012,調查員,
+non_player_characters,Character Profiles,Npc_Assassin_013,調查員,
+non_player_characters,Character Profiles,Npc_Assassin_014,調查員,
+non_player_characters,Character Profiles,Npc_Assassin_015,調查員,
+non_player_characters,Character Profiles,Npc_Assassin_016,調查員,
+non_player_characters,Character Profiles,Npc_Assassin_017,調查員,
+non_player_characters,Character Profiles,Npc_Assassin_018,調查員,
+non_player_characters,Character Profiles,Npc_Assassin_019,調查員,
+non_player_characters,Character Profiles,Npc_Assassin_020,調查員,
+non_player_characters,Character Profiles,Npc_Assassin_021,調查員,
+non_player_characters,Character Profiles,Npc_Assassin_022,調查員,
+non_player_characters,Character Profiles,Npc_Assassin_023,調查員,
+non_player_characters,Character Profiles,Npc_Umii_Minus_Scholar_A,調查員,
+non_player_characters,Character Profiles,Npc_Umii_Minus_Scholar_C,調查員,
+non_player_characters,Character Profiles,Npc_SmallOasis007,諾比爾,
+non_player_characters,Character Profiles,Npc_TamourHatago002,諾波坦,
+non_player_characters,Character Profiles,Npc_Zora029,諾爾,
+non_player_characters,Character Profiles,Npc_oasis036,謝巴,
+non_player_characters,Character Profiles,Obj_DiaryAssassin_A_04,護雷頭盔開發日誌,
+non_player_characters,Character Profiles,Npc_MercenarySoldier_Hylia001,谷拉廉斯,
+non_player_characters,Character Profiles,Npc_Eldin_Hylia004,谷茲利,
+non_player_characters,Character Profiles,NPC_oasis004_fr04,貝倪,
+non_player_characters,Character Profiles,Npc_NorthHateru_around001,貝尼珂,
+non_player_characters,Character Profiles,Npc_MercenarySoldier_Hylia009B,貝恩托薩,
+non_player_characters,Character Profiles,Npc_Road_020,貝黎斯,
+non_player_characters,Character Profiles,Npc_Goron009,貢哥隆,
+non_player_characters,Character Profiles,Npc_KorokFly006,賈托拉,
+non_player_characters,Character Profiles,Npc_BaseCampSoldier_Hylia004,賈斯,
+non_player_characters,Character Profiles,Npc_BaseCamp_AncientAssistant001,賈賈莫,
+non_player_characters,Character Profiles,Npc_SmallOasis006,賓傑明,
+non_player_characters,Character Profiles,Npc_RitoHatago001,賴斯,
+non_player_characters,Character Profiles,Npc_BaseCamp002,賽拉克,
+non_player_characters,Character Profiles,Npc_GerudoGate_AncientAssistant003,賽爾奇克,
+non_player_characters,Character Profiles,Npc_Road_037,赫奇馬魯,
+non_player_characters,Character Profiles,Npc_Road_030,迦拉頓,
+non_player_characters,Character Profiles,Npc_Goron041,迪庫,
+non_player_characters,Character Profiles,Npc_Zora010,迪美,
+non_player_characters,Character Profiles,Npc_OasisMilk_D,迪魯坦,
+non_player_characters,Character Profiles,Npc_Umii_Ichikara_Scholar_B,達恩憲,
+non_player_characters,Character Profiles,Npc_MercenarySoldier_Hylia002B,達比希斯,
+non_player_characters,Character Profiles,Npc_HutagoHatago_002,達特,
+non_player_characters,Character Profiles,Npc_Kokiri011,達秘達米,
+non_player_characters,Character Profiles,Npc_GerudoCanyon003,達空,
+non_player_characters,Character Profiles,Npc_Road_027,達艾拓魯,
+non_player_characters,Character Profiles,Npc_Attacked02_003,那魯希索,
+non_player_characters,Character Profiles,Npc_Eldin_Hylia003,邦克夏,
+non_player_characters,Character Profiles,Npc_TabantaBridgeHatago001,邦姬黛,
+non_player_characters,Character Profiles,Npc_RidgeRoad_AncientAssistant,里夏,
+non_player_characters,Character Profiles,Npc_AncientAssistant005,里德烏,
+non_player_characters,Character Profiles,Npc_Zonau_Golem_Servant_ZonauChallenge_01,鍛造魔像,
+non_player_characters,Character Profiles,Npc_BaseCampSoldier_Hylia005,鐸拉琵,
+non_player_characters,Character Profiles,Obj_DiaryTamul_A_09,關於天地異變的考察,
+non_player_characters,Character Profiles,Npc_HatenoVillage003,阿伊比,
+non_player_characters,Character Profiles,Npc_HatenoVillage027,阿俄塔,
+non_player_characters,Character Profiles,Npc_oasis048,阿克雷特,
+non_player_characters,Character Profiles,Npc_ZoraGoron_001,阿吉普托,
+non_player_characters,Character Profiles,Npc_HatenoVillage002,阿喀恩佐,
+non_player_characters,Character Profiles,Npc_Goron005,阿基特塔,
+non_player_characters,Character Profiles,Npc_NewsPaper003,阿塔卡莫,
+non_player_characters,Character Profiles,Npc_NorthHatelHatago002,阿彌比,
+non_player_characters,Character Profiles,Npc_HorseBuyer_03,阿斯帕,
+non_player_characters,Character Profiles,Obj_DiaryGoronYunbo_A_01,阿沅的日記,
+non_player_characters,Character Profiles,Npc_oasis006,阿洛瑪,
+non_player_characters,Character Profiles,Npc_HatenoVillage020,阿瑪莉麗,
+non_player_characters,Character Profiles,Npc_BaseCamp006,阿納達,
+non_player_characters,Character Profiles,Npc_Kokiri010,阿茲基,
+non_player_characters,Character Profiles,Npc_RitoHatago002,阿莉奧諾,
+non_player_characters,Character Profiles,Npc_HyrulePlain005,阿西蓋爾,
+non_player_characters,Character Profiles,NPC_oasis004_fr02,阿邁尼,
+non_player_characters,Character Profiles,Npc_HyruleDepthHatago007,陀特茨,
+non_player_characters,Character Profiles,Npc_TabantaBridgeHatago005,陀魯,
+non_player_characters,Character Profiles,Npc_Road_010,雅姆,
+non_player_characters,Character Profiles,Npc_Goron042,雅托克,
+non_player_characters,Character Profiles,Npc_Lanayru003,雙葉,
+non_player_characters,Character Profiles,Npc_TamourHatago2_001,雷克斯,
+non_player_characters,Character Profiles,Npc_MercenarySoldier_Goron001B,雷布恩,
+non_player_characters,Character Profiles,Npc_HorseBuyer_01,雷庚,
+non_player_characters,Character Profiles,Npc_Zora013,雷托岡,
+non_player_characters,Character Profiles,Npc_TamourHatago004,霍司塔,
+non_player_characters,Character Profiles,Npc_TabantaHatago002,霍羅,
+non_player_characters,Character Profiles,Npc_Road_014,霍雷頌,
+non_player_characters,Character Profiles,Npc_Road_032,露卡,
+non_player_characters,Character Profiles,TwnObj_GerudoTown_RougeDiary_A_02,露珠的隨筆,
+non_player_characters,Character Profiles,Npc_Goron013,頓嘉蓋,
+non_player_characters,Character Profiles,Npc_Zora037,頓瑪,
+non_player_characters,Character Profiles,Npc_KorokFly003,馬塔利,
+non_player_characters,Character Profiles,Npc_Road_021,馬奧,
+non_player_characters,Character Profiles,Npc_Road_031,馬平,
+non_player_characters,Character Profiles,Npc_KorokFly005,馬德林,
+non_player_characters,Character Profiles,Npc_MercenarySoldier_Hylia001B,馬普拉,
+non_player_characters,Character Profiles,HorseGod001,馬瀧,
+non_player_characters,Character Profiles,Npc_MercenarySoldier_Hylia002A,馬錫麻,
+non_player_characters,Character Profiles,TwnObj_UmayadoBook_07,驛站會員帳本,
+non_player_characters,Character Profiles,Npc_HatenoRoad_AncientAssistant,魯可達,
+non_player_characters,Character Profiles,Npc_Zora007,魯拉曲,
+non_player_characters,Character Profiles,Npc_SmallOasis011,麗普絲,
+non_player_characters,Character Profiles,Npc_Road_044,麥茨,
+non_player_characters,Character Profiles,Npc_DeathEastHatago_002,麥薩奇,
+non_player_characters,Character Profiles,Npc_NorthHateru005,默括,
+non_player_characters,Character Profiles,Npc_Umii_Kakariko_Scholar_J,齊扎利斯,
+non_player_characters,Character Profiles,Npc_Umii_Kakariko_Scholar_E,齊瓦諾,
+non_player_characters,Character Profiles,Npc_Road_034,龍恩,
+towers,Skyview Tower,Tower01,監視堡壘 鳥望台,
+towers,Skyview Tower,Tower02,拉布拉山 鳥望台,
+towers,Skyview Tower,Tower03,茨茨齊齊雪原 鳥望台,
+towers,Skyview Tower,Tower04,奧爾汀峽谷 鳥望台,
+towers,Skyview Tower,Tower05,烏爾利山 鳥望台,
+towers,Skyview Tower,Tower06,撒哈斯拉平原 鳥望台,
+towers,Skyview Tower,Tower07,卓拉台地 鳥望台,
+towers,Skyview Tower,Tower08,海拉魯平原 鳥望台,
+towers,Skyview Tower,Tower09,格魯德峽谷 鳥望台,
+towers,Skyview Tower,Tower10,格魯德高地 鳥望台,
+towers,Skyview Tower,Tower11,拉貝拉濕地帶 鳥望台,
+towers,Skyview Tower,Tower12,德依布朗遺跡 鳥望台,
+towers,Skyview Tower,Tower13,泡泡拉高地 鳥望台,
+towers,Skyview Tower,Tower14,拉聶爾山 鳥望台,
+towers,Skyview Tower,Tower15,卡爾加嶺 鳥望台,
+armors,Armor,Armor_001_Head,海利亞兜帽,使用以海拉魯傳統製法織成的厚實布料製作而成的兜帽。由於可以保護頭部免受風吹雨淋與強烈日曬，因此深受旅人歡迎。
+armors,Armor,Armor_001_Lower,海利亞褲子,深受海拉魯人民喜愛的普通褲子。用柔軟的布料製成，穿起來非常舒服，而且做工紮實，也是很受歡迎的旅行裝束。
+armors,Armor,Armor_001_Upper,海利亞服,深受海拉魯人民喜愛的普通上衣。用輕薄又耐穿的布料製成，方便行動。也有很多旅人穿著。
+armors,Armor,Armor_005_Head,曠野之勇者帽子,據說是為了在曠野旅行的勇者量身訂做的帽子。不知道為什麼，總覺得戴起來非常適合自己。
+armors,Armor,Armor_005_Lower,曠野之勇者褲子,據說是為了在曠野旅行的勇者量身訂做的褲子。尺寸合身，穿起來十分舒服。
+armors,Armor,Armor_005_Upper,曠野之勇者服,據說是為了在曠野旅行的勇者量身訂做的綠色衣服。穿上之後非常合身。
+armors,Armor,Armor_006_Head,卓拉頭盔,卓拉族自古流傳下來的頭盔。據說是用龍麟製成，可以提升游泳的速度。游泳時還能使出迴旋攻擊。
+armors,Armor,Armor_006_Lower,卓拉護脛,卓拉族代代相傳的護脛，據說使用了龍麟當作材料。裝備後能加快游泳的速度。
+armors,Armor,Armor_006_Upper,卓拉鎧甲,已逝卓拉族公主用心製作的鎧甲，只要穿上這防具，海利亞人也能夠沿著瀑布溯流而上。
+armors,Armor,Armor_008_Head,熱沙護額,在格魯德地區相當罕見的男性用防具。額頭上的藍寶石蘊含著冰之力，因為其加護而具有耐熱效果。
+armors,Armor,Armor_008_Lower,熱沙褲子,在格魯德秘密俱樂部裡販賣的男用長褲。使用了蘊含冰之力的藍寶石，因為其加護，會發揮耐熱效果。
+armors,Armor,Armor_008_Upper,熱沙護肩,在格魯德秘密俱樂部裡販賣的男性用防具。使用了蘊含冰之力的藍寶石，因為其加護，會發揮耐熱效果。
+armors,Armor,Armor_009_Head,防雪羽飾,由高級的雪鳥羽毛和蘊含火之力的紅寶石搭配而成的利特族羽飾。戴在身上就有加強耐寒的效果。
+armors,Armor,Armor_009_Lower,利特的羽絨褲,用利特族換下來的羽毛製成的褲子。布料的夾層內裝有羽毛，保暖性強。在利特村主要賣給海利亞人。
+armors,Armor,Armor_009_Upper,利特的羽絨服,為了拜訪塔邦撻和海布拉的海利亞人，而用利特族換下來的羽毛製成的衣服。裡面疊了好幾層羽毛，十分保暖。
+armors,Armor,Armor_011_Head,耐火石盔,鼓隆城的工匠為了拜訪鼓隆城的觀光客製作的石製頭盔。可以整個套在頭上，具有耐火功能。
+armors,Armor,Armor_011_Lower,耐火石鞋,鼓隆族工匠專門為了拜訪鼓隆城的海利亞人打造的鞋子。使用不可燃材料製成，具有耐火功能。
+armors,Armor,Armor_011_Upper,耐火石鎧,鼓隆族為了來到鼓隆城旅行的好奇人類打造的鎧甲。由石頭加工而成，具有耐火功能。
+armors,Armor,Armor_012_Head,潛行面罩,乍看之下像是普通的布面罩，但其實採用了希卡族的技術，施加了特別設計，徹底抑制了衣物摩擦的聲音。最適合機密行動。
+armors,Armor,Armor_012_Lower,潛行緊身褲,希卡族進行機密行動時使用的緊身褲，以使用了古代技術的布料製成，能夠極力抑制衣物摩擦的聲音。
+armors,Armor,Armor_012_Upper,潛行緊身服,希卡族流傳下來的機密行動用緊身服。使用可以抑制衣物摩擦聲的材料，即使行動迅速也不會產生雜音。
+armors,Armor,Armor_014_Head,攀登頭巾,雖然看似普通的頭巾，但其實使用了古代技術，可以調整配戴者的身體平衡，並提高攀爬能力。
+armors,Armor,Armor_014_Lower,攀登鞋,攀登牆壁用的鞋子，採用古代技術製成。使用了防滑性佳的材料，可以牢牢攀住牆面，並能夠快速攀崖。
+armors,Armor,Armor_014_Upper,攀登護手,以古代技術製成的登牆用護手，具有讓指尖防滑且容易使力的功能，因此裝備後可以輕鬆攀崖。
+armors,Armor,Armor_017_Head,夜光面罩,有著骨頭印花的面罩。上面塗了萃取自夜光石的染料。在黑暗中會發出朦朧的光芒，看起來非常詭異。
+armors,Armor,Armor_017_Lower,夜光緊身褲,塗有以夜光石研磨而成特殊染料的緊身褲，在黑暗中會發出詭異的光，浮現出骨骼般的圖樣。
+armors,Armor,Armor_017_Upper,夜光緊身服,塗了從夜光石萃取的染料的緊身服。平常看起來沒什麼特別的地方，但在黑暗中會浮現出骨骼形狀的印花。
+armors,Armor,Armor_020_Head,海利亞士兵頭盔,與怪物進行激烈戰鬥的前線士兵的頭盔。由金屬製成，十分堅固。高防禦力為其特點。現有的頭盔是歷經大災厄後幸運完整留存下來的。
+armors,Armor,Armor_020_Lower,海利亞士兵護脛,海利亞士兵裝備的護脛。由堅固的金屬加工而成，高防禦力為其特點。因為有一定的重量，所以需要一點時間才能習慣裝備著它跑動。
+armors,Armor,Armor_020_Upper,海利亞士兵鎧甲,海利亞士兵裝備的鎧甲。由金屬板加工而成，高防禦力為其特點。從堅固的裝甲可以看出工匠技藝之高超。
+armors,Armor,Armor_022_Head,波克布林面罩,吉爾頓親手製作的波克布林面罩，成品相當可愛。戴上後很難被波克布林發現。
+armors,Armor,Armor_024_Head,鑽石頭飾,在格魯德珠寶店裡販賣的豪華頭飾。因為蘊含光之力的鑽石加護，能夠增加攻擊力。
+armors,Armor,Armor_025_Head,紅寶石頭飾,格魯德的寶石工匠打造的傳統頭飾。因為蘊含火之力的寶石紅寶石的加護，具有耐寒效果。
+armors,Armor,Armor_026_Head,藍寶石頭飾,以格魯德的金工技術製成的精巧頭飾。據說藍寶石蘊含著冰之力，裝備此頭飾就能因其加護而發揮耐熱效果。
+armors,Armor,Armor_027_Head,黃玉耳墜,據說蘊含著雷之力的黃玉，經過格魯德的寶石工匠加工後製成耳墜。配戴此耳墜就能因其加護而發揮耐電效果。
+armors,Armor,Armor_028_Head,蛋白石耳墜,格魯德珠寶店裡出售的耳墜。由於蘊含水之力的蛋白石的加護，戴上這個耳墜就可以提升游泳的速度。
+armors,Armor,Armor_029_Head,琥珀耳墜,陳列在格魯德珠寶店的經典商品之一。使用蘊含大地之力的寶石琥珀製成的耳墜。裝備後可因為其加護而提升防禦力。
+armors,Armor,Armor_045_Head,莫力布林面罩,吉爾頓親手製作的莫力布林面罩。忠實呈現了莫力布林的特色，長鼻子和長舌頭。戴上後很難被莫力布林發現。
+armors,Armor,Armor_046_Head,橡膠頭盔,以古代技術製成，具有耐電效果的頭盔。似乎是使用失傳的特殊材料，不易導電的橡膠製成的。
+armors,Armor,Armor_046_Lower,橡膠緊身褲,具有耐電效果的貴重緊身褲。使用了橡膠這種運用古代技術的材料，以現代的技術，尚無法製作。
+armors,Armor,Armor_046_Upper,橡膠緊身服,具有耐電效果的珍貴緊身服。由橡膠這種使用古代技術的材料製成，能夠覆蓋身體。
+armors,Armor,Armor_048_Head,蠻族頭盔,據說是太古時代費羅尼地區的戰鬥民族的頭盔。刻在上頭的古老花紋能夠鼓舞配戴者的精神，增加其攻擊力。
+armors,Armor,Armor_048_Lower,蠻族短褲,據說是很久以前居住在費羅尼地區的戰鬥民族的短褲，穿上這件褲子的人會因為上頭的特殊花紋湧現出鬥志，增加攻擊力。
+armors,Armor,Armor_048_Upper,蠻族服,據說是很久以前費羅尼地區的戰鬥民族的服裝，穿上後會因為上頭的特殊花紋湧現鬥志，增加攻擊力。
+armors,Armor,Armor_049_Lower,沙地靴,據說是以前格魯德族使用的珍貴靴子。鞋底不容易陷進沙裡，裝備後，即使在沙漠裡，移動速度也絲毫不減。
+armors,Armor,Armor_055_Head,蜥蜴戰士面罩,吉爾頓親手製作的蜥蜴戰士面罩。連凸出的大眼睛都製作得栩栩如生。戴上後很難被蜥蜴戰士發現。
+armors,Armor,Armor_056_Head,萊尼爾面罩,吉爾頓親手製作的萊尼爾面罩。做得唯妙唯肖，甚至能騙過萊尼爾的眼睛。戴上後很難被牠們發現。
+armors,Armor,Armor_1006_Head,滑翔面罩,為降低前方空氣阻力而設計的面罩。藉著整流的效果，讓俯衝時也可穩定滑翔。
+armors,Armor,Armor_1006_Lower,滑翔緊身褲,下半身各處都貼滿布料的緊身褲。藉由提升空氣阻力，使俯衝時更容易滑翔。
+armors,Armor,Armor_1006_Upper,滑翔緊身服,上半身各處都貼滿布料的緊身服，藉此捕捉空氣來獲得升力。可提升俯衝時的滑翔性能。
+armors,Armor,Armor_1036_Head,古代勇者之魂,傳說曾拯救過海拉魯的勇者之魂。將此靈魂寄宿於身體，即可身纏靈氣並模仿其姿態。
+armors,Armor,Armor_1043_Lower,殘舊的鞋子,樸素的舊式鞋子。雖然有頗具年代感的損傷，但依然能穿。涼鞋的鞋帶稍微有點難繫。
+armors,Armor,Armor_1043_Upper,殘舊的外衣,樣式古老的上衣。雖然衣服有些脫線，但其滑順觸感相當舒適。很難將皺褶弄整齊。
+armors,Armor,Armor_1044_Lower,殘舊的防寒服,製作年代看來相當久遠的防寒服。雖然有些老舊，但其材質保暖性很好，足以抵禦一定程度的寒冷。
+armors,Armor,Armor_1046_Head,蛙之頭巾,適合在多雨地區行動時穿戴的頭巾。護額可以抑制頭部晃動，使重心平穩，能更輕易攀爬濕滑的牆面。
+armors,Armor,Armor_1046_Lower,蛙之足袋,適合在多雨地區行動時穿戴的足袋。底部有細小緊密的紋路，同時還塗上止滑的藥劑，在潮濕的牆面也不易打滑。
+armors,Armor,Armor_1046_Upper,蛙之手甲,適合在多雨地區行動時穿戴的手甲。手指內側刻有細小的紋路，具有類似吸盤的功用。攀登潮濕的牆壁也不易滑落。
+armors,Armor,Armor_1051_Head,採礦面罩,據說在黑暗中工作的人們時常穿戴的面罩。附在上面的燈籠裡塞滿了發光物質，會發出淡淡光芒照亮周遭。
+armors,Armor,Armor_1051_Lower,採礦褲子,為了照亮腳下道路，在旁邊附有塞滿發光物質的燈籠之褲子。在黑暗中前進時非常方便。
+armors,Armor,Armor_1051_Upper,採礦服,用塞滿發光物質的各大小燈籠裝飾的衣服。據說是為了在黑暗環境中挖掘資源所製作。
+armors,Armor,Armor_1061_Head,火焰頭飾,據推測是古代祭祀時所使用的頭飾。由具備蓄熱性的材料所製成，可利用周圍的熱氣，在高溫環境下能使出產生火焰的攻擊。
+armors,Armor,Armor_1061_Lower,火焰褲子,據推測是從前為了祭祀而縫製的褲子。本身材質具有蓄熱性，可利用周圍的熱氣，在高溫環境下能使出產生火焰的攻擊。
+armors,Armor,Armor_1061_Upper,火焰服,據推測是過去用於祭祀的衣服。採用蓄熱性高的材質製成，可利用周圍的熱氣，在高溫環境下能使出產生火焰的攻擊。
+armors,Armor,Armor_1066_Head,雷光頭飾,據推測是過去用於祭祀的頭飾。能利用材質本身高帶電性的特性，從雷雨天的大氣中使出產生雷電的攻擊。
+armors,Armor,Armor_1066_Lower,雷光褲子,據推測是古代祭祀時所使用的褲子。由具備高帶電性的布料所製成，在雷雨天能利用空氣中的電使出產生雷電的攻擊。
+armors,Armor,Armor_1066_Upper,雷光服,據推測是從前為了祭祀而縫製的衣服。本身材質具有高帶電性，在雷雨天時能收集周圍的電使出產生雷電的攻擊。
+armors,Armor,Armor_1071_Head,暴風雪頭飾,據推測是從前為了祭祀而縫製的頭飾。由具備冷卻性質的材料所製成，在低溫環境下，可以使出產生冷氣的攻擊。
+armors,Armor,Armor_1071_Lower,暴風雪褲子,據推測是過去用於祭祀的褲子。使用的布料本身具有冷卻的特性，在低溫環境下，可以使出產生冷氣的攻擊。
+armors,Armor,Armor_1071_Upper,暴風雪服,據推測是古代祭祀時所使用的衣服。材質本身即可當作冷卻的素材，在低溫環境下，可以使出產生冷氣的攻擊。
+armors,Armor,Armor_1076_Head,薩格諾帽子,具有獨創性設計之薩格諾的傑作。穿上它走在路上，絕對能吸引對時尚敏感者的興趣！
+armors,Armor,Armor_1086_Head,精靈頭帽,用魔猶伊的遺失物交換到的護額。凝聚著對精靈的祈願並受其加護，受到攻擊時盧比會代替體力減少。
+armors,Armor,Armor_1086_Lower,精靈褲,用魔猶伊的遺失物交換到的鞋子。每條織線都凝聚著對精靈的祈願並受其加護，受到攻擊時盧比會代替體力減少。
+armors,Armor,Armor_1086_Upper,精靈服,用魔猶伊的遺失物交換到的服裝。凝聚著對精靈的祈願編織而成，並受其加護，受到攻擊時盧比會代替體力減少。
+armors,Armor,Armor_1091_Head,左納尼烏姆之頭盔,由左納尼烏姆加工製作而成的頭盔。在製作過程中注入了魔力，能提升裝備者使用左納烏裝置時的能源效率。
+armors,Armor,Armor_1091_Lower,左納尼烏姆之護膝,由左納尼烏姆加工製作而成的護膝。裝備後左納烏族名匠所注入的魔力會生效，能提升操控左納烏裝置時的能源效率。
+armors,Armor,Armor_1091_Upper,左納尼烏姆之前掛,由左納尼烏姆加工製作而成的前掛，穿戴在身上即可受到注入在其中的魔力恩惠。可以更有效率地操控左納烏裝置。
+armors,Armor,Armor_1096_Head,織夢之勇者面具,據說是以某位勇者為原型設計的面具，他曾到一旦進入就無法離開的奇妙島嶼冒險。讓人想要一直戴著，卻又想趕快摘下來。
+armors,Armor,Armor_1096_Lower,織夢之勇者褲子,據說是某位勇者所穿的褲子，他曾到一旦進入就無法離開的奇妙島嶼冒險過。讓人想要一直穿著，卻又想趕快脫下來。
+armors,Armor,Armor_1096_Upper,織夢之勇者服,據說是某位勇者所穿的綠色衣服，他曾到一旦進入就無法離開的奇妙島嶼冒險過。讓人想要一直穿著，卻又想趕快脫下來。
+armors,Armor,Armor_1106_Upper,新式‧英傑服,受海拉魯王族認可的英傑身穿的衣服最新款。以舊款為基礎，增加了護肩等部分，使其成為更加適合冒險時穿著的服裝。
+armors,Armor,Armor_1125_Head,霍拉布林面罩,吉爾頓親手製作的霍拉布林面罩，那大鼻子和微微揚起的嘴角仿造得唯妙唯肖。戴上後很難被霍拉布林發現。
+armors,Armor,Armor_1141_Head,暗黑頭巾,將魄獻給奇妙雕像後所獲得的頭巾。似乎使用了從怪物身上取得的材料，擁有不易受到瘴氣影響的特性。
+armors,Armor,Armor_1141_Lower,暗黑綁腿,將魄獻給奇妙雕像後所獲得的綁腿。似乎使用了從怪物身上採集的材料，可以稍微抵擋瘴氣的影響。
+armors,Armor,Armor_1141_Upper,暗黑服,將魄獻給奇妙雕像後所獲得的衣服。加入怪物材料編織而成的布料效果，可以稍微抵禦瘴氣的影響。
+armors,Armor,Armor_1151_Head,殘舊的髮夾,老舊且樸素的髮夾。雖然有些褪色，但仍然可以使用。用它來固定頭髮的話，會有一股懷舊感。
+armors,Armor,Armor_1152_Head,海利亞兜帽,使用以海拉魯傳統製法織成的厚實布料製作而成的兜帽。由於可以保護頭部免受風吹雨淋與強烈日曬，因此深受旅人歡迎。
+armors,Armor,Armor_115_Head,護雷頭盔,依蓋隊仿製格魯德族當成神器代代相傳的頭盔所打造的防具。內部嵌入了無數黃玉，擁有能彈開雷擊的力量。
+armors,Armor,Armor_116_Upper,回憶服,以前受海拉魯王族認可的五位英傑身穿的衣服，由鮮豔的藍色染成。
+armors,Armor,Armor_1300_Head,依蓋隊面罩,分配給依蓋隊隊員的面罩。面罩包覆住整張臉，甚至可減輕呼吸聲。非常適合機密行動，但輕便的材質使防禦力較低。
+armors,Armor,Armor_1300_Lower,依蓋隊緊身褲,分配給依蓋隊隊員的緊身褲。腳底處採用柔軟的材質，不易發出腳步聲。因為輕薄故防禦力較低。
+armors,Armor,Armor_1300_Upper,依蓋隊緊身服,分配給依蓋隊隊員的衣服。最大限度減少防護用的配件，盡可能減少衣服造成的聲響，防禦力也因此較低。
+armors,Armor,Armor_141_Lower,雪地靴,據說是以前登雪山時使用的珍貴靴子。設計為可以讓體重分散，裝備後，即使在厚厚的積雪上，移動速度也絲毫不減。
+armors,Armor,Armor_160_Head,黑暗頭套,向奇妙雕像獻上魄以後得到的防具。原型據說是想像自黑影中誕生的怪物。紅色的眼睛還會在黑暗中發出詭異的光。
+armors,Armor,Armor_160_Lower,黑暗褲子,向奇妙雕像獻上魄以後得到的防具。乍看之下只是一條普通的黑色褲子，但原型似乎是從影子裡誕生的怪物。
+armors,Armor,Armor_160_Upper,黑暗外衣,向奇妙雕像獻上魄以後得到的防具。款式和據說曾穿在勇者身上的綠色服裝雷同。
+armors,Armor,Armor_171_Head,幻影頭盔,據說以前有隻連勇者都十分畏懼的盔甲怪物，此為該怪物所穿戴的詭異頭盔。是難以入手的珍品。
+armors,Armor,Armor_171_Lower,幻影護脛,據說以前有隻連勇者都十分畏懼的盔甲怪物，此為該怪物所穿戴的脛甲。是難以入手的珍品。
+armors,Armor,Armor_171_Upper,幻影鎧甲,據說以前有隻連勇者都十分畏懼的盔甲怪物，此為該怪物所穿戴的厚實盔甲。是難以入手的珍品。
+armors,Armor,Armor_172_Head,魔吉拉的面具,從太古時期流傳至今的面具。戴著它的話，某些怪物就不容易發現自己。是難以入手的珍品。
+armors,Armor,Armor_173_Head,米多娜的王冠,據說是和黃昏勇者一起為海拉魯而戰的影子女王所配戴的王冠。是難以入手的珍品。
+armors,Armor,Armor_174_Head,汀空的頭巾,嚮往成為妖精的男子愛用的頭巾。對於那名男子來說，綠色似乎是妖精的象徵。似乎是難以入手的珍品。
+armors,Armor,Armor_174_Lower,汀空的褲子,嚮往成為妖精的男子愛穿的褲子。對於那名男子來說，綠色似乎是妖精的象徵。似乎是難以入手的珍品。
+armors,Armor,Armor_174_Upper,汀空的衣服,嚮往成為妖精的男子愛穿的衣服。對於那名男子來說，綠色似乎是妖精的象徵。是難以入手的珍品。
+armors,Armor,Armor_175_Upper,藍色大蝦襯衫,常見於南方島嶼，質地柔軟且舒適的上衣。使用透氣性良好的材料製作，適合在高溫地區穿著。
+armors,Armor,Armor_176_Head,克洛格的面具,仿造克洛格們戴的面具製作而成。如果有克洛格在附近，面具就會咯咯作響。是難以入手的珍品。
+armors,Armor,Armor_177_Head,羅維奧的頭巾,擁有能化身成壁畫的神奇手鐲的旅行商人的頭巾。雖然此頭巾無法使人變成壁畫，卻能加快攀登牆壁時的橫向移動速度，是難以入手的珍品。
+armors,Armor,Armor_178_Head,藏特頭盔,曾有位君臨黃昏世界、冷酷無情又令人畏懼的暴君。據傳這是那位暴君所戴的頭盔。是難以入手的珍品。
+armors,Armor,Armor_179_Head,近衛兵的帽子,海拉魯王國近衛兵的正裝帽。遠比外表來得輕巧，不會妨礙穿戴者的行動。最近重新開始製造，可以在市面上找到了。
+armors,Armor,Armor_179_Lower,近衛兵的靴子,海拉魯王國近衛兵的正裝靴。不僅美觀，還兼具方便行動的優點。最近重新開始製造，可以在市面上找到了。
+armors,Armor,Armor_179_Upper,近衛兵的衣服,海拉魯王國近衛兵的正裝服。使用輕便的材質，兼具美觀與實用性。最近重新開始製造，可以在市面上找到了。
+armors,Armor,Armor_180_Head,異次元惡靈頭盔,據傳是來自異次元的惡靈所穿戴的詭異頭盔。是難以入手的珍品。
+armors,Armor,Armor_180_Lower,異次元惡靈護脛,據傳是來自異次元的惡靈所穿戴的脛甲。是難以入手的珍品。
+armors,Armor,Armor_180_Upper,異次元惡靈鎧甲,據傳是來自異次元的惡靈所穿戴的鎧甲。是難以入手的珍品。
+armors,Armor,Armor_181_Head,神獸兵裝‧露塔,自古以來守護卓拉人民的戰士所持有的頭盔。據說海利亞人只要戴上它，就能加深與卓拉族之間的關係。
+armors,Armor,Armor_182_Head,神獸兵裝‧梅德,自古以來守護利特人民的戰士所持有的頭盔。據說海利亞人只要戴上它，就能加深與利特族之間的關係。
+armors,Armor,Armor_183_Head,神獸兵裝‧魯達尼亞,自古以來守護鼓隆人民的戰士所持有的頭盔。據說海利亞人只要戴上它，就能加深與鼓隆族之間的關係。
+armors,Armor,Armor_184_Head,神獸兵裝‧娜波力斯,自古以來守護格魯德人民的戰士所持有的頭盔。據說海利亞人只要戴上它，就能加深與格魯德族之間的關係。
+armors,Armor,Armor_200_Head,時之勇者帽子,據說是穿越時空而來的勇者頭戴的帽子。無論大人小孩都想戴戴看的精品。
+armors,Armor,Armor_200_Lower,時之勇者褲子,據說是穿越時空而來的勇者所穿的褲子。好像原本是由森林居民製作的。
+armors,Armor,Armor_200_Upper,時之勇者服,據說是穿越時空而來的勇者身著的綠色衣服。適合各個年齡層的人穿著。
+armors,Armor,Armor_205_Head,風之勇者帽子,據說是在大海旅行的勇者愛用的帽子。常常隨著溫柔的海風飄動。
+armors,Armor,Armor_205_Lower,風之勇者褲子,據說是在大海旅行的勇者愛穿的褲子。就算被弄濕也不要緊。
+armors,Armor,Armor_205_Upper,風之勇者服,據說是在大海旅行的勇者愛穿的綠色衣服。傳說是勇者的祖母送給他的禮物。
+armors,Armor,Armor_210_Head,黃昏之勇者帽子,據說是與黃昏怪物戰鬥的勇者頭戴的帽子。不知道為什麼有股野獸的味道。
+armors,Armor,Armor_210_Lower,黃昏之勇者褲子,據說是和黃昏怪物戰鬥的勇者所穿的褲子。內層沾有少許狼毛。
+armors,Armor,Armor_210_Upper,黃昏之勇者服,據說是和黃昏怪物戰鬥的勇者所穿的綠色衣服。仔細一看還沾有些許狼毛。
+armors,Armor,Armor_215_Head,天空之勇者帽子,據說是乘著大鳥從天空出現的勇者總是戴在頭上的帽子。是一款適合在空中翱翔時配戴的精品。
+armors,Armor,Armor_215_Lower,天空之勇者褲子,據說是乘著大鳥從天空出現的勇者總是穿在身上的褲子。這褲子好像是騎士團的制服。
+armors,Armor,Armor_215_Upper,天空之勇者服,據說是乘著大鳥從天空出現的勇者總是穿在身上的綠色衣服。傳說這是慶祝儀式的贈品。
+armors,Armor,Armor_220_Head,希克面罩,曾有一位希卡族人幫助過穿越時空而來的勇者，據傳這是他所配戴的面罩。靜音性高。使用了希卡之布製成，最適合機密行動。
+armors,Armor,Armor_225_Head,鬼神帽子,月落世界的勇者所持有的防具。雖然看起來有點恐怖，但戴上之後，體內會湧現如鬼神般的力量。
+armors,Armor,Armor_225_Lower,鬼神靴,月落世界的勇者所持有的靴子。穿上後體內會湧現如鬼神般的力量。
+armors,Armor,Armor_225_Upper,鬼神服,月落世界的勇者擁有的服裝。穿上後體內會湧現如鬼神般的力量。
+armors,Armor,Armor_230_Head,初始之勇者帽子,據說是古代勇者愛用的帽子。雖然看起來很樸素，但那正是這頂精品的魅力所在。
+armors,Armor,Armor_230_Lower,初始之勇者褲子,據說是古代勇者愛穿的褲子。雖然設計樸素，但卻別有一番風味的精品。
+armors,Armor,Armor_230_Upper,初始之勇者服,據說是古代勇者愛穿的綠色衣服。雖然設計簡單，但卻是經典雋永的精品。
+shields,Shields,Weapon_Shield_001,木盾,使用較輕的木材製成的盾，戰鬥新手也能輕鬆使用。可以承受箭等輕度攻擊。
+shields,Shields,Weapon_Shield_002,士兵盾,這面盾曾經配給守衛城堡的士兵。因為是木製品，所以很輕便且容易使用，但是一旦著火就會燒起來，需要特別留意。
+shields,Shields,Weapon_Shield_003,騎士盾,此盾曾為侍奉海拉魯王族的騎士所用。金屬製，做工堅固，所以可以耐受激烈戰鬥。有一定的重量，必須有相當的技術才能使用。
+shields,Shields,Weapon_Shield_004,波克盾,波克布林將掉在路邊的木板裝上把手而成的盾。非常不耐用，很容易壞掉。
+shields,Shields,Weapon_Shield_005,尖刺波克盾,波克布林用較硬的木頭作成的盾。在木板上綁上了動物的骨頭，增加了其強度。
+shields,Shields,Weapon_Shield_006,龍骨波克盾,在邊緣裝上了化石骨頭，經過強化的波克盾。改良過後可以承受較強的攻擊，不過做工仍然很粗糙，所以並不耐用。
+shields,Shields,Weapon_Shield_007,蜥蜴盾,蜥蜴戰士愛用的盾。由金屬製成，但因為做工粗糙，所以並不怎麼耐用。
+shields,Shields,Weapon_Shield_008,強力蜥蜴盾,透過組合不同種類的金屬，強度得以提高的蜥蜴盾。邊緣上有尖刺，使用時要小心。
+shields,Shields,Weapon_Shield_009,鋼鐵蜥蜴盾,裝上許多片金屬裝甲的蜥蜴盾。防禦力很高，但也很沉重，只有戰鬥能力強的蜥蜴戰士才會裝備。
+shields,Shields,Weapon_Shield_016,萊尼爾盾,萊尼爾裝備的堅固金屬盾。雖然是盾，但上頭也有刃，所以可以利用刀刃斬擊。
+shields,Shields,Weapon_Shield_017,獸王盾,增加了裝甲和刃的萊尼爾盾，無論攻防都得到了強化。邊緣的刃非常銳利，可以切開簡單的防具。
+shields,Shields,Weapon_Shield_018,獸神盾,不管是多麼猛烈的攻擊都能輕鬆防禦，還擁有能斬斷強敵的刃，是終極的盾。受到白鬃萊尼爾的愛用。
+shields,Shields,Weapon_Shield_021,生鏽的盾,似乎是騎士用過的老舊金屬盾。經過長時間棄置，所以生鏽了。雖然防禦力下降，但還能用。
+shields,Shields,Weapon_Shield_022,王族盾,此盾只授予海拉魯騎士中執行王族護衛任務者。擁有美麗裝飾和高度防禦力，是極具魅力的精品。
+shields,Shields,Weapon_Shield_023,森民盾,據說是克洛格族為人類製作的盾。以克洛格森林特有的一種極為堅硬的木頭製成，所以遠比外觀看起來堅固。
+shields,Shields,Weapon_Shield_025,卓拉盾,施加了細膩裝飾的卓拉族之盾。據說熟練的使用者能用左右彎曲的部分格擋攻擊，保護身體。
+shields,Shields,Weapon_Shield_026,格魯德盾,單手劍和盾是格魯德族的基本裝備，金屬製的盾正是配合格魯德族戰鬥風格進化後的產物。除了士兵之外，也很受旅人重用。
+shields,Shields,Weapon_Shield_030,海利亞盾,自古海拉魯王族代代相傳的盾，曾為勇者所持有的傳說也隨著盾流傳至今。擁有其他盾無法企及的壓倒性防禦力及耐用程度。
+shields,Shields,Weapon_Shield_031,兔紋盾,森林裡的獵人愛用的盾。沒有什麼特別之處，容易上手，但不耐用。據說兔子的圖案能在打獵時帶來好運。
+shields,Shields,Weapon_Shield_032,魚紋盾,海上的漁夫愛用的盾。為了方便在船上使用，而使用了較輕的木頭製成。據說魚的圖案能在捕魚時帶來豐收。
+shields,Shields,Weapon_Shield_033,近衛盾,希卡族使用古代技術製作的盾。能夠承受很強的攻擊，但非常不耐用，不太適合實戰。
+shields,Shields,Weapon_Shield_034,獸紋盾,哈特爾地區傳統設計的盾。其性能和一般的木盾沒有什麼差別，但作為工藝品，其外型十分受歡迎。
+shields,Shields,Weapon_Shield_035,旅人盾,許多旅人用來防身的盾。將皮革繃在堅硬的木頭上，可以承受來自低等怪物或野獸的攻擊。
+shields,Shields,Weapon_Shield_036,太陽盾,只有隊長以上級別的格魯德士兵才會被賜予這面豪華的盾。使用了寶石裝飾，價值很高，但同時也是面性能優秀的盾。
+shields,Shields,Weapon_Shield_037,七寶盾,最高級的盾，受到英傑烏爾波扎愛用。使用了精選的金屬，是兼具輕巧與強韌的精品。可以輕鬆承受強烈的攻擊。
+shields,Shields,Weapon_Shield_040,鍋蓋,村民生活所需的調理鍋鍋蓋。雖然是以堅硬的木頭製成，但要拿來當作盾持續使用還是有點不可靠。
+shields,Shields,Weapon_Shield_041,護心盾,希卡族所使用的小型木盾。據說，為了確保其機動性及避免產生死角，而作成了這個特殊的形狀。
+shields,Shields,Weapon_Shield_042,風箏盾,利特族戰士愛用的盾。為了能在空中作戰時背著飛行，而製作成這種形狀。
+shields,Shields,Weapon_Shield_057,海風盾,據說是在大海上旅行的勇者愛用的盾。好像是勇者家族代代相傳之物。
+shields,Shields,Weapon_Shield_101,左納尼烏姆之盾,以左納尼烏姆打造，左納烏族的盾。裝上左納烏裝置時，能利用其特性減少消耗的能源。
+shields,Shields,Weapon_Shield_102,左納尼烏姆之硬盾,左納烏族運用左納尼烏姆製作而成的堅固之盾。有不錯的耐久度，可使裝在上面的左納烏裝置減少消耗的能源。
+shields,Shields,Weapon_Shield_103,左納尼烏姆之堅盾,以左納尼烏姆製成的堅固之盾，耐久度相當高。儲存在其中的能源，可使裝在盾牌上的左納烏裝置更有效率地運作。
+shields,Shields,Weapon_Shield_107,殘舊的木盾,相當老舊的木製盾牌。破損且脆弱不堪，但仍可以抵擋箭矢等輕微攻擊。
+food,Food,Item_Boiled_01,水煮蛋,被地面湧出的熱水煮熟的禽蛋。做法簡單，很受孩子們歡迎。
+food,Food,Item_ChilledFish_01,冰凍鱸魚,用冷氣冰凍起來的鱸魚。即使吃下它也沒辦法恢復太多心心，但會在短時間內發揮耐熱效果。
+food,Food,Item_ChilledFish_02,冰凍生命鮭魚,用冷氣冰凍起來的生命鮭魚。據說少了多餘的脂肪後風味更佳。食用後會在短時間內發揮耐熱效果。
+food,Food,Item_ChilledFish_03,冰凍鱒魚,用冷氣冰凍起來的鱒魚。魚肉收縮後將鮮味都濃縮在裡頭。食用後會在短時間內發揮耐熱效果。
+food,Food,Item_ChilledFish_04,冰凍鯉魚,用冷氣冰凍起來的鯉魚。口感冰冰脆脆，十分新奇。食用後會在短時間內發揮耐熱效果。
+food,Food,Item_ChilledFish_05,冰凍鯛魚,用冷氣冰凍起來的鯛魚。最適合在格魯德沙漠等炎熱地帶食用。食用後會在短時間內發揮耐熱效果。
+food,Food,Item_ChilledFish_06,冰凍生命鱸魚,用冷氣冰凍起來的生命鱸魚。非常硬，所以很難啃。不過直接吃下肚的話，會在短時間內發揮耐熱效果。
+food,Food,Item_ChilledFish_07,冰凍螃蟹,用冷氣冰凍起來的螃蟹。原本是為了保存才將其冷凍起來，但也可以直接食用，會在短時間內發揮耐熱效果。
+food,Food,Item_ChilledFish_08,冰凍田螺,用冷氣冰凍起來的潛行田螺。一旦被凍住，便無法發出其特徵的光芒。食用後會在短時間內發揮耐熱效果。
+food,Food,Item_ChilledFish_16,冰凍骨舌魚,用冷氣冰凍起來的龍魚。收縮的魚肉將鮮味都濃縮在裡頭。食用後會在短時間內發揮耐熱效果。
+food,Food,Item_ChilledFish_18,冰凍霍拉魚,用冷氣冰凍起來的光亮霍拉魚，原本易碎的肉質變得緊實好入口。食用後會在短時間內發揮耐熱效果。
+food,Food,Item_Chilled_01,冰凍獸肉,用冷氣冰凍起來的獸肉。咬起來有點太硬。可以少許恢復心心和獲得耐熱的效果。
+food,Food,Item_Chilled_02,高級冰凍獸肉,用冷氣冰凍起來的高級獸肉。可以少許恢復心心和獲得耐熱的效果。
+food,Food,Item_Chilled_03,頂級冰凍獸肉,用冷氣冰凍起來的頂級獸肉。據說上等的肉即便被冷凍，味道也不會變差。食用後會在短時間內發揮耐熱效果。
+food,Food,Item_Chilled_04,冰凍禽肉,用冷氣冰凍起來的禽肉。雖然外表看起來像根棍棒，但還是可以吃。可以少許恢復心心和獲得耐熱的效果。
+food,Food,Item_Chilled_05,高級冰凍禽肉,用冷氣冰凍起來的高級禽肉。硬得可以拿來當武器。可以少許恢復心心和獲得耐熱的效果。
+food,Food,Item_Chilled_06,頂級冰凍禽肉,用冷氣冰凍起來的頂級禽肉。雖然硬邦邦的，但味道卻沒有變差。食用後會在短時間內發揮耐熱效果。
+food,Food,Item_Cook_A_01,烤蘑菇串,充滿香氣又簡單的烤蘑菇串，色彩鮮豔的外觀讓人食慾大增。
+food,Food,Item_Cook_A_02,蒸蘑菇,用香氣撲鼻的野菜包裹蘑菇蒸烤而成的健康蔬菜料理。
+food,Food,Item_Cook_A_03,蒸水果,用充滿香氣的野菜包裹尚未完全成熟的水果蒸烤而成的地方料理。
+food,Food,Item_Cook_A_04,蒸魚,用香氣濃郁的野草包裹鮮魚，花時間蒸烤而成的精緻菜餚。
+food,Food,Item_Cook_A_05,蒸肉,為了不讓肉的風味流失，而使用充滿香氣的野菜包著蒸烤。
+food,Food,Item_Cook_A_07,水果拌蘑菇,利用燒烤濃縮水果的甘甜，並產生獨特口感的創意料理。
+food,Food,Item_Cook_A_08,烤魚蘑菇串,將鮮魚與香氣濃郁的蘑菇串在一起燒烤，是道簡單卻美味的佳餚。
+food,Food,Item_Cook_A_09,烤肉蘑菇串,以新鮮的肉為主，輔以豐富的山野食材，是一道份量十足的串燒料理。
+food,Food,Item_Cook_A_10,煎蛋卷,將新鮮的蛋煎得蓬鬆柔軟。非常適合在早上食用的經典蛋料理。
+food,Food,Item_Cook_A_11,甘露燉蘑菇,加入蜂蜜後煮得又甜又鹹的蘑菇菜餚，味道濃郁。
+food,Food,Item_Cook_A_12,甘露燉肉,蜂蜜的甜味滲入肉中，有著光是燒烤無法比擬的濃郁味道。
+food,Food,Item_Cook_A_13,甘露燉魚,用蜂蜜熬煮的鹹甜魚肉料理。十分柔軟，連骨頭都能食用。
+food,Food,Item_Cook_A_14,甘露燉蔬菜,用蜂蜜將蔬菜煮得又甜又鹹的料理。可以把不能生吃的野菜調理得很美味。
+food,Food,Item_Cook_B_01,炒野菜,最簡單的蔬菜料理。使用新鮮的野菜炒出來的一道佳餚。
+food,Food,Item_Cook_B_02,燉水果,加入大量生吃也很美味的水果燉煮而成的酸甜料理。
+food,Food,Item_Cook_B_05,烤魚,現撈鮮魚的串烤，做法雖然簡單，但最能享受魚肉原有的美味。
+food,Food,Item_Cook_B_06,烤肉串,將大自然的恩惠──獸肉豪邁地烤成多汁的肉串。
+food,Food,Item_Cook_B_11,大份炒野菜,將大量有益健康的野菜用大火快炒，是一道對身體很好的料理。
+food,Food,Item_Cook_B_12,大份燉水果,將各種味道不同的水果咕嚕咕嚕地燉煮，濃縮其甘甜而成的奢華料理。
+food,Food,Item_Cook_B_13,大份烤蘑菇串,蘑菇愛好者無法拒絕的簡單烤蘑菇串，很有飽足感。
+food,Food,Item_Cook_B_15,大份烤魚,用上各種魚類的串烤，是烤魚愛好者無法拒絕的美味。
+food,Food,Item_Cook_B_16,大份烤肉串,使用不同種類的肉燒烤而成的豪華烤肉串。喜歡烤肉的人一定會想嘗嘗看。
+food,Food,Item_Cook_B_17,海陸煎烤,將新鮮的肉和魚一起煎得酥脆，是一道份量十足的料理。
+food,Food,Item_Cook_B_18,高級海陸煎烤,將上等的肉和魚一起煎烤，和普通的海陸煎烤相比更高級，味道也更濃郁。
+food,Food,Item_Cook_B_19,頂級海陸煎烤,將最高級的肉和鮮魚一起煎烤，無論味道或是飽足感都是當之無愧的極品。
+food,Food,Item_Cook_B_20,南瓜鑲肉,將南瓜挖空後塞入肉做成的料理。是卡卡利科村地方的特色料理之一。
+food,Food,Item_Cook_B_21,炒暖暖草果,只用暖暖草果炒成的料理。可以在辣味中感受到絲絲鮮甜。
+food,Food,Item_Cook_B_22,炒堅果,將森林裡的樹果炒香的簡單菜餚。營養豐富，最適合當成零嘴，在肚子有點餓的時候食用。
+food,Food,Item_Cook_B_23,烤海鮮串,魚貝類食材的串烤，是一道能享受海鮮美味的料理。
+food,Food,Item_Cook_C_16,妖精回力水,蘊藏著妖精神秘力量的強力恢復藥。散發著淡淡的香氣。
+food,Food,Item_Cook_C_17,藥,
+food,Food,Item_Cook_D_01,鹽烤蘑菇,在蘑菇上灑上些許岩鹽後烤成的簡單菜餚。
+food,Food,Item_Cook_D_02,鹽烤野菜,只用植物或野菜製作而成，有益健康的料理。
+food,Food,Item_Cook_D_03,鹽烤魚,灑上天然岩鹽烤成的簡單魚料理，只是燒烤就十分美味。
+food,Food,Item_Cook_D_04,岩鹽烤肉,將天然岩鹽灑在厚厚的肉排上燒烤，正因為簡單，更能凸顯食材原有的鮮美。
+food,Food,Item_Cook_D_05,高級岩鹽烤肉,將上等的肉放在岩鹽上烤，是一道做法簡單的豪華料理。
+food,Food,Item_Cook_D_06,頂級岩鹽烤肉,使用貴重頂級肉的最高級烤肉。為了凸顯食材的原味，只使用岩鹽調味。
+food,Food,Item_Cook_D_07,香辣煎肉,將暖暖草果磨碎後抹在肉排上煎熟，能夠消除肉的腥臭並引出其鮮美的肉料理。
+food,Food,Item_Cook_D_08,香辣煎魚,使用暖暖草果去除魚腥味，讓香氣更加突出的一道煎烤料理。
+food,Food,Item_Cook_D_09,岩鹽烤蟹,常吃螃蟹的漁夫說這種簡單的吃法最美味，熱呼呼的蟹肉好吃得讓人受不了。
+food,Food,Item_Cook_D_10,炒螃蟹,在炒螃蟹中加入了鼓隆的調味粉，香辣的調味和蟹肉很搭。
+food,Food,Item_Cook_E_01,禽肉菜飯,將海拉魯米炒過後用禽肉高湯烹調而成的料理。用文火慢慢熬煮後，口感更加綿密。
+food,Food,Item_Cook_E_02,高級禽肉菜飯,在格魯德地區很受歡迎的米飯料理。米飯中充滿了上等禽肉的美味精華。
+food,Food,Item_Cook_E_03,頂級禽肉菜飯,放上大塊頂級禽肉的豪華菜飯。每咬一口，濃郁的美味就會在口中蔓延。
+food,Food,Item_Cook_E_04,煎蛋飯,荷包蛋的半熟蛋黃和剛煮好的米飯很搭，是道簡單卻深奧的料理。
+food,Food,Item_Cook_F_01,鮮肉牛奶湯,將稍稍炙烤過的肉放入牛奶湯裡，也加入了很多蔬菜，是營養豐富的一道菜。
+food,Food,Item_Cook_F_02,海鮮牛奶湯,加了切碎魚肉的牛奶湯。高湯讓鮮味變得更濃郁。
+food,Food,Item_Cook_F_03,蔬菜濃湯,能品嘗到蔬菜甘甜的濃湯。經過慢火熬煮後味道濃郁。
+food,Food,Item_Cook_F_04,心心牛奶湯,充滿水果甘甜的湯。據說兩個人一起喝，感情會變好。
+food,Food,Item_Cook_G_02,海鮮飯糰,塞滿香噴噴烤魚的飯糰。在飯糰裡包入不同的魚，就能品嘗到不同滋味。
+food,Food,Item_Cook_G_03,野菜飯糰,塞入滿滿野菜的飯糰。是卡卡利科村的家常菜之一。
+food,Food,Item_Cook_G_04,蘑菇飯糰,在米飯裡拌入蘑菇後做成飯糰。一打開葉子，蘑菇的香氣就撲鼻而來。
+food,Food,Item_Cook_G_05,獸肉蓋飯,將炙烤過的獸肉舖在飯上而成的經典蓋飯。
+food,Food,Item_Cook_G_06,高級獸肉蓋飯,豪邁地舖滿上等獸肉的蓋飯。適合想要飽餐一頓的時候食用。
+food,Food,Item_Cook_G_09,頂級獸肉蓋飯,嚴選頂級獸肉製成的究極蓋飯。是道簡單又大膽，能嘗到獸肉鮮味的佳餚。
+food,Food,Item_Cook_G_10,海鮮炒飯,將高級海鮮和米一起炒成的料理。用大火炒的話，十分酥脆美味。
+food,Food,Item_Cook_G_11,咖哩菜飯,充滿鼓隆的調味粉香味的菜飯。不會過辣，很好入口。
+food,Food,Item_Cook_G_12,蘑菇燉飯,使用海拉魯米慢慢烹煮而成的燉飯。蘑菇和奶油的香氣令人食慾大增。
+food,Food,Item_Cook_G_13,蔬菜燉飯,可以品嘗到蔬菜甘甜的燉飯。味道溫和，連孩子們都喜歡。
+food,Food,Item_Cook_G_14,鮭魚燉飯,生命鮭魚的鮮味充分滲透進海拉魯米中，是一道味道濃郁的燉飯。
+food,Food,Item_Cook_G_15,鮮肉飯糰,塞滿又甜又鹹的肉的飯糰。分量很多，能讓肚子維持飽足感一陣子。
+food,Food,Item_Cook_G_16,蟹肉蛋炒飯,滿是新鮮蟹肉的豪華炒飯。與鬆軟雞蛋的組合是絕妙好滋味。
+food,Food,Item_Cook_G_17,蟹肉燉飯,這道燉飯是沿海地區漁村的家常菜。連蟹黃也用於調味是其美味的秘訣。
+food,Food,Item_Cook_H_01,乾煎魚,用奶油將鮮魚的兩面煎熟。將外表煎得酥脆是其美味的秘訣。
+food,Food,Item_Cook_H_02,乾煎鯛魚,在沿海地區很受歡迎的魚肉料理。新鮮鯛魚鬆軟的魚肉非常美味。
+food,Food,Item_Cook_H_03,乾煎鮭魚,將生命鮭魚灑上麵粉後用奶油煎熟。酥脆表皮的口感十分特別。
+food,Food,Item_Cook_I_01,水果派,在派皮上鋪滿水果的甜點。在海拉魯地區，慶祝時常會製作這種派。
+food,Food,Item_Cook_I_02,蘋果派,使用了大量新鮮蘋果的經典甜點。酥脆的派皮和蘋果的甜味非常相配。
+food,Food,Item_Cook_I_03,蛋撻,派皮中填滿濃厚的蛋黃奶油餡後，烤得香噴噴的甜點。
+food,Food,Item_Cook_I_04,鮮肉派,用派皮包著碎肉烤成的料理，裡頭充滿了肉的湯汁。
+food,Food,Item_Cook_I_05,胡蘿蔔蛋糕,溫潤的甜味是這款蛋糕的特徵。據說連討厭胡蘿蔔的人都能吃。
+food,Food,Item_Cook_I_06,南瓜蛋糕,使用了許多南瓜的金黃色蛋糕。濃厚的甜味很受孩子歡迎。
+food,Food,Item_Cook_I_07,奶油蘋果,蘋果在火烤後更甜了，再裹上熱熱的山羊奶油，就成了一道口味濃郁的甜點。
+food,Food,Item_Cook_I_08,蜂蜜蘋果,是一道將完全成熟的蘋果和蜂蜜組合起來，酸甜多汁的甜點。
+food,Food,Item_Cook_I_09,蜂蜜水果,濃郁蜂蜜甜味和水果酸味會在口中蔓延開來的一道甜點。
+food,Food,Item_Cook_I_10,原味可麗餅,將加入砂糖的麵糊抹平烤成的甜點。是一道活用食材原味的簡單料理。
+food,Food,Item_Cook_I_11,草莓可麗餅,用烤得鬆軟的濕潤可麗餅皮包著滿滿的酸甜草莓。
+food,Food,Item_Cook_I_12,堅果蛋糕,使用在森林裡得到的樹果製作而成的蛋糕。可以享受到簡單的甜味與堅果的口感。
+food,Food,Item_Cook_I_13,炸香蕉,炸香蕉是很受孩子們歡迎的點心。用高溫迅速地油炸是保持美味的秘訣。
+food,Food,Item_Cook_I_14,鮮蛋布丁,將蛋液和牛奶倒入模具中蒸烤而成的甜點。可以品嘗到在舌尖上融化的滑順口感。
+food,Food,Item_Cook_I_15,魚肉派,用派皮包著魚烤成的漁村家常菜。可以享受鮮美魚肉和酥脆口感的一道料理。
+food,Food,Item_Cook_I_16,蜂蜜糖,將從蜂巢裡蒐集到的蜂蜜煮熟，待其凝固後做成口味清甜又營養的天然糖果。
+food,Food,Item_Cook_I_17,蜂蜜可麗餅,在烤得薄薄的餅皮上塗滿蜂蜜的甜點。自然的甜味和豐富的風味是其特徵。
+food,Food,Item_Cook_J_01,咖哩飯,無論老人小孩都非常喜歡的經典料理。簡單又不會吃膩。
+food,Food,Item_Cook_J_02,蔬菜咖哩飯,以蔬菜為主的健康咖哩飯。控制了辣度的溫和口味很受歡迎。
+food,Food,Item_Cook_J_03,海鮮咖哩飯,能夠嘗到滿滿海鮮的豪華咖哩飯，味道有點辣，略為成熟的風味。
+food,Food,Item_Cook_J_04,禽肉咖哩飯,以禽肉為主的普通咖哩飯。禽肉的鮮味與調味料非常相配。
+food,Food,Item_Cook_J_05,高級禽肉咖哩飯,使用了上等禽肉的咖哩飯。關火後再灑上調味粉是讓味道濃郁的秘訣。
+food,Food,Item_Cook_J_06,獸肉咖哩飯,加入了大塊獸肉的野味咖哩飯。調味料的辛辣更加凸顯出肉的鮮美。
+food,Food,Item_Cook_J_07,高級獸肉咖哩飯,使用上等獸肉作為主要材料，是一道飽足感提升，味道也更加濃郁的咖哩飯。
+food,Food,Item_Cook_J_08,頂級禽肉咖哩飯,毫不吝惜地加入最高級禽肉的咖哩飯。據說以前在海拉魯城堡裡也會製作這道菜。
+food,Food,Item_Cook_J_09,頂級獸肉咖哩飯,在咖哩飯上豪邁地擺滿了最高級的獸肉。是咖哩和肉類愛好者都能感到大大滿足的佳餚。
+food,Food,Item_Cook_K_01,燉肉,以鮮肉為主的海拉魯經典燉肉。很有飽足感，能吃得飽飽的一道菜。
+food,Food,Item_Cook_K_02,高級燉肉,使用大量上等大肉塊做成的燉肉。經過燉煮之後肉的鮮味更加濃厚了。
+food,Food,Item_Cook_K_03,南瓜燉菜,將成熟南瓜長時間燉煮而成的燉菜。在卡卡利科村經常作為晚餐食用。
+food,Food,Item_Cook_K_04,貝肉雜燴,這道佳餚使用了奶油與牛奶，將口感細嫩的貝肉鮮味封存在濃湯中。
+food,Food,Item_Cook_K_05,頂級燉肉,頂級肉塊經過燉煮後變得非常柔軟，入口即化，是大家都想嘗嘗看的極品燉肉。
+food,Food,Item_Cook_K_06,蘑菇牛奶湯,使用蔬菜和蘑菇煮成的牛奶湯。配料豐富，很有飽足感。
+food,Food,Item_Cook_K_07,蔬菜牛奶湯,用牛奶將新鮮蔬菜熬煮而成的湯。調味簡單，有益健康。
+food,Food,Item_Cook_K_08,胡蘿蔔燉菜,使用了許多胡蘿蔔的燉菜。經過慢火燉煮後，引出了獨特的甘甜味道。
+food,Food,Item_Cook_K_09,熱牛奶,將鮮奶慢慢加熱而成的飲品。睡前喝的話可以放鬆身體。
+food,Food,Item_Cook_L_01,燉怪物,使用怪物精華燉煮肉或魚而成的特殊料理。似乎擁有其他食材所沒有的鮮味……
+food,Food,Item_Cook_L_02,怪物湯,以怪物精華為湯底做成的湯。味道獨特，喜歡或討厭的人涇渭分明。
+food,Food,Item_Cook_L_03,怪物蛋糕,使用了怪物精華的獨創蛋糕。據說只要吃過一次就忘不了那甜味。
+food,Food,Item_Cook_L_04,怪物飯糰,用怪物精華調味的新奇飯糰。散發著獨特的香氣，不是所有人都會喜歡它的味道。
+food,Food,Item_Cook_L_05,怪物咖哩飯,加入許多怪物精華的奇怪咖哩飯。聽說味道不只是辣，還很刺激。
+food,Food,Item_Cook_M_01,小麥麵包,使用在塔邦達地區採收的小麥製作而成的麵包。可以享受到充滿彈力的口感和小麥豐富的香味。
+food,Food,Item_Cook_N_01,海鮮雜燴飯,大量使用高級海鮮食材的特別料理。是漁夫們慶祝時不可或缺的一道菜。
+food,Food,Item_Cook_N_02,水果蛋糕,使用了大量海拉魯新鮮水果做成的豪華蛋糕，是慶祝時不可欠缺的一道甜品。
+food,Food,Item_Cook_N_03,蔬菜煎蛋卷,將新鮮的蛋煎得蓬鬆柔軟的家常菜。加入了切成丁的蔬菜，營養均衡。
+food,Food,Item_Cook_N_04,蘑菇煎蛋卷,加入了香氣濃郁的蘑菇做成的煎蛋卷。可以品嘗其鬆軟口感。
+food,Food,Item_Cook_O_01,奇異的菜餚,散發著有點奇怪的氣味……雖然還可以食用，但真不想被人發現自己在吃這種東西。
+food,Food,Item_Cook_O_02,過硬的菜餚,混進了某種不能放的東西，不太能端出來招待別人的料理。只有在極度飢餓的時候才會拿來啃。
+food,Food,Item_Cook_P_01,炒香菇,加入調味粉炒的蘑菇。刺激的香味讓人食慾大增。
+food,Food,Item_Cook_P_02,炒香草,把香氣濃烈的食材和調味粉混在一起炒，是具有獨特香氣的一道料理。
+food,Food,Item_Cook_P_03,烤獸肉串,用鼓隆族特製調味粉去除肉的腥味，更能突現食材原本風味的肉串。
+food,Food,Item_Cook_P_04,高級烤獸肉串,在上等的肉裡加入了特製調味粉的肉串。簡單卻又讓人回味無窮。
+food,Food,Item_Cook_P_05,頂級烤獸肉串,最高級的肉串，只用調味粉調味。豐富的香味和濃厚肉汁格外美味。
+food,Food,Item_Cook_Q_01,燉番茄,將充滿營養的番茄燉煮至軟嫩的酸味料理。
+food,Food,Item_Cook_Q_02,番茄湯,用順口的牛奶將水分飽滿的番茄熬煮而成的湯，酸味適中容易入口。
+food,Food,Item_Cook_Q_03,蒸野菜番茄,用含有藥效的植物葉子包裹番茄蒸烤而成的料理。由於經過烹調，吸收消化的效率會更好。
+food,Food,Item_Cook_Q_04,燉蘑菇番茄,用香氣四溢的香菇和番茄一起熬煮而成的料理。富含食物纖維，相當健康。
+food,Food,Item_Cook_Q_05,海鮮番茄湯,將魚或貝類等海鮮搭配番茄熬煮，加以調味而成的料理，各種風味都濃縮在其中。
+food,Food,Item_Cook_Q_06,原燒,將精力草連皮一起直接烤的野性料理。香甜又熱呼呼的，十分美味。
+food,Food,Item_Cook_Q_07,炒奶油,用山羊奶油拌炒精力草的簡易料理。甜度與鹹味都恰到好處，香氣四溢令人無法抗拒。
+food,Food,Item_Cook_Q_08,啪啦啪啦炒飯,用品質優良的油拌炒海拉魯米和肉的料理。炒得粒粒分明，香噴噴的味道會在口中擴散開來。
+food,Food,Item_Cook_Q_09,起司蛋糕,使用哈特諾起司製成的風味濃厚蛋糕，口感柔軟且滋味濃郁。
+food,Food,Item_Cook_Q_10,起司燉飯,將魚和蘑菇等材料混入海拉魯米中，接著加入哈特諾起司燉煮而成的香濃燉飯。
+food,Food,Item_Cook_R_01,起司煎蛋卷,在原本就很好吃的煎蛋卷上淋滿哈特諾起司的醬汁，令人心滿意足的料理。
+food,Food,Item_Cook_R_02,野菜牛奶粥,將容易消化的野菜和海拉魯米一同熬煮的粥。疲憊不堪時，這溫柔的滋味能讓你獲得滿足。
+food,Food,Item_Cook_R_03,芭伊遇上伯伊,在格魯德小鎮廣受歡迎的果汁。喝下去有股熱帶風味，能夠提振精神。
+food,Food,Item_Cook_R_04,番茄披薩,由新鮮的海拉魯番茄點綴而成的披薩，入口即化的哈特諾起司更是讓人欲罷不能。
+food,Food,Item_Cook_R_05,油燉海鮮,用濃厚的精力草精油將海鮮食材熬煮而成的料理，強烈的香氣令人食慾大開。
+food,Food,Item_Cook_R_06,油炸禽肉,用優質油來油炸禽肉而成的料理，肉的美味都被鎖在其中。
+food,Food,Item_Cook_R_07,油炸高級禽肉,油炸優質禽肉而成的料理，肚子餓的時候會很想豪爽地大口品嘗它。
+food,Food,Item_Cook_R_08,油炸頂級禽肉,將最高級的禽肉整份拿去油炸，在慶典上必定登場的豪華料理。
+food,Food,Item_Cook_R_09,黏糊糊起司麵包,放上哈特諾起司烤製而成的簡單麵包，溫熱的起司香氣刺激著食慾。
+food,Food,Item_Cook_R_10,鮮魚起司焗烤,用哈特諾起司與新鮮海鮮一起烤製而成的料理，魚的鮮味和起司風味搭配起來絕妙。
+food,Food,Item_Cook_S_01,起司咖哩,加入大量哈特諾起司的咖哩，香料的辣味與起司溫和地結合，讓人一吃就上癮。
+food,Food,Item_Cook_S_02,起司獸肉蓋飯,將獸肉與大量起司堆疊而成的高熱量料理，是一道在肚子餓時讓人很想吃的餐點。
+food,Food,Item_Cook_S_03,起司高級獸肉蓋飯,豪邁地舖滿上等獸肉，再淋上起司的料理。就連大胃王都能吃得十分滿足。
+food,Food,Item_Cook_S_04,起司頂級獸肉蓋飯,在最高級的獸肉上將起司盛到極限為止。是一道究極大滿足料理，人的食慾是永無止境的。
+food,Food,Item_Cook_S_05,魔人燉煮,將魚、肉類與闇之塊一同熬煮而成的大膽料理。不知道裡面有什麼食材，正是品嘗這道菜的樂趣。
+food,Food,Item_Cook_S_06,魔人飯糰,用闇之塊和海拉魯米做成的前衛飯糰。味道濃烈，吃過一次就無法忘卻。
+food,Food,Item_Cook_S_07,魔人湯,用闇之塊熬煮的黏稠濃湯。風味獨特，光是看著它彷彿就會被吸入其中。
+food,Food,Item_Cook_S_08,魔人咖哩飯,將闇之塊當作食材，極具震撼性的咖哩。食材本身難掩的味道從中滿溢而出。
+food,Food,Item_Cook_S_09,魔人蛋糕,使用了大量闇之塊做成的古怪蛋糕，獨特的味道令人一言難盡。
+food,Food,Item_Cook_S_10,起司番茄,在海拉魯番茄上放上哈特諾起司的簡單料理，適合在肚子有點餓的時候食用。
+food,Food,Item_RoastFish_01,烤鱸魚,將整條鱸魚拿去烤得恰到好處，和生吃相比，更香更鮮美。心心的恢復量也更多了。
+food,Food,Item_RoastFish_02,烤生命鱸魚,將珍貴的生命鱸魚整條拿去烤。用火直接烤過以後，皮變得酥酥脆脆，肥美的身體富含脂肪，非常美味。
+food,Food,Item_RoastFish_03,烤鱒魚,將可以在海拉魯各地捕獲的鱒魚拿來燒烤。火烤後的魚肉熱呼呼的，味道清淡又柔和。
+food,Food,Item_RoastFish_04,烤生命鮭魚,不添加任何調味料，將新鮮的生命鮭魚直接放在火上簡單地燒烤。皮烤得很香，十分美味。
+food,Food,Item_RoastFish_07,烤鯉魚,將淡水中捕獲的鯉魚拿來燒烤。加熱後魚腥味變淡，更好入口。肥厚的魚肉口感很好。
+food,Food,Item_RoastFish_09,烤鯛魚,將生長在海中的鯛魚整條拿去烤。白肉魚獨特的柔軟魚肉和香脆的魚皮十分美味。
+food,Food,Item_RoastFish_13,烤潛行田螺,將潛行田螺連同外殼一起烤。彈牙的口感為其特徵。能夠完整取出螺肉的話，會覺得頗有成就感。
+food,Food,Item_RoastFish_15,烤螃蟹,將肥美的螃蟹慢慢烤熟而成的料理。又香又鬆軟的甜美蟹肉是極品，烤焦的蟹殼也散發著誘人的香氣。
+food,Food,Item_RoastFish_16,烤骨舌魚,整條烤過的遠昔骨舌魚。緊實的魚肉經過火烤後變得軟嫩，口感恰到好處。
+food,Food,Item_RoastFish_18,烤霍拉魚,將光亮霍拉魚烤製而成的料理。原本鬆散的魚肉經火烤後入口即化，十分可口。
+food,Food,Item_Roast_01,烤獸肉,將獸肉直接放在火上烤。經過火烤後，變得香氣四溢。心心的恢復量也增加了。
+food,Food,Item_Roast_02,烤禽肉,連皮一起烤得酥脆的禽肉。沒有過多的調味，簡單又好吃。心心的恢復量也更多了。
+food,Food,Item_Roast_03,烤蘋果,用火直接將蘋果烤得香噴噴的，可以當成零食。食用後會恢復心心。
+food,Food,Item_Roast_04,烤精力蘑菇,將精力蘑菇整朵拿去烤。雖然只有恢復心心的效果，不過味道比生吃要鮮美得多。
+food,Food,Item_Roast_05,烤生命松露,將生命松露烤得恰到好處，非常美味，但如果烹調成料理，可以獲得更好的效果。
+food,Food,Item_Roast_06,烤海拉魯蘑菇,沒有添加任何調味料的烤海拉魯蘑菇。味道變得特別好，香氣也更濃郁，食用後心心的恢復量也增加了。
+food,Food,Item_Roast_07,烤草莓,火烤草莓。和直接生吃相比，有不同的甜味。可以少許增加心心的恢復量。
+food,Food,Item_Roast_08,烤酥麻水果,將在格魯德沙漠採到的酥麻水果火烤而成。甜味和酸味比生吃的時候更強烈，烤得有一點焦會比較好吃。
+food,Food,Item_Roast_10,烤椰子,將椰子直接放在火上，蒸烤被外皮裹著的果肉。建議搭配剩下的果汁一起吃。
+food,Food,Item_Roast_11,烤大劍香蕉,將整根大劍香蕉拿去烤。火烤後變得軟軟的，甜味和香味也更濃了。
+food,Food,Item_Roast_12,烤冰冷蜜瓜,將整顆冰冷蜜瓜拿去烤。變熱的果肉吃起來很鬆軟，有種神奇的味道。
+food,Food,Item_Roast_13,烤暖暖草果,將暖暖草果火烤而成。經過火烤後，辣味消失了，可以直接食用。
+food,Food,Item_Roast_15,烤鎧甲南瓜,將巨大的鎧甲南瓜整顆拿去烤。堅硬的外皮就像容器一樣，裝著蒸烤過的瓜肉。
+food,Food,Item_Roast_16,烤速速蓮蓬,將速速蓮蓬火烤而成。將皮剝掉後食用，口感像栗子一樣鬆軟。
+food,Food,Item_Roast_18,烤小蘿蔔,將生命小蘿蔔整顆拿去烤得鬆鬆軟軟，香噴噴的。沒有特殊效果，但食用後會恢復心心。
+food,Food,Item_Roast_19,烤大蘿蔔,將生命大蘿蔔整顆拿去烤。把珍貴的蔬菜拿來痛快地烤烤看，某種層面上來說是一道奢侈的料理。
+food,Food,Item_Roast_24,烤速速胡蘿蔔,將速速胡蘿蔔整根拿去烤得香噴噴的。沒有特殊效果，但可以恢復心心。
+food,Food,Item_Roast_27,烤大劍草,沒有添加任何調味料的烤大劍草。沒有特殊效果，但是尖尖的花十分酥脆美味。
+food,Food,Item_Roast_28,烤鎧甲草,將鎧甲草整株拿去烤。經過火烤之後，又硬又有嚼勁的纖維質也變得鬆軟好入口。
+food,Food,Item_Roast_31,烤冰冷蘑菇,將冰冷蘑菇整朵拿去烤。烤得恰到好處，比生吃更美味。可以恢復心心。
+food,Food,Item_Roast_32,烤暖暖蘑菇,將暖暖蘑菇整朵拿去烤。以防萬一，還是放在袋子裡隨身攜帶比較安心。可以恢復心心。
+food,Food,Item_Roast_33,烤酥麻蘑菇,將酥麻蘑菇整朵拿去烤過以後，食用時不會有刺痛的感覺，味道也變得很溫和。可以恢復心心。
+food,Food,Item_Roast_36,烤速速蘑菇,將速速蘑菇整朵拿去烤。雖然失去了神奇的力量，但卻變得更美味了。
+food,Food,Item_Roast_37,烤大劍蘑菇,將整朵大劍蘑菇拿去烤得熱呼呼的。和直接生吃比起來更加美味。可以恢復心心。
+food,Food,Item_Roast_38,烤鎧甲蘑菇,將整朵鎧甲蘑菇拿去烤。硬邦邦的表面變得脆脆的，十分美味。可以恢復心心。
+food,Food,Item_Roast_39,烤潛行蘑菇,將整朵潛行蘑菇拿去烤，雖然蘑菇不再散發柔和的光芒，但是香氣四溢，十分美味。
+food,Food,Item_Roast_40,烤高級獸肉,將厚厚的高級獸肉整塊拿去烤。外層烤得很香，裡頭鮮嫩多汁，美味得令人垂涎三尺。
+food,Food,Item_Roast_41,烤高級禽肉,將珍貴的高級禽肉烤得恰到好處。外皮酥脆，裡頭充滿肉汁。食用後會恢復心心。
+food,Food,Item_Roast_45,烤頂級獸肉,不加任何調味料，直接將最高級的頂級獸肉放在火上烤。可以充分品嘗到食材原本的味道。
+food,Food,Item_Roast_46,烤頂級禽肉,將高級食材頂級禽肉整塊拿去烤。不添加任何調味料，透過豪邁的烹調方式，更能完全品嘗到食材原本的味道。
+food,Food,Item_Roast_48,烤橡子,火烤橡子。香噴噴的，也更甜了。
+food,Food,Item_Roast_49,烤大生命松露,將珍貴的食材大生命松露整顆拿去烤。經過火烤之後，香味變得更濃郁了。食用後會大量恢復心心。
+food,Food,Item_Roast_50,烤毅力胡蘿蔔,將珍貴的毅力胡蘿蔔就這樣奢侈地拿去烤。火烤後味道更加鮮甜了。
+food,Food,Item_Roast_51,烤蛋,將禽蛋連殼一起烤。多餘的水份消失後，口感比水煮時更彈牙。
+food,Food,Item_Roast_52,烤樹果,烤得香噴噴的樹果。可以少許增加心心的恢復量。
+food,Food,Item_Roast_53,烤毅力蘑菇,將毅力蘑菇整朵拿去烤。雖然沒有特殊效果，但是鮮味都被濃縮在裡頭了。
+food,Food,Item_Roast_54,烤海拉魯番茄,整顆烤過的海拉魯番茄。內部相當多汁，可以恢復更多心心。
+food,Food,Item_Roast_55,烤向陽南瓜,整顆烤過的碩大向陽南瓜。雖然失去了特殊效果，但烤熟後的南瓜肉軟嫩可口。
+food,Food,Item_Roast_56,烤天空蘑菇,不添加任何調味料的烤天空蘑菇。烤熟後風味更上一層樓，可以恢復更多心心。
+food,Food,Item_Roast_58,烤光亮蘑菇,整個烤過的光亮蘑菇。雖然失去了發光酵素，但變得軟嫩好入口。
+food,Food,Item_Roast_59,烤金蘋果,用火直接將金蘋果烤熟的奢華零食。酸甜味形成了絕妙平衡，能品嘗到彷彿不屬於這世界的美味。
+zonai_devices,Zonai Devices,SpObj_BalloonEnvelope_A_01,熱氣球,受熱後就會上浮的左納烏裝置。利用熱空氣較輕的原理，只要加熱就能提高上升速度。
+zonai_devices,Zonai Devices,SpObj_Beamos_A_01,光線頭,從前端發射一束筆直光線的左納烏裝置，可以向遠處的敵人發動攻擊。
+zonai_devices,Zonai Devices,SpObj_Cannon_A_01,大炮,每隔一段時間會發射炮彈的左納烏裝置。炮彈擊中後就會爆炸。雖然威力強大，但不太容易調整發射角度。
+zonai_devices,Zonai Devices,SpObj_Cart_A_01,平台車,能在平地有效前進的左納烏裝置。施加足夠的力道後就能順利移動，需要借助其他動力才能自動前進。
+zonai_devices,Zonai Devices,SpObj_Chaser_A_01,追蹤平台車,會朝怪物自動行進的左納烏裝置。左納烏族曾經將其用於警備重要設施的周圍地帶。
+zonai_devices,Zonai Devices,SpObj_ControlStick_A_01,操縱桿,能控制交通工具姿態的左納烏裝置。乘坐上去進行操作後，即可同時驅動所有連接中的左納烏裝置。
+zonai_devices,Zonai Devices,SpObj_CookSetOnFire_A_01,便攜鍋,隨時隨地都能進行烹飪的左納烏裝置。因構造簡單，所以只能使用一次。將其放在平坦處，是順利完成料理的訣竅。
+zonai_devices,Zonai Devices,SpObj_ElectricBoxGenerator,雷龍頭,敲打後前端會產生高壓電流的左納烏裝置。裝置的根部有做絕緣處理，手持時只要握著這裡就能保持安全。
+zonai_devices,Zonai Devices,SpObj_EnergyBank_A_01,備用電池,將左納烏能源濃縮後製作而成，方便攜帶的拋棄式電池。可用於驅動其他左納烏裝置。
+zonai_devices,Zonai Devices,SpObj_EnergyBank_A_02,大容量電池,提高了壓縮率的備用電池。雖然只能使用一次，但能源是一般品的好幾倍。
+zonai_devices,Zonai Devices,SpObj_FastWheel_A_01,小輪胎,附有動力且可自行移動的左納烏裝置。適用於平坦地形，可以高速前進。不太適合用在爬坡或顛簸處。
+zonai_devices,Zonai Devices,SpObj_SwitchWheel_B_01,大輪胎,附有動力且能強力轉動的左納烏裝置。由於直徑較大，適合行進於險路上，也可行走於較淺的水域。
+zonai_devices,Zonai Devices,SpObj_FlameThrower_A_01,火龍頭,向前方放射火焰的左納烏裝置。原本是在遇上怪物時用來防身用的。
+zonai_devices,Zonai Devices,SpObj_FlashLight_A_01,燈,照亮黑暗的左納烏裝置。光源的指向性較弱，無法照到遠處，但在昏暗夜路上或洞窟內可使人安心。
+zonai_devices,Zonai Devices,SpObj_FloatingStone_A_01,浮遊石,不受重力影響，停留在空中的左納烏裝置。過去左納烏族曾利用此技術，使島嶼和建築物浮上天空。
+zonai_devices,Zonai Devices,SpObj_GolemHead_A_01,魔像的頭部,會持續監視敵對目標的左納烏裝置。在頭部裝上攻擊用的左納烏裝置，就能夠完成自動追蹤的設計。
+zonai_devices,Zonai Devices,SpObj_LiftGeneratorWing_A_01,翼,迎風產生出升力的左納烏裝置。需要乘坐在翅膀中心，控制好左右平衡才能飛得遠。
+zonai_devices,Zonai Devices,SpObj_WaterPump_A_01,放水栓,敲打後會湧出水的左納烏裝置。從前空島曾經缺乏水源，但藉著這項技術，蛻變成一片綠意盎然的大地。
+zonai_devices,Zonai Devices,SpObj_LightMirror_A_01,鏡子,匯集光線並反射的左納烏裝置。照射出的強光具有指向性，可照到遠處。據說強光還具有擊退怪物的力量。
+zonai_devices,Zonai Devices,SpObj_Pile_A_01,樁,可固定在地面或懸崖的左納烏裝置，在左納烏文明時會用來作為立足處或建築地基。固定力很強，站在上面也絲毫不會晃動。
+zonai_devices,Zonai Devices,SpObj_Rocket_A_01,火箭,能發揮強大推進力的左納烏裝置。雖然推進力道強大，但對本體造成的負擔也很大。只能在極短的時間內使用。
+zonai_devices,Zonai Devices,SpObj_SlipBoard_A_01,滑橇,背面構造平滑的左納烏裝置。摩擦力極低，在左納烏文明時期常作為在草地或沙土上的交通工具。
+zonai_devices,Zonai Devices,SpObj_SnowMachine_A_01,冰龍頭,會施放出具指向性冷氣的左納烏裝置。除了能用於擊退怪物，也有將水面凍結製成冰塊的用途。
+zonai_devices,Zonai Devices,SpObj_SpringPiston_A_01,彈簧,可切換伸縮狀態的左納烏裝置。壓縮的彈簧撐開時會產生巨大的力量，能讓物體彈飛出去。
+zonai_devices,Zonai Devices,SpObj_TiltingDoll_A_01,不倒翁,啟動後會以強大的力道直立的左納烏裝置。在空島等不穩定的地方進行作業時，會用其來穩固立足處。
+zonai_devices,Zonai Devices,SpObj_TimerBomb_A_01,計時炸彈,定時爆炸的左納烏裝置。爆炸時產生的衝擊，可以啟動其他左納烏裝置。
+zonai_devices,Zonai Devices,SpObj_WindGenerator_A_01,風扇機,內部的螺旋槳可產生風力的左納烏裝置。左納烏族巧妙地利用此風力，藉以搬運物體或是產生推進力。
+key_items,Key Items,CaveMasterMedal,魔猶伊的遺失物,棲息於洞窟的魔猶伊所掉落的神奇結晶。散發著神秘的微光，越看越讓人想要蒐集更多。
+key_items,Key Items,Energy_Material_01,左納烏能源結晶,把從左納尼烏姆內製煉出的能源濃縮後製作而成的結晶。據說可用來擴充電池的容量。
+key_items,Key Items,Energy_Material_03,左納烏能源大結晶,把從左納尼烏姆內製煉出的能源濃縮後製作而成的大結晶。內含通常尺寸結晶20倍的能源。
+key_items,Key Items,Energy_Material_04,左納烏能源特大結晶,把從左納尼烏姆內製煉出的能源濃縮後製作而成的特大結晶。內含通常尺寸結晶100倍的能源。
+key_items,Key Items,GameRomHorseReins_01,旅人韁繩,適合騎馬旅行的標準韁繩。並沒有任何特殊設計，適合所有馬匹，受到旅行商人和旅人的喜愛。
+key_items,Key Items,GameRomHorseReins_02,王族韁繩,海拉魯王族御用、歷史悠久的韁繩。施加在各處的金飾讓人印象深刻，做工也十分精良。
+key_items,Key Items,GameRomHorseReins_03,騎士韁繩,據說曾為海拉魯城堡的騎士所用的韁繩，還包含了可以保護馬的頭部及脖子的裝甲。被稱為騎士不可或缺的裝備。
+key_items,Key Items,GameRomHorseReins_04,怪物韁繩,吉爾頓親手製作的韁繩。似乎是以怪物的馬為概念設計的，附有可以覆蓋頭部的面罩。
+key_items,Key Items,GameRomHorseReins_05,奢華韁繩,在祭典等使用，帶有豪華裝飾的韁繩。馬匹頭部的羽飾十分吸引人。讓人不禁想為馬的鬃毛增添色彩好搭配這件精品。
+key_items,Key Items,GameRomHorseSaddle_01,旅人馬鞍,適合騎馬旅行的標準馬鞍。堅固的做工經得起長途旅行，沒有特殊的使用條件，許多旅人都很愛使用。
+key_items,Key Items,GameRomHorseSaddle_02,王族馬鞍,海拉魯王族御用、歷史悠久的馬鞍。閃耀著光芒的紋章裝飾為其特徵。據說薩爾達公主的愛馬也曾經使用過這個馬鞍。
+key_items,Key Items,GameRomHorseSaddle_03,騎士馬鞍,據說曾為海拉魯城堡的騎士所用，唯有馬中的精英才被允許佩戴此馬鞍。
+key_items,Key Items,GameRomHorseSaddle_04,怪物馬鞍,吉爾頓親手製作的馬鞍。似乎是以怪物的馬為概念設計的，雖然外表看起來怪異，但的確可以使用。
+key_items,Key Items,GameRomHorseSaddle_05,奢華馬鞍,在祭典等使用，帶有豪華裝飾的馬鞍。精細的刺繡及大量的寶石讓人印象深刻。推薦給想要引人注目的人。
+key_items,Key Items,GameRomHorseSaddle_07,牽引挽具,與馬鞍配成一組的高強度挽具。將物資或搬運車連接在挽具的後方，即可用馬來牽引。
+key_items,Key Items,Item_StableHostelAccommodationCoupon_A,驛站住宿券,可在驛站使用一般的床的住宿券。累積點數後就有機會可以獲得，放鬆緩解旅途上的疲勞吧。
+key_items,Key Items,KeySmall,小鑰匙,能夠打開破魔神廟中某扇門的鑰匙。
+key_items,Key Items,MinusRupee_00,魄,散落在地底各處，發出微弱光芒的靈體。就算觸碰也感受不到溫度，只會不規則地晃動著。收集起來或許會有好處。
+key_items,Key Items,MinusRupee_01,大魄,散落在地底各處，發出微弱光芒的靈體。比一般的魄還要大一圈，也能感到其晃動更為強力。
+key_items,Key Items,MinusRupee_02,特大魄,散落在地底各處，發出微弱光芒的靈體。是魄之中體型最大的存在，能感受到其中蘊藏著巨大的力量。
+key_items,Key Items,Obj_AutoBuilderDraftAssassin_00,依蓋隊設計圖,描繪著將左納烏裝置與建材組合的圖面的書，好像有什麼用途……
+key_items,Key Items,Obj_AutoBuilderDraft_00,設計圖石板,描繪著似乎是設計圖的圖面的石板，好像有什麼用途……
+key_items,Key Items,Obj_Camera,照相機,普爾亞平板的功能之一，可以瞬間拍下風景或人物。拍下的照片會保存在相簿裡。
+key_items,Key Items,Obj_CaveWellHonor_00,周遊列井的記念品,將海拉魯各地的水井位置告訴優諾西塔後，他為了表達感謝所贈與的記念品。在玻璃球中有著水井模型的漂亮物品。
+key_items,Key Items,Obj_CheckPointHonor_00,通過黑闇的證明,點亮全部的破魔之根，克服黑暗者所獲贈的證明。是蘊含祝福之意的特殊物品。
+key_items,Key Items,Obj_DRStone_Get,普爾亞平板,薩爾達公主曾經很常使用的道具，具備各種能在冒險中派上用場的功能。
+key_items,Key Items,Obj_DefeatHonor_00,討伐岩石巨人勳章,討伐隊滿懷感激地頒發的勳章，獻給打倒海拉魯中所有岩石巨人者。是外型仿造岩石巨人的豪華珍品。
+key_items,Key Items,Obj_DefeatHonor_01,討伐西諾克斯勳章,討伐隊滿懷感激地頒發的勳章，獻給打倒海拉魯中所有西諾克斯者。是外型仿造西諾克斯的豪華珍品。
+key_items,Key Items,Obj_DefeatHonor_02,討伐莫爾德拉吉克勳章,討伐隊滿懷感激地頒發的勳章，獻給打倒海拉魯中所有莫爾德拉吉克者。是外型仿造莫爾德拉吉克的豪華珍品。
+key_items,Key Items,Obj_DefeatHonor_03,討伐巨霸迦馬勳章,討伐隊滿懷感激地頒發的勳章，獻給打倒海拉魯中所有巨霸迦馬者。是外型仿造巨霸迦馬的豪華珍品。
+key_items,Key Items,Obj_DefeatHonor_04,討伐方塊魔像勳章,討伐隊滿懷感激地頒發的勳章，獻給打倒海拉魯中所有方塊魔像者。是外型仿造方塊魔像的豪華珍品。
+key_items,Key Items,Obj_DefeatHonor_05,討伐古慄歐克勳章,討伐隊滿懷感激地頒發的勳章，獻給打倒海拉魯中所有古慄歐克者。是外型仿造古慄歐克的豪華珍品。
+key_items,Key Items,Obj_DungeonClearSeal,祝福之光,封印了古代邪惡，並將其淨化的高貴光芒結晶。散發著無比清澈的光芒。
+key_items,Key Items,Obj_EnergyUtuwa_A_01,附加電池,由左納烏能源結晶所製成的細小零件，可以增加電池中儲存的能源最大值。
+key_items,Key Items,Obj_HeartUtuwa_A_01,心之容器,相當貴重的物品，可以取回因瘴氣而失去的生命力。心心的最大個數會增加1個。
+key_items,Key Items,Obj_HiddenScroll_00,土遁之書,記載了土遁術奧義的秘傳之書，在依蓋隊之中也僅有幹部階級才能掌管此物。未手持武器時使用蓄力攻擊即可發動。
+key_items,Key Items,Obj_KorokNuts,克洛格的果實,克洛格給的小小果實。收集這些果實似乎會有好事發生。有點臭臭的……
+key_items,Key Items,Obj_Photo_Animal,生物的照片,鳥獸蟲魚的照片。
+key_items,Key Items,Obj_Photo_BossEnemy,強敵的照片,曾經對抗過的強大怪物的照片。
+key_items,Key Items,Obj_Photo_Enemy,怪物的照片,分布在海拉魯各地的怪物的照片。
+key_items,Key Items,Obj_Photo_Material,材料的照片,蘋果或蘑菇等食材的照片。
+key_items,Key Items,Obj_Photo_Other,寶物的照片,寶箱或礦石等誘人寶物的照片。
+key_items,Key Items,Obj_Photo_Weapon,武器的照片,劍、槍或弓等在戰鬥中派上用場的武器的照片。
+key_items,Key Items,Obj_ProofKorok,伯庫林的果實,伯庫林給的友好的果實。有股強烈的臭……
+key_items,Key Items,Obj_SageSoulPlus_Gerudo,和雷之賢者露珠的牢固盟約,與雷之賢者露珠締結盟約的證明。隨著與露珠的關係更加深厚，召喚出的分身攻擊力也隨之增加。
+key_items,Key Items,Obj_SageSoulPlus_Goron,和火之賢者阿沅的牢固盟約,與火之賢者阿沅締結盟約的證明。隨著與阿沅的關係更加深厚，召喚出的分身攻擊力也隨之增加。
+key_items,Key Items,Obj_SageSoulPlus_Rito,和風之賢者丘栗的牢固盟約,與風之賢者丘栗締結盟約的證明。隨著與丘栗的關係更加深厚，召喚出的分身攻擊力也隨之增加。
+key_items,Key Items,Obj_SageSoulPlus_Zonau,和魂之賢者米涅魯的牢固盟約,與魂之賢者米涅魯締結盟約的證明。隨著與米涅魯的關係更加深厚，召喚出的魔像攻擊力也隨之增加。
+key_items,Key Items,Obj_SageSoulPlus_Zora,和水之賢者希多的牢固盟約,與水之賢者希多締結盟約的證明。隨著與希多的關係更加深厚，召喚出的分身攻擊力也隨之增加。
+key_items,Key Items,Obj_SageSoul_Gerudo,和雷之賢者露珠的盟約,與雷之賢者露珠締結盟約的證明。只要使用此證明，就能召出或送還露珠的分身。
+key_items,Key Items,Obj_SageSoul_Goron,和火之賢者阿沅的盟約,與火之賢者阿沅締結盟約的證明。只要使用此證明，就能召出或送還阿沅的分身。
+key_items,Key Items,Obj_SageSoul_Rito,和風之賢者丘栗的盟約,與風之賢者丘栗締結盟約的證明。只要使用此證明，就能召出或送還丘栗的分身。
+key_items,Key Items,Obj_SageSoul_Zonau,和魂之賢者米涅魯的盟約,與魂之賢者米涅魯締結盟約的證明。只要使用此證明，就能召出或送還附有米涅魯靈魂的魔像。
+key_items,Key Items,Obj_SageSoul_Zora,和水之賢者希多的盟約,與水之賢者希多締結盟約的證明。只要使用此證明，就能召出或送還希多的分身。
+key_items,Key Items,Obj_SageWill,賢者的遺志,賢者所遺留的小石頭。拿在手上可以感覺到強大的思念及牽絆。
+key_items,Key Items,Obj_StableHostlePointCard,驛站點數卡,利用驛站協會的設施就能累積點數，累積足夠點數即可兌換各式獎勵。距離下一個獎勵還差「」點。
+key_items,Key Items,Obj_StaminaUtuwa_A_01,精力容器,能取回因瘴氣而流失的持久力，是極為珍貴的東西。會增加精力槽的上限值。
+key_items,Key Items,Obj_SubstituteCloth_00,鼓隆族的布料,以鼓隆族為主題設計的布料。質地厚實，似乎可用來當作滑翔傘的材料。
+key_items,Key Items,Obj_SubstituteCloth_01,卓拉族的布料,以卓拉族為主題設計的布料。質地厚實，似乎可用來當作滑翔傘的材料。
+key_items,Key Items,Obj_SubstituteCloth_02,格魯德族的布料,以格魯德族為主題設計的布料。質地厚實，似乎可用來當作滑翔傘的材料。
+key_items,Key Items,Obj_SubstituteCloth_03,海拉魯王族的布料,以海拉魯王族為主題設計的布料。質地厚實，似乎可用來當作滑翔傘的材料。
+key_items,Key Items,Obj_SubstituteCloth_04,左納烏的布料,以左納烏為主題設計的布料。質地厚實，似乎可用來當作滑翔傘的材料。
+key_items,Key Items,Obj_SubstituteCloth_05,希卡族的布料,以希卡族為主題設計的布料。質地厚實，似乎可用來當作滑翔傘的材料。
+key_items,Key Items,Obj_SubstituteCloth_06,依蓋隊的布料,以依蓋隊為主題設計的布料。質地厚實，似乎可用來當作滑翔傘的材料。
+key_items,Key Items,Obj_SubstituteCloth_07,討伐隊的布料,以討伐隊為主題設計的布料。質地厚實，似乎可用來當作滑翔傘的材料。
+key_items,Key Items,Obj_SubstituteCloth_08,左納烏調查隊的布料,以左納烏調查隊為主題設計的布料。質地厚實，似乎可用來當作滑翔傘的材料。
+key_items,Key Items,Obj_SubstituteCloth_09,馬神大人的布料,以馬神馬瀧為主題設計的布料。質地厚實，似乎可用來當作滑翔傘的材料。
+key_items,Key Items,Obj_SubstituteCloth_10,沃托里村的布料,以沃托里村為主題設計的布料。質地厚實，似乎可用來當作滑翔傘的材料。
+key_items,Key Items,Obj_SubstituteCloth_11,白詰報社的布料,以白詰報社為主題設計的布料。質地厚實，似乎可用來當作滑翔傘的材料。
+key_items,Key Items,Obj_SubstituteCloth_12,松達建築店的布料,以松達建築店為主題設計的布料。質地厚實，似乎可用來當作滑翔傘的材料。
+key_items,Key Items,Obj_SubstituteCloth_13,柯爾天親手製作的布料,以薩托利為主題設計的布料。質地厚實，似乎可用來當作滑翔傘的材料。
+key_items,Key Items,Obj_SubstituteCloth_14,克洛格族的布料,以克洛格為主題設計的布料。質地厚實，似乎可用來當作滑翔傘的材料。
+key_items,Key Items,Obj_SubstituteCloth_15,帝灰熊的布料,以帝灰熊為主題設計的布料。質地厚實，似乎可用來當作滑翔傘的材料。
+key_items,Key Items,Obj_SubstituteCloth_16,洛貝利親手製作的布料,以普爾亞平板為主題設計的布料。質地厚實，似乎可用來當作滑翔傘的材料。
+key_items,Key Items,Obj_SubstituteCloth_17,SAGONO的布料,以SAGONO為主題設計的布料。質地厚實，似乎可用來當作滑翔傘的材料。
+key_items,Key Items,Obj_SubstituteCloth_18,卡庫達的布料,以卡庫達為主題設計的布料。質地厚實，似乎可用來當作滑翔傘的材料。
+key_items,Key Items,Obj_SubstituteCloth_19,奧爾汀鴕鳥的布料,以奧爾汀鴕鳥為主題設計的布料。質地厚實，似乎可用來當作滑翔傘的材料。
+key_items,Key Items,Obj_SubstituteCloth_20,咕咕雞的布料,以咕咕雞為主題設計的布料。質地厚實，似乎可用來當作滑翔傘的材料。
+key_items,Key Items,Obj_SubstituteCloth_21,馬的布料,以馬為主題設計的布料。質地厚實，似乎可用來當作滑翔傘的材料。
+key_items,Key Items,Obj_SubstituteCloth_22,丘丘的布料,以丘丘為主題設計的布料。質地厚實，似乎可用來當作滑翔傘的材料。
+key_items,Key Items,Obj_SubstituteCloth_23,萊尼爾的布料,以萊尼爾為主題設計的布料。質地厚實，似乎可用來當作滑翔傘的材料。
+key_items,Key Items,Obj_SubstituteCloth_24,古慄歐克的布料,以古慄歐克為主題設計的布料。質地厚實，似乎可用來當作滑翔傘的材料。
+key_items,Key Items,Obj_SubstituteCloth_25,骷髏西諾克斯的布料,以骷髏西諾克斯為主題設計的布料。質地厚實，似乎可用來當作滑翔傘的材料。
+key_items,Key Items,Obj_SubstituteCloth_26,回憶服的布料,以回憶服為主題設計的布料。質地厚實，似乎可用來當作滑翔傘的材料。
+key_items,Key Items,Obj_SubstituteCloth_27,海利亞兜帽的布料,以海利亞兜帽為主題設計的布料。質地厚實，似乎可用來當作滑翔傘的材料。
+key_items,Key Items,Obj_SubstituteCloth_28,海拉魯公主的布料,以海拉魯公主為主題設計的布料。質地厚實，似乎可用來當作滑翔傘的材料。
+key_items,Key Items,Obj_SubstituteCloth_29,鼓隆英傑的布料,以鼓隆英傑為主題設計的布料。質地厚實，似乎可用來當作滑翔傘的材料。
+key_items,Key Items,Obj_SubstituteCloth_30,利特英傑的布料,以利特英傑為主題設計的布料。質地厚實，似乎可用來當作滑翔傘的材料。
+key_items,Key Items,Obj_SubstituteCloth_31,卓拉英傑的布料,以卓拉英傑為主題設計的布料。質地厚實，似乎可用來當作滑翔傘的材料。
+key_items,Key Items,Obj_SubstituteCloth_32,格魯德英傑的布料,以格魯德英傑為主題設計的布料。質地厚實，似乎可用來當作滑翔傘的材料。
+key_items,Key Items,Obj_SubstituteCloth_33,古代希卡花紋的布料,以古代希卡花紋為主題設計的布料。質地厚實，似乎可用來當作滑翔傘的材料。
+key_items,Key Items,Obj_SubstituteCloth_34,波克布林的布料,以波克布林為主題設計的布料。質地厚實，似乎可用來當作滑翔傘的材料。
+key_items,Key Items,Obj_SubstituteCloth_35,魔王的布料,以魔王為主題設計的布料。質地厚實，似乎可用來當作滑翔傘的材料。
+key_items,Key Items,Obj_SubstituteCloth_36,赤獅子王的布料,以赤獅子王為主題設計的布料。質地厚實，似乎可用來當作滑翔傘的材料。
+key_items,Key Items,Obj_SubstituteCloth_37,希克的布料,以希克為主題設計的布料。質地厚實，似乎可用來當作滑翔傘的材料。
+key_items,Key Items,Obj_SubstituteCloth_38,陰影之鏡的布料,以陰影之鏡為主題設計的布料。質地厚實，似乎可用來當作滑翔傘的材料。
+key_items,Key Items,Obj_SubstituteCloth_39,黃昏公主的布料,以黃昏公主的服裝為主題設計的布料。質地厚實，似乎可用來當作滑翔傘的材料。
+key_items,Key Items,Obj_SubstituteCloth_40,榮蓉牧場的布料,以榮蓉牧場為主題設計的布料。質地厚實，似乎可用來當作滑翔傘的材料。
+key_items,Key Items,Obj_SubstituteCloth_41,魔吉拉的面具的布料,以魔吉拉的面具為主題設計的布料。質地厚實，似乎可用來當作滑翔傘的材料。
+key_items,Key Items,Obj_SubstituteCloth_43,滅亡王族的布料,以滅亡王族為主題設計的布料。質地厚實，似乎可用來當作滑翔傘的材料。
+key_items,Key Items,Obj_SubstituteCloth_45,劍之精靈的布料,以劍之精靈為主題設計的布料。質地厚實，似乎可用來當作滑翔傘的材料。
+key_items,Key Items,Obj_SubstituteCloth_46,點陣的布料,以點陣為主題設計的布料。質地厚實，似乎可用來當作滑翔傘的材料。
+key_items,Key Items,Obj_SubstituteCloth_48,蛋圖案的布料,以蛋為主題設計的布料。質地厚實，似乎可用來當作滑翔傘的材料。
+key_items,Key Items,Obj_SubstituteCloth_49,女神的布料,以女神為主題設計的布料。質地厚實，似乎可用來當作滑翔傘的材料。
+key_items,Key Items,Obj_SubstituteCloth_51,新式‧英傑服的布料,以新式‧英傑服為主題設計的布料。質地厚實，似乎可用來當作滑翔傘的材料。
+key_items,Key Items,Obj_SubstituteCloth_52,薩爾達公主的布料,以薩爾達公主為主題設計的布料。質地厚實，似乎可用來當作滑翔傘的材料。
+key_items,Key Items,Obj_SubstituteCloth_53,格魯德王的布料,以格魯德王為主題設計的布料。質地厚實，似乎可用來當作滑翔傘的材料。
+key_items,Key Items,Obj_SubstituteCloth_55,熟悉圖案的布料,以讓人懷念的主題設計的布料。質地厚實，似乎可用來當作滑翔傘的材料。
+key_items,Key Items,Obj_SubstituteCloth_56,卡邦達親手製作的布料,裝飾著卡邦達所繪製的松達圖樣的布料。質地厚實，似乎可用來當作滑翔傘的材料。
+key_items,Key Items,Obj_SubstituteCloth_Default,普通的布料,
+key_items,Key Items,Obj_TreasureMap_00,殘舊的地圖,在很久以前所繪製的殘舊的地圖。似乎指示著某個地點，該地點究竟有什麼呢……？
+key_items,Key Items,Obj_WarpDLC_Prototype,試製的傳送標記器,洛貝利自己試作的傳送標記器。資料已損毀，目前無法使用。
+key_items,Key Items,Parasail,滑翔傘,從普爾亞那裡取得，可以迎風滑翔的道具。在空中按使用吧。
+animals,Creatures,GameRomHorse,馬,主要棲息在草原上。自古就是人類熟悉的交通工具之一。但是野生的馬，只要人類接近就會立刻逃走，所以捕捉牠們的時候必須靜靜地潛行靠近。
+animals,Creatures,GameRomHorse00L,巨馬,非常特別的巨大馬匹。牠的體能也遠遠凌駕於普通的馬之上，但是性格非常粗暴。無論是捕捉或是駕馭都需要熟練的技術。是很挑騎手的馬。
+animals,Creatures,GameRomHorseZelda,白馬,據說100多年前滅亡的海拉魯王族曾為了向人民展示其權威，會騎著非常稀有的白馬。這匹白馬或許是當時那匹馬的後代也說不定。
+animals,Creatures,GameRomHorse01L,巨身白馬,雖然被認為具有海拉魯王族所騎乘之白馬的血脈。然而其身軀過於巨大，因此被稱作「巨身白馬」。人們判定此馬是突變而成，有不少旅行者與研究員都在尋求牠的情報。
+animals,Creatures,GameRomHorseGold,金色馬,擁有金色鬃毛，極其罕見的馬。據說100年裡只會誕生出一匹。雖然外貌美麗，卻能適應嚴酷的環境。戒心高且會挑選騎乘者，因此很少有人能夠馴服此馬。
+animals,Creatures,GameRomHorseBone,骷髏馬,怪物所騎乘的骨馬。據說生前是普通的馬，但卻在瘴氣濃烈之處甦醒。雖然在地上只能於夜間維持姿態，不過具有能在瘴氣上奔跑的特性。
+animals,Creatures,GameRomHorse00S,驢,小型的馬。是被飼養在人類聚落的家畜，在海拉魯找不到野生的驢。比外表看起來有力，擅長搬運貨物，所以旅行商人常會帶著牠。
+animals,Creatures,Animal_Sunazarashi_A,沙海象,可以用巨大雙鰭在沙裡像游泳般地移動。原本是格魯德沙漠的野生動物，但現在已經被格魯德族馴化。聽覺很發達，即使潛伏在沙子裡，也能靠著周圍的聲音前進。雖然巨大的牙齒為其特徵，但其實喜歡吃水果。
+animals,Creatures,Animal_SunazarashiSP_C,帕特麗夏,露珠飼養的沙海象。外表有點嚇人，但是露珠非常寵愛牠，還在家裡準備了牠專用的沙地，額頭上的蝴蝶結也是露珠送給牠的禮物。和其他沙海象比起來，牠的動作更敏捷，無論何時都毫不膽怯，勇敢地在沙漠中奔馳。是族長值得信賴的夥伴。
+animals,Creatures,Animal_Squirrel_A,尾立松鼠,以大大的尾巴為特徵的小動物。主要生活在森林裡，喜歡吃橡子等樹果。擁有可以將食物藏在臉頰裡的頰囊，但受到驚嚇時，橡子常常會裡頭掉出來。
+animals,Creatures,Animal_Boar_A,森林野豬,棲息在海拉魯全境的中型野獸。常常可以看到牠在森林和草原覓食的模樣。雖然個性基本上很溫和，但如果太過靠近，要小心牠會突然猛衝過來。
+animals,Creatures,Animal_Boar_B,赤獠野豬,以黑色體毛和紅色獠牙為特徵的野豬。生態與普通野豬相似，但是生命力和猛衝的威力都很強大。狩獵的時候要注意提防危險發生。
+animals,Creatures,Animal_WildGoat_A,黑背山羊,棲息在草原和岩石地區的草食動物。有可以輕易攀住岩石的蹄子和強韌的腰腿，因此可以在斷崖上活動。動作不是很靈敏，是很適合狩獵新手的獵物。
+animals,Creatures,Animal_Goat_A,白山羊,人類為了獲得羊奶而飼養的山羊。山羊新鮮的羊奶還可以加工成奶油，柔軟的毛也能製成衣物，是很重要的家畜。放牧時為了能夠得知牠們的所在地，會在其脖子上戴上鈴鐺。
+animals,Creatures,Animal_Deer_A,山鹿,森林深處常見的雄鹿，分岔的巨大鹿角為其特徵。一旦感到有危險就會揮動這雙角。性格非常小心謹慎，所以很難靠近。如果能夠抓到牠的話，也許能騎在牠的背上。
+animals,Creatures,Animal_Doe_A,山鹿（雌）,總是和雄鹿在一起的雌鹿。雌山鹿沒有角，體型也更小一點。山鹿是警戒心很強的動物，但在吃最喜歡的蘋果等果實時會降低警覺心，是狩獵或捕捉牠們的好機會。
+animals,Creatures,Animal_Bull_A,濕地水牛,擁有巨大且威風的角的野牛。喜歡待在水邊，吃周圍的草為生。在村子裡飼養的家畜哈特諾牛是濕地水牛改良後的品種。因為肉質很好，很常被當成狩獵的目標。
+animals,Creatures,Animal_Cow_A,哈特諾牛,人類為了獲得牛奶而當作家畜飼養的牛。據說是哈特諾村原生種。和濕地水牛相比，角要小一點，性格更溫和，很容易飼養。放牧時會在牠們的角上戴上色彩鮮豔的裝飾。
+animals,Creatures,Animal_Sheep_A,高原羊,原本是棲息在山岳地帶的動物，但人類為了牠的毛而開始將其飼養在村子等地。手工剪下又厚又長的毛之後，可以用來製作衣物和寢具。性格溫和膽小，基本上都是團體行動。
+animals,Creatures,Animal_Fox_A,平原狐,在草原和森林常見的狐狸。蓬鬆尾巴的白色尖端為其特徵。不群居生活，大多單獨行動。是雜食動物，平常都吃果實或蟲子，有的時候也會捕食比自己小的動物或鳥。
+animals,Creatures,Animal_Fox_B,雪狐,棲息在塔邦撻等寒冷地區。是平原狐的同伴。為了適應雪山生活，體毛變成白色的，成為了在雪地中的保護色。所以如果想找到雪原上的雪狐，需要很強的觀察力。
+animals,Creatures,Animal_Wolf_A,山賊狼,凶猛的肉食性動物。攻擊性很強，有時候甚至會襲擊人類。會集體進行狩獵，包圍獵物後將其殺死。行事謹慎，如果夥伴被打敗，就會轉身逃跑。使用遠吠和其他同類交流，如果在森林裡聽到牠們的聲音可要特別小心了。
+animals,Creatures,Animal_Wolf_B,荒原土狼,狼的同類，常見於格魯德地區。可以忍受炎熱乾燥的環境，在沙漠中也能生存。雖然平常以獵捕其他野獸和小動物為食，但也常會襲擊人類。對於沙漠中的旅人來說是非常危險的存在。
+animals,Creatures,Animal_Wolf_C,雪原狼,生活在海布拉山脈等雪山上，是山賊狼的同類。集體行動的習性基本上與山賊狼相同，但因為擁有能在嚴苛環境生存的強韌體力，且白色體毛在雪原可以成為保護色，所以要是遇到牠們，危險性更高。
+animals,Creatures,Animal_Elk_A,塔邦撻駝鹿,塔邦撻地區原生種的鹿。體型是生活在海拉魯的鹿之中最大的，其特徵是扁平而巨大的樹枝狀鹿角，而且鹿角每年都在持續生長變化。其肉質上等，口感柔軟，是很受歡迎的燉煮料理食材。
+animals,Creatures,Animal_Pao_A,咚構,於亞熱帶地區發現的新品種四腳動物，目前在海拉魯全境內僅發現到5隻個體。其生態仍充滿謎團，甚至連主要食物為何都尚未查明。因性格膽小，受到驚嚇時會揮動牠巨大的角，需小心注意。
+animals,Creatures,Animal_Bear_A,食蜂熊,動物之王，連資深獵人也會避免狩獵。如果不慎進入其領地，即便是帶著武器的人類也會遭到攻擊。正如其名，牠非常喜歡吃蜂蜜。危險度很高，若能分散其注意力後靠近，也許可以騎到牠背上。
+animals,Creatures,Animal_Bear_B,帝灰熊,擁有灰色體毛的食蜂熊同類，因為更加粗暴的性格與強壯的身體，可以說是野生動物中最危險的。據說牠居住在人煙稀少的冰天雪地中，所以沒什麼機會碰到，但若是發現牠的話，還是不要貿然出手比較好。
+animals,Creatures,Animal_Dog_A,海利亞獵犬,一種很聰明的動物，對人類也很順從。從以前開始就不只被當成寵物，還被訓練來守護或是引導放牧在外的羊群。現在的海利亞獵犬據說都是太古時代海拉魯王族飼養的犬隻後代。
+animals,Creatures,Animal_RupeeRabbit_A,盧咪,散發淡淡藍色光芒的神奇生物。乍看之下很像兔子，但是其起源和生態都是個謎。只知道牠有喜歡收集盧比的奇怪習性。
+animals,Creatures,Enemy_CaveMaster_000,魔猶伊,棲息於世界各地洞窟的奇特生物。即便在洞窟內，也喜歡藏匿在不會引來注意的地方。一靠近牠就會從口中吐出泡泡來威嚇對方。有著受到刺激時會消失得無影無蹤，並在離去時掉落物品的特性。
+animals,Creatures,Animal_LittleBird_A,普雀,海拉魯最常見的小鳥。主要棲息在平原和森林，但也會出現在人類居住的地方。雜食性，樹果和小蟲等什麼都吃。蹦蹦跳跳移動的樣子看起來雖然很可愛，但其實不太親人。
+animals,Creatures,Animal_LittleBird_B,紅雀,棲息在海布拉地區的小鳥。會啄食野菜或嫩芽等。羽毛是鮮豔的紅色，可以拿來做成裝飾品。
+animals,Creatures,Animal_LittleBird_C,青波雀,在拉聶爾地區常見的小鳥。喜歡吃水邊的嫩葉和水草。據說周圍沒有危險時，會在雨後的水塘或河流的淺灘等洗澡。
+animals,Creatures,Animal_LittleBird_D,五彩雀,在費羅尼地區常見的小鳥。正如其名，牠擁有鮮豔的羽毛，是很受部分收藏家歡迎的觀賞鳥。雜食性，以大量棲息於熱帶森林中的小型昆蟲為主食，也會吃樹果。
+animals,Creatures,Animal_LittleBird_E,沙雀,棲息在格魯德地區的小鳥。適應了乾燥的環境，所以非常耐熱。在沙漠裡為了不被敵人發現，經常可以看到牠們把自己半埋在沙子裡，動也不動的模樣。
+animals,Creatures,Animal_LittleBird_F,金雀,棲息在奧爾汀地區的麻雀同類。據說因為已經適應了嚴酷的火山環境，所以羽毛可以防火。會吃躲藏在岩地裡的小蟲子為生。
+animals,Creatures,Animal_Pigeon_A,凡鴿,生活在海拉魯全境的森林和草原。棲地廣大，也常見於人類居住的地方。警戒心不強，即便是狩獵新手，要抓到牠也不是件難事。
+animals,Creatures,Animal_Pigeon_B,虹鴿,擁有非常鮮豔羽毛的凡鴿同類。主要棲息在海拉魯北部的森林和草原。愛吃樹果和穀物，但也會捕食昆蟲和蚯蚓。據說牠的肉質比凡鴿更好。
+animals,Creatures,Animal_Ptarmigan_B,火焰鴿,只棲息在死亡之山附近的稀有鴿子。羽毛具有很強的耐火性能，因此被當成很重要的服飾原料。雖然喜歡灼熱的環境，但最近常被目擊到在低溫上空飛行的姿態。
+animals,Creatures,Animal_Ptarmigan_A,白鴿,生活在海布拉地區，擁有雪白羽毛的鴿子，據說是因為某些擁有雪中保護色的凡鴿在雪山上存活下來，而成了後來的白鴿。為了在嚴寒中生存，體內囤積了許多脂肪，可以從牠身上取得頂級的禽肉。
+animals,Creatures,Animal_SkyPigeon_A,單色鴿,屬於凡鴿原種的小型鳥類。雖然現今相當少見，但過去曾棲息於海拉魯全境。脖子以上的羽毛具有保護色的效果，使其在草叢中不易被發現。
+animals,Creatures,Animal_Crow_A,山鴉,非常聰明的鳥，叫聲為其特徵。不只是山岳地帶，也棲息在森林和人類的居住地。有時會趁人類不注意時破壞農作物。那漆黑的羽毛讓人印象深刻，也因此常常被視為不祥之物而遭到厭惡。
+animals,Creatures,Animal_WildDuck_A,白星鴨,棲息在海拉魯全境水邊的鳥。擅長使用腳蹼游泳。經常可以在河流或湖泊看到牠用喙梳理羽毛，或是為了捕食水中的獵物而一頭栽進水中倒立。如果抓到牠，可以獲得脂肪肥厚的上等禽肉。
+animals,Creatures,Animal_Heron_A,青羽鷺,在海拉魯各地水邊常見的鳥。其特徵是細細的腳和長長的脖子。以吃水中的魚和青蛙為生。有的時候會一動也不動地等獵物靠近，然後伸出脖子捕食。
+animals,Creatures,Animal_Heron_B,桃鷺,羽毛尖端和頭部都是美麗的桃粉色。和生活在水邊的青羽鷺不同，主要棲息在草原或乾燥地帶。會啄食岩石陰影處或草叢裡的昆蟲。經常踱著細細的腳尋找食物，但一旦察覺到危險，就會馬上飛走。
+animals,Creatures,Animal_Hawk_A,島鷹,棲息在平原和高地的肉食性鳥類。擁有鋒利的爪子和喙，會捕捉其他鳥類或小動物為食。總是悠然盤旋於高空中，尋找著地面上的獵物。
+animals,Creatures,Animal_Gull_A,海濱鷗,棲息在大海附近的鳥。主要以魚類為食，所以在魚群游泳的海上，經常能看到海濱鷗盤旋。海上的漁夫會利用其習性，來判斷魚群的所在位置。
+animals,Creatures,Animal_SkyGull_A,雲海鷗,海濱鷗的亞種，僅棲息於高空。據說在地上極為罕見，僅偶爾能從雲的縫隙中一睹其身姿。擅長利用上升氣流，幾乎不需拍動翅膀就能翱翔於天際之間。
+animals,Creatures,Animal_Cassowary_A,奧爾汀鴕鳥,棲息在奧爾汀地區火山地帶的大型鳥類。其羽毛和皮膚可以防火，是為了適應嚴酷的火山環境進化而成。翅膀很小，無法飛行，但是雙腿十分發達，可以跑得很快。
+animals,Creatures,Animal_SkyCassowary_A,森林鴕鳥,據傳在海拉魯大地仍是一片樹海時，該鳥類就已大量棲息於此。牠們不會飛行，較長的羽毛使其相當耐寒但怕高溫。警戒心很強，經常在草叢中探出頭來環顧著四周狀況。
+animals,Creatures,Animal_Kokko_A,咕咕雞,為了獲得蛋而飼養在村裡的雞。有一部分的咕咕雞被當成寵物，和人類十分親近。平常不會飛，但如果被人舉起來的話，就會因為受驚而不停猛烈拍打翅膀。通常很溫和膽小，但如果不停被人戳的話……
+animals,Creatures,Item_FishGet_A,海拉魯鱸魚,從遠古時代至今都沒改變過外觀的普通的魚。可以直接生吃，但是烹調後，其恢復效果會增加。
+animals,Creatures,Item_FishGet_B,生命鱸魚,生活在水邊的大型魚。大大的身體裡儲存著豐富的營養。烹調成料理食用後可以恢復全部的心心，並增加其最大值。
+animals,Creatures,Item_FishGet_L,精力鱸魚,據說是活了很久的海拉魯鱸魚。生命力很強，烹煮成料理食用後，能一下子恢復精力槽。
+animals,Creatures,Item_FishGet_I,生命鮭魚,棲息在寒冷水域的魚。烹煮成料理食用後，那些為了防寒而儲存在體內的脂肪會發揮效果，可以恢復全部的心心，並增加其最大值。
+animals,Creatures,Item_FishGet_C,冰冷鱒魚,喜歡寒冷水域的藍色鱒魚。據說皮膚還有可以讓身體降溫的成分。烹煮成料理食用後，就能擁有抗暑能力。
+animals,Creatures,Item_FishGet_J,暖暖鱒魚,喜歡溫暖水域的紅色鱒魚。體內擁有可以儲存熱量的特殊內臟。若是當成食材烹調，做出來的料理可以暖和身子。
+animals,Creatures,Item_FishGet_D,酥麻鱒魚,棲息在湖泊等淡水中的鱒魚。如果將含有絕緣成分的魚鱗當做食材，可以做出具有防電效果的菜餚。
+animals,Creatures,Item_FishGet_X,潛行鱒魚,會在暗處發光的魚。魚鱗中的發光物質含有能夠提高集中力的成分。烹調成料理食用後，行動會變得謹慎且悄無聲息。
+animals,Creatures,Item_FishGet_E,大劍鯉魚,淡水鯉魚的同類。肝臟中含有可以增強肌力的成分。烹調成料理食用後會增加攻擊力。
+animals,Creatures,Item_FishGet_H,鎧甲鯉魚,魚鱗如鎧甲般堅硬的古代魚。烹調成料理食用後，儲存在魚鱗內的成分可以讓骨骼強壯，增加防禦力。
+animals,Creatures,Item_FishGet_Z,三色鯉魚,野生的鎧甲鯉魚經過品種改良後而成的觀賞魚。擁有不存在於自然界的美麗顏色和花紋。即使烹調成料理食用，也沒有任何特殊效果。
+animals,Creatures,Item_FishGet_AA,遠昔骨舌魚,活力旺盛的魚，至今仍維持著太古時期的樣貌。緊實的肉身富含營養，食用後可以恢復心心。
+animals,Creatures,Item_FishGet_AC,光亮霍拉魚,棲息於陰暗洞窟中會發光的魚。含有其發光酵素的料理，具有令食用者身體發光的效果。
+animals,Creatures,Item_FishGet_F,大劍鯛魚,性格凶暴的海水魚。烹調成料理食用後，據說會因為魚肉中的成分提高鬥志，增加攻擊力。
+animals,Creatures,Item_FishGet_G,鎧甲鯛魚,全身都被堅硬魚鱗覆蓋的鯛魚。烹調成料理食用後，儲存在魚鱗內的成分會讓骨骼強壯，增加防禦力。
+animals,Creatures,Item_FishGet_M,潛行田螺,棲息在淡水的大型螺類。烹調成料理食用，聽覺會變得敏銳，可以無聲無息地展開行動。在夜晚會發出類似螢火蟲的光芒。
+animals,Creatures,Item_InsectGet_K,大劍螃蟹,棲息在水邊的螃蟹，鋒利的螯是牠的特徵。蟹螯肉裡具有提高肌力的成分。烹調後食用，可以增加攻擊力。
+animals,Creatures,Item_InsectGet_O,鎧甲螃蟹,和其他螃蟹比起來，牠的甲殼特別硬。據說蟹黃和蟹肉裡含有強健身體的養分。烹調成料理食用，可以增加防禦力。
+animals,Creatures,Item_InsectGet_Z,精力螃蟹,因為下雨時會大量出沒而聞名。蟹肉緊實，其鮮美可以令人忘記疲憊。烹調成料理食用，可以恢復精力槽。
+animals,Creatures,Animal_Insect_F,妖精,當你筋疲力盡時會從袋子裡飛出來，瞬間治癒你的傷口。和螢火蟲不同，白天也會閃耀著淡淡光芒。
+animals,Creatures,Animal_Insect_N,冰冷鳳蝶,一種神奇的蝴蝶，其鱗粉可以讓空氣冷卻。在雪中飛舞的姿態十分美麗。若是和怪物材料一起熬煮，就會變成解暑藥。
+animals,Creatures,Animal_Insect_Q,暖暖鳳蝶,棲息在森林或是平原等溫暖地區的蝴蝶。若是將儲存了陽光的鱗粉和怪物材料一起熬煮，就會變成暖身藥。
+animals,Creatures,Animal_Insect_R,酥麻鳳蝶,只有在下雨天才會出現的珍貴蝴蝶。體內器官會產生絕緣成分為其特性。熬煮成藥後，可以耐受電擊。
+animals,Creatures,Animal_Insect_AB,耐火鳳蝶,棲息在高溫火山地帶的珍貴蝴蝶。體內蘊藏著耐燃性高的體液。熬煮後製成的藥膏具有耐火的效果。
+animals,Creatures,Animal_Insect_C,冰冷蜻蜓,喜歡樹蔭等涼爽處的蜻蜓。據說通透的藍色翅膀具有散熱成分，熬煮後可以作為解暑藥使用。
+animals,Creatures,Animal_Insect_T,暖暖蜻蜓,一種蜻蜓，翅膀前端擁有紅色花紋為其特徵。翅膀具有發汗成分。和怪物材料一起熬煮，就會變成暖身藥。
+animals,Creatures,Animal_Insect_I,酥麻蜻蜓,只有在下雨天才會出現的珍貴蜻蜓。長長的翅膀具有將電流排出體外的特殊成分。製成藥後，因為其功效而能提升耐電性。
+animals,Creatures,Animal_Insect_H,精力蚱蜢,擁有為了覓食可以持續跳躍一整天的能量。儲存在牠體內的養分是恢復精力槽的藥物之主要成分。
+animals,Creatures,Animal_Insect_G,大劍獨角仙,棲息在森林中的昆蟲之王。將大大的角熬煮成藥後，據說可以增加肌肉的血流量，提升攻擊力。
+animals,Creatures,Animal_Insect_P,鎧甲獨角仙,擁有如同鎧甲般堅硬身軀的獨角仙。將外殼的成分熬煮成藥後，具有強化軀幹的功能，可以提高防禦力。
+animals,Creatures,Animal_Insect_AA,精力獨角仙,壽命長達10年之久的珍貴獨角仙。強大的生命力在被製成藥後，擁有能夠一下子恢復精力槽的效果。
+animals,Creatures,Animal_Insect_E,靜靜螢火蟲,在夜晚發出淡淡光芒的昆蟲。據說體內的發光物質具有提高集中力的效果。製成藥後，可以讓人行動時不發出任何聲響。
+animals,Creatures,Animal_Insect_AI,闇螢火蟲,棲息於陰暗深穴的多翅昆蟲。將牠分泌的發光成分熬煮後可製成藥物，服用後身體會發出微弱的亮光。
+animals,Creatures,Animal_Insect_A,速速青蛙,在水邊跳來跳去的青蛙，動作敏捷。牠的肉中含有一種可增加敏捷度的物質，和怪物材料一起熬煮，會成為提升移動速度的藥。
+animals,Creatures,Animal_Insect_B,毅力青蛙,喜歡陰暗潮濕，不常見到的青蛙。肝臟中的成分具有促進新陳代謝的功效。製成藥後，可讓精力槽暫時增加上限值。
+animals,Creatures,Animal_Insect_AG,貼貼青蛙,貼在牆壁上靜止不動的青蛙。牠所分泌的成分能夠作為防滑物來使用，可用來製作便於攀登潮濕牆面的藥物。
+animals,Creatures,Animal_Insect_S,速速蜥蜴,一種可以在草地或森林中發現的蜥蜴，健步如飛。據說牠的肉具有增強腳部肌肉力量的效果，和怪物材料一起熬煮，會成為提升移動速度的藥。
+animals,Creatures,Animal_Insect_M,生命蜥蜴,一種居住在森林深處的罕見蜥蜴。牠的生命力十分頑強，吃的食物營養價值很高。製成藥後，可以大幅提高心心的最大值。
+animals,Creatures,Animal_Insect_X,耐火蜥蜴,棲息在奧爾汀地區的特殊蜥蜴。鱗片上含有大量的耐火成分。和怪物材料一起熬煮，就會變成耐火藥。
+animals,Creatures,Animal_Insect_AH,貼貼蜥蜴,利用吸盤狀的四肢，能夠爬上任何牆壁的蜥蜴。藉著熬煮讓吸附成分濃縮後，即可製成便於攀爬打滑牆面的藥物。
+materials,Materials,Animal_Insect_A,速速青蛙,在水邊跳來跳去的青蛙，動作敏捷。牠的肉中含有一種可增加敏捷度的物質，和怪物材料一起熬煮，會成為提升移動速度的藥。
+materials,Materials,Animal_Insect_AA,精力獨角仙,壽命長達10年之久的珍貴獨角仙。強大的生命力在被製成藥後，擁有能夠一下子恢復精力槽的效果。
+materials,Materials,Animal_Insect_AB,耐火鳳蝶,棲息在高溫火山地帶的珍貴蝴蝶。體內蘊藏著耐燃性高的體液。熬煮後製成的藥膏具有耐火的效果。
+materials,Materials,Animal_Insect_AG,貼貼青蛙,貼在牆壁上靜止不動的青蛙。牠所分泌的成分能夠作為防滑物來使用，可用來製作便於攀登潮濕牆面的藥物。
+materials,Materials,Animal_Insect_AH,貼貼蜥蜴,利用吸盤狀的四肢，能夠爬上任何牆壁的蜥蜴。藉著熬煮讓吸附成分濃縮後，即可製成便於攀爬打滑牆面的藥物。
+materials,Materials,Animal_Insect_AI,闇螢火蟲,棲息於陰暗深穴的多翅昆蟲。將牠分泌的發光成分熬煮後可製成藥物，服用後身體會發出微弱的亮光。
+materials,Materials,Animal_Insect_B,毅力青蛙,喜歡陰暗潮濕，不常見到的青蛙。肝臟中的成分具有促進新陳代謝的功效。製成藥後，可讓精力槽暫時增加上限值。
+materials,Materials,Animal_Insect_C,冰冷蜻蜓,喜歡樹蔭等涼爽處的蜻蜓。據說通透的藍色翅膀具有散熱成分，熬煮後可以作為解暑藥使用。
+materials,Materials,Animal_Insect_E,靜靜螢火蟲,在夜晚發出淡淡光芒的昆蟲。據說體內的發光物質具有提高集中力的效果。製成藥後，可以讓人行動時不發出任何聲響。
+materials,Materials,Animal_Insect_F,妖精,當你筋疲力盡時會從袋子裡飛出來，瞬間治癒你的傷口。和螢火蟲不同，白天也會閃耀著淡淡光芒。
+materials,Materials,Animal_Insect_G,大劍獨角仙,棲息在森林中的昆蟲之王。將大大的角熬煮成藥後，據說可以增加肌肉的血流量，提升攻擊力。
+materials,Materials,Animal_Insect_H,精力蚱蜢,擁有為了覓食可以持續跳躍一整天的能量。儲存在牠體內的養分是恢復精力槽的藥物之主要成分。
+materials,Materials,Animal_Insect_I,酥麻蜻蜓,只有在下雨天才會出現的珍貴蜻蜓。長長的翅膀具有將電流排出體外的特殊成分。製成藥後，因為其功效而能提升耐電性。
+materials,Materials,Animal_Insect_M,生命蜥蜴,一種居住在森林深處的罕見蜥蜴。牠的生命力十分頑強，吃的食物營養價值很高。製成藥後，可以大幅提高心心的最大值。
+materials,Materials,Animal_Insect_N,冰冷鳳蝶,一種神奇的蝴蝶，其鱗粉可以讓空氣冷卻。在雪中飛舞的姿態十分美麗。若是和怪物材料一起熬煮，就會變成解暑藥。
+materials,Materials,Animal_Insect_P,鎧甲獨角仙,擁有如同鎧甲般堅硬身軀的獨角仙。將外殼的成分熬煮成藥後，具有強化軀幹的功能，可以提高防禦力。
+materials,Materials,Animal_Insect_Q,暖暖鳳蝶,棲息在森林或是平原等溫暖地區的蝴蝶。若是將儲存了陽光的鱗粉和怪物材料一起熬煮，就會變成暖身藥。
+materials,Materials,Animal_Insect_R,酥麻鳳蝶,只有在下雨天才會出現的珍貴蝴蝶。體內器官會產生絕緣成分為其特性。熬煮成藥後，可以耐受電擊。
+materials,Materials,Animal_Insect_S,速速蜥蜴,一種可以在草地或森林中發現的蜥蜴，健步如飛。據說牠的肉具有增強腳部肌肉力量的效果，和怪物材料一起熬煮，會成為提升移動速度的藥。
+materials,Materials,Animal_Insect_T,暖暖蜻蜓,一種蜻蜓，翅膀前端擁有紅色花紋為其特徵。翅膀具有發汗成分。和怪物材料一起熬煮，就會變成暖身藥。
+materials,Materials,Animal_Insect_X,耐火蜥蜴,棲息在奧爾汀地區的特殊蜥蜴。鱗片上含有大量的耐火成分。和怪物材料一起熬煮，就會變成耐火藥。
+materials,Materials,BeeHome,精力蜂的蜂蜜,從蜂巢取出的蜂蜜營養滿分！因為營養價值很高，用其提味的料理，會具有恢復精力槽的效果。
+materials,Materials,BombFruit,炸彈花,含有類似火藥成分的花。對其施加衝擊或是點火的話，就會發生波及周圍的爆炸。
+materials,Materials,ConfusionFruit,混亂花,會放出強烈惡臭的野生花朵。聞到那股臭味就會神智不清，一時之間會無法分出敵我區別。
+materials,Materials,ElectricalFruit,電流果,破裂後會發出電流的果實。它含有的成分會與雷鳴起反應並刺激肌力，做成料理食用後，可在雷雨天時發出強力的攻擊。
+materials,Materials,FireFruit,火焰果,破裂後會發熱的果實。它含有的成分在受熱後會活化肌肉，做成料理食用後，可在高溫時發出強力的攻擊。
+materials,Materials,FldObj_Pinecone_A_01,海拉魯毬果,廣泛分布於海拉魯的樹木果實。含油量高，易於燃燒。丟入營火中可使火力上升。
+materials,Materials,IceFruit,冷氣果,破裂後會發出冷氣的果實。可在受寒時強化不常使用到的肌肉纖維，做成料理食用後，可在寒冷時發出強力的攻擊。
+materials,Materials,Item_Enemy_01,波克布林的牙齒,經過磨損後不再銳利的牙齒，但仍然堅硬並輕盈。將它用於箭頭上會比平時更有攻擊力，和蟲子一起熬煮的話可以當作藥材使用。
+materials,Materials,Item_Enemy_02,波克布林的肝臟,打敗波克布林後得到的材料，非常珍貴。微微顫抖著，讓人覺得很噁心……也許有什麼特別用處也說不定。
+materials,Materials,Item_Enemy_04,蜥蜴戰士的爪子,從蜥蜴戰士手肘長出的爪子，由於空氣阻力低，將它用於箭頭上會比平時更有攻擊力，和蟲子一起熬煮的話可以入藥。
+materials,Materials,Item_Enemy_05,蜥蜴戰士的尾巴,柔軟且伸縮性強的尾巴。揮舞時會根據施加的力道伸縮，裝到武器上可以活用其長度進行攻擊。
+materials,Materials,Item_Enemy_07,莫力布林的牙齒,莫力布林的銳利獠牙，太過堅硬不適合加工，將它用於箭頭上會比平時更有攻擊力，此外，和蟲子一起熬煮的話可以當作藥材使用。
+materials,Materials,Item_Enemy_08,莫力布林的肝臟,從莫力布林身上得到的原料，非常珍貴。臭味過於強烈，無法當作烹調的食材，但是和蟲子一起熬煮的話可以入藥。
+materials,Materials,Item_Enemy_100,霍拉布林的犄角,前後延伸的錘子型犄角，前側最為堅硬。裝到武器上能增加攻擊力，和蟲子一起熬煮後可以作為藥材使用。
+materials,Materials,Item_Enemy_101,藍色霍拉布林的犄角,成長並生出尖刺的錘子型犄角。裝到武器上能中幅增加攻擊力，和蟲子一起熬煮後可以作為藥材使用。
+materials,Materials,Item_Enemy_102,黑色霍拉布林的犄角,經過時間成長茁壯的錘子型犄角。裝到武器上能特大幅增加攻擊力，和蟲子一起熬煮後可以作為藥材使用。
+materials,Materials,Item_Enemy_103,白銀霍拉布林的犄角,頂端非常堅硬，前後呈現彎曲形狀的犄角。裝到武器上能極大幅增加攻擊力，煎煮過後和蟲子一起熬煮可以作為藥材使用。
+materials,Materials,Item_Enemy_104,霍拉布林的爪子,打倒霍拉布林後取得的爪子，擁有將它用於箭頭上會比平時更有攻擊力的特性。和蟲子一起熬煮的話可以當作藥材。
+materials,Materials,Item_Enemy_105,霍拉布林的肝臟,從霍拉布林身上獲得的珍貴素材。雖然苦味太重不適合用來製作料理，但和蟲子一起熬煮可製作出效果很好的藥品。
+materials,Materials,Item_Enemy_106,蜥蜴戰士的犄角,薄且鋒利的匕首型犄角。裝到武器上能增加攻擊力，和蟲子一起熬煮後可以作為藥材使用。
+materials,Materials,Item_Enemy_107,藍色蜥蜴戰士的犄角,突破天際一般伸長的刀刃型犄角。裝到武器上能中幅增加攻擊力，和蟲子一起熬煮後可以作為藥材使用。
+materials,Materials,Item_Enemy_108,黑色蜥蜴戰士的犄角,帶有複數切痕，外型近似利刃的犄角。裝到武器上能特大幅增加攻擊力，也可以作為藥材使用。
+materials,Materials,Item_Enemy_109,白銀蜥蜴戰士的犄角,僅僅觸碰到就會切斷任何物品的鐮刀型犄角。裝到武器上能極大幅增加攻擊力，和蟲子一起熬煮後可以作為藥材使用。
+materials,Materials,Item_Enemy_114,藍色蜥蜴戰士的尾巴,揮舞時會伸縮的鱗型尾巴，裝到武器上可以活用其長度進行攻擊。和蟲子一起熬煮後可以作為藥材使用。
+materials,Materials,Item_Enemy_115,黑色蜥蜴戰士的尾巴,包覆著厚重外皮，伸縮性十足的尾巴。裝到武器上揮舞可以活用其長度進行攻擊。熬煮後也可以作為藥材。
+materials,Materials,Item_Enemy_116,白銀蜥蜴戰士的尾巴,包覆著裝甲般厚重外皮的尾巴，即使厚重也有一等一的彈力與韌性。裝到武器上可以活用其伸縮性進行攻擊。
+materials,Materials,Item_Enemy_117,火蝙蝠的眼珠,帶有火蝙蝠熱氣的眼珠。方便作為藥材使用，裝到箭矢上也會有增加命中率的效果。
+materials,Materials,Item_Enemy_118,電蝙蝠的眼珠,累積了電蝙蝠電流的眼珠。不但能作為藥材來使用，裝到箭上還能成為自動追蹤目標的箭矢。
+materials,Materials,Item_Enemy_119,冰蝙蝠的眼珠,冰蝙蝠的冰凍眼珠。一般都作為藥材來使用，但也擁有裝到箭矢上能更輕易命中對手的效果。
+materials,Materials,Item_Enemy_121,吉波得的肝臟,打倒吉波得後有時候會掉落的乾燥肝臟。濃縮著富含生命力的養分，據說可用來製作非常強效的藥物。
+materials,Materials,Item_Enemy_123,吉波得的翅膀,隨著明暗閃爍詭異光芒的翅膀，裝到武器或箭矢上可使其乘風飛向遠處。和蟲子一起熬煮後可以作為藥材。
+materials,Materials,Item_Enemy_124,卡庫達的翅膀,卡庫達掉落的巨大翅膀。輕巧且寬大，裝到武器或箭矢上可使其僅靠微風就能飛向遠處。
+materials,Materials,Item_Enemy_13,萊尼爾的蹄子,只能從萊尼爾的腳上獲得的珍貴材料。非常沉重，作為箭頭使用的攻擊力很高。此外，和蟲子一起熬煮的也可以當作藥材。
+materials,Materials,Item_Enemy_130,左納烏能源,被當成魔像等物的動力源使用的物質，在它湧現而出的光芒中能感受到強大的能源。
+materials,Materials,Item_Enemy_131,大的左納烏能源,在古代遺跡中發現的巨大左納烏能源，從迸發的光芒中能感受到非常強大的力量。
+materials,Materials,Item_Enemy_132,藍色首領波克布林的犄角,斧型的犄角，上頭纏繞著首領證明的帶子。裝到武器上能中幅增加攻擊力，和蟲子一起熬煮後可以入藥。
+materials,Materials,Item_Enemy_133,黑色首領波克布林的犄角,雙刃斧型犄角，上頭有著兩條首領證明的帶子。裝到武器上能特大幅增加攻擊力，和蟲子一起熬煮後可以作為藥材使用。
+materials,Materials,Item_Enemy_134,白銀首領波克布林的犄角,側面銳利的環狀型犄角，上頭的綁帶附有魔力。裝到武器上能極大幅增加攻擊力，和蟲子一起熬煮後可以作為藥材使用。
+materials,Materials,Item_Enemy_135,首領波克布林的牙齒,首領波克布林掉落的巨大獠牙。將它用於箭頭上會比平時更有攻擊力，也能和蟲子一起熬煮後當作藥材使用。
+materials,Materials,Item_Enemy_136,首領波克布林的肝臟,從首領波克布林中取得的珍貴素材。不停地抖動令人感到噁心，和蟲子一起熬煮的話可以成為不錯的藥材。
+materials,Materials,Item_Enemy_14,萊尼爾的肝臟,從萊尼爾身上獲得的珍貴材料。仍然像活著的時候一樣跳動著，可見萊尼爾生命力之強。是很值錢的藥材。
+materials,Materials,Item_Enemy_142,西諾克斯的犄角,周圍包覆著帶刺釘板的犄角。裝到武器上能增加攻擊力，將犄角本身和蟲子一起熬煮後可以作為藥材。
+materials,Materials,Item_Enemy_143,藍色西諾克斯的犄角,纏繞著堅硬鎖鏈的不祥犄角。裝到武器上能中幅增加攻擊力，和蟲子一起熬煮後可以作為藥材使用。
+materials,Materials,Item_Enemy_144,黑色西諾克斯的犄角,損毀廢材緊緊纏繞在上的犄角。裝到武器上時，其適合揮舞的形狀能特大幅增加攻擊力。和蟲子一起熬煮後可以作為藥材使用。
+materials,Materials,Item_Enemy_148,萊尼爾的刃角,萊尼爾的雙角之一，外型近似利刃的犄角。相當銳利，裝到武器上能增加攻擊力，和蟲子一起熬煮後可以作為藥材使用。
+materials,Materials,Item_Enemy_149,藍鬃萊尼爾的刃角,藍鬃萊尼爾的雙角之一，整體外觀呈利刃狀。裝到武器上能中幅增加攻擊力，和蟲子一起熬煮後可以作為藥材使用。
+materials,Materials,Item_Enemy_15,紅色丘丘膠,和火丘丘長得一模一樣，不斷抖動的聚合物。總是散發著熱量。敲擊後會破裂，爆出火焰。
+materials,Materials,Item_Enemy_150,白鬃萊尼爾的刃角,白鬃萊尼爾的雙角之一，複數利刃的形狀乃是為了切斷所有物體。裝到武器上能特大幅增加攻擊力。和蟲子一起熬煮後可以作為藥材。
+materials,Materials,Item_Enemy_151,白銀萊尼爾的刃角,打磨到鋒利至極的銳利長角，鋒利度無須多言。裝到武器上能極大幅增加攻擊力，煎煮後和蟲子一起熬煮可以作為藥材使用。
+materials,Materials,Item_Enemy_153,古慄歐克的火焰犄角,纏繞火焰的古慄歐克，其頭部的王冠型犄角。受到刺激會發出火焰，裝到武器上能極大幅增加攻擊力。煎煮後可以作為藥材。
+materials,Materials,Item_Enemy_154,古慄歐克的冰雪犄角,操控冷氣的古慄歐克，其頭部的王冠型犄角。帶有冰凍刀刃，裝到武器上能極大幅增加攻擊力。和蟲子一起熬煮後可以作為藥材。
+materials,Materials,Item_Enemy_155,古慄歐克的雷電犄角,帶電的古慄歐克，其頭部的王冠型犄角。擁有可將儲藏電流釋放出來的性質。裝到武器上能極大幅增加攻擊力。熬煮後可以作為藥材。
+materials,Materials,Item_Enemy_156,古慄歐克的翅膀,古慄歐克飛行時所用的翅膀，具有整流效果。輕薄卻非常強韌，將其裝在武器或箭矢上之後，就可以乘著風飛向遠處。
+materials,Materials,Item_Enemy_157,古慄歐克的肝臟,極其罕見相當珍貴的素材。總是強勁地震動著，相當噁心。和蟲子熬煮後製成的藥物效果很好，因此貴重。
+materials,Materials,Item_Enemy_158,白龍的鱗片,從白龍身上剝落的貴重鱗片。隱約帶有一絲溫度，令人感到懷念。擁有裝到武器上能治療使用者的神奇特性。
+materials,Materials,Item_Enemy_159,白龍的爪子,從白龍身上掉落的貴重爪子。感受不到像外觀一樣的危險性，擁有裝到武器上能治療使用者的神奇特性。
+materials,Materials,Item_Enemy_16,黃色丘丘膠,和電丘丘長得一模一樣，不斷抖動的聚合物。拿在手上雖然不至於會麻痺，但會覺得麻麻的。敲擊後會破裂，在周圍產生電氣。
+materials,Materials,Item_Enemy_160,白龍的牙齒碎片,從白龍身上脫落的牙齒碎片。並不鋒利，還有著一股柔和的氛圍。擁有裝到武器上能治療使用者傷口的神奇特性。
+materials,Materials,Item_Enemy_166,兵隊魔像的角,在兵隊魔像頭部的利刃狀之角。相當鋒利，拿取時必須小心注意。
+materials,Materials,Item_Enemy_167,兵隊魔像的角（中等）,兵隊魔像（中等）頭部上近似柴刀的角。形狀適合砍伐小樹枝或割除花草，裝到武器上能中幅增加攻擊力。
+materials,Materials,Item_Enemy_168,兵隊魔像的角（上等）,兵隊魔像（上等）頭部上近似鋸子的角，裝到武器上能特大幅增加攻擊力。不只是花草，也能用於砍伐大型樹木。
+materials,Materials,Item_Enemy_169,兵隊魔像的角（特等）,附有圓盤和銳利刀刃的角。有股神奇力量讓圓盤旋轉著，能切斷所及之物。裝到武器上能極大幅增加攻擊力。
+materials,Materials,Item_Enemy_17,白色丘丘膠,和冰丘丘長得一模一樣，不斷抖動的聚合物。如果拿在手上，會讓人感到涼爽。敲擊後會破裂，散發冷氣。
+materials,Materials,Item_Enemy_18,蝙蝠的翅膀,打倒蝙蝠後取得的材料。其結構能有效地借助風力，裝到武器或箭矢上就能使其飛向遠處。
+materials,Materials,Item_Enemy_181,萊克萊克的胃石,從萊克萊克體內所取出的奇異圓石。是體液結晶化後形成的石頭，據了解，其成分可作為藥材。
+materials,Materials,Item_Enemy_182,火焰萊克的胃石,長年在其高溫體內加熱的石頭。取出體外後也維持著熱氣，此效果非常適合作為藥材使用。
+materials,Materials,Item_Enemy_183,電擊萊克的胃石,持續在電擊萊克體內接觸高電壓的石頭。取出體外後仍帶有些微電流，和蟲子一起熬煮後可以作為藥材使用。
+materials,Materials,Item_Enemy_184,冰雪萊克的胃石,持續在極度低溫的體內冷卻的石頭。取出體外後依然像冰塊一樣寒冷，和蟲子一起熬煮的話可以作為藥材使用。
+materials,Materials,Item_Enemy_186,巨霸迦馬的大牙,用來切割礦石的巨大牙齒。裝到武器上能中幅增加攻擊力，和蟲子一起熬煮後可以作為藥材。
+materials,Materials,Item_Enemy_187,黑曜巨霸迦馬的大牙,用於擊碎礦石的巨大牙齒。裝到武器上能特大幅增加攻擊力，煎煮後和蟲子一起熬煮可以入藥。
+materials,Materials,Item_Enemy_188,白蒼巨霸迦馬的大牙,就算遇到堅硬岩盤也能繼續挖掘前進的巨大牙齒。裝到武器上能極大幅增加攻擊力，和蟲子一起熬煮後可以作為藥材使用。
+materials,Materials,Item_Enemy_189,巨霸迦馬的爪子,形狀扁平且帶有裂痕的爪子。將它用於箭頭上會比平時更有攻擊力。此外，和蟲子一起熬煮的話可以作為藥材。
+materials,Materials,Item_Enemy_19,蝙蝠的眼珠,總是東張西望環顧四周的詭異素材。裝到箭矢上能發揮其洞察敵人的眼力，獲得追蹤被瞄準對象的能力。
+materials,Materials,Item_Enemy_190,巨霸迦馬的肝臟,從巨霸迦馬身上獲取的肝臟，目前仍跳動著。為了將血液送往巨大的身軀，其鼓動力道強勁。煎煮後和蟲子一起熬煮可製成強效的藥物。
+materials,Materials,Item_Enemy_191,隊長魔像的角（中等）,前端左右分岔，形成鉤子狀的銳角。具有輕易將所及之物切斷的威力，裝到武器上能中幅增加攻擊力。
+materials,Materials,Item_Enemy_192,隊長魔像的角（上等）,前端彷彿像是戴上裝飾一般呈現出複雜形狀，近似刀刃鋒利的角。裝到武器上能特大幅增加攻擊力。
+materials,Materials,Item_Enemy_193,隊長魔像的角（特等）,從根部一分為二，近似刀刃的角。頂端與突起處的刀鋒都非常銳利，裝到武器上能極大幅增加攻擊力。
+materials,Materials,Item_Enemy_20,八爪怪的腳,可以從八爪怪身上獲得的材料。酸味很強，不適合食用，但是是很重要的藥材。
+materials,Materials,Item_Enemy_208,骷髏西諾克斯的犄角,聳立著詭異的骸骨，被尖刺刺到看來會很痛的角。裝到武器上能極大幅增加攻擊力，和蟲子一起熬煮後可以作為藥材使用。
+materials,Materials,Item_Enemy_21,八爪怪的眼珠,可以從八爪怪身上獲得的材料。擁有朝向移動物體的特性，能裝到箭矢上來提高命中率。
+materials,Materials,Item_Enemy_210,莫爾德拉吉克的顎骨,在撥開沙土前進時能派上用場的牢固巨骨。相當堅硬，裝到武器上能特大幅增加攻擊力。煎煮後和蟲子一起熬煮可以入藥。
+materials,Materials,Item_Enemy_211,奧爾龍的犄角,紅色精靈奧爾龍的銳利犄角。據說奧爾龍的角是火之力的結晶。外型近似利刃，裝到武器上能極大幅增加攻擊力。
+materials,Materials,Item_Enemy_212,聶爾龍的犄角,藍色精靈聶爾龍的銳利犄角。據說聶爾龍的角是冰之力的結晶。外型近似利刃，裝到武器上能極大幅增加攻擊力。
+materials,Materials,Item_Enemy_213,費羅龍的犄角,金色精靈費羅龍的銳利犄角。據說費羅龍的角是雷之力的結晶。外型近似利刃，裝到武器上能極大幅增加攻擊力。
+materials,Materials,Item_Enemy_214,白龍的犄角,從白龍身上脫落的角。散發著溫柔的光芒，光是盯著就能使人心平靜氣。擁有裝到武器上能治療使用者的神奇特性。
+materials,Materials,Item_Enemy_215,萊尼爾的碎角,萊尼爾的雙角之一，爪狀的突起處相當堅硬。裝到武器上能增加攻擊力，和蟲子一起熬煮後可以作為藥材使用。
+materials,Materials,Item_Enemy_216,藍鬃萊尼爾的碎角,藍鬃萊尼爾的雙角之一，尖端分岔，有如岩石般堅硬。裝到武器上能中幅增加攻擊力，也可以作為藥材。
+materials,Materials,Item_Enemy_217,白鬃萊尼爾的碎角,白鬃萊尼爾的雙角之一，如利爪般的尖端非常堅硬，裝到武器上能特大幅增加攻擊力，和蟲子一起熬煮後可以入藥。
+materials,Materials,Item_Enemy_218,白銀萊尼爾的碎角,白銀萊尼爾的雙角之一，硬度能與鑽石相比。裝到武器上能極大幅增加攻擊力，作為藥材也相當珍貴。
+materials,Materials,Item_Enemy_228,奧爾龍的龍岩石,可在奧爾龍背上採集到，非常堅硬的岩石。裝到武器上能擊碎許多東西，同時擁有可以產生火的特性。
+materials,Materials,Item_Enemy_229,聶爾龍的龍岩石,可在聶爾龍背上採集到，非常堅硬的岩石。裝到武器上能擊碎許多東西，同時擁有可以產生冰的特性。
+materials,Materials,Item_Enemy_230,費羅龍的龍岩石,可在費羅龍背上採集到，非常堅硬的岩石。裝到武器上能擊碎許多東西，同時擁有可以產生電流的特性。
+materials,Materials,Item_Enemy_231,白龍的龍岩石,可在白龍背上採集到，非常堅硬的岩石。裝到武器上能擊碎許多東西，同時擁有能治療使用者的神奇特性。
+materials,Materials,Item_Enemy_24,莫爾德拉吉克的背鰭,擁有翅膀般的翼膜，可用於調整氣流的結實背鰭。裝到武器或箭矢上能使其飛向遠處，此外也可作為藥材。
+materials,Materials,Item_Enemy_25,莫爾德拉吉克的肝臟,可以從莫爾德拉吉克身上獲得的巨大肝臟。是很難到手的珍貴材料。可以當作藥材使用，但據說還有其他用途。
+materials,Materials,Item_Enemy_32,西諾克斯的指甲,像鎧甲一樣厚的爪子。將它用於箭頭上會比平時更有攻擊力。此外，和蟲子一起熬煮的話可以作為藥材。
+materials,Materials,Item_Enemy_33,西諾克斯的牙齒,可以從西諾克斯身上獲得的材料。將它用於箭頭上會比平時更有攻擊力。熬煮的話可以作為藥材。
+materials,Materials,Item_Enemy_34,西諾克斯的肝臟,可以從西諾克斯身上獲得的巨大肝臟。仔細看的話，會發現它仍然不時微微抖動著。可以當作藥材使用，但據說還有其他用途。
+materials,Materials,Item_Enemy_38,奧爾龍的鱗片,內部蘊藏高溫的珍貴麟片。裝到武器上能特大幅增加攻擊力。也可以烹調成料理，但就這麼吃掉有點浪費。
+materials,Materials,Item_Enemy_39,奧爾龍的爪子,據說原本被火焰包覆的珍貴爪子。裝到武器上能特大幅增加攻擊力。能烹調成料理，也可以賣給商店。
+materials,Materials,Item_Enemy_40,丘丘膠,和丘丘長得一模一樣，不斷抖動的聚合物。狀態非常不安定，若是刺激它就會產生變化。
+materials,Materials,Item_Enemy_41,噴火蜥蜴戰士的尾巴,在灼熱環境下持續在內部蓄熱的尾巴。裝到武器上可以活用其伸縮長度來進行攻擊，熬煮之後可以作為藥材。
+materials,Materials,Item_Enemy_42,吐雹蜥蜴戰士的尾巴,在極寒之地不斷暴露於冷空氣中的尾巴。伸縮性強，裝到武器上可以活用其長度進行攻擊。熬煮之後可以作為藥材。
+materials,Materials,Item_Enemy_43,電麻蜥蜴戰士的尾巴,長時間接觸電流因而耐電的尾巴。由於能夠伸長，裝到武器上可在較遠的地方進行攻擊。和蟲子一起熬煮之後可以作為藥材。
+materials,Materials,Item_Enemy_44,火蝙蝠的翅膀,珍貴的火蝙蝠翅膀。平時不會燃燒，但受到刺激時會發出強烈的熱能。
+materials,Materials,Item_Enemy_45,電蝙蝠的翅膀,珍貴的電蝙蝠翅膀。雖然其本身沒有發電器官，但內部儲藏著電流。受到刺激就會放電，使周圍的物體麻痺。
+materials,Materials,Item_Enemy_46,冰蝙蝠的翅膀,珍貴的冰蝙蝠的翅膀。表面好像結了冰一樣閃閃發光。只要受到刺激，就會散發冷空氣。
+materials,Materials,Item_Enemy_47,奧爾龍的牙齒碎片,從奧爾龍身上脫落的可怕堅牙碎片。裝到武器上能特大幅增加攻擊力，也可以作為食材使用。
+materials,Materials,Item_Enemy_49,聶爾龍的鱗片,內部蘊藏超低溫的冷氣的珍貴麟片。裝到武器上能特大幅增加攻擊力。也可以烹調成料理，但就這麼吃掉有點浪費。
+materials,Materials,Item_Enemy_50,聶爾龍的爪子,據說原本是被冷氣纏繞的珍貴爪子，裝到武器上能特大幅增加攻擊力。能烹調成料理，也可以賣給商店。
+materials,Materials,Item_Enemy_51,聶爾龍的牙齒碎片,從聶爾龍身上脫落的一部分牙齒。比金屬還要硬好幾倍，裝到武器上能特大幅增加攻擊力，也可以作為食材。
+materials,Materials,Item_Enemy_53,費羅龍的鱗片,總是蘊藏著強大電流的珍貴麟片，裝到武器上能特大幅增加攻擊力。雖然能用於烹飪，但拿去吃掉會有點浪費。
+materials,Materials,Item_Enemy_54,費羅龍的爪子,據說是會對周圍施放雷電的珍貴爪子，裝到武器上能特大幅增加攻擊力。能烹調成料理，也可以賣給商店。
+materials,Materials,Item_Enemy_55,費羅龍的牙齒碎片,從費羅龍身上脫落的一部分牙齒。非常堅硬，裝到武器上能特大幅增加攻擊力，也可以作為食材使用。
+materials,Materials,Item_Enemy_57,八爪怪氣球,八爪怪的魚鰾，擁有很強的浮力。附著在目標物上頭後，能帶著該物一起飄到空中。把這東西綁到箭上，就能輕易附在想要的位置上。
+materials,Materials,Item_Enemy_58,噴火蜥蜴戰士的犄角,蘊含著炎之力的赤熱犄角。和蟲子一起熬煮後可以作為藥材，使用得當也可發揮出其中蘊含的炎之力。
+materials,Materials,Item_Enemy_59,吐雹蜥蜴戰士的犄角,前端結晶裡累積著凍寒冷氣之力的犄角。和蟲子一起熬煮後可以作為藥材，使用得當也可利用其中的冰之力。
+materials,Materials,Item_Enemy_60,電麻蜥蜴戰士的犄角,累積著足以匹敵落雷電流的犄角。和蟲子一起熬煮後可以作為藥材使用，其受到刺激就會放電的特性也具有利用價值。
+materials,Materials,Item_Enemy_64,首領波克布林的犄角,近似劍刃的犄角，上頭纏繞著首領證明的帶子。裝到武器上能增加攻擊力，和蟲子一起熬煮後可以作為藥材使用。
+materials,Materials,Item_Enemy_66,卡庫達的眼珠,總是緊緊盯著移動目標的眼珠。和蟲子一起熬煮之後可以作為藥材使用，也能裝到箭矢上獲得提升命中率的效果。
+materials,Materials,Item_Enemy_67,隊長魔像的角,隊長魔像頭部波浪型的雙刃犄角。鋒利到足以代替刀刃來使用，裝到武器上能增加攻擊力。
+materials,Materials,Item_Enemy_69,吉波得之骨,具有複數鋒利突起的詭異骸骨。裝到武器上能特大幅增加攻擊力，但不穩定的形狀使其容易損壞。
+materials,Materials,Item_Enemy_77,波克布林的犄角,具有複數鋒利突起的犄角。裝到武器上能增加攻擊力，和蟲子一起熬煮後可以作為藥材。
+materials,Materials,Item_Enemy_78,藍色波克布林的犄角,外側鋒利的雙叉犄角。裝到武器上時會成為兩側前端可同時突刺的模樣，因此能中幅增加攻擊力，也可以作為藥材。
+materials,Materials,Item_Enemy_79,黑色波克布林的犄角,頂端為三叉狀的犄角。裝到武器上揮舞時就能以複數利刃進行斬擊，能特大幅增加攻擊力。煎煮後和蟲子一起熬煮可以作為藥材。
+materials,Materials,Item_Enemy_80,白銀波克布林的犄角,前端有著獨特裝飾，外型近似刀刃的犄角。與外觀相反，十分銳利。裝到武器上能極大幅增加攻擊力，和蟲子一起熬煮後可以作為藥材使用。
+materials,Materials,Item_Enemy_89,莫力布林的犄角,由頭骨變形而成的堅硬犄角。裝到武器上就能增加攻擊力，和蟲子一起熬煮後可以作為藥材。
+materials,Materials,Item_Enemy_90,藍色莫力布林的犄角,左右大幅分岔的彎曲犄角，前端最為堅硬。裝到武器上能中幅增加攻擊力，煎煮後和蟲子一起熬煮可以作為藥材。
+materials,Materials,Item_Enemy_91,黑色莫力布林的犄角,具有複數個如岩石般堅硬突起的犄角。重量十足，裝到武器上能特大幅增加攻擊力。煎煮後和蟲子一起熬煮可以作為藥材使用。
+materials,Materials,Item_Enemy_92,白銀莫力布林的犄角,扭曲成螺旋狀的不祥犄角，硬度甚至超過岩石。裝到武器上能極大幅增加攻擊力，和蟲子一起熬煮後可以作為藥材使用。
+materials,Materials,Item_FishGet_A,海拉魯鱸魚,從遠古時代至今都沒改變過外觀的普通的魚。可以直接生吃，但是烹調後，其恢復效果會增加。
+materials,Materials,Item_FishGet_AA,遠昔骨舌魚,活力旺盛的魚，至今仍維持著太古時期的樣貌。緊實的肉身富含營養，食用後可以恢復心心。
+materials,Materials,Item_FishGet_AC,光亮霍拉魚,棲息於陰暗洞窟中會發光的魚。含有其發光酵素的料理，具有令食用者身體發光的效果。
+materials,Materials,Item_FishGet_B,生命鱸魚,生活在水邊的大型魚。大大的身體裡儲存著豐富的營養。烹調成料理食用後可以恢復全部的心心，並增加其最大值。
+materials,Materials,Item_FishGet_C,冰冷鱒魚,喜歡寒冷水域的藍色鱒魚。據說皮膚還有可以讓身體降溫的成分。烹煮成料理食用後，就能擁有抗暑能力。
+materials,Materials,Item_FishGet_D,酥麻鱒魚,棲息在湖泊等淡水中的鱒魚。如果將含有絕緣成分的魚鱗當做食材，可以做出具有防電效果的菜餚。
+materials,Materials,Item_FishGet_E,大劍鯉魚,淡水鯉魚的同類。肝臟中含有可以增強肌力的成分。烹調成料理食用後會增加攻擊力。
+materials,Materials,Item_FishGet_F,大劍鯛魚,性格凶暴的海水魚。烹調成料理食用後，據說會因為魚肉中的成分提高鬥志，增加攻擊力。
+materials,Materials,Item_FishGet_G,鎧甲鯛魚,全身都被堅硬魚鱗覆蓋的鯛魚。烹調成料理食用後，儲存在魚鱗內的成分會讓骨骼強壯，增加防禦力。
+materials,Materials,Item_FishGet_H,鎧甲鯉魚,魚鱗如鎧甲般堅硬的古代魚。烹調成料理食用後，儲存在魚鱗內的成分可以讓骨骼強壯，增加防禦力。
+materials,Materials,Item_FishGet_I,生命鮭魚,棲息在寒冷水域的魚。烹煮成料理食用後，那些為了防寒而儲存在體內的脂肪會發揮效果，可以恢復全部的心心，並增加其最大值。
+materials,Materials,Item_FishGet_J,暖暖鱒魚,喜歡溫暖水域的紅色鱒魚。體內擁有可以儲存熱量的特殊內臟。若是當成食材烹調，做出來的料理可以暖和身子。
+materials,Materials,Item_FishGet_L,精力鱸魚,據說是活了很久的海拉魯鱸魚。生命力很強，烹煮成料理食用後，能一下子恢復精力槽。
+materials,Materials,Item_FishGet_M,潛行田螺,棲息在淡水的大型螺類。烹調成料理食用，聽覺會變得敏銳，可以無聲無息地展開行動。在夜晚會發出類似螢火蟲的光芒。
+materials,Materials,Item_FishGet_X,潛行鱒魚,會在暗處發光的魚。魚鱗中的發光物質含有能夠提高集中力的成分。烹調成料理食用後，行動會變得謹慎且悄無聲息。
+materials,Materials,Item_FishGet_Z,三色鯉魚,野生的鎧甲鯉魚經過品種改良後而成的觀賞魚。擁有不存在於自然界的美麗顏色和花紋。即使烹調成料理食用，也沒有任何特殊效果。
+materials,Materials,Item_Fruit_A,蘋果,從遠古時代就廣受眾人喜愛的水果。直接生吃就很美味，當做烹飪食材效果更好。
+materials,Materials,Item_Fruit_B,草莓,生長在下雪的寒冷地區的水果。酸甜的味道為其特徵。沒有特殊效果，但常被當成料理的食材。
+materials,Materials,Item_Fruit_C,酥麻水果,格魯德沙漠裡的仙人掌所結的水果。甘甜的果實富含絕緣成分，烹煮成料理食用後，可以抵禦電氣攻擊。
+materials,Materials,Item_Fruit_E,速速蓮蓬,在水邊綻放的蓮花果實。透過深扎在水中的根部吸收營養。烹煮成料理食用後，可以提高移動速度。
+materials,Materials,Item_Fruit_F,冰冷蜜瓜,即便在沙漠中也能生長的特殊水果。多汁的果肉可以降低體溫。烹煮成料理食用後，可以發揮耐暑效果。
+materials,Materials,Item_Fruit_G,椰子,海邊椰子樹所結的果實。沒有特殊效果，烹煮成料理食用後，可以恢復心心。
+materials,Materials,Item_Fruit_H,大劍香蕉,主要生長在費羅尼地區熱帶叢林裡的水果。被外皮裹在裡頭的果肉具有增強肌力的效果。烹調後，可以做成提升攻擊力的菜餚。
+materials,Materials,Item_Fruit_I,暖暖草果,直接生吃的話，會覺得口中火辣辣的。烹煮成料理食用後，身體會變暖和，即使在寒冷的地方也受得了。
+materials,Materials,Item_Fruit_J,鎧甲南瓜,作為食材而栽培的南瓜，非常堅硬。烹調後食用，其硬邦邦的成分可以大幅增加防禦力。
+materials,Materials,Item_Fruit_K,橡子,森林裡樹木掉落的果實。是松鼠最愛的食物，還會偷偷將它們藏起來。烹煮成料理食用後，會增加少許心心的恢復量。
+materials,Materials,Item_Fruit_L,小鳥的樹果,小鳥愛吃的小小樹果。直接生吃的話幾乎沒有效果，但在烹飪時可以當成調味料。
+materials,Materials,Item_Fruit_M,海拉魯番茄,廣泛地分布在嚴寒地區至溫暖氣候的果實。營養豐富使其近年備受關注。烹調成料理食用後，可以增加心心的恢復量。
+materials,Materials,Item_Fruit_N,向陽南瓜,哈特諾村培養出的新品種南瓜。沐浴在充足的太陽光下成熟，烹調成料理食用後，能夠發揮治療受到瘴氣侵蝕的身體的功效。
+materials,Materials,Item_Fruit_P,金蘋果,綻放光輝的神秘果物，偶爾能在普通的蘋果之中發現它。食用後前所未有的甘甜會在口中蔓延開來。
+materials,Materials,Item_InsectGet_K,大劍螃蟹,棲息在水邊的螃蟹，鋒利的螯是牠的特徵。蟹螯肉裡具有提高肌力的成分。烹調後食用，可以增加攻擊力。
+materials,Materials,Item_InsectGet_O,鎧甲螃蟹,和其他螃蟹比起來，牠的甲殼特別硬。據說蟹黃和蟹肉裡含有強健身體的養分。烹調成料理食用，可以增加防禦力。
+materials,Materials,Item_InsectGet_Z,精力螃蟹,因為下雨時會大量出沒而聞名。蟹肉緊實，其鮮美可以令人忘記疲憊。烹調成料理食用，可以恢復精力槽。
+materials,Materials,Item_KingScale,王的鱗片,出現在歷代卓拉王額頭上的特殊鱗片。從不同角度觀看會散發出不同的光輝，古時被用於卓拉族的祭祀儀式上。
+materials,Materials,Item_Material_01,蔗糖,熬煮後滲出的甜汁是製作蛋糕等甜點時不可或缺的原料。在城鎮或村莊的材料店有賣。
+materials,Materials,Item_Material_02,鼓隆的調味粉,將各種香料混合後製成的鼓隆秘傳調味料。那強烈的辣味可以引出食材的鮮味。其配方似乎是代代相傳的。
+materials,Materials,Item_Material_03,海拉魯米,在卡卡利科村等地很受歡迎的食用穀物。主要種植在水源豐沛處。可用來製作燉飯或是飯糰等料理。
+materials,Materials,Item_Material_04,禽蛋,新鮮的禽鳥蛋。可以從高大樹木上的鳥巢裡獲得。營養豐富，最適合當成料理的食材。
+materials,Materials,Item_Material_05,鮮奶,從村子裡飼養的哈特諾牛或白山羊擠出的新鮮乳類。直接喝就很美味，也可以用來製作湯或燉菜。
+materials,Materials,Item_Material_06,山羊奶油,用被豢養的白山羊奶製作而成的奶油。除了燉菜或乾煎料理之外，還常用來製作蛋糕等甜點。
+materials,Materials,Item_Material_07,塔邦撻小麥,這種穀物是塔邦撻地區的平原上常見的作物。用石臼磨成細緻的粉末後，可以用來製作燉菜或是麵包。
+materials,Materials,Item_Material_08,怪物精華,吉爾頓的怪物研究成果之一。拌在料理中使用的奇怪調味料。據說可以用來製作各種怪物料理……
+materials,Materials,Item_Material_09,油壺,從植物種子中提煉出的純淨好油。其用途相當廣泛，加進料理之中可增添風味，也可以放入營火中作為燃料使用。
+materials,Materials,Item_Material_10,哈特諾起司,由哈特諾牛的牛奶所做成的起司。放入溫熱料理中會融得又軟又稠，能享受到其濃厚的滋味。
+materials,Materials,Item_Material_11,闇之塊,整體充斥著一片漆黑，前所未見的物質。總覺得觸碰後會感到一絲冰冷，烹調並食用後具有抑制瘴氣影響的功效。
+materials,Materials,Item_Meat_01,獸肉,從平原或森林動物身上獲得的肉。可以直接生吃，但烹煮後更美味，也可以恢復更多心心。
+materials,Materials,Item_Meat_02,高級獸肉,新鮮又高級的動物肉。有點難獲得，但若是烹調成料理後食用，其心心恢復效果會很好。
+materials,Materials,Item_Meat_06,禽肉,從禽鳥身上得到的新鮮肉類。和獸肉比起來脂肪較少，更有益健康。火烤後更好吃。
+materials,Materials,Item_Meat_07,高級禽肉,偶爾能從禽鳥身上採集到的高級肉類。可以直接生吃，但若是烹調成料理後食用，心心的恢復效果會更好。
+materials,Materials,Item_Meat_11,頂級獸肉,非常珍貴的肉，主要可從大型動物身上獲得。不負其頂級之名，擁有絕佳的香味和口感。可以烹調成絕品菜餚。
+materials,Materials,Item_Meat_12,頂級禽肉,從部分禽鳥身上獲得的肉，非常珍貴。味道、營養和份量都是滿分。無論是燒烤還是烹調成料理都很合適。
+materials,Materials,Item_MushroomGet_D,速速蘑菇,生長在天花板或斷崖的蘑菇。擁有即便在險峻環境也能生存的頑強生命力。烹調食用後，會提高行動速度。
+materials,Materials,Item_MushroomGet_K,光亮蘑菇,生長在洞窟內，含有發光酵素的蘑菇。烹調食用後，其發光成分會使食用者的身體發出微弱的光芒。
+materials,Materials,Item_Mushroom_A,精力蘑菇,儲存了許多大地精華，營養滿分的蘑菇。烹煮成料理食用後，可以恢復精力。
+materials,Materials,Item_Mushroom_B,冰冷蘑菇,常見於雪山針葉樹的樹根。碰到的話會感受到一股沁涼。烹煮成料理食用後，可以讓你撐過沙漠的酷暑。
+materials,Materials,Item_Mushroom_C,暖暖蘑菇,主要生長在高溫地區的大紅色蘑菇。正如其外表，蘊藏著火之力量。烹煮成料理食用後，可以讓你忍受雪山的寒冷。
+materials,Materials,Item_Mushroom_E,海拉魯蘑菇,海拉魯森林中最具代表性的蘑菇。大多生長在樹旁，食用後可以恢復心心。
+materials,Materials,Item_Mushroom_F,生命松露,一種相當貴重的蘑菇。生長在土裡有著強烈香氣，用它製成的料理，可以恢復全部的心心，並增加心心最大值。
+materials,Materials,Item_Mushroom_H,酥麻蘑菇,在格魯德地區常見的蘑菇。菌傘的部分還有絕緣成分，烹煮成料理食用後，就能耐受電擊。
+materials,Materials,Item_Mushroom_J,潛行蘑菇,會在夜晚發出淡淡光芒的蘑菇。菌傘中含有能讓注意力集中的成分，烹調食用後，行動時可以不發出任何聲響。
+materials,Materials,Item_Mushroom_L,大劍蘑菇,表面有像是被劍劈開的裂痕。據說菌傘內的皺褶含有可以提高鬥志的成分，烹煮成料理食用後，會增加攻擊力。
+materials,Materials,Item_Mushroom_M,鎧甲蘑菇,菌傘發育得非常堅硬的蘑菇。菌傘中的成分具有強化身體的功效，烹調食用後，可以增加防禦力。
+materials,Materials,Item_Mushroom_N,大生命松露,從沒被人發現所以長得很巨大的生命松露。因為裡頭的營養很豐富，烹煮成料理食用後，可以恢復全部的心心，並大幅增加其最大值。
+materials,Materials,Item_Mushroom_O,毅力蘑菇,很少見的黃色蘑菇。烹調食用後會發揮十分重要的效果，可讓精力槽暫時增加上限值。
+materials,Materials,Item_Mushroom_P,天空蘑菇,生長於空島的樹根，廣受歡迎的蘑菇。食用後可以恢復心心。
+materials,Materials,Item_Ore_A,鑽石,可以在礦脈中採集到最貴重的礦石。自古以來其美麗光芒就牢牢抓住了人們的心。價格非常昂貴。
+materials,Materials,Item_Ore_B,紅寶石,可以在礦脈中採集到的貴重礦石。也被稱為紅玉，據說蘊藏著火之力。自古以來價格就相當昂貴。
+materials,Materials,Item_Ore_C,藍寶石,可以在礦脈採集到的貴重礦石。也被稱為藍玉，據說蘊藏著冰之力。自古以來價格就相當昂貴。
+materials,Materials,Item_Ore_D,黃玉,可以在礦脈採集到的貴重礦石。也被稱為拓帕石，據說蘊藏著電之力。自古以來價格就頗昂貴。
+materials,Materials,Item_Ore_E,蛋白石,可以在礦脈採集到的一種礦石。散發著如同貝殼一般繁複而美麗的光澤，據說裡頭蘊藏著水之力。
+materials,Materials,Item_Ore_F,琥珀,可以在礦脈之類採集到的樹脂化石。擁有焦糖色的美麗光澤，自古就被用來製作裝飾品或工藝品。
+materials,Materials,Item_Ore_G,夜光石,在夜晚會發出淡藍色光芒的神奇礦石，有人說那光芒是亡者的靈魂之火。據說這個石頭是某種特殊服裝的原料。
+materials,Materials,Item_Ore_H,岩鹽,太古時期大海中鹽分的結晶。是製作美味佳餚時不可或缺的調味料。無法直接食用。
+materials,Materials,Item_Ore_I,打火石,用金屬等堅硬材質製的武器敲擊就會迸出火花。如果放在木柴捆附近，可以用來生營火。雖然用了一次就會壞掉，卻是冒險的好幫手。
+materials,Materials,Item_Ore_J,星星碎片,從遙遠天空落下的神奇礦石碎片。材質近似於寶石，價格高昂，據說還隱藏著能夠照亮附近區域的能力。
+materials,Materials,Item_Ore_L,左納尼烏姆,擁有廣泛用途的礦石。太古時期的人們會抽取出其中的能源作為動力來使用，也會將其製煉後的物質當作武器和防具的材料。
+materials,Materials,Item_Ore_M,大的左納尼烏姆,純度極高的貴重左納尼烏姆。能夠抽出的能源十分巨大，其功率絕非一般的左納尼烏姆可相比。
+materials,Materials,Item_PlantGet_A,海拉魯草,從古代以來就維持現今外觀的香草，洋溢著飽滿的生命力。烹調成料理食用後，可以恢復心心。
+materials,Materials,Item_PlantGet_B,生命小蘿蔔,生長在日照良好的草原上的稀奇蘿蔔。烹調後食用，可以恢復全部的心心，並增加其最大值。
+materials,Materials,Item_PlantGet_C,生命大蘿蔔,長得比普通生命小蘿蔔還要大很多的蘿蔔，營養非常豐富。烹調後食用，可以恢復全部的心心，並大幅增加其最大值。
+materials,Materials,Item_PlantGet_E,冰冷香草,生長在海布拉和格魯德等高海拔地區。是一種藥草，葉子含有可以讓身體涼爽的成分。烹調後食用，可以獲得耐熱效果。
+materials,Materials,Item_PlantGet_F,暖暖香草,生長在格魯德地區等氣溫高的地方。是一種藥草，果實和葉子有很強的辛辣成分。烹調後食用，可以獲得抗寒效果。
+materials,Materials,Item_PlantGet_G,大劍草,葉片和果實帶有尖刺的藥草。含有能一時增加肌力的特殊成分。烹調後食用，可以增加攻擊力。
+materials,Materials,Item_PlantGet_H,鎧甲草,即使被踩踏也不會斷掉的堅韌藥草。那強韌又有彈性的纖維質，烹調食用後可以強健身體，增加防禦力。
+materials,Materials,Item_PlantGet_I,潛行草,主要在森林和草地綻放的花。在夜裡會發出幽幽光芒。烹調後食用，行動會變得悄然無聲。
+materials,Materials,Item_PlantGet_J,寧靜公主,惹人憐愛的花，據說深受海拉魯王國的公主喜愛。從以前就瀕臨絕種，但是近年來偶爾可以看到野生的植株。
+materials,Materials,Item_PlantGet_L,酥麻香草,多生長於格魯德沙漠的一種藥草。其纖維質可以疏導電流。烹調後使用，可以獲得抗電效果。
+materials,Materials,Item_PlantGet_M,速速胡蘿蔔,這種胡蘿蔔是村莊常見的作物。聽說有強健腰腿的功效。烹調後食用，可以提高移動速度。
+materials,Materials,Item_PlantGet_O,速速紫羅蘭,這種花開在懸崖峭壁上，生命力旺盛。烹調後食用，其儲藏的養分可以提升移動速度。
+materials,Materials,Item_PlantGet_Q,毅力胡蘿蔔,這種珍貴的胡蘿蔔可以當作藥材，備受重視。含有大量可以成為活力來源的成分。烹調後食用，可讓精力槽暫時增加上限值。
+materials,Materials,Item_PlantGet_R,向陽草,在日照良好的高空處生長的野草。使用充分沐浴在陽光下成長的花瓣製成的料理，有助於治療受瘴氣侵蝕的身體。
+materials,Materials,Item_PlantGet_S,精力草,常見於涼爽氣候地區，根部膨脹的野草。本身含有強化體力與耐久力的成分，烹調成料理食用後，可以恢復精力。
+materials,Materials,Item_PlantGet_U,克洛格的葉子,彷彿在隱藏什麼的神奇葉子，具有些許藥效成分。裝到棒子之類的東西上，就能夠當成扇子使用。
+materials,Materials,Item_Weapon_01,古代之刃,古代的短劍形刀刃，具有消滅敵人的力量。由於太過短小，不適合作為武器揮舞，主要的使用方式為綁在箭矢上將其射出。
+materials,Materials,LightBall_Large,巨大光亮花的種子,在洞窟內日積月累成長的光亮花的種子。受到衝擊後就會立即扎根開出巨大的花朵，並發出十分明亮的光芒，照亮周圍地區。
+materials,Materials,LightBall_Small,光亮花的種子,生長在洞窟或水井的光亮花的種子。施加衝擊後就會立即扎根開出花朵，並發出光芒稍微照亮周圍。
+materials,Materials,LightFruit,閃耀果,儲存著強大亮光的樹木果實。破裂後會向周圍散射出刺眼的閃光，可以讓受到光照的怪物暫時盲目。
+materials,Materials,Obj_FireWoodBundle,木柴捆,可以隨身攜帶到任何地方的木柴。如果有火種就能點燃它。
+materials,Materials,SmokeFruit,煙霧蘑菇,含有極細粉狀孢子的蘑菇，受到刺激後，孢子的粉塵就會飛散出來。味道相當苦，無法拿來食用。
+materials,Materials,WaterFruit,水之果,內部儲藏著高壓水分的樹果。其成分可使手腳更加靈活，烹調成料理食用後可提升泳速。
+enemies,Monsters,Enemy_Chuchu_Junior,丘丘,棲息於海拉魯全境的凝膠狀下等怪物。會突然從地面或是樹上現身，根據體型大小不同，擁有的體力也不一樣。據說對它身上掉下來的膠狀物進行加熱、冷卻，或是用電流刺激後，性質將會改變。
+enemies,Monsters,Enemy_Chuchu_Fire_Junior,火丘丘,被火焰覆蓋的凝膠狀下等怪物。根據體型大小不同，擁有的體力也不一樣。如果不經意地對其出手，它會破裂並且爆炸，用槍從遠處刺向它才是萬全之策。
+enemies,Monsters,Enemy_Chuchu_Ice_Junior,冰丘丘,被冷氣覆蓋的凝膠狀下等怪物。根據體型大小不同，擁有的體力也不一樣。如果不經意地對其出手，它會破裂並且散發冷氣，十分危險。用槍從遠處刺向它才是萬全之策。
+enemies,Monsters,Enemy_Chuchu_Electric_Junior,電丘丘,被電流覆蓋的凝膠狀下等怪物。根據體型大小不同，擁有的體力也不一樣。如果不經意地對其出手，它會破裂並且散發電流，十分危險。用槍從遠處刺向它才是萬全之策。
+enemies,Monsters,Enemy_Keese,蝙蝠,在黑夜中出現的下等怪物，有著蝙蝠般的外貌。那毫無規律的行動十分難纏，但只需一擊便可解決。有的時候也會成群結隊行動。經常有人目擊到牠們從其棲息的洞窟成群飛向天空的模樣。
+enemies,Monsters,Enemy_Keese_Fire,火蝙蝠,在黑夜中出現的下等怪物。全身被火焰包覆，一旦碰到牠就會著火。
+enemies,Monsters,Enemy_Keese_Ice,冰蝙蝠,在黑夜中出現的下等怪物。全身被冷氣包覆，一旦碰到牠就會結凍。
+enemies,Monsters,Enemy_Keese_Electric,電蝙蝠,在黑夜中出現的下等怪物。全身被電流包覆，一旦碰到牠就會麻痺。
+enemies,Monsters,Enemy_Octarock,水八爪怪,長得像章魚一樣的下等怪物。平時潛伏在水中，但只要感覺到附近有人，就會跳出水面。可以用盾將牠吐出來的岩石反彈回去。
+enemies,Monsters,Enemy_Octarock_Forest,森八爪怪,長得像章魚一樣的下等怪物。平時潛伏在森林裡，偽裝成草或灌木。要是有人靠近的話，就會鑽到地下藏起來。原本是水生的怪物，但不知道從什麼時候開始定居在森林裡。
+enemies,Monsters,Enemy_Octarock_Stone,岩八爪怪,長得像章魚一樣的下等怪物。棲息在火山地區。會深呼吸之後，吐出被火焰包覆的岩石。而且不只吐出的力道，吸力也非常強。
+enemies,Monsters,Enemy_Octarock_Snow,雪八爪怪,長得像章魚一樣的下等怪物。棲息在雪原地區。會偽裝成生長在雪原上的芒草，只要看到人，就會吐出雪球襲擊他們。
+enemies,Monsters,Enemy_Octarock_Desert,寶八爪怪,長得像章魚一樣的下等怪物。會偽裝成寶箱，潛伏在沙地或雪原中。一不留神靠近牠的話，就會遭到襲擊。據說附著在牠頭上的寶箱並不是真的寶箱，而是牠身體的一部分。
+enemies,Monsters,Enemy_Wizzrobe_Fire,火焰長袍魔法師,存在於海拉魯全境，一種使用魔法的怪物。會發射火球，或是召喚被火焰包覆的怪物。而且，有的時候還會使用魔法，將附近的氣候變得炎熱。打倒長袍魔法師，就可以讓氣候恢復正常。
+enemies,Monsters,Enemy_Wizzrobe_Ice,冰雪長袍魔法師,存在於海拉魯全境，一種使用魔法的怪物。會散發冷氣，或是召喚被冷氣包覆的怪物。而且，有的時候還會使用魔法，讓附近下起大雪。打倒長袍魔法師，就可以讓氣候恢復正常。
+enemies,Monsters,Enemy_Wizzrobe_Electric,電擊長袍魔法師,存在於海拉魯全境，一種使用魔法的怪物。會發射電球，或是召喚被電流包覆的怪物。而且，有的時候還會使用魔法，讓附近下起雷雨。打倒長袍魔法師，就可以讓氣候恢復正常。
+enemies,Monsters,Enemy_Wizzrobe_Fire_Senior,隕石長袍魔法師,存在於海拉魯全境，一種使用魔法的怪物。會發射許多火球，或是召喚被火焰包覆的怪物。而且，有的時候還會使用魔法，將附近的氣候變得炎熱。體力比火焰長袍魔法師更高。
+enemies,Monsters,Enemy_Wizzrobe_Ice_Senior,冰凍長袍魔法師,存在於海拉魯全境，一種使用魔法的怪物。會操縱杖散發冷氣，或是召喚被冷氣包覆的怪物。而且，有的時候還會使用魔法，讓附近下起大雪。打倒長袍魔法師，就可以讓氣候恢復正常。
+enemies,Monsters,Enemy_Wizzrobe_Electric_Senior,雷電長袍魔法師,存在於海拉魯全境，一種使用魔法的怪物。會發射許多電球，或是召喚被電流包覆的怪物。而且，有的時候還會使用魔法，讓附近下起雷雨。體力比電擊長袍魔法師更高，是很危險的對手。
+enemies,Monsters,Enemy_LikeLike_Plane,萊克萊克,最近開始出沒於海拉魯全境的怪物，主要棲息於洞窟等陰暗場所。有著喜歡劍盾等物品的習性，有人靠近就會張開大口發動襲擊，一旦被吞下去，連裝備都會被吃掉。位於口腔中央的舌頭害怕受到刺激，遭到攻擊的話就會使其膽怯下來。
+enemies,Monsters,Enemy_LikeLike_Fire,火焰萊克,出沒於海拉魯全境的怪物，主要棲息於火山附近的洞窟，會從口中吐出炙熱的火焰。雖然其生態至今仍充滿謎團，但似乎是因為習慣高溫的環境，所以不太耐寒。隨意靠近會被其大口吞噬，而其體內的構造，也只有被吞下肚的人才知道……
+enemies,Monsters,Enemy_LikeLike_Ice,冰雪萊克,出沒於海拉魯全境的怪物，主要棲息於雪山附近的洞窟，會從口中吐出冰冷的寒氣。雖然其生態至今仍充滿謎團，但似乎是因為習慣棲息的環境，所以不太耐熱。隨意靠近會被其大口吞噬，而其體內的構造，也只有被吞下肚的人才知道……
+enemies,Monsters,Enemy_LikeLike_Electric,電擊萊克,出沒於海拉魯全境的怪物，主要棲息於洞窟等陰暗場所。會透過體內的發電器官產生電氣，並從口中發射出強力的電球。據說會趁獵物麻痺而動彈不得時，張開大口進行捕食，但其生態至今仍充滿謎團。
+enemies,Monsters,Enemy_LikeLike_Crack,岩石萊克,出沒於海拉魯全境的怪物，主要棲息於洞窟等陰暗場所。體表由鎧甲般的岩石包覆，堅硬到刀槍不入。即使保持距離，也會從口中吐出岩石來威嚇對方，但在吞嚥東西時會安分下來。
+enemies,Monsters,Enemy_Treant_Broadleaf,巨霸柏古,偽裝成樹木的怪物，棲息於海拉魯全境的森林附近。乍看之下難以和其他樹木做出區別，所以事後察覺已被多數怪物包圍的情況其實並不少見。其性質與樹木相同，運用砍樹的要領與其戰鬥頗為有效。
+enemies,Monsters,Enemy_Toby_Junior,卡庫達,在天空翱翔時會發出特殊叫聲的飛行怪物。腳爪的握力十足，有人目擊過牠抓著動物或怪物輕鬆飛行的模樣。不過，牠的身體特別擅長飛行而很輕盈，有著受攻擊命中就會輕易遭擊落的弱點。
+enemies,Monsters,Enemy_Zombie_Junior,吉波得,與沙塵一同現身的怪物。雖然行動緩慢，卻擁有相當堅固的外皮，即使受到物理攻擊，也會毫不畏懼地發起反擊。相反地，其弱點是受到火或雷的攻擊時，就會白化而且變得脆弱。
+enemies,Monsters,Enemy_Zombie_Boss_Junior,魔斯吉波得,與沙塵一同現身的怪物。是一種帶有翅膀的吉波得，不只移動能力有所提升，更可從空中向敵人發動襲擊。擁有相當堅固的外皮，即使受到物理攻擊也不會輕易畏懼。相反地，其弱點是受到火或雷的攻擊時，就會白化而且變得脆弱。
+enemies,Monsters,Enemy_Bokoblin_Junior,波克布林,棲息在海拉魯全境的殘暴怪物。雖然不是很聰明，但起碼具有狩獵後將獵物烤熟的智慧。也有人看過牠們與同伴排成隊伍前進的樣子。頭上有尖銳的犄角，有時牠們會利用犄角來攻擊。
+enemies,Monsters,Enemy_Bokoblin_Middle,藍色波克布林,棲息在海拉魯全境的怪物。和紅色波克布林相比，體力較高，頭上的犄角也更鋒利了。必須小心牠們的攻擊。
+enemies,Monsters,Enemy_Bokoblin_Senior,黑色波克布林,棲息在海拉魯全境的怪物。體力非常高，臂力也增強了。尤其是牠們利用沉重犄角的一擊，既強勁又猛烈，在波克布林族裡面有著最高級的危險度。
+enemies,Monsters,Enemy_Bokoblin_Bone_Junior,骷髏波克布林,在黑暗中出現的波克布林遺骸。生性懼光，只能在黑暗中活動。然只需一擊就能讓它支離破碎，相當脆弱。但即便成了骨骸，尖銳的犄角卻依然具有十足威力。只要頭蓋骨還在，就能無數次復活。
+enemies,Monsters,Enemy_Bokoblin_Dark,白銀波克布林,擁有遠超過黑色波克布林的體力，是最強的波克布林。據說牠白色肉體浮現出的紫色條紋是受到魔王的凶惡魔力影響。牠的犄角尖端受魔力影響而散發微光，雖然看似滑稽，實際卻是引人大意的陷阱。輕視牠的人們，都會成為冰冷的遺體。
+enemies,Monsters,Enemy_Bokoblin_Boss_Junior,首領波克布林,統領波克布林族的重量級怪物。搖晃著巨大的身軀，率領手下闊步橫行。透過不同的方式吹奏號角，藉此操控手下的行動。頭上的角相當沉重，且鋒利度足以斬斷大樹。
+enemies,Monsters,Enemy_Bokoblin_Boss_Middle,藍色首領波克布林,統領波克布林族的重量級怪物，與紅色個體相比體力較高。粗壯的手腕使其揮舞拳頭或武器時所發出的攻擊更為強勁。頭上的角也更加鋒利。
+enemies,Monsters,Enemy_Bokoblin_Boss_Senior,黑色首領波克布林,統領波克布林族的重量級怪物，腕力及體力都相當卓越的強大敵人。即便是老練的劍士，也會在牠與手下們的合力攻擊中被迫陷入苦戰。角的外觀不只增添了凶惡感，強大的威力更是可見一斑。
+enemies,Monsters,Enemy_Bokoblin_Boss_Dark,白銀首領波克布林,最強的首領波克布林，強大到甚至讓人懷疑牠是否屬於波克布林族。堅韌的肉體與角內都寄宿著魔王魔力，發出的攻擊威力無與倫比。隨侍的手下亦是精銳，防守穩固無懈可擊。
+enemies,Monsters,Enemy_Moriblin_Junior,莫力布林,棲息在海拉魯全境的重量級怪物。牠的腰腿有力，還擁有能夠擊碎岩石的硬角。腕力也十分驚人，據說有時甚至會將波克布林抓起來扔出去。
+enemies,Monsters,Enemy_Moriblin_Middle,藍色莫力布林,棲息在海拉魯全境的怪物，力量十分驚人。體力跟腕力都比紅色莫力布林更強，頭上的角也進化得更加粗大，能用它來粉碎大部分的物體。
+enemies,Monsters,Enemy_Moriblin_Senior,黑色莫力布林,棲息在海拉魯全境的重量級怪物。體力非常高，腕力也變得更強。那沉重尖角的攻擊可以輕易擊碎岩石，在莫力布林族裡就屬牠們最危險。
+enemies,Monsters,Enemy_Moriblin_Bone_Junior,骷髏莫力布林,在黑暗中出現的莫力布林遺骸。即使是強壯的莫力布林，化作骨頭後似乎也變得十分脆弱，只需稍加攻擊，就能讓它支離破碎，也會懼怕強力的光芒。但只要頭蓋骨還在，就會再次復原，以沉重硬角發動的攻擊也更加具有威脅性。
+enemies,Monsters,Enemy_Moriblin_Dark,白銀莫力布林,擁有遠超過黑色莫力布林的體力，是最強的莫力布林。因為肉體是白色的，而且數量稀少，被稱為白銀莫力布林。特徵是由於受到魔王的凶惡魔力影響，身體浮現出了紫色的條紋。頭上散發不祥氛圍的角，攻擊威力相當可怕。
+enemies,Monsters,Enemy_Lizalfos_Junior,蜥蜴戰士,棲息在海拉魯全境，敏捷的蜥蜴類怪物。牠們是狡猾的種族，有的時候會潛藏在水中，或是擬態成地面的一部分，發動奇襲。無論晝夜都不睡覺。即使手上沒有武器，也會揮舞鋒利如劍的角來攻擊。
+enemies,Monsters,Enemy_Lizalfos_Middle,藍色蜥蜴戰士,棲息在海拉魯全境，敏捷的蜥蜴類怪物。和綠色的蜥蜴戰士相比，牠們的角更長更利，非常危險。
+enemies,Monsters,Enemy_Lizalfos_Senior,黑色蜥蜴戰士,棲息在海拉魯全境，敏捷的蜥蜴類怪物。牠們會研磨自己的角，使其鋒利如刀。因此即使牠們手上沒有武器，也不能掉以輕心。並且牠們還擁有非常高的體力，在蜥蜴戰士族裡屬於極度危險的種類。
+enemies,Monsters,Enemy_Lizalfos_Bone_Junior,骷髏蜥蜴戰士,在黑暗中出現的蜥蜴戰士遺骸。即便成了骨頭，身手依然矯捷。如劍般鋒利的角也依然存在。只要不打碎頭蓋骨，就會再次復活。
+enemies,Monsters,Enemy_Lizalfos_Fire,噴火蜥蜴戰士,棲息在海拉魯全境，敏捷的蜥蜴類怪物。雖然牠們會從口中噴出高熱火焰，是十分危險的種類，但若是接觸到冷氣，似乎會當場斃命。牠們主要棲息在火山地帶，頭上顏色有如熔岩的角不斷散發高溫，會點燃接觸到的物體。
+enemies,Monsters,Enemy_Lizalfos_Ice,吐雹蜥蜴戰士,棲息在海拉魯全境，敏捷的蜥蜴類怪物。牠們頭上藍白色的尖角帶有冰冷的力量。會從口中噴出冰球，是十分難纏的種類，但若是接觸到火焰，似乎會當場斃命。主要棲息在雪山地帶。
+enemies,Monsters,Enemy_Lizalfos_Electric,電麻蜥蜴戰士,棲息在海拉魯全境，敏捷的蜥蜴類怪物。有時候會從體內發出強力的電流。牠的角上帶電，用弓箭射中那裡，會大範圍地釋放電流。主要棲息在沙漠地區。
+enemies,Monsters,Enemy_Lizalfos_Dark,白銀蜥蜴戰士,擁有遠超過黑色蜥蜴戰士的體力，是最強的蜥蜴戰士。因為肉體是白色的，而且數量稀少，被稱為白銀蜥蜴戰士。受到魔王的魔力影響而散發不祥氛圍的角，只要輕輕一碰就能割裂任何物體。
+enemies,Monsters,Enemy_Horablin_Junior,霍拉布林,天地異變後在洞窟中能見到的怪物。具有堅硬的角，適合用於擊碎堅固的岩石。發達的四肢使其不管是在洞頂或牆壁上，也可以像在地面行走一般自由地移動。會吊在洞窟上方埋伏，等待誤闖的動物，逮到機會就從上方出擊，藉此獲得食物。
+enemies,Monsters,Enemy_Horablin_Middle,藍色霍拉布林,天地異變後在洞窟中能見到的怪物。與紅色毛髮的個體相比體力較高，四肢也更加發達，其腕力可輕鬆抓起巨大的岩石並扔飛出去。
+enemies,Monsters,Enemy_Horablin_Senior,黑色霍拉布林,天地異變後在洞窟中能見到的怪物。比其他個體長時間來回於洞頂與牆壁，全身上下都歷經了充分的鍛鍊。其鐵腕所發出的攻擊，甚至連熟練的冒險者也不敢掉以輕心。
+enemies,Monsters,Enemy_Horablin_Dark,白銀霍拉布林,支配洞窟的最強霍拉布林種。遍布身體的紫色毛髮源自於魔王魔力，原本就很強韌的角與肉體獲得了更進一步的強化。危險程度無法與其他個體相提並論。
+enemies,Monsters,Enemy_Lynel_Junior,萊尼爾,半人半獸的怪物，據說自古就棲息在海拉魯全境。在怪物當中也是危險度極高的種族，特徵是智力和體力都很高，還擁有如刀劍般鋒利的角，火焰、冰塊、電流都無法對牠們造成威脅。沒有做好萬全準備前，最好不要貿然迎戰。
+enemies,Monsters,Enemy_Lynel_Middle,藍鬃萊尼爾,半人半獸的怪物，據說自古就棲息在海拉魯全境。和紅色的萊尼爾比起來，牠們的體力更加強韌，頭上的角也變得更加銳利，如果沒有做好萬全準備就挑戰，只會白白送命而已。
+enemies,Monsters,Enemy_Lynel_Senior,白鬃萊尼爾,半人半獸的怪物，據說自古就棲息在海拉魯全境。無論智力和體力都很高，頭部的角也變得更加強韌，非常危險的種族。牠們的目擊情報不多，因為遇到牠們還能生還的人很少。
+enemies,Monsters,Enemy_Lynel_Dark,白銀萊尼爾,擁有遠超過白鬃萊尼爾的體力，是最強的萊尼爾。特徵是由於受到魔王的凶惡魔力影響，白銀身體浮現出了紫色的條紋。而影響不只如此，甚至還讓牠的角擁有足以斬斷一切的鋒利度。
+enemies,Monsters,Enemy_Zonau_Robot_Junior,兵隊魔像,運用左納烏族的技術與魔力製作而成的標準戰鬥魔像。會忠實執行收到的命令，並排除視為敵人的存在。頭上的尖銳裝飾如刀刃一般鋒利無比。
+enemies,Monsters,Enemy_Zonau_Robot_Middle,兵隊魔像（中等）,運用左納烏族的技術與魔力製作而成的中級戰鬥魔像。會忠實執行收到的命令，並排除視為敵人的存在。頭上的裝飾具有一定重量，可以像斧頭一般揮舞，擅長劈砍攻擊。
+enemies,Monsters,Enemy_Zonau_Robot_Senior,兵隊魔像（上等）,運用左納烏族的技術與魔力製作而成的高級戰鬥魔像。會忠實執行收到的命令，並排除視為敵人的存在。頭上的豪華裝飾可以威嚇敵人，揮舞起來就能變成強力的武器。
+enemies,Monsters,Enemy_Zonau_Robot_Dark,兵隊魔像（特等）,運用左納烏族先進的技術與魔力製作而成的最高級戰鬥魔像。與其他個體不同，全身呈現金黃色。兼具極高的攻擊力與耐久度，頭上的豪華裝飾是其凝聚技術的結晶，擁有令人心生畏懼的震撼力。
+enemies,Monsters,Enemy_Zonau_Golem_Junior,隊長魔像,左納烏族運用先進的技術與魔力製作而成的魔像。冠有「隊長」之名，屬於更高階的兵隊魔像。隊長級別中最標準的個體，與兵隊魔像相比擁有更高的戰鬥能力，並且具有利用餘料建造來強化武器的能力。
+enemies,Monsters,Enemy_Zonau_Golem_Middle,隊長魔像（中等）,左納烏族運用先進的技術與魔力製作而成的魔像。冠有「隊長」之名，屬於更高階的兵隊魔像。由標準個體進行強化改良，藉由增強耐久度並裝備強力的武器，來達到提升戰鬥力的目的。
+enemies,Monsters,Enemy_Zonau_Golem_Senior,隊長魔像（上等）,左納烏族運用先進的技術與魔力製作而成的魔像。冠有「隊長」之名，屬於更高階的兵隊魔像。在隊長魔像中也屬於強力的個體，擁有更高的耐久度和非常先進的戰鬥模式，能夠靈活施展各式各樣的劍術。
+enemies,Monsters,Enemy_Zonau_Golem_Dark,隊長魔像（特等）,左納烏族運用先進的技術與魔力製作而成的魔像。冠有「隊長」之名，屬於更高階的兵隊魔像。是其中最上級的個體，全身為金黃色，耐久度與戰鬥能力都遠超其他隊長魔像，堪稱最強。
+enemies,Monsters,Enemy_CDungeon_Practice,特務隊長魔像,左納烏族運用先進的技術與魔力製造而成的戰鬥訓練用魔像。白色身軀代表其搭載著戰鬥訓練用的特殊機能，具有透過餘料建造來強化武器的能力。
+enemies,Monsters,Enemy_Zonau_BlockMaster_Junior,方塊魔像,左納烏族運用先進的技術與魔力製作而成的方塊狀大型魔像。其構造由複數的方塊排列而成，並且可以自由變換姿態。為了使巨大的軀體活動，體內藏有大量作為動力源的左納烏能源。
+enemies,Monsters,Enemy_Zonau_BlockMaster_Middle,方塊魔像（中等）,左納烏族運用先進的技術與魔力製作而成的方塊狀大型魔像。經過改良後可處理更複雜的命令，也增加了新的變形模式。為了使巨大的軀體活動，體內藏有大量作為動力源的左納烏能源。
+enemies,Monsters,Enemy_Zonau_BlockMaster_Senior,方塊魔像（上等）,左納烏族運用先進的技術與魔力製作而成的方塊狀大型魔像。針對核心這個弱點的保護變得更加堅固，會讓其他方塊變形來阻擋攻擊。為了使巨大的軀體活動，體內藏有大量作為動力源的左納烏能源。
+enemies,Monsters,Enemy_Assassin_Junior,依蓋隊 成員,依蓋隊的基層成員。為了找出薩爾達公主和林克並奪走他們性命，而被派到海拉魯全境。他們會裝扮成旅人或村民，並對林克發動奇襲，所以看到奇怪的人時需要特別注意。他們會使用單手劍和弓，身手十分敏捷。
+enemies,Monsters,Enemy_Assassin_Middle,依蓋隊 幹部,依蓋隊的成員。攜帶會發出真空波的刀。體格強壯，但動作敏捷。據說還會使用土遁術，叩擊地面後，石柱會隨著氣流被頂出。
+enemies,Monsters,Enemy_Assassin_Senior,可蓋大人,與海拉魯王國敵對的組織──「依蓋隊」的頭目。由於他自身的存在感與莫名的人望，獲得了隊員們熱烈的支持。將左納烏裝置視為全新的力量，透過研究創造出數種載具，並駕駛它們發動攻擊。
+enemies,Monsters,Enemy_Golem_Little,岩石人,岩石巨人的幼體。雖然長大後身體會變得像岩石一樣堅固，但是現在卻輕得可以將它舉起。如果將它丟出去就會立刻碎裂，非常脆弱。
+enemies,Monsters,Enemy_Golem_Little_Fire,熔岩人,熔岩巨人的幼體。長大後會擁有熔岩形成的堅固身體。雖然幼體帶有火焰，但輕得用炸彈就可以將它吹飛，十分脆弱，
+enemies,Monsters,Enemy_Golem_Little_Ice,冰岩人,冰岩巨人的幼體。長大後會擁有冰岩形成的堅固身體。雖然幼體帶有冷氣，但輕得用炸彈就可以將它吹飛，十分脆弱，
+enemies,Monsters,Enemy_Golem_Junior,岩石巨人,偽裝成岩石的巨大怪物。其身體堅硬，用劍和弓完全無法傷害它。聽說若要將其打倒，必須爬到它身上，攻擊頭上暴露在外的礦床才會有效。不只棲息於岩地與森林，也會在平原上出現。
+enemies,Monsters,Enemy_Golem_Middle,岩石巨人（夜光）,偽裝成岩石的巨大怪物。其身體堅硬，用劍和弓完全無法傷害它。特徵為頭上暴露在外的礦床，裡面含有很多夜光石。比起一般礦石的個體擁有更高的耐久度。
+enemies,Monsters,Enemy_Golem_Senior,岩石巨人（稀有）,偽裝成岩石的巨大怪物。其身體堅硬，用劍和弓完全無法傷害它。特徵為頭上暴露在外的礦床，裡面含有很多貴重礦石。因此被稱為稀有種。
+enemies,Monsters,Enemy_Golem_Fort_A,岩家巨人,經由怪物們各種加工而化為移動要塞的岩石巨人。為了不讓敵人靠近，全身都用木板進行了補強，想攀爬上去是件難事。
+enemies,Monsters,Enemy_Golem_Fire,熔岩巨人,偽裝成熔岩的巨大怪物。其身體由堅硬的岩石組成，用劍和弓完全無法傷害它。全身被熔岩覆蓋，光是碰一下都很危險，但若使用冷氣將其冷卻，就可以爬到它身上。
+enemies,Monsters,Enemy_Golem_Ice,冰岩巨人,偽裝成冰塊的巨大怪物。其身體堅硬，用劍和弓完全無法傷害它。光是碰一下那被冰凍的身體都很危險，但若使用火焰將冰塊融化，就可以爬到它身上。棲息在下雪的寒冷地帶。
+enemies,Monsters,Enemy_Giant_Junior,西諾克斯,巨大的獨眼怪物，主要棲息在森林中。擁有又粗又大的犄角。可以奪走吊在牠項圈上的武器。牠一旦被激怒就會將樹木連根拔起揮舞，非常凶暴。也時常在睡覺時堵住道路，讓往來於道路的旅行者們心生畏懼。
+enemies,Monsters,Enemy_Giant_Middle,藍色西諾克斯,巨大獨眼怪物，主要棲息在森林中。可以奪走吊在牠項圈上的武器。牠擁有巨大的犄角，一旦被激怒就會將樹木連根拔起揮舞。凶暴的個性沒有改變，但是力量較紅色個體更強大。雙腳雖然被堅固的護腿保護著，但只要點火，就可以燒掉其護腿。
+enemies,Monsters,Enemy_Giant_Senior,黑色西諾克斯,巨大的獨眼怪物，擁有非常堅硬的角，主要棲息在森林中。可以奪走吊在牠項圈上的武器。牠會將樹木連根拔起並揮舞著逼近，十分凶暴。戰鬥時需要注意周圍的地形。牠的雙腳被堅固的鐵製護腿保護著，堅不可摧，無法破壞。
+enemies,Monsters,Enemy_Giant_Bone,骷髏西諾克斯,巨大的獨眼怪物──西諾克斯的遺骸。會在黑暗中徘徊。即便成了骨骸，凶暴個性也依然不改，甚至會拔起自己的胸骨丟向敵人。只要眼珠還在，它就可以無數次復活。
+enemies,Monsters,Enemy_Sandworm,莫爾德拉吉克,潛伏在沙漠底下，像鯨魚一樣巨大的怪物。平時潛伏在沙中，察知到聲音時，會竄出地上，大口向獵物咬去。要是不幸遇到牠，不多加注意隨便走動會很危險。
+enemies,Monsters,Enemy_Drake_Fire,火焰古慄歐克,在天地異變後出現，能於空中翱翔，有三顆頭的怪物。獨自挑戰牠的話會遭受三顆頭集中攻擊，因此討伐牠極為困難。牠的體內具備強大的噴火器官，凡是踏入其領地的入侵者，最後都會被牠的業火連同附近一帶燃燒殆盡。
+enemies,Monsters,Enemy_Drake_Ice,冰雪古慄歐克,在天地異變後出現，能於空中翱翔，有三顆頭的怪物。獨自挑戰牠的話會遭受三顆頭集中攻擊，因此討伐牠極為困難。牠的體內具備強大的冷卻器官，凡是踏入其領地的入侵者，最後都會被牠冰冷的吐息連同附近一帶冰凍起來。
+enemies,Monsters,Enemy_Drake_Electric,雷電古慄歐克,在天地異變後出現，能於空中翱翔，有三顆頭的怪物。獨自挑戰牠的話會遭受三顆頭集中攻擊，因此討伐牠極為困難。牠的體內具備強大的發電器官，凡是踏入其領地的入侵者，最後都會遭到無數雷擊狂轟，直到化為焦炭為止。
+enemies,Monsters,Enemy_Drake_Mix,古慄歐克王,在天地異變後出現，擁有三顆頭的怪物。三顆頭分別擁有雷、冰、火三種不同的屬性。由於不同屬性的頭會互相聯手攻擊，所以戰鬥能力遠比其他個體強大。獨自前往討伐將會是極其困難的任務，若還想活命，就不該在做好萬全準備前貿然挑戰。
+enemies,Monsters,Enemy_Mogurudo_Baby_Junior,小迦馬,巨霸迦馬的幼體。體型雖小但腿力十足，會成群結隊地朝著目標猛跳襲擊。
+enemies,Monsters,Enemy_Mogurudo_Junior,巨霸迦馬,棲息在地底的大型怪物。牠雖然身軀巨大，卻有著難以想像的強大腿力，只要一發現獵物就會奮力跳躍過去捕食。牠會用大嘴巴將周圍的東西吸入並一口吞下，食量非常驚人。
+enemies,Monsters,Enemy_Mogurudo_Middle,黑曜巨霸迦馬,棲息於地底的大型怪物。和綠色個體相比有著更強的腿力。牠會用大嘴巴將周圍的東西吸入並一口吞下，食量非常驚人。
+enemies,Monsters,Enemy_Mogurudo_Senior,白蒼巨霸迦馬,棲息在地底的大型怪物。會以礦石為誘餌，趁獵物爬到其背上時大力震動身體將獵物擊飛，接著趁機襲擊。牠會用大嘴巴將周圍的東西吸入並一口吞下，食量非常驚人。
+enemies,Monsters,Enemy_Dragon_Fire,奧爾龍,居住在奧爾汀地區，外型像龍的火焰精靈。自古以來便據傳是力量之泉的使者。祂的身體被火焰包覆，會讓周圍變得灼熱，但據說祂並不會加害於人。在現代真正目睹祂的人很少。
+enemies,Monsters,Enemy_Dragon_Ice,聶爾龍,居住在拉聶爾地區，外型像龍的冰雪精靈。自古以來便據傳是智慧之泉的使者。祂的身體被冷空氣包覆，會讓周圍溫度變得極低，但據說祂並不會加害於人。在現代真正目睹祂的人很少。
+enemies,Monsters,Enemy_Dragon_Electric,費羅龍,居住在費羅尼地區，外型像龍的雷電精靈。自古以來便據傳是勇氣之泉的使者。祂的身體被雷電包覆，會讓周圍下起雷雨，但據說祂並不會加害於人。在現代真正目睹祂的人很少。
+enemies,Monsters,Enemy_DungeonBoss_Rito,急凍蓋拉,在海布拉地區一帶引來暴風雪的元凶。是在空中自由翱翔的大型怪物，為了讓自身巨大的身軀能浮在空中，會操控風向，使周圍產生強烈的上升氣流。全身包覆著尖銳的冰，不僅能作為守護自身的盾牌，同時也能當成利矛射出去迎擊敵人。
+enemies,Monsters,Enemy_MiddleBoss_Goron,伊爾巴基亞,居住在死亡之山，像山一樣龐大的怪物。其身體是由沸騰的炙熱熔岩和含有瘴氣的堅硬岩石所組成。並會透過吸取火山的熱能與瘴氣之力，來維持其巨大的身軀。
+enemies,Monsters,Enemy_DungeonBoss_Goron,巨礫哥馬,在奧爾汀地區一帶產出可口岩的元凶。是全身包覆著岩石的怪物，藉著自身重量踩下的一腳非常具有威脅性。唯一能對其造成傷害的部位是頭頂的眼珠，但由於牠身軀巨大，故難以接近。
+enemies,Monsters,Enemy_LikeLike_Tar,淤泥萊克,喜歡淤泥的萊克萊克變異種。因全身包覆淤泥，所以能在萊克萊克種原本討厭的明亮處活動。體內儲存著大量的淤泥，會吐出淤泥使獵物動作變慢，再進行捕食。
+enemies,Monsters,Enemy_DungeonBoss_Zora,八爪怪章,在卓拉地區周圍降下淤泥的元凶。其身軀雖然嬌小，卻能產生出難以想像的大量淤泥，並藉此汙染了卓拉領地。能自由操縱淤泥，將其化成各種形狀的外殼，不但能保護身體，同時也具備著攻擊能力。
+enemies,Monsters,Enemy_DungeonBoss_Gerudo,吉波得女王,在格魯德地區一帶引來沙塵的元凶。是統御吉波得族的女王，會在沙漠中築巢，讓吉波得大量出現。不僅動作敏捷，全身還包覆著堅硬的甲殼，遭受普通的武器攻擊也毫髮無傷。
+enemies,Monsters,Enemy_DungeonBoss_Zonau,被奪之魔像,米涅魯曾打算用來作為靈魂容器的魔像。如今遭到魔王魔力篡奪，變化成了不祥的姿態。原本是用於作業的魔像，並設計成可承受嚴酷的環境，因此擁有十分優秀的耐久度。
+enemies,Monsters,Enemy_PhantomGanon,幻影加儂,充滿詭異氣息，屬性與習性都不明朗的人形怪物。擁有強韌的身體，也相當擅長使用武器，與其對峙時需要格外小心。完全沒有任何關於其真面目的資訊，只知道確定是從天地異變後才開始出現。
+enemies,Monsters,Enemy_Ganondorf,魔王加儂多夫,很久以前，在海拉魯建國時代出現的邪惡存在。本該永遠封印於海拉魯城堡的地下，卻因封印逐漸衰退而漸漸取回力量，並且化作超乎人類想像的威脅復甦。同時也是精通各種武器的武人，憑藉精湛的武技戰勝一切攔路的敵人。
+enemies,Monsters,Enemy_Ganondorf_Miasma,魔王加儂多夫（第二形態）,魔王加儂多夫在解放秘石的力量後變化而成的不祥姿態。昔日的古代賢者們無法與其壓倒性的力量抗衡，最多只能將其封印起來。釋放出的瘴氣蘊含著凶惡的魔力，一旦觸碰到就會侵蝕肉體，威力足以造成致命傷。
+enemies,Monsters,Enemy_Dragon_Darkness,黑龍,魔王加儂多夫吞下秘石，解放了真正力量的姿態。曾經身為人類的樣貌已蕩然無存。迸發的魔力足以撼動天地，漆黑的身軀可反彈所有攻擊。唯獨大師之劍例外……
+enemies,Monsters,Enemy_Dragon_Light_001,白龍,以龍之姿居住在高空的精靈。由於那耀眼的金黃色鬃毛與純白的身軀，而被稱作白龍。散發著柔和光芒在天空飛舞的身姿，既神聖又不知為何有股懷念的感覺。
+shrines,Shrine,Dungeon108,世克恩波馬拉神廟,
+shrines,Shrine,Dungeon046,世帕帕神廟,
+shrines,Shrine,Dungeon010,世魯塔波馬奇神廟,
+shrines,Shrine,Dungeon083,亞恩薩米諾神廟,
+shrines,Shrine,Dungeon131,伊修奇恩神廟,
+shrines,Shrine,Dungeon029,伊修達古恩神廟,
+shrines,Shrine,Dungeon103,伊卡塔克神廟,
+shrines,Shrine,Dungeon038,伊喬歐神廟,
+shrines,Shrine,Dungeon090,伊嘎秀克神廟,
+shrines,Shrine,Dungeon073,伊希希每神廟,
+shrines,Shrine,Dungeon062,伊恩伊薩神廟,
+shrines,Shrine,Dungeon118,伊拉薩庫神廟,
+shrines,Shrine,Dungeon014,伊烏恩歐羅克神廟,
+shrines,Shrine,Dungeon069,伊高修恩神廟,
+shrines,Shrine,Dungeon041,伊黑恩阿神廟,
+shrines,Shrine,Dungeon119,克拉卡塔神廟,
+shrines,Shrine,Dungeon140,克達尼薩拉神廟,
+shrines,Shrine,Dungeon093,克馬馬伊諾神廟,
+shrines,Shrine,Dungeon105,卡哈塔納烏每神廟,
+shrines,Shrine,Dungeon033,卡拉哈塔基神廟,
+shrines,Shrine,Dungeon077,卡米諸納神廟,
+shrines,Shrine,Dungeon050,卡達烏納里神廟,
+shrines,Shrine,Dungeon044,卡馬茲奇薩神廟,
+shrines,Shrine,Dungeon061,古塔恩巴奇神廟,
+shrines,Shrine,Dungeon057,吉卡伊世恩神廟,
+shrines,Shrine,Dungeon102,吉歐塔奇歐神廟,
+shrines,Shrine,Dungeon142,吉歐希尼歐神廟,
+shrines,Shrine,Dungeon013,吉烏可烏每神廟,
+shrines,Shrine,Dungeon145,吉諾多卡歐神廟,
+shrines,Shrine,Dungeon045,吉魯塔古馬奇神廟,
+shrines,Shrine,Dungeon141,喬久烏烏神廟,
+shrines,Shrine,Dungeon071,喬克烏希尼神廟,
+shrines,Shrine,Dungeon109,喬克烏神廟,
+shrines,Shrine,Dungeon084,喬喬尼烏神廟,
+shrines,Shrine,Dungeon134,喬奇伊喜嘎神廟,
+shrines,Shrine,Dungeon001,喬奇伊烏神廟,
+shrines,Shrine,Dungeon130,喬奇希烏神廟,
+shrines,Shrine,Dungeon101,喬尼烏神廟,
+shrines,Shrine,Dungeon127,喬希烏神廟,
+shrines,Shrine,Dungeon138,喬恩薩烏神廟,
+shrines,Shrine,Dungeon113,喬高烏神廟,
+shrines,Shrine,Dungeon040,嘎塔奇薩神廟,
+shrines,Shrine,Dungeon143,嘎塔尼希希神廟,
+shrines,Shrine,Dungeon037,嘎薩薩神廟,
+shrines,Shrine,Dungeon117,嘎諾薩神廟,
+shrines,Shrine,Dungeon128,嘎阿喜薩薩神廟,
+shrines,Shrine,Dungeon099,基卡克恩神廟,
+shrines,Shrine,Dungeon000,塔吉卡茲神廟,
+shrines,Shrine,Dungeon091,塔奇伊哈巴諾神廟,
+shrines,Shrine,Dungeon151,塔尼諾烏達神廟,
+shrines,Shrine,Dungeon121,塔烏恩喜悠神廟,
+shrines,Shrine,Dungeon021,塔烏悠希普尼神廟,
+shrines,Shrine,Dungeon032,塔達羅克恩神廟,
+shrines,Shrine,Dungeon051,多米諸伊諾神廟,
+shrines,Shrine,Dungeon053,奇卡克恩神廟,
+shrines,Shrine,Dungeon058,奇塔瓦卡神廟,
+shrines,Shrine,Dungeon104,奇奇馬烏神廟,
+shrines,Shrine,Dungeon035,奇希諾納神廟,
+shrines,Shrine,Dungeon030,奇烏悠悠烏神廟,
+shrines,Shrine,Dungeon088,奇馬亞塔神廟,
+shrines,Shrine,Dungeon005,姆薩諾奇拉神廟,
+shrines,Shrine,Dungeon106,尼恩吉希神廟,
+shrines,Shrine,Dungeon068,巧克高尼神廟,
+shrines,Shrine,Dungeon136,巧諾尼希烏神廟,
+shrines,Shrine,Dungeon116,巴米托卡神廟,
+shrines,Shrine,Dungeon055,希亞摩茲希神廟,
+shrines,Shrine,Dungeon023,希克克奇神廟,
+shrines,Shrine,Dungeon146,希哈喬高烏神廟,
+shrines,Shrine,Dungeon085,希富米米神廟,
+shrines,Shrine,Dungeon054,希巴吉塔奇歐神廟,
+shrines,Shrine,Dungeon082,希摩希瓦卡神廟,
+shrines,Shrine,Dungeon132,希斯拉納神廟,
+shrines,Shrine,Dungeon024,希瓦卡馬神廟,
+shrines,Shrine,Dungeon020,希納卡瓦卡神廟,
+shrines,Shrine,Dungeon129,希納塔尼卡卡神廟,
+shrines,Shrine,Dungeon002,希茲摩伊神廟,
+shrines,Shrine,Dungeon124,帖恩吉帖恩神廟,
+shrines,Shrine,Dungeon034,帖恩貝扎伊神廟,
+shrines,Shrine,Dungeon133,帖恩馬帖恩神廟,
+shrines,Shrine,Dungeon094,悠米諸奇神廟,
+shrines,Shrine,Dungeon081,扎克斯克神廟,
+shrines,Shrine,Dungeon012,扎恩米卡卡神廟,
+shrines,Shrine,Dungeon015,拉卡修高神廟,
+shrines,Shrine,Dungeon079,拉卡克達吉托神廟,
+shrines,Shrine,Dungeon080,拉希塔奇瓦卡神廟,
+shrines,Shrine,Dungeon139,拉希瓦卡神廟,
+shrines,Shrine,Dungeon107,拖奇悠烏神廟,
+shrines,Shrine,Dungeon137,提馬瓦卡神廟,
+shrines,Shrine,Dungeon011,摩嘎瓦卡神廟,
+shrines,Shrine,Dungeon052,摩基薩里神廟,
+shrines,Shrine,Dungeon098,摩夏皮恩神廟,
+shrines,Shrine,Dungeon089,摩摩希卡神廟,
+shrines,Shrine,Dungeon144,摩羅恩克神廟,
+shrines,Shrine,Dungeon096,摩茲希希神廟,
+shrines,Shrine,Dungeon048,斯斯亞伊神廟,
+shrines,Shrine,Dungeon120,斯斯畢艾神廟,
+shrines,Shrine,Dungeon078,斯阿里瓦卡神廟,
+shrines,Shrine,Dungeon115,普普恩凱神廟,
+shrines,Shrine,Dungeon123,歐亞米歐神廟,
+shrines,Shrine,Dungeon036,歐修扎恩烏神廟,
+shrines,Shrine,Dungeon086,歐塔卡卡神廟,
+shrines,Shrine,Dungeon112,歐歐基恩神廟,
+shrines,Shrine,Dungeon019,歐羅奇烏姆神廟,
+shrines,Shrine,Dungeon003,歐羅姆瓦卡神廟,
+shrines,Shrine,Dungeon075,歐茲茲馬神廟,
+shrines,Shrine,Dungeon150,烏可歐吉希神廟,
+shrines,Shrine,Dungeon060,烏可烏侯神廟,
+shrines,Shrine,Dungeon076,烏托吉希神廟,
+shrines,Shrine,Dungeon056,烏茲修奇神廟,
+shrines,Shrine,Dungeon100,烏薩諸馬神廟,
+shrines,Shrine,Dungeon067,瓦歐歐薩神廟,
+shrines,Shrine,Dungeon087,米琉塔尼高神廟,
+shrines,Shrine,Dungeon147,米聶塔卡卡神廟,
+shrines,Shrine,Dungeon110,納塔卡卡神廟,
+shrines,Shrine,Dungeon063,納裘亞哈神廟,
+shrines,Shrine,Dungeon016,索琉塔尼高神廟,
+shrines,Shrine,Dungeon059,索納帕諾神廟,
+shrines,Shrine,Dungeon008,羅茲馬姆神廟,
+shrines,Shrine,Dungeon122,艾修世神廟,
+shrines,Shrine,Dungeon031,艾可奇烏神廟,
+shrines,Shrine,Dungeon092,艾恩歐馬神廟,
+shrines,Shrine,Dungeon072,艾烏托烏每神廟,
+shrines,Shrine,Dungeon022,茲卡羅克神廟,
+shrines,Shrine,Dungeon025,茲拉卡瓦卡神廟,
+shrines,Shrine,Dungeon039,茲拉卡米卡神廟,
+shrines,Shrine,Dungeon042,茲茲烏每神廟,
+shrines,Shrine,Dungeon018,蓋米米卡神廟,
+shrines,Shrine,Dungeon007,薩喜羅瓦神廟,
+shrines,Shrine,Dungeon070,諾烏達神廟,
+shrines,Shrine,Dungeon026,里歐高可神廟,
+shrines,Shrine,Dungeon049,阿珀蓋凱神廟,
+shrines,Shrine,Dungeon027,阿聶達米米卡神廟,
+shrines,Shrine,Dungeon006,雷恩伊傑神廟,
+shrines,Shrine,Dungeon017,馬亞可可神廟,
+shrines,Shrine,Dungeon095,馬亞喜希卡神廟,
+shrines,Shrine,Dungeon047,馬亞塔塔神廟,
+shrines,Shrine,Dungeon074,馬亞奇德基納神廟,
+shrines,Shrine,Dungeon004,馬亞奇諾烏神廟,
+shrines,Shrine,Dungeon148,馬亞希阿拉神廟,
+shrines,Shrine,Dungeon125,馬亞歐塔奇神廟,
+shrines,Shrine,Dungeon028,馬亞烏希尤神廟,
+shrines,Shrine,Dungeon043,馬亞烏每奇薩神廟,
+shrines,Shrine,Dungeon149,馬亞米伊神廟,
+shrines,Shrine,Dungeon066,馬亞納希神廟,
+shrines,Shrine,Dungeon114,馬亞里伊納神廟,
+shrines,Shrine,Dungeon009,馬亞馬茲諾神廟,
+shrines,Shrine,Dungeon126,馬克魯奇薩神廟,
+shrines,Shrine,Dungeon135,馬卡斯拉神廟,
+shrines,Shrine,Dungeon064,馬拉克古奇神廟,
+shrines,Shrine,Dungeon097,馬歐伊凱斯卡神廟,
+shrines,Shrine,Dungeon111,魯塔富烏每神廟,
+shrines,Shrine,Dungeon065,魯納奇塔神廟,
+quests,Adventure Log,LookingForLightSpot,緊閉的大門,勞魯
+quests,Adventure Log,GOToTheCastleOfHyrule,前往海拉魯大地,薩爾達的聲音
+quests,Adventure Log,SurveyOfFourVillages,四個地區的異變調查,普爾亞
+quests,Adventure Log,ClueTotheSixthSage,尋找第五位賢者,普爾亞
+quests,Adventure Log,HyruleCastleIncident,海拉魯城堡的異變,普爾亞
+quests,Adventure Log,MasterSwordClues,大師之劍的線索,米涅魯
+quests,Adventure Log,GetMasterSword,失落的勇者之劍,德庫樹長老
+quests,Adventure Log,SageOfWind,利特村的丘栗,特巴
+quests,Adventure Log,SageOfFire,鼓隆城的阿沅,
+quests,Adventure Log,CleanStatue,被淤泥埋沒的石像,
+quests,Adventure Log,DividedSlate,碎裂的石碑,基奧托
+quests,Adventure Log,RepairArmor,修復卓拉鎧甲,
+quests,Adventure Log,WaterBridgePlace,前往天空的線索,基奧托
+quests,Adventure Log,SageOfZora,卓拉領地的希多,
+quests,Adventure Log,SageOfGerudo,格魯德小鎮的露珠,
+quests,Adventure Log,GotoFironeZonauRemains,環卡遺跡的秘密,塔烏洛
+quests,Adventure Log,SageOfSoul,來自太古的指引,左納烏遺物
+quests,Adventure Log,GetCamera,拍下地底人！,喬舒亞
+quests,Adventure Log,DeepHoleSurvey2,沉睡於地底神殿之謎,喬舒亞
+quests,Adventure Log,GroundPaintingAir01,英帕與地上圖畫,
+quests,Adventure Log,MemoryOfTheDragon,龍之淚,英帕
+quests,Adventure Log,DefeatGanondorf,討伐加儂多夫,普爾亞
+quests,Adventure Log,MainChallenge,尋找薩爾達,管家魔像
+quests,Adventure Log,FindWithSensors,哈特諾村的研究所,洛貝利
+quests,Adventure Log,HatenoPurchasePicture,自己專屬的海拉魯圖鑑,洛貝利
+quests,Adventure Log,GetWarpMarker,重大發明！傳送標記器！！,洛貝利
+quests,Adventure Log,GetWalker,重大發明！足跡模式！,洛貝利
+quests,Adventure Log,GetSensorPlus,重大發明！圖鑑感應器！,洛貝利
+quests,Adventure Log,IchikaraChallenge01,微達的獨立,
+quests,Adventure Log,Hateno_Cheese,托可優的重要信件,托可優
+quests,Adventure Log,Hateno_RevitalizeByNewSpeciality,用新名產振興村子！,科沙尤西
+quests,Adventure Log,Hateno_SecretLifeOfKusayoshi,科沙尤西的秘密,可雷維亞
+quests,Adventure Log,Hateno_SecretLifeOfSagono,薩格諾的秘密,索芙拉
+quests,Adventure Log,Hateno_VillageMayorElection,你是薩格諾派還科沙尤西派？,薩格諾
+quests,Adventure Log,Hateno_LetUsElection,決戰！村長選舉！,
+quests,Adventure Log,TauraChallenge001,粗暴之徒盤踞的村子,洛澤爾
+quests,Adventure Log,Uotori_RevivePlan,沃托里村重建計畫,櫻達
+quests,Adventure Log,NewsPaper_Mitsuba,追求真相！薩爾達公主的傳聞！！,三葉
+quests,Adventure Log,Tribune07,提出邀請的女性,
+quests,Adventure Log,Tribune04,久未來訪的美食家,
+quests,Adventure Log,Tribune06,騎著妖獸的公主,
+quests,Adventure Log,Tribune09,薩爾達所愛的金色的馬,
+quests,Adventure Log,Tribune03,迷途白山羊的受難,
+quests,Adventure Log,Tribune11,我親愛的公主,
+quests,Adventure Log,Tribune10,遵從咕咕雞大人的指示,
+quests,Adventure Log,Tribune05,消失的農具,
+quests,Adventure Log,Tribune02,薩爾達公主綁架事件！？,沛恩
+quests,Adventure Log,Tribune13,詭異的聲音,
+quests,Adventure Log,Tribune14,被封住的水井,
+quests,Adventure Log,Orchestra03,吹笛少年所尋之物,
+quests,Adventure Log,Orchestra02,傳達吧！甜蜜節奏！！,
+quests,Adventure Log,Orchestra04,圓號演奏者的脫逃劇,
+quests,Adventure Log,Tribune16,獻給大妖精的小夜曲,
+quests,Adventure Log,Fairy4,獻給西莎的小夜曲,
+quests,Adventure Log,Fairy3,獻給可秋拉的小夜曲,
+quests,Adventure Log,Fairy2,獻給彌佳的小夜曲,
+quests,Adventure Log,MercenaryChallenge_HyrulePlain,為海拉魯平原帶來和平！,霍司塔
+quests,Adventure Log,MercenaryChallenge_Hebra,為哈特爾帶來和平！,霍司塔
+quests,Adventure Log,MercenaryChallenge_Eldin,為奧爾汀帶來和平！,陀魯
+quests,Adventure Log,MercenaryChallenge_Akkare,為阿卡萊帶來和平！,陀魯
+quests,Adventure Log,MercenaryChallenge_Firone,為費羅尼帶來和平！,阿邁尼
+quests,Adventure Log,MercenaryChallenge_Hateru,為海布拉帶來和平！,阿邁尼
+quests,Adventure Log,OldKorokHelp,伯庫林的煩惱,伯庫林
+quests,Adventure Log,NushiShop_Tutorial,尋找魔猶伊的遺失物！,柯爾天
+quests,Adventure Log,NushiShop_Challenge00,柯爾天的下落,柯爾天
+quests,Adventure Log,MonsterFigures01,只屬於我的怪物收藏品,吉爾頓
+quests,Adventure Log,MonsterFigures02,只屬於我的怪物收藏品2,吉爾頓
+quests,Adventure Log,MonsterFigures03,只屬於我的怪物收藏品3,吉爾頓
+quests,Adventure Log,MonsterFigures04,只屬於我的怪物收藏品4,吉爾頓
+quests,Adventure Log,MonsterFigures05,只屬於我的怪物收藏品5,吉爾頓
+quests,Adventure Log,BlindRuinsTreasure,調查德依布朗遺跡吧,卡茲納比
+quests,Adventure Log,BlindRuinsTreasure_Rito,受到眾多龍守望的貓頭鷹,卡茲納比
+quests,Adventure Log,BlindRuinsTreasure_Goron,雙龍夾縫之間,卡茲納比
+quests,Adventure Log,BlindRuinsTreasure_Zora,在六龍眼前,卡茲納比
+quests,Adventure Log,BlindRuinsTreasure_Gerudo,長長軀體的守護龍,卡茲納比
+quests,Adventure Log,FirstskyislandReturns,初始空島的傳承,管家魔像
+quests,Adventure Log,ZonauReliefSearch,來自古代的訊息,里德烏
+quests,Adventure Log,StatueDevilTutorial,與惡魔的契約,
+quests,Adventure Log,LookingForTheVoiceLord,找尋聲音的主人,潔琳
+quests,Adventure Log,Connect_FirstIsland,來自地底的呼喚,奇異的聲音
+quests,Adventure Log,AssassinGerudoBase,潛入依蓋隊,瓦圖盧
+quests,Adventure Log,GerudoCanyon_Adventure,依蓋隊的幹部考試,依蓋隊 幹部
+quests,Adventure Log,MinusYiga,依蓋隊隊長可蓋大人的陰謀！,可蓋
+quests,Adventure Log,CarryToShrine09,薩托利山的神廟與水晶,奇異的聲音
+quests,Adventure Log,Rito_ShadowCave,白鳥所指引的洞窟,索里雷絲
+quests,Adventure Log,CarryToShrine02,在吉薩的環形山沉眠的水晶,奇異的聲音
+quests,Adventure Log,CarryToShrine15,海布拉山北方的神廟與水晶,奇異的聲音
+quests,Adventure Log,CarryToShrine16,在海布拉山西北的洞窟沉眠的水晶,奇異的聲音
+quests,Adventure Log,Korok_CarryToShrine,漂亮的石頭與金蘋果,達秘達米
+quests,Adventure Log,NoTrespassing,前方禁止進入？,阿茲基
+quests,Adventure Log,InfiltrationFromTheSky,瑪卡瑪加的珍藏地點,瑪卡瑪加
+quests,Adventure Log,CarryToShrine01,死亡破火山口的神廟與水晶,奇異的聲音
+quests,Adventure Log,CarryToShrine03,在幽芬湖的洞窟沉眠的水晶,奇異的聲音
+quests,Adventure Log,IchikaraChallenge03,石頭出售中,哈吉
+quests,Adventure Log,CraftShadowPicture,將其染黑,管家魔像
+quests,Adventure Log,SnowyMountain_Surfing,天高之泉與光環的傳說,納茲比
+quests,Adventure Log,CarryToShrine10,拉聶爾參道的神廟與水晶,奇異的聲音
+quests,Adventure Log,CarryToShrine08_Zora,在拉爾斯水脈沉眠的神廟與水晶,奇異的聲音
+quests,Adventure Log,IceMaking,自水而生的鑰匙,管家魔像
+quests,Adventure Log,CarryToShrine13,在拉納湖的洞窟沉眠的水晶,奇異的聲音
+quests,Adventure Log,GiantHorse,將巨大馬匹帶來,巴特克
+quests,Adventure Log,CarryToShrine06,海利亞湖的神廟與水晶,奇異的聲音
+quests,Adventure Log,DevoteSpring,擲槍的傳說,老舊的筆記
+quests,Adventure Log,CarryToShrine07,格魯德峽谷的神廟與水晶,奇異的聲音
+quests,Adventure Log,CarryToShrine19,北海拉魯天空諸島的神廟與水晶,奇異的聲音
+quests,Adventure Log,CarryToShrine11,南海拉魯天空諸島的神廟與水晶,奇異的聲音
+quests,Adventure Log,CarryToShrine20,塔邦撻天空諸島的神廟與水晶,奇異的聲音
+quests,Adventure Log,CarryToShrine21,東海布拉天空諸島的神廟與水晶,奇異的聲音
+quests,Adventure Log,CarryToShrine14,採石之島的神廟與水晶,奇異的聲音
+quests,Adventure Log,CarryToShrine17,南阿卡萊天空諸島的神廟與水晶,奇異的聲音
+quests,Adventure Log,CarryToShrine23,南拉聶爾天空諸島的神廟與水晶,奇異的聲音
+quests,Adventure Log,CarryToShrine12,北哈特爾天空諸島的神廟與水晶,奇異的聲音
+quests,Adventure Log,CarryToShrine22,西哈特爾天空諸島的神廟與水晶,奇異的聲音
+quests,Adventure Log,CarryToShrine05,哈特爾天空諸島的神廟與水晶,奇異的聲音
+quests,Adventure Log,FindWhiteHorse,馬兒跑哪去,賴斯
+quests,Adventure Log,NowInTheVillageOfLurelin,遭海盜襲擊的村莊,利迦尼
+quests,Adventure Log,CookAtBaseCamp,本日菜單,波儂
+quests,Adventure Log,BuildingMaterialsTutorial,尚未完工的馬棚,桂達
+quests,Adventure Log,DefeatHugeEnemy_1,岩石巨人WANTED,谷拉廉斯
+quests,Adventure Log,DefeatHugeEnemy_2,莫爾德拉吉克WANTED,谷拉廉斯
+quests,Adventure Log,DefeatHugeEnemy_3,西諾克斯WANTED,谷拉廉斯
+quests,Adventure Log,DefeatHugeEnemy_4,未知的天空巨人,谷拉廉斯
+quests,Adventure Log,DefeatHugeEnemy_5,未知的三頭之怪物,谷拉廉斯
+quests,Adventure Log,DefeatHugeEnemy_6,未知的巨大之影,谷拉廉斯
+quests,Adventure Log,TakeAnimals,馬匹照顧員的願望,陀特茨
+quests,Adventure Log,PhotoSpot_Challenge_04,點綴平原外圍的驛站的畫作,英布利
+quests,Adventure Log,HorseInnChallenge005,捕抓咕咕雞大作戰,貝黎斯
+quests,Adventure Log,PhotoSpot_Challenge_05,點綴河畔驛站的畫作,瑪肯保
+quests,Adventure Log,HorseInnChallenge001,令人嚮往的搬運馬車,可姿米
+quests,Adventure Log,PhotoSpot_Challenge_01,點綴新瑪麗塔驛站的畫作,思普林
+quests,Adventure Log,Genkos_Kitchen,庚珂的手作料理,庚珂
+quests,Adventure Log,Rito_MedoArmor,沉睡在山巒秘泉的秘寶,
+quests,Adventure Log,ArrowMeister_Momo,箭矢工匠桃虹的追求,桃虹
+quests,Adventure Log,Rito_RevaliWeapon,利特族傳統「大鷲弓」,特巴
+quests,Adventure Log,Rito_ItemExchange,利特族的以物易物,蓓拉
+quests,Adventure Log,RitoBridgeRepair,利特之橋,基藏
+quests,Adventure Log,PhotoSpot_Challenge_07,點綴塔邦撻大橋驛站的畫作,比韃
+quests,Adventure Log,PhotoSpot_Challenge_14,點綴雪原驛站的畫作,巴肯
+quests,Adventure Log,Neck_IceWaterCave,跨越冰水,巴勒
+quests,Adventure Log,Lodge_Chemical001,開門,久戈
+quests,Adventure Log,Hack_GuardGoods,被盯上的物資,哈庫
+quests,Adventure Log,Nazley_DigCave,堵塞的洞窟,納茲力
+quests,Adventure Log,GoneSnowQueen,消失在雪山的女王,拉塞爾
+quests,Adventure Log,Hebra_SkyRingChallenge,利特族的新式飛行訓練,卡昂
+quests,Adventure Log,MushroomSisters_1,照亮洞窟的蘑菇,娜茨
+quests,Adventure Log,MushroomSisters_2,被搶走的帳篷,娜茨
+quests,Adventure Log,MushroomSisters_3,誰會先發現聖地！？,娜茨
+quests,Adventure Log,Big_Rotate,巨大的圓圈,卡拉塞
+quests,Adventure Log,Mack_SecretBase,德庫樹長老變成秘密小房間？,拓奇
+quests,Adventure Log,TreasureHunt_kokiri,納末敏的尋寶遊戲！,納末敏
+quests,Adventure Log,AmberCollector,收購琥珀,拉梅拉
+quests,Adventure Log,CarryGoronKid1,古代都市鼓隆提亞！,科普思
+quests,Adventure Log,CarryGoronKid2,發現古代都市鼓隆提亞！？,科普思
+quests,Adventure Log,MakeAChampionsWeapon_Goron,鼓隆族之魂「碎岩巨劍」,呼戈
+quests,Adventure Log,GoronReturntoNature,鼓隆族的賞月,拉托雷
+quests,Adventure Log,GoronPond,沉睡於蜥蜴池的秘寶,布爾多
+quests,Adventure Log,HotSpringEgg,秘泉 岩熔溫泉,麥薩奇
+quests,Adventure Log,FullyRipenedFlintstones,一石千金！？全熟打火石！,伊頓
+quests,Adventure Log,ResearchEldin,以肉還肉！,
+quests,Adventure Log,MeatRock,果然還是要裡脊岩鼓隆,巴爾達斯
+quests,Adventure Log,Goron_MiniGame_Tutorial_01,開園！礦車樂園！,
+quests,Adventure Log,Goron_MiniGame_Tutorial_02,速射礦車遊戲！,
+quests,Adventure Log,Goron_MiniGame_Tutorial_03,超難的死亡之山賽道！,
+quests,Adventure Log,PhotoSpot_Challenge_02,點綴森林驛站的畫作,基敘
+quests,Adventure Log,PhotoSpot_Challenge_08,點綴山麓驛站的畫作,奧茲
+quests,Adventure Log,RescueWell,落入水井,狄爾
+quests,Adventure Log,RescueVehicle01,遺留的作業員,莫塔
+quests,Adventure Log,Our_Treasure,我們的寶物,多米達克
+quests,Adventure Log,TreasureOfLambda,尋找拉姆達的寶物,多米達克
+quests,Adventure Log,TreasureOfLamda_FierceDeity,拉姆達的財寶 鬼神裝備,大盜拉姆達的訊息
+quests,Adventure Log,TreasureOfLamda_DuelPeak,拉姆達的財寶 雙子的古書,
+quests,Adventure Log,TreasureOfLamda_Pirate,拉姆達的財寶 海盜的古書,
+quests,Adventure Log,TreasureOfLamda_Gerudo,拉姆達的財寶 英雄的古書,
+quests,Adventure Log,TreasureOfLamda_Dream,拉姆達的財寶 織夢之勇者服1,大盜拉姆達的訊息
+quests,Adventure Log,TreasureOfLamda_Dream2,拉姆達的財寶 織夢之勇者服2,大盜拉姆達的訊息
+quests,Adventure Log,TreasureOfLamda_Dream3,拉姆達的財寶 織夢之勇者服3,大盜拉姆達的訊息
+quests,Adventure Log,Circuit_Ichikara,征服一始拉力賽,悉伊達
+quests,Adventure Log,HorseInnChallenge003,這裡面的內容是什麼？,皮谷羅
+quests,Adventure Log,IchikaraCircuit_Tutorial,駕馭左納烏裝置吧,悉伊達
+quests,Adventure Log,BuildHouse,建造個人小屋,帕伍達
+quests,Adventure Log,TheStrongestWeapon,最強的武器！？,恰比
+quests,Adventure Log,Tribune01,聚集的海盜,米荷
+quests,Adventure Log,PhotoSpot_Challenge_12,點綴東阿卡萊驛站的畫作,利賜特
+quests,Adventure Log,ExcavateFossil1,奧爾汀大化石,柳奈
+quests,Adventure Log,ExcavateFossil2,海布拉大化石,柳奈
+quests,Adventure Log,ExcavateFossil3,格魯德大化石,柳奈
+quests,Adventure Log,HourseInnChallenge004,一擊入魂,帕莉塞
+quests,Adventure Log,PhotoSpot_Challenge_13,點綴南阿卡萊驛站的畫作,狄姆奇
+quests,Adventure Log,Zora_MessageBottle,很～珍貴的寶物,珂答
+quests,Adventure Log,Zora_RuttaTreasure,沉睡於偉大之魚下的秘寶,希多
+quests,Adventure Log,Createshinguard,永無止境的訓話,希富彌
+quests,Adventure Log,ZoraStatue_Picture,佇於月下的卓拉公主,塞恭
+quests,Adventure Log,Zora_Enemy_hunt,攻略加卜台地的堡壘,茱阿達
+quests,Adventure Log,GeniusWeapon_Zora,卓拉族的榮耀「光鱗之槍」,羅司里
+quests,Adventure Log,gather_Insect_Z,要不要來交易一蟹啊……？,和恩
+quests,Adventure Log,HuntSalmon,飄飄然的妻子,扶丘
+quests,Adventure Log,CreateArmor,友好之證,
+quests,Adventure Log,PhotoSpot_Challenge_03,點綴濕地驛站的畫作,盧桑
+quests,Adventure Log,HorseInnChallenge002,不速之客,阿彌比
+quests,Adventure Log,CarryStone,藍色石材,雷托岡
+quests,Adventure Log,RestaurantInTheWell,終極料理……？,米默扎
+quests,Adventure Log,ResearchLanayru,淤泥纏身,斯八巴
+quests,Adventure Log,InnNeverReturns,一去不回的旅館店主,代伊
+quests,Adventure Log,KokkoGuidePost,咕咕雞路標,西陀拉
+quests,Adventure Log,Know_FourStonePlates,太古浪漫巡禮,布古力
+quests,Adventure Log,WhichIsStronger,進退兩難……,西陀拉
+quests,Adventure Log,IllnessStartsWithFeelings,病由瘴氣生,拉茲莉
+quests,Adventure Log,Hateno_NewCostume,嶄新的英傑服,薩爾達的日記
+quests,Adventure Log,Hateno_TellMeTeacher01,老師教教我吧！,西蒙
+quests,Adventure Log,Hateno_TellMeTeacher02,老師教教我吧！２,西蒙
+quests,Adventure Log,Hateno_FreshMilk,講究的男人多當茨,多當茨
+quests,Adventure Log,Hateno_NewSpecialty,真正的哈特諾名產,科沙尤西
+quests,Adventure Log,Parasail_ChuchuDesign,拍攝丘丘的樣本,瑟吉
+quests,Adventure Log,Hateno_WhatToPlant,要在烏梅的田裡種什麼呢？,烏梅
+quests,Adventure Log,Hateno_CoolGuy,萬作所求之物,萬作
+quests,Adventure Log,Uotori_ResortPlan,沃托里度假勝地計畫,洛澤爾
+quests,Adventure Log,Uotori_WhiteLineGame,爸爸的藍色襯衫,基茲塔
+quests,Adventure Log,WashedAwayBusinessTools,漂走的生財工具,利迦尼
+quests,Adventure Log,Uotori_Designer,苦惱的羅雷爾,羅雷爾
+quests,Adventure Log,PhotoSpot_Challenge_06,點綴雙子驛站的畫作,塔撒蘭
+quests,Adventure Log,MessageBottle_SOS,求救信,
+quests,Adventure Log,SaihateSubjugation,尋找海盜基地！,格瑪納
+quests,Adventure Log,HorseInnChallenge007,洞窟裡的巨人三兄弟,康珀
+quests,Adventure Log,PhotoSpot_Challenge_10,點綴湖畔驛站的畫作,瓦諾利
+quests,Adventure Log,PhotoSpot_Challenge_11,點綴高原驛站的畫作,帕朵克
+quests,Adventure Log,EightHeroStatues,英雄們的秘密,羅汀
+quests,Adventure Log,GerudoDesertTreasure,沉睡於格魯德沙漠的秘寶,
+quests,Adventure Log,Gerudo_UrbosaWeapon,格魯德族的榮耀「七寶武具」,艾夏
+quests,Adventure Log,FindSunaNui,與緹克爾比賽！,緹克爾
+quests,Adventure Log,EightHeroStatues_After,第八位英雄,羅汀
+quests,Adventure Log,AisyaRescue,行蹤不明的店長,瑪卡拉
+quests,Adventure Log,JobSunazarashi,請帶我前往遺跡,帕可蒂
+quests,Adventure Log,MakeChemicalWeapon,熱情裝飾,布洛武
+quests,Adventure Log,SearchCaravan,迷路的商隊隊員,賓傑明
+quests,Adventure Log,PhotoSpot_Challenge_09,點綴封閉驛站的畫作1,皮阿斐
+quests,Adventure Log,PhotoSpot_Challenge_09_2,點綴封閉驛站的畫作2,皮阿斐
+quests,Adventure Log,RescueHost,受困的皮阿斐,皮阿斐
+quests,Adventure Log,GerudoCanyon_GleeokLiver,古慄歐克的肝臟,梅爾艾娜
+quests,Adventure Log,NewCanyonMissingPersonsCase,格魯德峽谷的遇難者,默括
+quests,Adventure Log,GerudoCanyon_TumbleweedSweep,風滾草大掃除,姿姆琪
+quests,Adventure Log,GerudoCanyon_24hEnduranceComparison,熱血沸騰！比耐力大對決！,達空
+quests,Adventure Log,GerudoCanyon_ColdEnduranceComparison,極寒！比耐力大對決！,達空
+quests,Adventure Log,TakeOfIce,沒有冰的冰屋,昂琪艾
+quests,Adventure Log,WellCollection,目標為水井愛好者,優諾西塔
+quests,Adventure Log,Zonau_GeniusWeapon,於地底發現的「古代之刃」,採礦魔像
+quests,Adventure Log,Connect_TabantaMaze,北洛美的預言,奇異的聲音
+quests,Adventure Log,Connect_AkkareMaze,洛美島的預言,奇異的聲音
+quests,Adventure Log,Connect_GerudoMaze,南洛美的預言,奇異的聲音
+quests,Adventure Log,Raise_GoddesStatue_Wisdom,智慧之泉的女神像,
+quests,Adventure Log,Raise_GoddesStatue_Power,力量之泉的女神像,
+quests,Adventure Log,Raise_GoddesStatue_Courage,勇氣之泉的女神像,
+quests,Adventure Log,Raise_GoddesStatue,慈母女神像,
+quests,Adventure Log,CDungeon_AllDone,踏遍所有神廟之人,勞魯
+lightroots,Lightroot,CheckPoint122,世修艾之根,
+lightroots,Lightroot,CheckPoint048,伊亞斯斯之根,
+lightroots,Lightroot,CheckPoint002,伊摩茲希之根,
+lightroots,Lightroot,CheckPoint006,傑伊恩雷之根,
+lightroots,Lightroot,CheckPoint103,克塔卡伊之根,
+lightroots,Lightroot,CheckPoint144,克恩羅摩之根,
+lightroots,Lightroot,CheckPoint081,克斯克扎之根,
+lightroots,Lightroot,CheckPoint090,克秀嘎伊之根,
+lightroots,Lightroot,CheckPoint022,克羅卡茲之根,
+lightroots,Lightroot,CheckPoint014,克羅歐恩烏伊之根,
+lightroots,Lightroot,CheckPoint115,凱恩普普之根,
+lightroots,Lightroot,CheckPoint049,凱蓋珀阿之根,
+lightroots,Lightroot,CheckPoint086,卡卡塔歐之根,
+lightroots,Lightroot,CheckPoint147,卡卡塔聶米之根,
+lightroots,Lightroot,CheckPoint129,卡卡尼塔納希之根,
+lightroots,Lightroot,CheckPoint012,卡卡米恩扎之根,
+lightroots,Lightroot,CheckPoint095,卡希喜亞馬之根,
+lightroots,Lightroot,CheckPoint089,卡希摩摩之根,
+lightroots,Lightroot,CheckPoint116,卡托米巴之根,
+lightroots,Lightroot,CheckPoint097,卡斯凱伊歐馬之根,
+lightroots,Lightroot,CheckPoint025,卡瓦卡拉茲之根,
+lightroots,Lightroot,CheckPoint020,卡瓦卡納希之根,
+lightroots,Lightroot,CheckPoint011,卡瓦嘎摩之根,
+lightroots,Lightroot,CheckPoint058,卡瓦塔奇之根,
+lightroots,Lightroot,CheckPoint080,卡瓦奇塔希拉之根,
+lightroots,Lightroot,CheckPoint003,卡瓦姆羅歐之根,
+lightroots,Lightroot,CheckPoint139,卡瓦希拉之根,
+lightroots,Lightroot,CheckPoint078,卡瓦里阿斯之根,
+lightroots,Lightroot,CheckPoint137,卡瓦馬提之根,
+lightroots,Lightroot,CheckPoint039,卡米卡拉茲之根,
+lightroots,Lightroot,CheckPoint018,卡米米蓋之根,
+lightroots,Lightroot,CheckPoint027,卡米米達聶阿之根,
+lightroots,Lightroot,CheckPoint017,可可亞馬之根,
+lightroots,Lightroot,CheckPoint026,可高歐里之根,
+lightroots,Lightroot,CheckPoint134,嘎喜伊奇喬之根,
+lightroots,Lightroot,CheckPoint033,基塔哈拉卡之根,
+lightroots,Lightroot,CheckPoint088,塔亞馬奇之根,
+lightroots,Lightroot,CheckPoint119,塔卡拉克之根,
+lightroots,Lightroot,CheckPoint047,塔塔亞馬之根,
+lightroots,Lightroot,CheckPoint065,塔奇納魯之根,
+lightroots,Lightroot,CheckPoint056,奇修茲烏之根,
+lightroots,Lightroot,CheckPoint023,奇克克希之根,
+lightroots,Lightroot,CheckPoint064,奇古克拉馬之根,
+lightroots,Lightroot,CheckPoint125,奇塔歐亞馬之根,
+lightroots,Lightroot,CheckPoint094,奇諸米悠之根,
+lightroots,Lightroot,CheckPoint010,奇馬波塔魯世之根,
+lightroots,Lightroot,CheckPoint019,姆烏奇羅歐之根,
+lightroots,Lightroot,CheckPoint008,姆馬茲羅之根,
+lightroots,Lightroot,CheckPoint028,尤希烏亞馬之根,
+lightroots,Lightroot,CheckPoint021,尼普希悠烏塔之根,
+lightroots,Lightroot,CheckPoint068,尼高克巧之根,
+lightroots,Lightroot,CheckPoint106,希吉恩尼之根,
+lightroots,Lightroot,CheckPoint076,希吉托烏之根,
+lightroots,Lightroot,CheckPoint143,希希尼塔嘎之根,
+lightroots,Lightroot,CheckPoint096,希希茲摩之根,
+lightroots,Lightroot,CheckPoint046,帕帕世之根,
+lightroots,Lightroot,CheckPoint118,庫薩拉伊之根,
+lightroots,Lightroot,CheckPoint057,恩世伊卡吉之根,
+lightroots,Lightroot,CheckPoint053,恩克卡奇之根,
+lightroots,Lightroot,CheckPoint032,恩克羅達塔之根,
+lightroots,Lightroot,CheckPoint029,恩古達修伊之根,
+lightroots,Lightroot,CheckPoint112,恩基歐歐之根,
+lightroots,Lightroot,CheckPoint131,恩奇修伊之根,
+lightroots,Lightroot,CheckPoint124,恩帖吉恩帖之根,
+lightroots,Lightroot,CheckPoint133,恩帖馬恩帖之根,
+lightroots,Lightroot,CheckPoint098,恩皮夏摩之根,
+lightroots,Lightroot,CheckPoint079,托吉達克卡拉之根,
+lightroots,Lightroot,CheckPoint005,拉奇諾薩姆之根,
+lightroots,Lightroot,CheckPoint135,拉斯卡馬之根,
+lightroots,Lightroot,CheckPoint140,拉薩尼達克之根,
+lightroots,Lightroot,CheckPoint108,拉馬波恩克世之根,
+lightroots,Lightroot,CheckPoint054,歐奇塔吉巴希之根,
+lightroots,Lightroot,CheckPoint102,歐奇塔歐吉之根,
+lightroots,Lightroot,CheckPoint142,歐尼希歐吉之根,
+lightroots,Lightroot,CheckPoint123,歐米亞歐之根,
+lightroots,Lightroot,CheckPoint073,每希希伊之根,
+lightroots,Lightroot,CheckPoint013,每烏可烏吉之根,
+lightroots,Lightroot,CheckPoint111,每烏富塔魯之根,
+lightroots,Lightroot,CheckPoint072,每烏托烏艾之根,
+lightroots,Lightroot,CheckPoint042,每烏茲茲之根,
+lightroots,Lightroot,CheckPoint001,烏伊奇喬之根,
+lightroots,Lightroot,CheckPoint031,烏奇可艾之根,
+lightroots,Lightroot,CheckPoint101,烏尼喬之根,
+lightroots,Lightroot,CheckPoint084,烏尼喬喬之根,
+lightroots,Lightroot,CheckPoint130,烏希奇喬之根,
+lightroots,Lightroot,CheckPoint136,烏希尼諾巧之根,
+lightroots,Lightroot,CheckPoint036,烏恩扎修歐之根,
+lightroots,Lightroot,CheckPoint107,烏悠奇拖之根,
+lightroots,Lightroot,CheckPoint030,烏悠悠烏奇之根,
+lightroots,Lightroot,CheckPoint141,烏烏久喬之根,
+lightroots,Lightroot,CheckPoint138,烏薩恩喬之根,
+lightroots,Lightroot,CheckPoint004,烏諾奇亞馬之根,
+lightroots,Lightroot,CheckPoint104,烏馬奇奇之根,
+lightroots,Lightroot,CheckPoint113,烏高喬之根,
+lightroots,Lightroot,CheckPoint007,瓦羅喜薩之根,
+lightroots,Lightroot,CheckPoint085,米米富希之根,
+lightroots,Lightroot,CheckPoint114,納伊里亞馬之根,
+lightroots,Lightroot,CheckPoint074,納基德奇亞馬之根,
+lightroots,Lightroot,CheckPoint132,納拉斯希之根,
+lightroots,Lightroot,CheckPoint077,納諸米卡之根,
+lightroots,Lightroot,CheckPoint035,納諾希奇之根,
+lightroots,Lightroot,CheckPoint120,艾畢斯斯之根,
+lightroots,Lightroot,CheckPoint000,茲卡吉塔之根,
+lightroots,Lightroot,CheckPoint040,薩奇塔嘎之根,
+lightroots,Lightroot,CheckPoint044,薩奇茲馬卡之根,
+lightroots,Lightroot,CheckPoint126,薩奇魯克馬之根,
+lightroots,Lightroot,CheckPoint067,薩歐歐瓦之根,
+lightroots,Lightroot,CheckPoint037,薩薩嘎之根,
+lightroots,Lightroot,CheckPoint051,諾伊諸米多之根,
+lightroots,Lightroot,CheckPoint091,諾巴哈伊奇塔之根,
+lightroots,Lightroot,CheckPoint059,諾帕納索之根,
+lightroots,Lightroot,CheckPoint009,諾茲馬亞馬之根,
+lightroots,Lightroot,CheckPoint070,達烏諾之根,
+lightroots,Lightroot,CheckPoint041,阿恩黑伊之根,
+lightroots,Lightroot,CheckPoint024,馬卡瓦希之根,
+lightroots,Lightroot,CheckPoint092,馬歐恩艾之根,
+lightroots,Lightroot,CheckPoint075,馬茲茲歐之根,
+lightroots,Lightroot,CheckPoint100,馬諸薩烏之根,
+lightroots,Lightroot,CheckPoint087,高尼塔琉米之根,
+lightroots,Lightroot,CheckPoint016,高尼塔琉索之根,
